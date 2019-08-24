@@ -1,0 +1,29 @@
+{
+  "name": "michaelbmuller/50001-ready-guidance-2018",
+  "type": "library",
+  "description": "50001:208 Ready Guidance",
+  "keywords": ["50001 Ready", "ISO 50001", "ISO 50001:2018","DOE","USDOE"],
+  "license": "MPL-2.0",
+  "authors": [
+    {
+      "name": "Michael B Muller",
+      "email": "muller.michaelb@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8"
+  },
+  "autoload": {
+    "psr-4": {
+      "DOE_50001_2018_Ready\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  }
+}
