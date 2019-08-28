@@ -117,7 +117,7 @@ class Guidance
         $file_contents = file_get_contents(dirname(__FILE__) . "/../guidance/task_structure.txt");
         $currentTask = null;
         $currentSectionCode = null;
-        foreach (explode("\r\n", $file_contents) as $row) {
+        foreach (explode(PHP_EOL, $file_contents) as $row) {
             $items = explode(":", $row);
             if (count($items) < 2) continue;
             if ($items[0] == 'Section') $currentSectionCode = Support::ConvertSectionName($items[1]);
