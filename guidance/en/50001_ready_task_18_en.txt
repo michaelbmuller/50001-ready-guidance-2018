@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 18
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Energy Consideration in Design
+Energy Considerations in Design
 ----------TITLE----------
 Task 18: We consider energy performance opportunities when designing new, modified, or renovated facilities, equipment, systems and processes
 ----------GETTING IT DONE----------

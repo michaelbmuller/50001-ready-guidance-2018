@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 23
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Internal Audit
+Management Review
 ----------TITLE----------
 Task 23: We have conducted internal audits of the 50001 Ready system and reported those results and corresponding corrective/preventive action items to top management
 ----------GETTING IT DONE----------

@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 17
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Corrective Actions
+Operational Controls
 ----------TITLE----------
 Task 17: We investigate and respond to significant deviations in energy performance and potential issues with the 50001 Ready system, taking corrective and preventative actions as needed
 ----------GETTING IT DONE----------

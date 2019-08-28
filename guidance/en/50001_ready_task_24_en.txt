@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 24
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Calculate Energy Savings
+Corrective Actions
 ----------TITLE----------
 Task 24: We have determined our energy performance improvement.
 ----------GETTING IT DONE----------

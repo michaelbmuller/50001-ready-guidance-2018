@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 19
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Documentation and Records
+Energy Considerations in Procurement
 ----------TITLE----------
 Task 19: We have developed and have processes in place to control the 50001 Ready systems documents and records
 ----------GETTING IT DONE----------

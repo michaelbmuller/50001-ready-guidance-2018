@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 22
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Procurement
+Internal Audit
 ----------TITLE----------
 Task 22: We have established energy performance criteria spanning the operating life for purchases affecting energy performance,  informed suppliers that this is a factor in procurement, and have defined and currently use specifications for energy supply purchases
 ----------GETTING IT DONE----------

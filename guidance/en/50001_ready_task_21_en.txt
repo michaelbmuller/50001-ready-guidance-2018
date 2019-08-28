@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 21
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Training
+Monitoring and Measurement of Energy Performance Improvement
 ----------TITLE----------
 Task 21: Training needs for the 50001 Ready system and the SEUs have been identified, and staff and contractors have been trained as needed to ensure they are qualified for their energy management role
 ----------GETTING IT DONE----------

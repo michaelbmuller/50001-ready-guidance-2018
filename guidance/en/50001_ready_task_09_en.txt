@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 9
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Relevant Variables
+Significant Energy Uses
 ----------TITLE----------
 Task 9: We have determined the relevant variables that affect energy consumption of each SEU and collected the associated data.
 ----------GETTING IT DONE----------

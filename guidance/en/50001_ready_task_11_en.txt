@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 11
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Baselines, Objectives and Targets
+Energy Performance Indicators (EnPIs) and Baselines (EnBs)
 ----------TITLE----------
 Task 11: We have established an energy baseline(s), approved objectives and energy performance improvement targets, and timeframes for their achievement
 ----------GETTING IT DONE----------

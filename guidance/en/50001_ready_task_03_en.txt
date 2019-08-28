@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 3
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Management Commitment
+Scope and Boundaries
 ----------TITLE----------
 Task 3: Our top management has expressed its commitment to the 50001 Ready system, and are aware of their roles and responsibilities
 ----------GETTING IT DONE----------

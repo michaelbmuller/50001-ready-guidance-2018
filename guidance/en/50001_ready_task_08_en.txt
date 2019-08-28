@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 8
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Significant Energy Uses (SEUs)
+Energy Data Collection and Analysis
 ----------TITLE----------
 Task 8: We have determined our Significant Energy Uses (SEUs) and determined their energy performance, estimated future consumption and have a plan for reviewing and updating them.
 ----------GETTING IT DONE----------

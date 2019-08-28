@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 5
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Legal Requirements
+Energy Policy
 ----------TITLE----------
 Task 5: We have identified energy-related legal requirements that apply to our operations, have a process to evaluate and update these over time, and evaluated our compliance with them
 ----------GETTING IT DONE----------

@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 14
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Monitoring
+Competence and Training
 ----------TITLE----------
 Task 14: We have ongoing monitoring and analysis of our energy consumption, SEUs, relevant variables, and action plan progress and effectiveness
 ----------GETTING IT DONE----------

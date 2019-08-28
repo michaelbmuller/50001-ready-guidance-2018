@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 10
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Performance Indicators (EnPIs) 
+Improvement Opportunities
 ----------TITLE----------
 Task 10: We have identified energy performance indicators (EnPIs) and developed a methodology for determining and updating them.
 ----------GETTING IT DONE----------

@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 16
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Operational Controls
+Documenting the EnMS
 ----------TITLE----------
 Task 16: We have set operations and maintenance criteria for our SEUs, operate them accordingly, and communicate these controls to relevant personnel
 ----------GETTING IT DONE----------

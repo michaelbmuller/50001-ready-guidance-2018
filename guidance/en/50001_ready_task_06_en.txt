@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 6
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Data Collection
+Energy Team and Resources
 ----------TITLE----------
 Task 6: We have identified all our energy sources and uses and accurately collected the related energy consumption data
 ----------GETTING IT DONE----------

@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 13
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Improvement Projects
+Action Plans for Continual Improvement
 ----------TITLE----------
 Task 13: After using a documented project selection process, we have developed action plans and implemented energy improvement projects 
 ----------GETTING IT DONE----------

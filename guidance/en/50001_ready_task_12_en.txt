@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 12
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Improvement Opportunities
+Objectives and Targets
 ----------TITLE----------
 Task 12: We have identified and prioritized energy performance improvement opportunities, and have a process in place to continue to update them
 ----------GETTING IT DONE----------

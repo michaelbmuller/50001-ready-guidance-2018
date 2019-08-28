@@ -2,7 +2,7 @@ USDOE 50001 READY NAVIGATOR TASK 20
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Communications
+Monitoring and Measurement of the EnMS
 ----------TITLE----------
 Task 20: All organizational personnel have been informed about our energy policy and their roles and responsibilities, and solicited for suggestions. We have determined the policy and method (if applicable) for external communications about our energy policy/performance.
 ----------GETTING IT DONE----------
