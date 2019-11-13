@@ -20,7 +20,7 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 <p>Once the energy team is established, the team should decide how the resources needed for the EnMS and energy performance improvement will be identified and communicated to top management, as well as how those resources will be utilized.</p>
 <p><em>This guidance is relevant to Sections 5.1 g), 5.1 i) and 5.3 of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Learn More](Form and authorize an energy management team)</p>
+<p>[Accordion](Form and authorize an energy management team)</p>
 <p>The energy management team brings together relevant expertise to guide development, implementation, operation, maintenance, and continual improvement of the EnMS. The size and composition of the team will vary, depending on the size and structure of the organization, the scope of the EnMS, and the resources made available by top management. In very small organizations, the responsibilities of the team can be carried out by an individual.</p>
 <p>Persons with appropriate technical expertise and understanding of energy concepts, energy management and energy performance should be part of the energy team. However, it is not required that all of the members of the energy team be energy experts or have a technical background. Persons who are established in the organization and have the respect of peers and management and those who have expressed interest in participating on the team are also desirable.</p>
 <p>In forming the energy team, consider representatives from functional areas dealing with the selection, procurement, consumption, reliability, disposal, and environmental impacts of fuels and energy systems. Also consider individuals who are familiar with ISO or other continual improvement-based management systems. The following functional areas are often considered by organizations implementing ISO 50001 and forming their energy management team:</p>
@@ -37,7 +37,8 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 </ul>
 <p>Suppliers, contractors, tenants, or customers may also have a role in your organization&rsquo;s energy management activities. If appropriate, consider including their representatives on the energy team.</p>
 <p>Developing a team roster is a helpful best practice for listing team members, recording contact information to support team communications, and verifying multi-functional representation. The optional Worksheet contains a team roster matrix.</p>
-<p>[Learn More End]<br /><br />As part of assembling the team, or after the team is formed, it can be helpful to identify and authorize an energy team leader. Often this person is the energy manager, facilities director, or someone experienced with ISO management systems or energy-using equipment and systems. In the best case, specific skill sets can enhance the ability of the energy team leader to be successful.</p>
+<p>[Accordion End]</p>
+<p>As part of assembling the team, or after the team is formed, it can be helpful to identify and authorize an energy team leader. Often this person is the energy manager, facilities director, or someone experienced with ISO management systems or energy-using equipment and systems. In the best case, specific skill sets can enhance the ability of the energy team leader to be successful.</p>
 
 <p>[Accordion](Desirable skills of an energy team leader)</p>
 <p>Desirable skills of an energy team leader include the following:</p>
@@ -57,7 +58,7 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 <p>Once the team has been established, it is critically important that it is authorized and resourced by top management to carry out its assigned roles and responsibilities. This is true, regardless of the levels of the job positions and authorities held by the various members of the team. The team will be overseeing the EnMS and the team cannot succeed if it is not appropriately empowered to execute its tasks without jeopardizing the regular job functions of the team members.</p>
 <p>The authorization of the team should be communicated broadly across the organization by top management. This helps convey the importance top management is placing on energy management and energy performance improvement and promotes cooperation that the energy team needs from across the organization.</p>
 <p>Management supports the energy team by allowing them the time and resources necessary to conduct the activities associated with their responsibilities.</p>
-<p>&nbsp;[Accordion](Typical resources provided to energy team members)</p>
+<p>[Accordion](Typical resources provided to energy team members)</p>
 <p>Typical resources provided to energy team members can include the following:</p>
 <ul>
 <li>Fiscal resources for energy team activities, including training in ISO 50001</li>
@@ -68,7 +69,8 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 <li>Resources required for any personnel that would assist with the EnMS</li>
 </ul>
 
-<p>[Accordion End]<br /><br />[Learn More](Assign energy team responsibilities and authorities)</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Assign energy team responsibilities and authorities)</p>
 <p>Top management assigns responsibility and authority to the energy team for the following:</p>
 <ul>
 <li>ensuring that an EnMS that meets the guidance of the 50001 Ready Navigator is established, operated, maintained and continually improved</li>
@@ -91,13 +93,14 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 <li>tracking energy performance ([task](Monitoring and Measurement of Energy Performance Improvement))</li>
 </ul>
 <p>Energy team members should be assigned specific EnMS implementation tasks and should be held accountable for their timely completion. Robust team communication processes are critical for communicating assignments, developing or adapting the processes needed for the EnMS and obtaining feedback from other team members.</p>
-<p>[Learn More End]<br /><br />[Learn More](Schedule regular energy team meetings)</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Schedule regular energy team meetings)</p>
 <p>Establish regular team meetings to promote continuity of EnMS development, and to provide for progress reviews and task assignments, and to address issues. The meeting length and frequency may vary, but the meetings should include teamwork sessions to address specific topics related to EnMS development and implementation.</p>
 <p>One of the first team meetings should include training on ISO 50001 and the 50001 Ready Navigator. If your organization may eventually pursue certification, purchase copies of the ISO 50001:2018 standard and distribute them among team members. Team members need to be familiar with the standard&rsquo;s requirements, particularly those requirements related to their area of responsibility on the team. This training can be conducted internally if there is in-house expertise in the requirements of the standard, or if there is not, by an external training provider.</p>
 <p>During initial development of the EnMS, your team will meet frequently to make plans, schedule activities, assign responsibilities, and review progress. From the start, ensure your team members are familiar with their individual team roles and responsibilities. Consider developing a team charter to clarify and communicate the overall expectations for team members. Use common project management techniques to define and manage the implementation schedule and tasks, along with their assignment and completion (see&nbsp;[resource](Project_Management_for_EnMS_Implementation)).</p>
 <p>As EnMS development progresses, additional expertise may be needed on the team to address details associated with specific EnMS requirements; for example, design and procurement. Review progress regularly and consider if additional team members are needed to address certain topics or implementation issues.</p>
 <p>Upon full implementation of the EnMS, the team will ensure its continued operation and manage activities for continual improvement. It may be appropriate to reduce the team size once the system has been established and effectively implemented. However, the team is a key component in the ongoing operation of the EnMS, and sufficient cross-functional membership and activity level should be maintained to ensure that it continues to meet its responsibilities and is effective.</p>
-<p>[Learn More End]<br /><br /></p>
+<p>[Accordion End]</p>
 <p>[Accordion](Address and communicate responsibilities for other relevant roles)</p>
 <p>Roles and responsibilities in the EnMS are not limited to top management and the energy team. Although employees do not necessarily affect energy management and energy performance to the same extent, everyone within the organization is responsible for meeting the EnMS requirements relevant to their work areas. At a minimum, this is addressed by the awareness guidance of [task](Awareness and Communication).</p>
 <p>However, as you develop and implement (or adapt) processes to meet the guidance of the 50001 Ready Navigator, it will become clear that there are other relevant roles that need to be addressed. These are likely to include, for example, EnMS responsibilities specific to personnel in maintenance, operations, procurement, facilities/building management, manufacturing engineering, documentation management and finance/accounting, among others.</p>
@@ -125,12 +128,12 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 <li>Safety during measurement or accessing equipment</li>
 </ul>
 <p>The optional Worksheet contains useful templates and examples to guide your development of data collection needs.</p>
-<p>[Accordion End]<br /><br /></p>
-<p>[Learn More](Identify and allocate the resources needed for the EnMS)</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Identify and allocate the resources needed for the EnMS)</p>
 
 <p>In addition to the resources needed by the energy team for initial implementation, it is important that processes are in place to determine and provide the resources needed for the effectiveness of the EnMS over time. Most organizations incorporate the review and determination of EnMS resources into the annual budgeting process as well as the existing capital planning process, especially as related to the resources needed to execute action plans to achieve objectives and targets (see [task](Action Plans for Continual Improvement)) and possibly actions undertaken to address risks and opportunities (see [task](Risks to EnMS Success)). Other resources needed could, for example, include training from external providers (e.g. EnMS internal auditor training), software for controlling and managing documented information, and new or additional metering. Resource needs are also considered as part of the management review process (see [task] (Management Review)). The energy team has a key role to play in identifying and communicating EnMS resource needs to top management.</p>
 
-<p>[Learn More End]</p>
+<p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
 <p>For ISO 50001:2018, the energy management team is an important construct. A team is not required by ISO 14001:2015 or ISO 9001:2015. However, both those standards do address top management support for personnel in relevant roles important to the management system.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
