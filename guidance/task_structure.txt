@@ -7,7 +7,7 @@ Level of Effort:Shared
 Related ISO Sections:4.1
 
 Task:2
-ID Name:People and Legal Requirements Affect the EnMS
+ID Name:People and Legal Requirements Affecting the EnMS
 Prerequisite Tasks:
 Level of Effort:Shared
 Related ISO Sections:4.2
