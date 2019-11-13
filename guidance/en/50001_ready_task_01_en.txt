@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 1
 ----------MENU NAME----------
 An EnMS and Your Organization
 ----------TITLE----------
-Task 1: We determine the strategic issues that affect our ability to improve energy performance and achieve the goals of our 50001 Ready energy management system
+Task 1: We determine the strategic issues that affect our ability to improve energy performance and achieve the goals of our 50001 Ready energy management system.
 ----------GETTING IT DONE----------
 <ol>
 <li>Identify the external and internal strategic issues that affect your organization&rsquo;s ability to improve its energy performance and achieve the intended outcomes of the EnMS.</li>
