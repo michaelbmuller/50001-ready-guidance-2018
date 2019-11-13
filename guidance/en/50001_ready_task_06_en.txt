@@ -81,7 +81,7 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 <p>These responsibilities reside with the energy team even after initial implementation of the EnMS. In most initial EnMS implementations, the energy team also serves as the implementation team. As a practical matter, energy team activities could include:</p>
 <ul>
 <li>drafting the energy policy for management review and approval</li>
-<li>determining the context of the organization, with management input ([task](An EnMS and your Organization))</li>
+<li>determining the context of the organization, with management input ([task](An EnMS and Your Organization))</li>
 <li>identifying the risks and opportunities associated with the issues related to context of the organization ([task](People and Legal Requirements Affecting the EnMS)</li>
 <li>conducting the energy review, including data collection and analysis, determination of significant energy uses (SEUs) and identifying energy opportunities ([task](Significant Energy Uses) and [task](Improvement Opportunities))</li>
 <li>proposing specific objectives, energy targets and action plans for approval ([task](Objectives and Targets)</li>
