@@ -20,10 +20,6 @@ Task 1: We determine the strategic issues that affect our ability to improve ene
 ----------FULL DESCRIPTION----------
 <p>[Accordion](Determine the strategic external and internal issues that may affect your organization&rsquo;s ability to improve energy performance and achieve the intended outcomes of your EnMS)</p>
 
-<p>In order to determine strategic issues that may affect your organization&rsquo;s ability to improve its energy performance and achieve the intended outcomes of the EnMS, information about the organization&rsquo;s strategic ob</p>
-
-<p>[Accordion](Determine the strategic external and internal issues that may affect your organization&rsquo;s ability to improve energy performance and achieve the intended outcomes of your EnMS)</p>
-
 <p>In order to determine strategic issues that may affect your organization&rsquo;s ability to improve its energy performance and achieve the intended outcomes of the EnMS, information about the organization&rsquo;s strategic objectives and challenges are needed. This information may have already been identified as part of the organization&rsquo;s strategic or long-term planning process. Having management input into the determination of the relevant issues is desired not only to expedite the process but also to show management that the EnMS considers strategic issues facing the organization. However, it is not unusual for management to not be involved in this process and for the energy team to develop this information on its own. In this case the information should be presented to top management for their review and input. This approach presumes that the energy team has access to the relevant information about the organization&rsquo;s strategic direction, goals, and challenges.</p>
 
 <p>Examples of strategic external issues may include:</p>
