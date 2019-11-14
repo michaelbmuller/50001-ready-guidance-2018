@@ -23,13 +23,13 @@ Task 17: We plan and control the processes related to our SEUs and action plans,
 
 <p><em>This guidance is relevant to Section 8.1 of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Learn More](Set operating and maintenance criteria)</p>
+<p>[Accordion](Set operating and maintenance criteria)</p>
 
 <p>Your organization should have effective operating and maintenance criteria in place for all your major facilities, equipment, systems, and processes. Your major systems and significant energy uses (SEUs) have optimum running conditions and maintenance practices that maximize their operational efficiency and allow them to achieve their design service life.</p>
 
 <p>Operating criteria are set points where the processes related to your SEUs and action plans operate most efficiently.</p>
 
-<p>[Learn MoreOLD](Example operating criteria)</p>
+<p>[AccordionOLD](Example operating criteria)</p>
 
 <p>Example operating criteria include:</p>
 
@@ -44,7 +44,7 @@ Task 17: We plan and control the processes related to our SEUs and action plans,
 	<li>Line speeds</li>
 </ul>
 
-<p>[Learn MoreOLD End]</p>
+<p>[AccordionOLD End]</p>
 
 <p>Operating criteria are implemented through operational controls that work to ensure processes related to your SEUs and action plans are operated within identified criteria. Some examples of operational controls are:</p>
 
@@ -86,7 +86,7 @@ Task 17: We plan and control the processes related to our SEUs and action plans,
 	<li>Product quality issues (e.g., over- or under-cooked food)</li>
 </ul>
 
-<p>[Learn MoreOLD](Sources to help identify operating and maintenance criteria)</p>
+<p>[AccordionOLD](Sources to help identify operating and maintenance criteria)</p>
 
 <p>A variety of sources can be helpful in planning operating and maintenance criteria for your SEUs and other processes that can impact energy performance. These include:</p>
 
@@ -100,7 +100,7 @@ Task 17: We plan and control the processes related to our SEUs and action plans,
 	<li>Industry standards</li>
 </ul>
 
-<p>[Learn MoreOLD End]</p>
+<p>[AccordionOLD End]</p>
 
 <p>Keep in mind that you likely have some operating and maintenance criteria already in place within your organization, especially as related to efficient equipment operation. Part of determining operational and maintenance controls is examining what is already there, and incorporating it into your EnMS as it relates to energy performance. You should take stock of what&rsquo;s in place and take a fresh look at what else is needed for controlling operations and maintenance activities for processes related to SEUs and action plans. The optional Worksheet is one example of how you can organize and record information on operating and maintenance criteria.</p>
 
@@ -108,7 +108,7 @@ Task 17: We plan and control the processes related to our SEUs and action plans,
 
 <p>Operational and maintenance controls may also be physical devices (e.g., building automation system (BAS), occupancy sensors for lights, air compressor sequence controllers), as well as the use of certified or other specialty qualified personnel (e.g., licensed electrician, licensed boiler operator, licensed waste treatment operator).</p>
 
-<p>[Learn MoreOLD](Evaluation of operating and maintenance criteria)</p>
+<p>[AccordionOLD](Evaluation of operating and maintenance criteria)</p>
 
 <p>To evaluate the operating and maintenance criteria you might need, bring together the appropriate personnel and information described above and discuss the following:</p>
 
@@ -122,24 +122,24 @@ Task 17: We plan and control the processes related to our SEUs and action plans,
 	<li>Are other controls needed to detect or avoid a significant deviation?</li>
 </ul>
 
-<p>[Learn MoreOLD End]</p>
+<p>[AccordionOLD End]</p>
 
 <p>Use the optional Worksheet to help determine the required criteria and controls.</p>
 
 <p>Once the appropriate operating and maintenance criteria are determined, they become the targeted operating and maintenance state.</p>
 
-<p>[Learn More End]</p>
-<p>[Learn More](Ensure major equipment, systems, processes and facilities are operated and maintained in accordance with criteria)</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Ensure major equipment, systems, processes and facilities are operated and maintained in accordance with criteria)</p>
 
 <p>Once the appropriate operational and maintenance controls and criteria are determined, you must operate and maintain the facilities, equipment, systems, or processes associated with your SEUs and with action plans so they meet the criteria. If the criteria and controls are new or have changed you will have to communicate this information to appropriate personnel. If the controls are not functioning or are bypassed you will have to implement inspections to confirm that the operational and maintenance controls are being implemented or maintained and the criteria are being met.</p>
 
-<p>[Learn MoreOLD](Example of not operating equipment in accordance with criteria)</p>
+<p>[AccordionOLD](Example of not operating equipment in accordance with criteria)</p>
 
 <p>An example is the disabling of the speed control of a fan&rsquo;s variable frequency drive (VFD). This would cause the fan to operate at full speed constantly. The VFD would not be able to reduce the fan motor speed during periods when the fan is lightly loaded and consequently the VFD would not achieve the expected energy performance improvement.</p>
 
-<p>[Learn MoreOLD End]</p>
-<p>[Learn More End]</p>
-<p>[Learn More](Communicate controls to personnel)</p>
+<p>[AccordionOLD End]</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Communicate controls to personnel)</p>
 
 <p>For the facilities, equipment, systems, and processes associated with your SEUs and action plans to be operated and maintained using the established controls, you must ensure they are communicated to the appropriate personnel. This includes on-site contractors or suppliers performing work associated with SEUs and action plans. Robust communication processes ensure that expectations with regard to performing and following the controls are known and understood by the appropriate personnel. You can provide the controls and criteria information through training, documentation, or other communication processes as appropriate, such as:</p>
 
@@ -166,7 +166,7 @@ Task 17: We plan and control the processes related to our SEUs and action plans,
 	<li>Technical training</li>
 </ul>
 
-<p>[Learn MoreOLD](Operational and maintenance control documented information)</p>
+<p>[AccordionOLD](Operational and maintenance control documented information)</p>
 
 <p>Your organization must retain documented information (i.e. records) (see [task](Documenting the EnMS)) on operational and maintenance controls to the extent necessary to have confidence that the processes are operating properly and in accordance with the relevant criteria. These records could include, for example, completed log sheets, logbooks or checklists; data from automated control systems; testing or other types of reports; work orders; data analyses.</p>
 
@@ -183,13 +183,13 @@ Task 17: We plan and control the processes related to our SEUs and action plans,
 	<li>Brochures</li>
 </ul>
 
-<p>[Learn MoreOLD End]</p>
+<p>[AccordionOLD End]</p>
 
 <p>Use the method(s) of communication most effective for your organization. What is important is that the operating and maintenance criteria are clear and accurate, and that you make appropriate employees and contractors aware of them.</p>
 
-<p>[Learn More End]</p>
+<p>[Accordion End]</p>
 
-<p>[Learn More](Control planned changes and review unintended changes)</p>
+<p>[Accordion](Control planned changes and review unintended changes)</p>
 
 <p>To maintain ongoing efficient operation of processes associated with your SEUs and action plans, it is critical that operational and maintenance controls are not unintentionally modified, bypassed or otherwise disrupted when changes are made that impact those processes. Such changes could be planned or unplanned.</p>
 
@@ -197,9 +197,9 @@ Task 17: We plan and control the processes related to our SEUs and action plans,
 
 <p>When operational and maintenance controls are unintentionally affected by unplanned changes, you must review the consequences of those changes and take action to address any negative effects. This helps ensure that the processes associated with SEUs and action plans continue to operate as intended.</p>
 
-<p>[Learn More End]</p>
+<p>[Accordion End]</p>
 
-<p>[Learn More](Control outsourced processes related to SEUs)</p>
+<p>[Accordion](Control outsourced processes related to SEUs)</p>
 
 <p>Outsourcing is an arrangement where an external organization performs part of an organization&rsquo;s function or process. Although the external organization is outside the scope of the EnMS, the outsourced process or function is within the EnMS scope.</p>
 
@@ -216,7 +216,7 @@ Task 17: We plan and control the processes related to our SEUs and action plans,
 	<li>Records to be available</li>
 </ul>
 
-<p>[Learn More End]</p>
+<p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
 <p>ISO 14001:2015 and ISO 9001:2015 also have requirements for operational planning and control, although they may not be focused on specific energy uses. In implementing operational and maintenance controls for SEUs and action plans in ISO 50001:2018, it is not unusual for the organization to find that some of the operational controls already in place for an environmental or quality management system are relevant to the SEUs or processes related to action plans. It may be appropriate to leverage those existing controls, particularly if the controls are based on procedures, work instructions and other documented information that must be followed in operating a specific process.</p>
 
