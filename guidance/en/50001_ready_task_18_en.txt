@@ -4,30 +4,24 @@ USDOE 50001 READY NAVIGATOR TASK 18
 ----------MENU NAME----------
 Energy Considerations in Design
 ----------TITLE----------
-Task 18: We consider energy performance opportunities when designing new, modified, or renovated facilities, equipment, systems and processes
+Task 18: We consider energy performance improvement opportunities and operational controls when designing new, modified, or renovated facilities, equipment, systems and processes
 ----------GETTING IT DONE----------
-<ul>
-	<li>Use the [resource](Energy_Considerations_Design_Worksheet) to identify and evaluate energy performance improvement opportunities and operational controls in design activities.</li>
-</ul>
+<ol>
+	<li>Identify the facilities, equipment, systems, and processes that can have significant impact on energy performance.</li>
+	<li>Incorporate consideration of energy opportunities and operational controls in design projects.</li>
+	<li>Include results of energy performance considerations in specification, design, and procurement activities, where applicable.</li>
+	<li>Retain records of the results of design activities related to energy performance.</li>
+</ol>
 ----------TASK OVERVIEW----------
-<p>In ISO 50001, the design requirements are not associated with the design of products or services; they are applicable to the development of new, modified, and renovated facilities, equipment, systems, and processes that can have a major impact on energy performance. <em>Energy performance</em> is defined as measurable results related to energy efficiency, energy use, and energy consumption. The design requirements of ISO 50001 incorporate energy performance improvement opportunities and operational control as considerations in design activities. This can provide the basis for more innovative and energy-efficient designs.</p>
+<p>In ISO 50001, the design requirements are not associated with the design of products or services to be sold or offered as a service; they are applicable to the development of new, modified, and renovated facilities, equipment, systems, and processes that can have a major impact on energy performance within the scope of the EnMS. These requirements incorporate consideration of energy performance improvement opportunities and operational controls into design activities. This can provide the basis for more innovative and energy-efficient designs.</p>
 
-<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
-
-<ul>
-	<li>Identified the facilities, equipment, systems, and processes that can have significant impact on energy performance</li>
-	<li>Incorporated consideration of energy opportunities and operational control in design projects</li>
-	<li>Included results of energy performance evaluation in specification, design, and procurement</li>
-	<li>Recorded results of design activities</li>
-</ul>
-
-<p><em>This guidance is relevant to Section 4.5.6 of the ISO 50001:2011 standard.</em></p>
+<p><em>This guidance is relevant to Section 8.2 of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Identify the facilities, equipment, systems, and processes that can have significant impact on energy performance)</p>
+<p>[Accordion](Identify energy uses that have significant impact on energy performance)</p>
 
-<p>Any facilities, equipment, systems, or processes that are within the scope of the EnMS that can or will significantly impact energy performance fall under the design requirements of ISO 50001. This means that energy performance improvement opportunities and operational controls must be considered when you design new, renovate, or modify any facilities, equipment, systems, and processes that can have a major effect on your energy efficiency, energy use, and energy consumption.</p>
+<p>Any facilities, equipment, systems, or processes that are within the scope of the EnMS that can or will significantly impact energy performance fall under the design requirements of ISO 50001. This means that energy performance improvement opportunities and operational controls must be considered when you design, renovate, or modify any facilities, equipment, systems, and processes that can significantly impact your energy efficiency, energy use, and energy consumption.</p>
 
-<p>The facilities, equipment, systems, and processes that can affect energy performance can vary, depending on project specifics. At a minimum, items that can significantly affect energy performance include facilities, equipment, systems, or processes associated with:</p>
+<p>Depending on project specifics, items that can significantly affect energy performance include facilities, equipment, systems, or processes associated with:</p>
 
 <ul>
 	<li>Management and operation of significant energy uses</li>
@@ -36,17 +30,21 @@ Task 18: We consider energy performance opportunities when designing new, modifi
 </ul>
 
 <p>[Accordion End]</p>
-
 <p>[Accordion](Incorporate consideration of energy opportunities and operational control in design projects)</p>
 
-<p>When designing new facilities, equipment, systems, and processes, or renovating or modifying existing ones, think about how they can or will affect your organization&rsquo;s energy performance. Identify potential energy performance improvements that can be considered for the design. Also, identify any operational controls that may be needed. These would include controls necessary to achieve the energy performance improvement, or at least to minimize (or appropriately manage) the impacts of the design on your organization&rsquo;s energy performance.</p>
+<p>When designing new facilities, equipment, systems, and processes, or renovating or modifying existing ones, think about how they can or will affect your organization&rsquo;s energy performance. Identify:</p>
+
+<ul>
+	<li>Potential energy performance improvements that can be considered for the design.</li>
+	<li>Any operational controls that may be needed, including controls necessary to achieve energy performance improvement and minimize or appropriately manage the impacts of the design on your organization&rsquo;s energy performance.</li>
+</ul>
 
 <p>Examples of design for energy performance improvement include the following:</p>
 
 <ul>
-	<li>Design lighting to automatically adjust according to the amount of daylight present. (Equipment)</li>
-	<li>Design air conditioning systems to use a water-cooled central chiller instead of an air-cooled split system for cooling. (System)</li>
-	<li>Design the molding process such that hydraulic pumps only pump the volume needed instead of operating at full speed and pumping full volume. (Processes)</li>
+	<li>Design lighting to automatically adjust according to the amount of daylight present. (equipment)</li>
+	<li>Design air conditioning systems to use a water-cooled central chiller instead of an air-cooled split system for cooling. (system)</li>
+	<li>Design the molding process such that hydraulic pumps only pump the volume needed instead of operating at full speed and pumping full volume. (processes)</li>
 </ul>
 
 <p>Some questions to ask when designing new, modified, or renovated facilities, equipment, systems, and processes include:</p>
@@ -56,38 +54,56 @@ Task 18: We consider energy performance opportunities when designing new, modifi
 	<li>Where and how can energy consumption be reduced?</li>
 </ul>
 
-<p>When evaluating the opportunities for improving energy performance, consider the following:</p>
+<p>When evaluating the opportunities for improving energy performance, consider:</p>
 
 <ul>
 	<li>How will the existing facilities, equipment, systems, and processes be modified?</li>
 	<li>What specific items can be changed to improve energy efficiency and reduce energy consumption over time?</li>
-	<li>What is the right energy source?</li>
+	<li>What is the right energy source for this application?</li>
 	<li>What are the technological options?</li>
 	<li>What operational controls are needed to achieve and sustain design intended energy performance?</li>
 </ul>
 
-<p>For energy-efficient designs to achieve their full potential, the design process should be coupled with proper operational control. Since equipment controls can be bypassed or disabled, an operational control strategy must be combined with efficient design to make sure that anticipated savings are achieved.</p>
+<p>For energy-efficient designs to achieve their full potential, the design process should be coupled with proper operational controls. Since equipment controls can be bypassed or disabled, an operational control strategy should be combined with efficient design to ensure anticipated energy savings are achieved.</p>
 
-<p>The [resource](Energy_Considerations_Design_Worksheet) can be useful in identifying and evaluating energy performance improvement opportunities and operational controls in design activities.</p>
+<p>The optional Worksheet can be useful in identifying and evaluating energy performance improvement opportunities and operational controls in design activities.</p>
+
+<p>[Learn More](Example Misapplications of Energy-Efficient Technologies)</p>
+
+<p>When designing or upgrading facilities, equipment, systems or processes that can significantly impact energy performance, it is important that close attention be paid to how new energy-efficient technology is specified, applied and used in order to avoid misapplications. Installation of &ldquo;energy-efficient&rdquo; equipment does not ensure improved efficiency if the retrofit is not properly specified. And, no energy efficient technology will capture savings when installed or programmed incorrectly:</p>
+
+<p>As an example, consider energy efficient AC induction motors. Premium efficiency motors are manufactured using high quality materials to reduce losses, and they consistently demonstrate efficiency improvements of 2 to 5 percent over standard motors. A downside of improved efficiency is that in most cases energy-efficient motors operate at higher speeds than standard motors. This presents a problem in centrifugal device applications such as pumps and fans because higher speed corresponds to higher energy consumption. When replacing standard motors with energy-efficient motors in centrifugal applications, ensure that the replacement motor has the same rated speed as the original, or increased energy consumption will result.</p>
+
+<p>Another example related to improper installation of energy-efficient technology concerns air-side economizers. Air-side economizers are a common approach to energy savings in new or retrofit facilities. The economizer is a set of outside air dampers that is controlled to bring in outside air when its temperature is below that of the return air. While this technology is a proven method to reduce cooling costs in buildings, a recent survey by the California Energy Commission (CEC) found that almost 70% of the installed airside economizers were not functioning correctly and, consequently, not saving energy. Misapplications discovered included dampers not connected to actuators so they would not open, and improperly programmed controls that fail to open the dampers when the outside conditions are cool enough. These installation errors should be identified and corrected during construction.</p>
+
+<p>[Learn More End]</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Include energy performance considerations in specification, design, and procurement)</p>
+
+<p>Once the questions above have been answered, take action to improve energy performance. The results of the energy performance considerations must be incorporated, where applicable, into the specification, design, and procurement activities related to the project. This should ensure that the decisions on energy efficiency related to the design are carried out. Incorporating results into procurement specifications and activities keeps the purchasing department involved, ensures their awareness of procurement requirements to support energy performance improvements, and provides the justification for any additional costs.</p>
+
+<p>When designing or upgrading facilities, equipment, systems, or processes that can significantly impact energy performance, pay close attention to how new energy-efficient technology is specified, applied, and used in order to avoid misapplications. Installation of &ldquo;energy-efficient&rdquo; equipment does not ensure improved efficiency if the retrofit is not properly specified. Moreover, no energy-efficient technology will capture savings when installed or programmed incorrectly.</p>
 
 <p>[Accordion End]</p>
-
-<p>[Accordion](Include the results of the energy performance evaluation in specification, design, and procurement)</p>
-
-<p>Once the questions above have been answered, take action to improve energy performance. The results of the energy performance evaluation must be incorporated, where appropriate, into the specification, design, and procurement activities related to the project. This should ensure that the decisions on energy efficiency related to the design are carried out. Incorporating results into procurement specifications and activities keeps the purchasing function in the loop, ensures their awareness of procurement requirements to support the energy performance improvement, and provides the justification for any additional costs.</p>
-
-<p>When designing or upgrading facilities, equipment, systems, or processes that can significantly impact energy performance, pay close attention to how new energy-efficient technology is specified, applied, and used in order to avoid misapplications. Installation of &ldquo;energy-efficient&rdquo; equipment does not ensure improved efficiency if the retrofit is not properly specified. Moreover, no energy-efficient technology will capture savings when installed or programmed incorrectly. (See [resource](Example_Misapplications_Energy_Efficient_Technologies))</p>
-
-<p>[Accordion End]</p>
-
 <p>[Accordion](Record results of design activities)</p>
 
-<p>Maintain a record of the results of design activities to show energy considerations were properly addressed in the process. This can take a variety of forms, such as a completed checklist, meeting minutes, design drawings, purchasing specifications, project records, and more.</p>
+<p>Retain documented information on the results of design activities to show energy considerations were properly addressed. This can take a variety of forms, such as completed checklists, meeting minutes, design drawings, purchasing specifications, and project records.</p>
 
+<p>[Learn More](Energy Considerations in Design)</p>
+
+<p>Recommendations for Energy Considerations in Design</p>
+
+<ul>
+	<li>Energy Consideration in Design is not intended to apply to products and services, but rather facilities, equipment, and systems</li>
+	<li>Facilities, equipment, and systems to be improved through design should be associated with SEUs, EnPIs, and energy objectives and targets</li>
+	<li>Proper implementation of design projects for energy performance improvement should include proper operational control</li>
+</ul>
+
+<p>[Learn More End]</p>
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>For organizations with an ISO 9001:2015 quality management system and/or ISO 14001:2015 environmental management system, it is very important to note that the design requirements of ISO 50001:2011 <em>do not</em> include design of products and services. However, the ISO 9001 processes for infrastructure; environment for operation; planning and control of changes; and, control of externally provided processes, products and services could be leveraged (with some modifications) to help meet the design requirements of ISO 50001 <em>as related to new, modified and renovated facilities, equipment, systems and processes.</em> The ISO 14001:2015 processes for controlling planned changes might be a starting point for meeting the design requirements of ISO 50001.</p>
+<p>For organizations with an ISO 9001:2015 quality management system and/or ISO 14001:2015 environmental management system, it is very important to note that the design requirements of ISO 50001:2018 do not apply to the design of products and services. However, the ISO 9001 processes for infrastructure; environment for the operation of processes; planning and control of changes; and, control of externally provided processes, products and services could be leveraged (with some modifications) to help meet the design requirements of ISO 50001 as related to new, modified and renovated facilities, equipment, systems and processes. The ISO 14001:2015 processes for controlling planned changes might be a starting point for meeting the design requirements of ISO 50001.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>When implementing an EnMS, you may need to review details in the design management portion contained in Step 4.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). An EnMS extends its methodology within design requirements for facilities, equipment, systems and processes. Records of results of energy performance evaluations within the designs are also required.</p>
+<p>Step 4.2 and 6.1 of the ENERGY STAR Guidelines for Energy Management mentions design in the context of determining roles. An EnMS extends its methodology within design requirements for facilities, equipment, systems and processes. Records of results of energy performance considerations within the designs are also required.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
