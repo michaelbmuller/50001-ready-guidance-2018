@@ -237,11 +237,12 @@ class Task
     /**
      * Returned marked up version of Full Description
      *
+     * @param Guidance|bool $guidance
      * @return mixed|string
      */
-    public function getFullDescription()
+    public function getFullDescription($guidance = false)
     {
-        return Markup::process($this->full_description, $this->markupProcessor);
+        return Markup::process($this->full_description, $this->markupProcessor, $guidance);
     }
 
     /**

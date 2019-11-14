@@ -132,7 +132,7 @@ class Guidance
             }
             if ($items[0] == 'Prerequisite Tasks') {
                 $prerequisites = [];
-                if ($items[1]) $prerequisites = array_map('trim', explode(',', trim($items[1])));
+                if (trim($items[1])) $prerequisites = array_map('trim', explode(',', trim($items[1])));
                 $this->tasks[$currentTask]->prerequisites = $prerequisites;
                 foreach ($prerequisites as $prerequisite) {
                     if ($prerequisite < 1 or $prerequisite > 25) throw new \Exception('Prerequisite Task ID not valid ' . $prerequisite, 404);

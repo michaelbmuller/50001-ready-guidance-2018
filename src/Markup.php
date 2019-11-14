@@ -31,12 +31,13 @@ class Markup
      *
      * @param $text
      * @param string $markup_processor
+     * @param Guidance|bool $guidance
      * @return mixed|string
      */
-    static function process($text, $markup_processor = DefaultMarkupProcessor::class)
+    static function process($text, $markup_processor = DefaultMarkupProcessor::class, $guidance = false)
     {
         $text = self::addResourceLinks($text, $markup_processor);
-        $text = self::addTaskLinks($text, $markup_processor);
+        $text = self::addTaskLinks($text, $markup_processor, $guidance);
         $text = self::addExpandables($text, 'Learn More', $markup_processor);
         $text = self::addExpandables($text, 'Accordion', $markup_processor);
         return $text;
@@ -67,15 +68,16 @@ class Markup
      *
      * @param $text
      * @param string $markup_processor
+     * @param Guidance|bool $guidance
      * @return mixed
      */
-    static function addTaskLinks($text, $markup_processor = DefaultMarkupProcessor::class)
+    static function addTaskLinks($text, $markup_processor = DefaultMarkupProcessor::class, $guidance = false)
     {
         return preg_replace_callback(
             self::$TASK_TAG_PATTERN,
-            function ($matches) use ($markup_processor) {
+            function ($matches) use ($markup_processor, $guidance) {
                 $task_menu_name = trim(substr($matches[0], 7, -1));
-                return $markup_processor::TaskLink($task_menu_name);
+                return $markup_processor::TaskLink($task_menu_name, $guidance);
             },
             $text
         );

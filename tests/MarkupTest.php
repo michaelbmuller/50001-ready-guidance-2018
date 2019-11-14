@@ -54,42 +54,44 @@ class MarkupTest extends TestCase
         $guidance = new Guidance();
         foreach ($guidance->getTasks() as $task) {
             /** @var Task $task */
-            $task->getGettingItDone();
-            $task->getTaskOverview();
-            $task->getFullDescription();
-            $task->getOtherIsoTips();
-            $task->getEnergyStarTips();
-            $task->getCustomTips();
+            $this->assertStringNotContainsString("NOT FOUND",$task->getGettingItDone());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getTaskOverview());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getFullDescription($guidance));
+            $this->assertStringNotContainsString("NOT FOUND",$task->getOtherIsoTips());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getEnergyStarTips());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getCustomTips());
         }
     }
 
+    /**
     public function test_task_markups_fr()
     {
         $guidance = new Guidance('fr');
         foreach ($guidance->getTasks() as $task) {
-            /** @var Task $task */
-            $task->getGettingItDone();
-            $task->getTaskOverview();
-            $task->getFullDescription();
-            $task->getOtherIsoTips();
-            $task->getEnergyStarTips();
-            $task->getCustomTips();
+            /** @var Task $task *
+            $this->assertStringNotContainsString("NOT FOUND",$task->getGettingItDone());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getTaskOverview());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getFullDescription());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getOtherIsoTips());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getEnergyStarTips());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getCustomTips());
         }
     }
 
     public function test_task_markups_es()
     {
+
         $guidance = new Guidance('es');
         foreach ($guidance->getTasks() as $task) {
-            /** @var Task $task */
-            $task->getGettingItDone();
-            $task->getTaskOverview();
-            $task->getFullDescription();
-            $task->getOtherIsoTips();
-            $task->getEnergyStarTips();
-            $task->getCustomTips();
+            /** @var Task $task *
+            $this->assertStringNotContainsString("NOT FOUND",$task->getGettingItDone());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getTaskOverview());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getFullDescription());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getOtherIsoTips());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getEnergyStarTips());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getCustomTips());
         }
-    }
+    } */
 
     public function test_all_markups()
     {

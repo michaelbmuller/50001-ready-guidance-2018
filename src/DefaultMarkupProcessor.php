@@ -2,6 +2,8 @@
 
 namespace DOE_50001_2018_Ready;
 
+use Illuminate\Support\Facades\Session;
+
 class DefaultMarkupProcessor implements MarkupProcessorInterface
 {
     /**
@@ -19,10 +21,12 @@ class DefaultMarkupProcessor implements MarkupProcessorInterface
      * Return Task Menu Name only
      *
      * @param $task_id_name
+     * @param Guidance|bool $guidance
      * @return string
      */
-    static function TaskLink($task_id_name)
+    static function TaskLink($task_id_name, $guidance = false)
     {
+        if ($guidance and !$task = $guidance->getTaskByIDName($task_id_name)) return '[' . $task_id_name . '] TASK NOT FOUND';
         return "the " . $task_id_name . " Task";
     }
 

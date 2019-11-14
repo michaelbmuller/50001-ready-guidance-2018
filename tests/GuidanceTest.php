@@ -52,7 +52,7 @@ class GuidanceTest extends TestCase
 
     public function test_task_by_id_name()
     {
-        $this->assertEquals('1', $this->guidance->getTaskByIDName('An EnMS and your Organization')->id());
+        $this->assertEquals('1', $this->guidance->getTaskByIDName('An EnMS and Your Organization')->id());
     }
 
     public function test_sections()
@@ -98,7 +98,7 @@ class GuidanceTest extends TestCase
 
     public function test_task_leads_to()
     {
-        //$this->assertEquals([6 => 6, 9 => 9], $this->guidance->getTask(1)->leadsTo);
+        $this->assertEquals([8 => 8], $this->guidance->getTask(3)->leadsTo);
     }
 
     public function test_set_custom_tips()

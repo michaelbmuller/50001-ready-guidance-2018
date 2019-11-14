@@ -27,9 +27,10 @@ interface MarkupProcessorInterface
      * Return Task Menu Name only
      *
      * @param $task_id_name
+     * @param Guidance|bool $guidance
      * @return string
      */
-    static function TaskLink($task_id_name);
+    static function TaskLink($task_id_name, $guidance = false);
 
     /**
      * Format Accordion tags
