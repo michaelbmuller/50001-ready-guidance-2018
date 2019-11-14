@@ -4,260 +4,250 @@ USDOE 50001 READY NAVIGATOR TASK 4
 ----------MENU NAME----------
 Management Commitment
 ----------TITLE----------
-Task 4: We have established an energy team that meets regularly and includes a management representative. Roles and responsibilities have been defined for the energy team and all affected personnel.
+Task 4: Our top management demonstrates leadership and commitment to continual improvement of energy performance and the effectiveness of the 50001 Ready system.
 ----------GETTING IT DONE----------
-<ul>
-	<li>Top management will:
-	<ol>
-		<li>Review desired qualifications and skills for the management representative role.</li>
-		<li>Appoint a management representative with assigned responsibilities and authorities.</li>
-		<li>Record and communicate this appointment.</li>
-	</ol>
-	</li>
-	<li>The assigned management representative will identify team members, assign roles and responsibilities, and schedule regular energy team meetings.</li>
-	<li>Document your Management Representative in the 50001 Ready Navigator under Manage Project.</li>
-</ul>
-----------TASK OVERVIEW----------
-<p>Top management must appoint an energy management representative to oversee the EnMS. This representative has overall responsibility to ensure that the EnMS is established, implemented, maintained, and continually improved&mdash;and to report to top management on energy and EnMS performance. Desirable skills and qualifications should be considered when selecting candidates for this role.</p>
-
-<p>In addition to the energy management representative, an EnMS relies heavily on a team approach to take advantage of the diversity of each individual&rsquo;s skills and knowledge for your organization&rsquo;s benefit. The team provides different perspectives on issues, distributes the work load, facilitates implementation, promotes wider acceptance, and improves prospects for sustaining the system. It is authorized by top management and typically is led by the management representative or energy manager.</p>
-
-<p>The energy team will have a variety of assigned roles and responsibilities, including energy data management.</p>
-
-<p><strong>At the completion of this task, you will have&hellip;</strong></p>
-
-<ul>
-	<li>Reviewed the desired qualifications and skills of a management representative</li>
-	<li>Appointed a management representative with assigned responsibilities and authorities</li>
-	<li>Recorded and communicated the management representative appointment</li>
-	<li>Identified team members</li>
-	<li>Obtained management authorization for the energy team</li>
-	<li>Assigned team roles and responsibilities</li>
-	<li>Assigned team roles and responsibilities for data management</li>
-	<li>Scheduled regular energy team meetings</li>
-</ul>
-
-<p><em>This guidance is relevant to sections 4.2.1 and 4.2.2 of the ISO 50001:2011 standard.</em></p>
-----------FULL DESCRIPTION----------
-<p>[Accordion](Review desired qualifications and skills)</p>
-
-<p>While it helps to have an understanding of energy concepts, it is not required that the management representative be an energy expert or have a technical background. Two of the most important assets are strong communication and leadership skills. Someone who is established in the organization and has the respect of peers and management are also desirable qualities. The management representative will work with a team and be capable of guiding the team and the organization in setting up, operating, and improving the EnMS and energy performance. If the management representative does not have a technical background, the appropriate technical expertise should be part of the energy team.</p>
-
-<p>[Learn More](Typical energy management representative skills and qualifications)</p>
-
-<p>Typical energy management representative skills and qualifications include the following:</p>
-
-<ul>
-	<li>Leadership</li>
-	<li>Interpersonal skills, including written and verbal communication</li>
-	<li>Organizational skills</li>
-	<li>Program management</li>
-	<li>Time management</li>
-	<li>Problem solving</li>
-	<li>Conflict management</li>
-	<li>Energy/technical background and/or experience with continual improvement-based management systems</li>
-	<li>Computer proficiency</li>
-</ul>
-
-<p>[Learn More End]</p>
-
-<p>Typically, a single person fills the role of management representative, but depending on your organization, it may be necessary to share the responsibilities between two individuals.</p>
-
-<p>If the representative is not fully familiar with ISO 50001, provide or obtain the appropriate training. The management representative must know the standard and understand the connections between the various processes of the EnMS.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Appoint the management representative and assign responsibilities and authorities)</p>
-
-<p>Top management appoints the energy management representative and establishes the representative&rsquo;s authority to execute the assigned EnMS responsibilities. It is critical for the management representative to have the appropriate authority with employees and members of the energy team. Even if the management representative holds a job position lower in the chain of command than some employees or energy team members, that person must have authority for the EnMS.</p>
-
-<p>The responsibilities and authorities of the energy management representative are as follows:</p>
-
-<ul>
-	<li>Ensure the EnMS is established, implemented, maintained, and continually improved</li>
-	<li>Keep top management informed on EnMS performance</li>
-	<li>Report to top management on energy performance</li>
-	<li>Identify energy team members, with the approval of management</li>
-	<li>Plan and direct energy management activities through the energy team</li>
-	<li>Define and communicate responsibilities and authorities</li>
-	<li>Promote the energy policy and energy objectives across the organization</li>
-	<li>Make sure processes are in place to ensure EnMS effectiveness</li>
-</ul>
-
-<p>Management must clearly define and convey these responsibilities and authorities as part of appointing the management representative. Management also supports the management representative by allowing them the time and resources necessary to conduct the activities associated with these responsibilities.</p>
-
-<p>[Learn More](Typical activities of a management representative)</p>
-
-<p>Some of the typical activities of a management representative include the following:</p>
-
-<ul>
-	<li>Selecting, training, and leading the energy team</li>
-	<li>Coordinating team assignments and activities</li>
-	<li>Identifying and communicating resources needed for energy management activities</li>
-	<li>Working with top management for planning, resources, and reporting</li>
-	<li>Assisting with drafting the energy policy and other documents</li>
-	<li>Assessing training needs relative to the EnMS</li>
-	<li>Conducting energy management awareness training, in the organization and for contractors</li>
-	<li>Providing information for and participating in energy management strategic planning</li>
-	<li>Overseeing data monitoring and collection and verification activities, including instrument calibration</li>
-	<li>Serving as the EnMS internal audit program manager or coordinator</li>
-	<li>Managing the corrective and preventive action system</li>
-	<li>Providing energy information to management for planning and management review</li>
-	<li>Participating in management reviews</li>
-</ul>
-
-<p>[Learn More End]</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Record and communicate the appointment)</p>
-
-<p>Record top management&rsquo;s appointment of the management representative, to provide evidence of the responsibilities and authorities assigned to the selected individual(s). This can be a stand-alone record that is maintained and controlled in accordance with the requirements for control of records (see [task](Documentation and Records)), or it could be documented within the energy manual (optional). (See [resource](Energy_Manual_Guidelines) for a discussion about using an energy manual for the EnMS.)</p>
-
-<p>Top management also must communicate the appointment and the associated authorities of the management representative across the organization. Communicating this appointment helps convey the importance top management is placing on energy management and promotes cooperation that the management representative needs from the energy team and across the organization.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Identify team members)</p>
-
-<p>The energy team brings together relevant expertise to guide development, implementation, and maintenance of the EnMS. The size, composition, and responsibilities of the team will vary, depending on the size and structure of your organization and the scope of the EnMS (see [task](Communications)).</p>
-
-<p>In forming the team, consider representatives from functional areas dealing with the selection, procurement, consumption, reliability, disposal, and environmental impacts of fuels and energy systems. Also consider individuals who are familiar with ISO or other continual improvement-based management systems. The following functional areas are often considered by organizations implementing ISO 50001:</p>
-
-<ul>
-	<li>Engineering</li>
-	<li>Maintenance</li>
-	<li>Facilities management</li>
-	<li>Procurement</li>
-	<li>Production</li>
-	<li>Quality</li>
-	<li>Environmental</li>
-	<li>Administration</li>
-	<li>Accounting/Finance</li>
-</ul>
-
-<p>Suppliers, contractors, tenants, or customers may also have a role in your organization&rsquo;s energy management activities. If appropriate, consider including their representatives on the energy team.</p>
-
-<p>An [resource](Team_Roster) is also a helpful best practice for listing team members, recording contact information to support team communications, and verifying multi-functional representation.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Obtain management approval)</p>
-
-<p>Generally, team members are selected by the management representative with management input or approval. The management representative develops a list of desired members to be reviewed and authorized by top management.</p>
-
-<p>Top management also &ldquo;authorizes&rdquo; the energy team by ensuring the members have the resources<u> </u>necessary to conduct the required activities and participate without jeopardizing their regular job function.</p>
-
-<p>[Learn More](Typical resources provided to energy team members)</p>
-
-<p>Typical resources provided to energy team members can include the following:</p>
-
-<ul>
-	<li>Providing personnel time to work on team activities during normal business hours</li>
-	<li>Authorizing overtime, if needed</li>
-	<li>Providing team members with assistance in performing their regular job functions</li>
-	<li>Providing space for energy team meetings and work sessions</li>
-	<li>Providing fiscal resources for energy team activities</li>
-	<li>Ensuring access to data and information</li>
-	<li>Helping to solicit organizational participation</li>
-	<li>Providing the resources required for any personnel that would assist with the EnMS</li>
-	<li>Ensuring access to top management and assisting the energy team, as required</li>
-</ul>
-
-<p>[Learn More End]</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Assign roles and responsibilities)</p>
-
-<p>Top management and the management representative will define and communicate the roles and responsibilities for the team and individual team members. The management representative may lead the team, or a separate team leader may be selected. Typical team activities may include development or overseeing development of the following:</p>
-
-<ul>
-	<li>Energy policy</li>
-	<li>Energy review</li>
-	<li>Energy objectives, targets and action plans</li>
-	<li>EnMS documentation</li>
-	<li>Roles, responsibilities, authorities and processes for:
-	<ul style="list-style-type:circle">
-		<li>Ongoing data collection and analysis</li>
-		<li>Determining significant energy uses and energy performance indicators</li>
-		<li>Identifying energy opportunities and/or conducting energy assessments</li>
-		<li>Measurement and verification activities</li>
-		<li>Implementing management of significant energy uses</li>
-		<li>Competency and awareness training for appropriate personnel</li>
-		<li>Managing internal audits and corrective and preventive actions</li>
-	</ul>
-	</li>
-</ul>
-
-<p>[Learn More](Other energy team activities)</p>
-
-<p>Other energy team activities could include the following:</p>
-
-<ul>
-	<li>Overseeing energy projects and other activities to ensure energy objectives are met</li>
-	<li>Tracking energy performance</li>
-	<li>Conducting competency training and/or energy awareness training</li>
-	<li>Communicating with management, employees, and other stakeholders</li>
-	<li>Performing internal audits and ensuring corrective and preventive actions</li>
-</ul>
-
-<p>[Learn More End]</p>
-
-<p>Energy team members should be assigned specific EnMS implementation tasks and should be held accountable for their timely completion. Robust team communication processes are critical for communicating assignments, developing elements of the system, and obtaining feedback from other team members.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Assign roles and responsibilities for data management)</p>
-
-<p>A 50001 Ready system relies on energy data and related information. Energy data is an important input to the organization&rsquo;s energy review and are instrumental for tracking and verifying energy performance improvement. Data is retained as recorded information; therefore, the team should review their data needs and assign roles and responsibilities accordingly.</p>
-
-<p>Energy data management roles can include the following:</p>
-
 <ol>
-	<li>Identifying needed data</li>
-	<li>Determining data source and form</li>
-	<li>Determining location of data and frequency of collection</li>
-	<li>Acquiring data</li>
-	<li>Verifying accuracy of data</li>
-	<li>Recording and retaining data in the appropriate location</li>
-	<li>Checking functioning of the collection process</li>
-	<li>Studying the process to determine if something is missing</li>
+	<li>Optionally, identify business drivers and benefits applicable to your organization.</li>
+	<li>Optionally, prepare and deliver a briefing to top management on the identified business drivers and benefits, management roles and responsibilities, and how these responsibilities will be met.</li>
+	<li>Secure commitment from top management to continual improvement of energy performance and the development and use of a 50001 Ready system.</li>
+	<li>Brief top management on their EnMS leadership responsibilities.</li>
+	<li>Plan for how top management will meet their responsibilities.</li>
 </ol>
+----------TASK OVERVIEW----------
+<p>Probably the most critical key to the success of an EnMS is involvement and commitment by top management. This does not mean top management needs to be at energy team meetings and approve all decisions but they need to provide honest, constant, and visible commitment to the concept and implementation of the EnMS. In addition to providing the leadership needed to improve energy performance and the EnMS, top management must demonstrate that they perform the specific responsibilities assigned to them within the continual improvement framework of the EnMS. Not only does top management approve and authorize an EnMS, they are responsible and accountable for ensuring its ongoing suitability, adequacy, and effectiveness.</p>
 
-<p>The above roles can be filled by a variety of organization personnel including those outside the energy team. Appropriate training should be provided to personnel who are assigned data management roles but have an identified gap in their skills.</p>
+<p><em>This guidance is relevant to Sections 5.1 of the ISO 50001:2018 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identify EnMS benefits and business drivers)</p>
 
-<p>[Learn More](Developing roles and responsibilities for energy data management)</p>
+<p>Many organizations pursue energy efficiency and energy conservation, reduced environmental impacts, and sustainability initiatives because they are valued as the &ldquo;right thing to do.&rdquo; However, impacts to the bottom line and prospects for long-term viability are most often the determinants of proposed organizational initiatives, including those for energy management. The benefits of improved energy management and energy performance should be identified and communicated to top management in terms they understand. Consequently, making the business case is an important part of establishing an EnMS.</p>
 
-<p>To help develop roles and responsibilities for energy data management, the [resource](Potential_Responsible_Parties_Data_Collection) table may be useful. The roles and responsibilities may vary somewhat depending on your organization&rsquo;s needs, but the general method of data identification, description of data sources, location and frequency of data collection, data acquisition and verification, and data recording should remain consistent. Ensure that those persons responsible for collecting data are appropriately trained for such responsibilities. Appropriate training may include:</p>
+<p>As ISO 50001 gains traction in the marketplace, implementation case studies and other analyses are reporting the benefits of this systematic approach to energy management. These include:</p>
 
 <ul>
-	<li>Meter selection and hook up (portable meters)</li>
-	<li>Meter reading</li>
-	<li>Understanding measurement units (amps, volts, watts, Btu, cubic feet, etc.)</li>
-	<li>Data recording</li>
-	<li>Software use</li>
-	<li>Equipment/process access</li>
-	<li>Safety during measurement or accessing equipment</li>
+	<li>Improved operational efficiencies</li>
+	<li>Decreased energy intensity</li>
+	<li>Energy data for fact-based decisions</li>
+	<li>Support for organizational and cultural change</li>
+	<li>Drivers for organizational integration</li>
+	<li>Reduced environmental impacts</li>
+	<li>Competitive advantages over firms that neglect resource management</li>
+	<li>Visible demonstration of social responsibility</li>
+	<li>Positioning for carbon accounting and accountability</li>
 </ul>
 
-<p>A [resource](Data_Collection_Responsibilities_Table) is provided as a guide to developing a sustainable data collection process. Also provided is a [resource](Data_Collection_Management_Matrix) to document the data requirements and their location, as well as collection details and responsibilities. An [resource](Example_Data_Collection_Management_Matrix_Industrial) and [resource](Example_Data_Collection_Management_Matrix_Commercial) provide samples using this form to help document data location and collection.</p>
+<p>Learn about the benefits that other organizations have experienced with their EnMS. Check the web for examples and case studies in general and related specifically to your own industry.</p>
+
+<p>Consider the potential benefits of an EnMS within the context of your organization&rsquo;s priorities and needs. To build the business case you must connect the benefits of the EnMS with the business drivers of your organization because management will want to know how the EnMS and improved energy efficiency affect those drivers.</p>
+
+<p>The energy team members (see [task](Energy Team and Resources)) should identify the business drivers relevant to your organization. Then, work to ensure management understands the benefits by presenting information in terms that are important to them. If the energy team members have not been designated, then identify someone willing to champion the initiative and accept this responsibility.</p>
+
+<p>[Learn More](Social business drivers)</p>
+
+<p>Social pressures can be as daunting as financial and legal issues for an organization.&nbsp; An EnMS can help address social issues as well as provide evidence of an organization&rsquo;s efforts to do so.&nbsp; Many public concerns are related to environmental issues, but there are others that are important.&nbsp; Some of these may include:</p>
+
+<ul>
+	<li>Climate change (e.g. emissions/carbon footprint/greenhouse gases)</li>
+	<li>Alternative energy (e.g. solar, wind, thermal, hydro, nuclear, biomass)</li>
+	<li>Natural resource depletion</li>
+	<li>Environmental stewardship</li>
+	<li>Energy conservation</li>
+	<li>Energy waste</li>
+	<li>Ethics, values, principles</li>
+	<li>Triple Bottom Line</li>
+	<li>Sustainability</li>
+</ul>
+
+<p>Pressures can be exerted by local communities, trade associations, environmental groups, government entities and employees, just to name a few.&nbsp; An organization should identify the relevant issues and use their management system processes to minimize negative impacts and communicate the positive efforts being made to address them.</p>
 
 <p>[Learn More End]</p>
 
+<p>[Learn More](External business drivers)</p>
+
+<p>External drivers are typically outside the organization&rsquo;s control.&nbsp; There are many external groups or stakeholders that could have an interest in the organization&rsquo;s energy activities and help drive the organization&rsquo;s direction.&nbsp; Their interest could be reflected through financial, legal or social drivers.&nbsp; The external groups that have or can have an impact on the organization can be identified, and appropriate procedures and communication channels installed to address the needs and interests of these groups relative to energy use and efficiency.&nbsp; An EnMS can help with addressing these needs and interests.</p>
+
+<p>Some of the influencing groups could be:</p>
+
+<p><strong>Stockholders</strong> &ndash; Obviously, stockholders are interested in the profitability of the organization and in measures that reduce costs.&nbsp; They are also interested in the business operating legally and addressing relevant social issues, and they expect to be provided a measure of assurance of the business&rsquo; long term viability.</p>
+
+<p><strong>Lenders</strong> &ndash; Lenders want their money back with interest.&nbsp; An EnMS is a tool for the organization to address continual improvement thereby improving profits and efficiencies and enhancing long term existence.</p>
+
+<p><strong>Customers</strong> &ndash; Customers want the best return for their dollar.&nbsp; Reducing costs and improving efficiencies allow products and services to be offered at the lowest price with less waste, thus providing the best value to the customer and improving the organization&rsquo;s competitiveness.&nbsp; The continual improvement component of an EnMS can help an organization improve efficiencies and reduce costs.</p>
+
+<p><strong>Suppliers</strong> &ndash; An efficient supply chain is important to competitiveness. An important component of supplier selection and maintenance is a commitment to continual improvement including energy efficiency.&nbsp; An EnMS can help with supplier selection.&nbsp; The presence of an EnMS would be one indication of a supplier&rsquo;s commitment to energy efficiency improvement.</p>
+
+<p><strong>Public</strong> &ndash;The public in general as well as many public groups can be drivers for an organization&rsquo;s operation.&nbsp; Both can provide pressure relative to emissions reduction, resource conservation, alternative fuels, and the like.&nbsp; Public utilities can impose requirements that must be addressed.&nbsp; An EnMS can help an organization address these issues and provide evidence of its efforts.&nbsp; Examples of public interested parties are:</p>
+
+<ul>
+	<li>Neighbors</li>
+	<li>Community</li>
+	<li>Utilities</li>
+	<li>Schools</li>
+	<li>Environmental groups</li>
+	<li>Trade associations</li>
+	<li>Development organizations</li>
+</ul>
+
+<p><strong>Government</strong> &ndash; An EnMS can help an organization address existing regulations and plan for future government regulations.&nbsp; It provides the system to help the organization identify and address relevant government codes and laws.&nbsp; Some examples of governmental interested parties are:</p>
+
+<ul>
+	<li>U.S. Department of Energy</li>
+	<li>U.S. Environmental Protection Agency</li>
+	<li>Department of Natural Resources</li>
+	<li>Building code enforcement offices</li>
+	<li>State Energy Office</li>
+	<li>International regulatory agencies</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Internal business drivers)</p>
+
+<p>There are also internal business drivers that impact an organization&rsquo;s strategy and drive its business needs. Internal drivers are generally controlled by the organization and reflect the need of an internal stakeholder, but can be a response to an external driver. These drivers are identified to address internal needs and interests relative to energy use and efficiency.</p>
+
+<p>Relevant internal drivers can include:</p>
+
+<p><strong>Employee satisfaction</strong> &ndash; Employees want to do a good job and operate in a good working environment.&nbsp; Improving energy efficiency makes the process more efficient and can result in an improved operating environment by reducing heat, exhaust and waste levels.</p>
+
+<p><strong>Productivity</strong> &ndash; As operations are improved and less energy is required, they become more productive.&nbsp; Productivity is output over input; as output increases or input decreases, productivity is improved.&nbsp; An improved working environment promotes higher employee morale, increased output relative to input, and improved operational control. Examples of energy efficiency changes that can result in improved productivity include:&nbsp;</p>
+
+<ul>
+	<li>Efficient energy procurement practices</li>
+	<li>Improved capacity utilization</li>
+	<li>Process and equipment efficiency improvement</li>
+	<li>Fuel burning and utility equipment efficiency improvement</li>
+	<li>Combined heat and power</li>
+	<li>Waste heat recovery</li>
+	<li>Automated control systems</li>
+	<li>Monitoring equipment improvement</li>
+	<li>Reduced backup with better reliability</li>
+	<li>Improved employee environment</li>
+</ul>
+
+<p><strong>Technology</strong> &ndash; Advanced technologies are typically more energy efficient and may improve a process or operation.&nbsp; In addition to improving efficiency, advanced technologies can also result in improved operational flexibility and better control.</p>
+
+<p><strong>Maintenance</strong> &ndash; Regular maintenance is critical to maintaining equipment operating efficiency, which results in peak energy efficiency.&nbsp; It also promotes improved reliability, better schedule adherence, better utilization, and extended equipment life.</p>
+
+<p><strong>Organization development goals</strong> &ndash; Strategic goals by the organization to be the best, the first, the most efficient, the biggest producer, etc. drive the organization to include energy efficiency as a component of their management system.&nbsp; Financial, legal and social drivers all play into the organizational goals and the role energy efficiency plays in addressing those drivers should be addressed.</p>
+
+<p>Identify the relevant internal drivers and determine how they interface with the organization&rsquo;s energy management and energy performance.&nbsp; Use this information to support the business case for EnMS implementation.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Key internal influencers)</p>
+
+<p>As part of preparing the business case, consider identifying &ldquo;key internal influencers&rdquo; within your organization. Internal influencers are individuals who do or could have interest or influence on decisions related to energy. To gain support for the development and operation of the EnMS, it can be helpful to identify these individuals from among management and employees. Identify how energy is important to them and what would encourage their support and participation. Each may have a different motivation; for example:</p>
+
+<ul>
+	<li>A Building Manager or Production Manager&rsquo;s primary focus may be energy availability.</li>
+	<li>A Purchasing Manager&rsquo;s primary focus may be energy cost.</li>
+	<li>A Maintenance Manager&rsquo;s primary focus may be energy quality and availability.</li>
+	<li>An Environmental Manager&rsquo;s primary focus may be environmental impacts, such as pollution, from energy consumption.</li>
+</ul>
+
+<p>Ensure that the needs of the internal influencers related to energy use (i.e., application of energy) and energy consumption (i.e., quantity of energy applied) are understood and addressed within the business case. The Worksheet illustrates how this information can be captured. A blank template is available in the Worksheet for your optional use.</p>
+
+<p>[Learn More End]</p>
 <p>[Accordion End]</p>
+<p>[Accordion](Prepare a briefing for top management)</p>
 
-<p>[Accordion](Schedule regular energy team meetings)</p>
+<p>If management has not already committed to EnMS implementation, or if commitment is lacking, they will need to be convinced of the benefits so they can provide successful support.</p>
 
-<p>Establish regular team meetings to promote continuity of EnMS development, and to provide for progress reviews and task assignments, and to address issues. The meeting length and frequency may vary, but the meetings should include team work sessions to address specific topics related to EnMS development and implementation.</p>
+<p>[Learn More](Tips for preparing a briefing for top management)</p>
 
-<p>One of the first team meetings should include training on the ISO 50001 standard. If your organization desires to pursue certification, purchase copies of the ISO 50001:2011 standard and distribute them among team members. Team members need to be familiar with the standard&rsquo;s requirements (Section 4 of ISO 50001), particularly those requirements related to their area of responsibility on the team. This training can be conducted by the management representative, or by an external training provider if the management representative is not familiar with the standard&rsquo;s requirements.</p>
+<p>Consider the following tips when preparing your briefing for top management:</p>
 
-<p>During initial development of the EnMS, your team will meet frequently to make plans, schedule activities, assign responsibilities, and review progress. From the start, ensure your team members are familiar with their individual team roles and responsibilities. Consider developing a team charter to clarify and communicate the overall expectations for team members. Use common project management techniques to define and manage the implementation schedule and tasks, along with their assignment and completion (see [resource](Project_Management_for_EnMS_Implementation)).</p>
+<ul>
+	<li><strong>The target audience is management.</strong> What drivers are important to them? Management is typically interested in the bottom line, but there may be other important drivers. Focus on these, and make the presentation complete but brief. Management frequently just wants to hear the major facts. Have additional data available if more detail is requested, but if presentation timelines are provided, stick to them.</li>
+	<li><strong>Focus on what you are trying to convey.</strong> Present the background required to support the benefits of an EnMS, and don&rsquo;t mix in unrelated issues or ideas. Focus on the continual improvement-based nature of the management system and the direct impacts on the organization&rsquo;s well-being and improvement.</li>
+	<li><strong>Present the benefits in management&rsquo;s terms.</strong> Using the drivers already identified, present the benefits in terms of those drivers. Make sure management understands the benefits with respect to their key items of interest.</li>
+	<li><strong>Understand the desired objective.</strong> What is the expected result of this presentation? Provide information to encourage that result or offer suggestions.</li>
+</ul>
 
-<p>As EnMS development progresses, additional expertise may be needed on the team to address details associated with specific EnMS requirements; for example, data gathering and analysis. Review progress regularly and consider if additional team members are needed to address certain topics or implementation issues.</p>
+<p>An elevator speech - a short summary - can be used to get a point across quickly and simply. It should take no longer than two minutes to present. Use the Worksheet to focus on the essential information, and then expand it to the time available. Regardless of the amount of time available, be sure to cover the important points at the beginning. To ensure that management hears what you want to share, an old adage is appropriate: &ldquo;Tell them what you are going to tell them, then tell them, and then tell them what you told them.&rdquo;</p>
 
-<p>Upon full implementation of the EnMS, the team will ensure its continued operation and manage activities for continual improvement. It may be appropriate to reduce the team size once the system has been established and effectively implemented. However, the team is a key component in the ongoing operation of the EnMS, and sufficient cross-functional membership and activity level should be maintained to ensure its effectiveness and continual improvement.</p>
+<p>[Learn More End]</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Deliver briefing to top management)</p>
+
+<p>[Learn More](Tips for delivering a briefing to top management)</p>
+
+<p>Develop a briefing for top management using the organization&rsquo;s standard presentation tools or in another format that best displays the information.</p>
+
+<p>Stay within the time frame provided and stick with the planned presentation. Be prepared to answer questions and provide more detail if requested.</p>
+
+<p>Management may ask the following types of questions:</p>
+
+<ul>
+	<li>What do we currently spend each year on energy?</li>
+	<li>What are the estimated cost savings that potentially we could realize in one to two years?</li>
+	<li>What will be the time commitment by the energy management team?</li>
+	<li>What are the biggest challenges to implementing an ISO 50001 EnMS?</li>
+	<li>What will you need from us (top management) to make this program successful?</li>
+</ul>
+
+<p>The intent of the presentation is to briefly provide the information needed for management to make necessary decisions, and to provide additional details as required. If the topic begins to stray, put the presentation back on track by bringing the group&rsquo;s attention back to the presentation materials. The Worksheet can help you stay on track. Adjust the agenda based on the time available.</p>
+
+<p>[Learn More End]</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Secure management commitment)</p>
+
+<p>Obtaining sincere top management support is a critical component of developing an energy management system that will be sustained. Consider the following questions:</p>
+
+<ul>
+	<li>Is your top management on board?</li>
+	<li>Have they assigned the responsibilities and authorities to implement an EnMS?</li>
+	<li>Has top management approved and allocated the resources needed to successfully implement an EnMS?</li>
+	<li>Once the EnMS is implemented, are they committed to the actions and resources needed for operating and maintaining it for the long term?</li>
+	<li>Are they willing to continually improve energy management and energy performance as part of the organization&rsquo;s ongoing business strategy?</li>
+</ul>
+
+<p>Top management commitment needs to be followed by a clear understanding of their responsibilities and appropriate actions. Top management must demonstrate its leadership and commitment. When top management is active and visible in the EnMS, employees and others perceive the value and importance of energy management and energy performance improvement to the organization. For example, simple actions from top management such as adding energy topics to meeting agendas and sending email updates on energy performance help to keep the whole organization involved.</p>
+
+<p>[Learn More](Create a project plan)</p>
+
+<p>A project plan that outlines the actions, schedule, and resources necessary to implement the EnMS can help garner management support because it clearly defines expectations for the effort. Consider creating a project planning for EnMS implementation using the approach outlined in the Worksheet.</p>
+
+<p>[Learn More End]</p>
+
+<p>Top management must support the effort not just during initial EnMS implementation, but also after the system is implemented and operational. Management must take a number of actions that will demonstrate their commitment to continual improvement of energy performance and the EnMS. These actions are detailed below and in [task](Scope and Boundaries), [task](Energy Policy), [task](Energy Team and Resources), and [task](Awareness and Communication).</p>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Brief top management on their EnMS leadership responsibilities)</p>
+
+<p>Once top management is committed to implementing the EnMS, make sure they understand what actions they must take in order to demonstrate their commitment to continual improvement of both energy performance and the EnMS. Per the requirements of ISO 50001, top management can delegate responsibility for many, but not all, actions.</p>
+
+<p>While the 50001 Ready Navigator does not follow the exact requirements of ISO 50001 below is a list of actions the ISO standards says top management directly must act on:</p>
+
+<ul>
+	<li><u>Communicate</u> that effective energy management and following the requirements of the EnMS are important;</li>
+	<li><u>Promote</u> continual improvement of the EnMS and continual energy performance improvement;</li>
+	<li><u>Direct and support</u> contributions by personnel to energy performance improvement and the effectiveness of the EnMS; and</li>
+	<li><u>Support </u>other management in demonstrating their leadership in their areas of responsibility;</li>
+</ul>
+
+<p>In addition, top management can either perform themselves or delegate (ensure) <u>that</u>:</p>
+
+<ul>
+	<li>the scope and boundaries of the EnMS have been clearly defined;</li>
+	<li>the energy policy, objectives and energy targets align with the strategic direction of the organization;</li>
+	<li>requirements of the EnMS are integrated into the organization&rsquo;s business processes;</li>
+	<li>action plans have approval and are implemented;</li>
+	<li>needed EnMS resources are available;</li>
+	<li>the intended outcomes of the EnMS are achieved;</li>
+	<li>an energy management team is formed;</li>
+	<li>EnPIs that appropriately represent energy performance; and,</li>
+	<li>there are processes to identify and address changes affecting the EnMS and energy performance.</li>
+</ul>
+
+<p>Briefing top management on their EnMS leadership and commitment responsibilities is typically done by the leader or members of the energy team. An effective approach can be to schedule the briefing as part of an existing management meeting. Alternatively, the briefing could be part of an ISO 50001 training event that includes top management.</p>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Plan for how top management will meet their responsibilities)</p>
+
+<p>One outcome of the briefing to top management should be a plan for how top management will meet their responsibilities during initial EnMS implementation. For example, in most initial EnMS implementations, the energy team develops proposed energy performance indicators (EnPIs) and proposed objectives and energy targets. These are then reviewed and approved by top management before becoming a formal part of the EnMS. A project management best practice for the initial implementation is for project milestones to include submission to top management of final work products (outputs) for specific elements of the EnMS.</p>
+
+<p>After initial implementation, a number of top management&rsquo;s delegated responsibilities can be demonstrated through the management review process. (see [task](Management Review)).</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
