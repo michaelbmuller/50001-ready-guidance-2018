@@ -4,121 +4,326 @@ USDOE 50001 READY NAVIGATOR TASK 8
 ----------MENU NAME----------
 Energy Data Collection and Analysis
 ----------TITLE----------
-Task 8: We have determined our Significant Energy Uses (SEUs) and determined their energy performance, estimated future consumption and have a plan for reviewing and updating them.
+Task 8: We identify our energy sources and energy uses, have a data collection plan in place, and collect related energy and relevant variable data. We ensure the accuracy and repeatability of measurements. We analyze our energy use and consumption data.
 ----------GETTING IT DONE----------
-<ul>
-	<li>Using the Energy Uses tab of the [resource](Energy_Footprint_Tool), identify the Significant Energy Uses (SEUs) that consume the most energy in your facility.</li>
-	<li>Determine SEU energy performance and complete the [resource](SEU_Future_Energy_Estimate_Worksheet).</li>
-	<li>Develop and implement a plan for reviewing and updating SEUs.</li>
-	<li>Include a review of the SEU evaluation and selection methodology as part of the SEU update process.</li>
-</ul>
+<ol>
+	<li>Identify all energy sources that are consumed within the scope and boundaries</li>
+	<li>Make a list of energy uses within the scope and boundaries</li>
+	<li>Identify relevant variables that potentially affect the energy consumption of SEUs and would help create meaningful energy performance indicators (EnPIs) and energy baselines (EnBs)</li>
+	<li>Develop and implement a data collection plan based upon the data needs including the key characteristics of ISO 50001.</li>
+	<li>Ensure measurements and metering are conducted accuracy and are repeatable</li>
+	<li>Determine appropriate analysis methods and use them to understand and monitor energy use and energy consumption</li>
+</ol>
 ----------TASK OVERVIEW----------
-<p>It&rsquo;s important to identify your organization&rsquo;s significant energy uses (SEUs) using defined criteria for significance. SEUs can be determined based on major consumption and/or considerable opportunity for improvement.</p>
+<p>The first step in the data collection process is to identify the energy sources used by your organization within the scope and boundaries of the EnMS. To ensure that all energy sources are identified, this effort should include identification of the facilities, equipment, systems, and processes associated with each energy source. Understanding the sources of energy used and how they are used sets the stage for determining, collecting, and analyzing the data needed to evaluate your organization&rsquo;s energy performance and will be useful when selecting significant energy uses in [task](Significant Energy Uses).</p>
 
-<p>Once the SEUs are identified, the current performance of the significant energy uses (SEUs) needs to be determined as part of the energy review. Then processes are implemented to continually monitor that performance. Collecting, analyzing, and tracking data on SEU performance can help identify opportunities for energy performance improvement.</p>
+<p>The next step in the data collection process is to identify your organization&rsquo;s data needs. ISO 50001 requires that certain data are included in the energy review, including: energy sources, analysis of past and present energy use and energy consumption, relevant variables, estimates of future energy use and consumption, and data detailing energy uses that have substantial levels of energy consumption. These data will be critical to selecting energy performance indicators (EnPIs), establishing baselines, and setting objectives and energy targets ([task](Energy Performance Indicators and Baselines) and [task](Objectives and Targets)).</p>
 
-<p>In addition to determining and then monitoring SEU energy performance, projection of their future energy consumption is also an important part of energy planning. Projections allow your organization to look at the factors that could affect consumption over time.</p>
+<p>Once your data needs have been defined, establish a data collection plan which details a process to ensure regular data collection and that the collected data are accurate and repeatable. Energy bills are one ready source of data, but other data will be required to determine energy performance. Based on your identified energy data needs, your organization must develop a data collection process that includes assignment of responsibilities for data collection and handling (see [task](Energy Team and Resources)).</p>
 
-<p>Lastly, it is important to plan for how and when the energy team will review and update the SEUs and their evaluation and selection methodology. The review must be conducted regularly. Over time, the energy uses identified as significant may change as your organization continues to improve its energy performance. Also over time, it may be appropriate to modify the evaluation and selection methodology based on changes in facilities, equipment, systems, and processes.</p>
+<p>A 50001 Ready EnMS is data-driven and focused on measurable energy performance improvement. Analysis of energy use and energy consumption are critical not only to the energy planning processes of the EnMS, but also to measure the overall effectiveness of your EnMS. To analyze energy use and consumption data, you must identify or develop methods that are effective and suit your organization&rsquo;s needs.</p>
 
-<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
-
-<ul>
-	<li>Determined and applied criteria for selecting SEUs</li>
-	<li>Determined current energy performance of the SEUs and implemented associated monitoring</li>
-	<li>Calculated future energy use and consumption projection of the SEUs</li>
-	<li>A plan for updating the SEUs regularly</li>
-</ul>
-
-<p><em>This guidance is relevant to Section 4.4.3 b) of the ISO 50001:2011 standard.</em></p>
+<p><em>This guidance is relevant to Sections 6.3, 6.6 and 9.1.1 of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Determine and apply criteria for significance)</p>
+<p>[Accordion](Identify current energy sources)</p>
 
-<p>Recall that according to the definition of significant energy uses, substantial energy consumption and/or considerable opportunity for improvement are the criteria used in determining your organization&rsquo;s significant energy uses. Most organizations will determine SEUs based on the largest energy consuming systems and equipment identified in an energy balance. However, SEUs also may be determined based on considerable potential for energy performance improvement. This can be a good option if your organization has been engaged in energy management activities for many years and the opportunities for additional improvements to the largest energy-consuming systems are limited. In this situation, you can focus on smaller systems that have greater opportunity for energy performance improvement.</p>
+<p>The first step in completing this task is to identify and document your organization&rsquo;s current energy sources. Energy sources (called &ldquo;energy types&rdquo; in ISO 50001:2018) are the forms of energy that are consumed by your organization.</p>
 
-<p>In [task](Data Analysis), the energy balance was presented as a method of reasonable assurance that you have accounted for all the energy consumed in your organization. Once a balance is achieved, one of the most common methods for determining SEUs is to rank the energy uses by consumption. You can then establish a certain threshold of energy consumption or a certain percentage of total consumption as the selection criterion for significance (see [task](Data Analysis)). The top energy consumers are then evaluated for improvement opportunities. However, this is only an example of one way to approach the selection criteria; you can choose different approaches that are appropriate for your organization.</p>
+<p>[Learn More](Examples of energy sources)</p>
 
-<p>[Learn More](80/20 Rule)</p>
-
-<p>In industry and many businesses, the <em>80/20 rule</em> typically applies (see [task](Data Analysis)); i.e., 80 percent of the energy consumption will be accounted for by 20 percent of the equipment or processes. Typically, only a few energy systems consume the majority of a facility&rsquo;s energy. Focus on these, and apply the criteria for significance. Energy management is a continual improvement process, and over time additional energy systems and uses can be identified as significant.</p>
-
-<p>[Learn More End]</p>
-
-<p>For newly implemented energy management systems, it is important to start simple. Consider limiting the number of SEUs in your new EnMS, since these energy uses require the most resources. ISO 50001 requires that you address competency of personnel whose work is related to the (see [task](Training) and [task](Communications)), operational control (see [task](Operational Controls)), procurement (see [task](Procurement)), and monitoring and measurement (see [task](Monitoring) and [task](Measurement)) of all the SEUs identified. You will also need to take SEUs into account when establishing objectives and targets (see [task](Improvement Projects)). These requirements can quickly consume available resources.</p>
-
-<p>A list of the SEUs and the method used to determine them is an important energy management planning document. You will need to record the evaluation and selection criterion and the process used to determine significance. The methodology may change over time, and those changes must also be recorded. The [resource](Worksheet_Documenting_SEU_Criteria_Method) is available to help document the criteria and method used to determine significant energy uses.</p>
-
-<p>[Learn More](Making SEU Connections)</p>
-
-<p><strong>Making</strong> <strong>SEU Connections</strong> is a recommended best practice is record the significant energy uses, the areas or operations with which they are associated, and the affected personnel (by position title) by completing columns 1, 2, and 5 on the [source](SEU_Control_Chart). This simple spreadsheet tool can serve as the list of current significant energy uses and a place to record other information that will be needed to ensure proper management of significant energy uses. An [resource](Example_SEU_Control_Chart) is also provided. The other information about SEUs (i.e., columns 4, 6, 7, and 8 in the SEU Control Chart) will be generated in [task](Monitoring), [task](Measurement), and [task](Operational Controls).</p>
-
-<p>[Learn More End]</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Determine current energy performance and implement monitoring)</p>
-
-<p>Once the SEUs are identified, collect appropriate energy data to determine their performance (part of [task](Data Analysis)). A best practice is to include their energy performance data and information within the energy tracking system (see [task](Data Analysis)). This brings all of the organization&rsquo;s energy data into one central location. Normal analysis and tracking of energy data will then include updating energy performance on the SEUs.</p>
-
-<p>An energy performance indicator (EnPI) (see [task](Baselines, Objectives and Targets)) can be developed to define the energy performance for a SEU. There are [resource](Generally_Accepted_EnPIs) for many common energy systems that are often identified as SEUs. Similar EnPIs can be developed for facilities, equipment, processes, personnel, or other systems. Track the EnPIs to reveal trends that allow comparison of the performance of SEUs over time. Benchmarking, which is the practice of comparing an SEU to the best in class or theoretically optimal performance of similar uses, may be used when available (see [task](Data Analysis)).</p>
-
-<p>[Learn More](Example of EnPI tracking)</p>
-
-<p>An [resource](Example_EnPI_Tracking) for steel melt furnace energy performance is included. The example presents furnace performance expressed as kilowatt-hours per ton for two shifts over a three-week period. The example illustrates how EnPIs can be used to track SEU performance over time and how operating personnel can affect the energy performance of the significant energy use.</p>
-
-<p>[Learn More End]</p>
-
-<p>Energy performance of a SEU also can be determined and monitored by operational or maintenance parameters (see [task](Monitoring)).</p>
-
-<p>Significant energy uses are among the &ldquo;key characteristics&rdquo; of energy performance that are regularly monitored, measured, and analyzed (see [task](Monitoring)). Your organization decides on the method for determining energy performance and identifies the monitoring and measurement necessary for data collection. Data analysis is a continuous process. Continue to monitor the SEUs and collect, analyze, and track data to identify opportunities for energy performance improvement.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Calculate future energy use and consumption)</p>
-
-<p>Because SEUs typically account for a major portion of an organization&rsquo;s energy consumption, projection of their future energy consumption is an important part of energy planning. Projections allow for an organization to look at the factors that could affect consumption and make important decisions about production, energy projects, technology implementation, sources, availability, etc. To assist with projecting energy consumption of significant uses, a [resource](SEU_Future_Energy_Estimate_Worksheet) is provided. Complete one estimate for each SEU. You can estimate potential changes in SEU consumption based on the effects of various factors.</p>
-
-<p>[Learn More](Factors that can affect energy consumption)</p>
-
-<p>To help identify the factors important to your organization, you may want to consider:</p>
+<p>Some examples of energy sources include:</p>
 
 <ul>
-	<li>Occupancy</li>
-	<li>Production</li>
-	<li>Capital investment</li>
-	<li>Replacement energy sources</li>
-	<li>Completed energy projects</li>
-	<li>New technologies</li>
-	<li>Process changes</li>
-	<li>Materials changes</li>
-	<li>Product criteria</li>
-	<li>Weather</li>
-	<li>Operational criteria</li>
-	<li>Changes to the economy</li>
-	<li>Business or industry sector change</li>
+	<li>Electricity</li>
+	<li>Natural Gas</li>
+	<li>Fuel oil</li>
+	<li>Diesel</li>
+	<li>Gasoline</li>
+	<li>Propane</li>
+	<li>Coal</li>
+	<li>Wind-based electricity</li>
+	<li>Geothermal</li>
+	<li>Biomass</li>
+	<li>Steam</li>
+	<li>Compressed air</li>
+	<li>Chilled water</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>Develop a future energy consumption estimate for SEUs to provide an early warning about anticipated changes occurring in your organization, and use it as a reference to evaluate results.</p>
+<p>To help identify all energy sources consumed within the defined boundaries you will want to identify associated facilities, equipment, systems, and processes. Use one or more of the following to help identify energy-using facilities, equipment, systems, and processes, and account for all energy sources:</p>
+
+<ul>
+	<li>Floor plans</li>
+	<li>Process flow charts</li>
+	<li>Facility plan with equipment locations</li>
+	<li>Building schematics</li>
+	<li>Wiring diagrams</li>
+	<li>Utility diagrams</li>
+	<li>Equipment lists</li>
+</ul>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Identify energy uses)</p>
+
+<p>In ISO 50001 terminology, energy use is not the same as energy consumption. <em>Energy use</em> is defined as an &ldquo;application of energy.&rdquo; Examples include ventilation, heating, cooling, lighting, and transportation. Energy uses are associated with the facilities, equipment, systems, and processes that consume energy.</p>
+
+<p>[Learn More](Examples of energy uses)</p>
+
+<p>Some examples of these energy uses are:</p>
+
+<ul>
+	<li>Indoor lighting</li>
+	<li>Outdoor lighting</li>
+	<li>Space heating</li>
+	<li>Space cooling/air conditioning</li>
+	<li>Commercial/industrial hot water or steam boilers</li>
+	<li>Domestic type hot water heaters</li>
+	<li>Office equipment</li>
+	<li>Maintenance building</li>
+	<li>Boiler house</li>
+	<li>Main production building</li>
+	<li>Accounting office</li>
+	<li>Air compressors</li>
+	<li>Pumps</li>
+	<li>Ovens or process heating</li>
+	<li>Refrigeration systems</li>
+	<li>Conveyors/conveying systems</li>
+	<li>Fans and ventilation (not associated with space heating/cooling)</li>
+	<li>Cooling towers</li>
+	<li>Motors</li>
+	<li>Water chillers</li>
+	<li>Paint line</li>
+	<li>Assembly</li>
+	<li>Purchasing</li>
+	<li>Information technology</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Energy uses can be identified in any way that suits your organization. Earlier in this task you associated energy sources with their appropriate facilities, equipment, systems, and processes to ensure all relevant sources were identified. Organize equipment, systems and processes into logical groupings or categories (i.e., uses) that would best allow you to evaluate and improve energy performance.</p>
+
+<p>[Learn More](Categories of energy use)</p>
+
+<p>Sometimes it is helpful to categorize energy uses. Some potential categories to consider (with examples in parentheses) are:</p>
+
+<ul>
+	<li>Processes (all the equipment associated with a printing process or a drying process)</li>
+	<li>Similar equipment (all air conditioners or all compressors)</li>
+	<li>Departments (computer lab or painting department)</li>
+	<li>Systems (lighting or compressed air)</li>
+	<li>Utility distribution (panel A or all 50 amp circuit breakers)</li>
+	<li>Specific equipment (a specific mainframe computer or boiler)</li>
+	<li>Facilities (administration building or production shop)</li>
+</ul>
+
+<p>Energy uses do not have to be collected into one specific category; a combination of different categories can be used. An example is that the computer lab, the printing process, the boiler, and the electricity used by the remainder of the facility could each be identified as separate energy uses.</p>
+
+<p>[Learn More End]</p>
+
+<p>It is recommended that you make a list of energy uses identified in this task.This list can be used to review energy uses and ensure you are monitoring them appropriately. Additionally, as part of [task](Significant Energy Uses) you will select individual energy uses to focus your energy performance improvement activities. Making a list now of identified energy uses will aid in the SEU selection process later.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Plan for updating the significant energy uses)</p>
+<p>[Accordion](Relevant Variables)</p>
 
-<p>Establish a plan for the energy team to review and update the SEUs as well as their evaluation and selection methodology regularly. Management input should be solicited during this process. Changes in the selected SEUs or the evaluation and selection process may be necessary for a number of reasons:</p>
+<p>Relevant variables are quantifiable factors that routinely change and have a major impact on energy performance, including the performance. As part of ISO 50001:2018 energy consumption values for EnPIs, EnBs, and SEUs may need to be &ldquo;normalized&rdquo; for relevant variables. Consider potential EnPIs and SEUs and what factors might be relevant variables if the organization determines that the relevant variables &ldquo;significantly&rdquo; affects energy consumption. For commercial or institutional facilities, occupancy and weather can often be variables affecting consumption. For industrial facilities, production level is generally an additional variable that affects energy consumption. In addition to weather, occupancy, and production consider the following: operating schedule, product mix, input materials, and season. Understanding the relationship between relevant variables and energy consumption is important in formulating how energy can be controlled and energy performance maximized.</p>
+
+<p>An easy way to verify the impact of specific variables is by collecting relevant energy data and comparing it to appropriate variable data to determine the relationship, if any, of the change in energy consumption coinciding with the change in the variable. One way to define the relationship is to graph the energy data over a defined time period and compare it to a graph of the variable data, such as average daily temperature, over the same period and determine if there are coincidental variations. Consistent variations between the two could indicate a valid relevant variable. Anomalies between the two may indicate other relevant variables are also a factor. Statistical techniques or more sophisticated engineering calculations may be required for analysis of multiple variables.</p>
+
+<p>The EnPI Lite software can assist you in determining if variables significantly affect energy consumption per the 50001 Ready Measurement and Verification Protocol. The free online tool can also be used to determine energy performance improvement.</p>
+
+<p>Records of relevant variable data must be retained.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identify data needs)</p>
+
+<p>In addition to the data needed to measure and monitor energy consumption and relevant variables, you should identify data needs to satisfy the process of conducting an energy review, the &ldquo;key characteristics&rdquo; of operations affecting energy performance, and other needs of your organization.</p>
+
+<p>[Learn More](Energy Review Data Needs)</p>
+
+<p>The energy review is intended to profile your organization&rsquo;s energy situation and serve as a guide for collecting and analyzing the data needed to determine energy performance and identify improvement opportunities.</p>
+
+<p>ISO 50001 requires that the following data and information be included in the energy review:</p>
 
 <ul>
-	<li>Improvement projects have reduced consumption of an SEU below the selection threshold</li>
-	<li>Changes in resources available to address SEUs</li>
-	<li>Business changes have affected SEU focus/selection</li>
-	<li>New processes have altered energy consumption patterns</li>
+	<li>Energy sources</li>
+	<li>Analysis of past and present energy use and energy consumption</li>
+	<li>Significant energy uses (SEUs) and their current performance</li>
+	<li>Relevant variables affecting the SEUs</li>
+	<li>Estimates of future energy use and energy consumption</li>
+	<li>Prioritized opportunities for improving energy performance</li>
 </ul>
+
+<p>In addition to collecting and analyzing data to determine your organization&rsquo;s energy performance, the energy review provides the basis for establishing the metrics for energy performance measurement and opportunity identification. Use these data for the following purposes:</p>
+
+<ul>
+	<li>Selecting energy performance indicators (EnPIs)</li>
+	<li>Establishing the energy baseline</li>
+	<li>Setting objectives and energy targets</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Key Characteristics Data Needs)</p>
+
+<p>In addition to the data required for the energy review and that your organization determines is needed, ISO 50001 requires that some specific data identified as &ldquo;key characteristics of operations affecting energy performance&rdquo; be collected in order to evaluate your organization&rsquo;s energy performance (see [task](Monitoring and Measurement of Energy Performance Improvement)). These key characteristics include:</p>
+
+<ul>
+	<li>energy consumption of SEUs and of the organization</li>
+	<li>relevant variables for SEUs</li>
+	<li>static factors, if applicable</li>
+	<li>operational criteria of SEUs</li>
+	<li>data related to action plans</li>
+</ul>
+
+<p>A resource such as the optional Worksheet can be used to identify and record the key characteristics and their monitoring and measurement requirements for your organization as you work through the tasks below. The Worksheet is provided to illustrate the types of information that can be captured in planning for monitoring, measurement, and analysis of the key characteristics.</p>
+
+<p>[Learn More End]</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Data sources)</p>
+
+<p>It is important to know where to locate and how to acquire energy data. Requirements will vary depending on the data to be collected. Energy bills are generally readily available and easy to collect, but other data may require more effort. Metering may not exist for some energy management data, and it may be necessary to evaluate your metering availability and data collection process to determine the most advantageous method(s) to collect the required data. For energy sources that can be metered, there are generally four sources for energy data collection, and you can employ some combination of these:</p>
+
+<ul>
+	<li>Utility revenue meters and records</li>
+	<li>Purchase orders</li>
+	<li>Nameplate data</li>
+	<li>Portable meters</li>
+	<li>Submeters</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Collecting Data)</p>
+
+<p>Once you have determined the data you need and want to collect and the potential collection mechanism, determine if a collection process is already in place and how you collect the information. If these data are not already collected, evaluate how they are being generated. Then determine if your organization has the means to collect the data. If not, consider acquiring additional metering equipment or devising an alternative form of performance analysis.</p>
+
+<p>Develop a consistent and reliable process for acquiring and recording data. Define the steps to be followed to ensure timely acquisition of accurate energy management related data. The complete collection process includes:</p>
+
+<ul>
+	<li>Energy management data required</li>
+	<li>Data location</li>
+	<li>How the data is to be collected</li>
+	<li>Person (by position) or source keeping the data</li>
+	<li>Frequency of data collection</li>
+	<li>Data storage method and location</li>
+	<li>Method of analysis</li>
+</ul>
+
+<p>The process may include additional steps, but the above steps, at a minimum, are best practice. Your energy team typically oversees this process. The Worksheet or similar document can be helpful in establishing your data collection process.</p>
+
+<p>How often the data are collected depends on your organization&rsquo;s needs and requirements. The benefit of having a formal data collection process is that it will ensure you collect the appropriate data and record it at the necessary frequency.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Define and implement an energy data collection plan)</p>
+
+<p>ISO 50001 requires a plan for collection of energy data. The energy data collection plan is developed to define, organize, and document monitoring and measurement activities. Each of the key characteristics of operations that affect energy performance listed above is evaluated to determine the appropriate attributes that should be measured or monitored so appropriate data can be collected for analysis.</p>
+
+<p>The optional Worksheet provides a guide to the details required to ensure adequate collection of data for determining energy performance. This form encompasses the relevant key characteristics.</p>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Periodically review measurement needs)</p>
+
+<p>Periodically reviewing your organization&rsquo;s measurement needs ensures that as the key characteristics that affect energy performance change over time, any needed adjustments are made to the energy data collection plan. If there are adjustments, inform relevant personnel of the changes. A practical approach to periodic review of measurement needs and updating the data collection plan involves two elements:</p>
+
+<ul>
+	<li>Defining a minimum frequency for the review (e.g., monthly, quarterly, semi-annually)</li>
+	<li>Integrating the review as part of your organization&rsquo;s &ldquo;real-time&rdquo; change management processes (mainly communication)</li>
+</ul>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Ensure accuracy and repeatability of measurements)</p>
+
+<p>A calibration program provides the means to ensure monitoring and measuring equipment is properly maintained to provide accurate data. Basic components of a calibration program involve the following:</p>
+
+<ul>
+	<li>Identifying the equipment to be calibrated &ndash; key characteristics</li>
+	<li>Specifying the method of calibration to be used &ndash; reference</li>
+	<li>Establishing calibration tolerance and frequency &ndash; deviation</li>
+	<li>Defining and assigning calibration responsibilities &ndash; multiple elements</li>
+	<li>Maintaining appropriate documentation &ndash; plan and records</li>
+</ul>
+
+<p>[Learn More](Components of a calibration program)</p>
+
+<ul>
+	<li>Identify equipment to be calibrated</li>
+	<li>Specify the calibration method</li>
+	<li>Establish calibration tolerance and frequency:</li>
+	<li>Define and assign calibration responsibilities:</li>
+	<li>Maintain appropriate documentation</li>
+</ul>
+
+<p>Smaller organizations can use simpler plans to assure measurements, monitoring, and metering are accurate and repeatable.&nbsp; Some available resources are located in the optional Worksheet.</p>
+
+<p>[Learn More End]</p>
+<p>[Accordion End]</p>
+
+<p>[Accordion](Determine data analysis methodSSSS and assign responsibilities)</p>
+
+<p>Your organization can analyze and track energy in many different ways, from simple in-house spreadsheets to very sophisticated software and web-enabled applications. The DOE Energy Footprint Tool provides basic energy data analysis for your building or facility.</p>
+
+<p>Finding an effective data analysis method is important for identifying energy uses with major energy consumption as well as energy opportunities that lead to cost savings. It will show areas that are significant and deserve the most attention. It will also show trends and anomalies that help direct your energy management efforts.&nbsp; It can also help identify billing errors and hidden costs within utility rate structures. It will help your energy team communicate the value of energy management to top management and get the resources needed to make the EnMS successful. One of the most important outcomes of this analysis is to find the largest energy consuming systems and equipment which helps you determine your organization&rsquo;s significant energy uses [task](Significant Energy Uses).</p>
+
+<p>The data analysis method(s) appropriate to your organization may depend on several factors:</p>
+
+<ul>
+	<li>Data availability</li>
+	<li>Desired output</li>
+	<li>Level of available competency for data analysis</li>
+	<li>Audience</li>
+</ul>
+
+<p>[Learn More](Factors impacting the choice of data analysis methods)</p>
+
+<p><strong>Desired output</strong> &ndash; What is the output you want to achieve from the analysis? Before determining the analysis method to be used, you should clearly understand the goal of the data analysis. The Task Overview for this task mentions several uses for the data, but you may also want to:</p>
+
+<ul>
+	<li>Determine performance level</li>
+	<li>Monitor operations</li>
+	<li>Evaluate against a benchmark or like equipment or systems</li>
+	<li>Evaluate the result of maintenance or improvement activities</li>
+	<li>Validate the impact of relevant variables</li>
+</ul>
+
+<p>Consider the output, audience, and level of available competence for data analysis available when you select a method for analyzing data. Many simple analysis methods can be very effective in analyzing data collected in the energy review and providing the desired results. Some of these are discussed below.</p>
+
+<p>[Learn More End]</p>
+
+<p>Your organization is responsible for selecting one or more data analysis methods for the purpose of EnMS and energy performance improvement. Examples of common methods include trend analysis, benchmarking, graphing, Pareto analysis, energy balance, heat balance, utility analysis, financial analysis, and regression analysis. Choose the method or combination of methods that meets the specific goals of your organization. Consider learning from other organization&rsquo;s experience with data analysis to determine what will be most effective for you. Common forms of data analysis include:</p>
+
+<ul>
+	<li>Trend analysis</li>
+	<li>Benchmarking</li>
+	<li>Graphs</li>
+	<li>Ranking</li>
+	<li>Pareto analysis</li>
+	<li>Energy balance</li>
+	<li>Heat balance</li>
+	<li>Utility analysis</li>
+	<li>Financial analysis</li>
+	<li>Regression analysis</li>
+</ul>
+
+<p>You will continue to regularly collect and update the data to monitor conditions in the EnMS so you can make changes as required. Organizational changes related to processes, equipment, occupancy, improvement projects, etc. may require adjustments to your EnPIs, baselines, SEUs, objectives and energy targets, or other parts of the EnMS. Continue to collect data to evaluate any required adjustments to energy metrics or energy performance.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Both ISO 14001:2015 and ISO 50001:2011 use the construct of &ldquo;significance.&rdquo; In an ISO 14001 environmental management system (EMS) significant environmental aspects are determined, while in an ISO 50001:2011 EnMS, significant energy uses are determined. Although the criteria (and typically the methodologies) used to determine significance differs between ISO 50001 and ISO 14001, the end result is that determining significance helps to establish priorities and focus resources in both management systems.</p>
+<p>In an ISO 50001:2018 EnMS, all energy sources and energy uses within the defined EnMS scope and boundaries must be included and recorded in the energy review. Organizations with ISO 14001:2015 environmental management systems (EMSs) may be able to identify their energy sources and energy uses from their environmental aspects information. However, even if you start with the environmental aspects information, your team should reality-check the comprehensiveness of that information to ensure that all energy sources and energy uses have been identified for the EnMS. Since ISO 50001:2018 requires more extensive measurement and analysis of data than ISO 14001, it is recommended that the energy review be maintained separately from the environmental aspects information.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>The ENERGY STAR program does not require significant energy uses (SEUs) to be determined or a plan to be in place for updating them, something that is required by ISO 50001 and is covered in the guidance in this task.</p>
+<p>Step 2.1 and Appendix 3 of the ENERGY STAR Guidelines for Energy Management each provide guidance on gathering and tracking data. The guidance in this part of the 50001 Ready Navigator provides information on the energy data and information required by ISO 50001, along with additional suggestions, tools, and details on how to best gather and track your data.</p>
+
+<p>As an ENERGY STAR user, you may likely already be analyzing your organization&rsquo;s past and present energy consumption, using tools like Portfolio Manager. Data analysis tips are discussed in Steps 2.1, 2.2, 2.3 and 2.4 of the ENERGY STAR Guidelines for Energy Management. The 50001 Ready Navigator guidance in this step provides additional analysis tools and tips for your consideration.</p>
+
+<p>The ENERGY STAR Guidelines for Energy Management does not provide guidance on keeping a list of energy-using systems. Instead, it&rsquo;s left up to each organization to determine the appropriate level of detail when collecting data. ISO 50001 requires that the organization evaluate past and present energy uses and determine its significant energy uses (SEUs). Note that SEUs may be different from those areas, facilities, equipment identified in the ENERGY STAR program.</p>
+
+<p>This guidance is relevant to Step 4.1, 4.2, and 5.5 of the ENERGY STAR Guidelines for Energy Management. To define and implement an energy measurement plan, expand on the technical steps contained in Step 4.1 of the ENERGY STAR Guidelines by identifying key characteristics of your operations that determine energy performance and the associated monitoring and measurement requirements. This task contains guidance and several resources to help.</p>
+
+<p>Measurement needs may have been included when resources were identified in Step 4.2 of the ENERGY STAR Guidelines. When implementing the EnMS, it will be necessary to ensure measurement needs are periodically reviewed. These reviews of measurement needs can be incorporated into the periodic reviews your organization already has in place according to the guidance in Step 5.5 of the ENERGY STAR Guidelines.</p>
+
+<p>Monitoring and measurement systems for your EnMS will include calibration of the monitoring and measurement equipment to ensure data are accurate and repeatable, and maintaining associated records documentation and records.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
