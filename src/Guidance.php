@@ -90,7 +90,7 @@ class Guidance
     protected function loadTasks()
     {
         for ($task_id = 1; $task_id <= 25; $task_id++) {
-            $task = Task::load($task_id, $this->language, $this->markupProcessor);
+            $task = Task::load($task_id, $this, $this->markupProcessor);
             $this->tasks[$task->id()] = $task;
         }
     }

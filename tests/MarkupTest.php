@@ -56,7 +56,7 @@ class MarkupTest extends TestCase
             /** @var Task $task */
             $this->assertStringNotContainsString("NOT FOUND",$task->getGettingItDone(),'Task '.$task->id().' | Getting It Done');
             $this->assertStringNotContainsString("NOT FOUND",$task->getTaskOverview(), 'Task '.$task->id().' | Task Overview');
-            $this->assertStringNotContainsString("NOT FOUND",$task->getFullDescription($guidance), 'Task '.$task->id().' | Full Description');
+            $this->assertStringNotContainsString("NOT FOUND",$task->getFullDescription(), 'Task '.$task->id().' | Full Description');
             $this->assertStringNotContainsString("NOT FOUND",$task->getOtherIsoTips(), 'Task '.$task->id().' | Other ISO Tips');
             $this->assertStringNotContainsString("NOT FOUND",$task->getEnergyStarTips(), 'Task '.$task->id().' | Energy Star Tips');
             $this->assertStringNotContainsString("NOT FOUND",$task->getCustomTips(), 'Task '.$task->id().' | Custom Tips');

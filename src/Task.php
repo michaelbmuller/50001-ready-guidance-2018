@@ -31,6 +31,10 @@ class Task
      */
     protected $version;
     /**
+     * @var Guidance
+     */
+    protected $guidance;
+    /**
      * Language Code Requested
      *
      * @var string
@@ -149,17 +153,18 @@ class Task
      * Load task
      *
      * @param $task_id
-     * @param string $language
+     * @param boolean|Guidance|string $guidance
      * @param string $markupProcessor
      * @return Task
      * @throws \Exception
      */
-    static function load($task_id, $language = 'en', $markupProcessor = DefaultMarkupProcessor::class)
+    static function load($task_id, $guidance = false, $markupProcessor = DefaultMarkupProcessor::class)
     {
         if ($task_id < 1 or $task_id > 25) throw new \Exception('Task ID not valid', 404);
         $task = new self();
         $task->id = $task_id;
-        $task->language_requested = $language;
+        $task->guidance = ($guidance instanceof Guidance)?$guidance:false;
+        $task->language_requested = $task->guidance?$task->guidance->language:($guidance?:'en');
         $task->markupProcessor = $markupProcessor;
 
         $task->loadFile();
@@ -237,12 +242,12 @@ class Task
     /**
      * Returned marked up version of Full Description
      *
-     * @param Guidance|bool $guidance
+
      * @return mixed|string
      */
-    public function getFullDescription($guidance = false)
+    public function getFullDescription()
     {
-        return Markup::process($this->full_description, $this->markupProcessor, $guidance);
+        return Markup::process($this->full_description, $this->markupProcessor, $this->guidance);
     }
 
     /**
