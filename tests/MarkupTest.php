@@ -54,12 +54,12 @@ class MarkupTest extends TestCase
         $guidance = new Guidance();
         foreach ($guidance->getTasks() as $task) {
             /** @var Task $task */
-            $this->assertStringNotContainsString("NOT FOUND",$task->getGettingItDone());
-            $this->assertStringNotContainsString("NOT FOUND",$task->getTaskOverview());
-            $this->assertStringNotContainsString("NOT FOUND",$task->getFullDescription($guidance));
-            $this->assertStringNotContainsString("NOT FOUND",$task->getOtherIsoTips());
-            $this->assertStringNotContainsString("NOT FOUND",$task->getEnergyStarTips());
-            $this->assertStringNotContainsString("NOT FOUND",$task->getCustomTips());
+            $this->assertStringNotContainsString("NOT FOUND",$task->getGettingItDone(),'Task '.$task->id().' | Getting It Done');
+            $this->assertStringNotContainsString("NOT FOUND",$task->getTaskOverview(), 'Task '.$task->id().' | Task Overview');
+            $this->assertStringNotContainsString("NOT FOUND",$task->getFullDescription($guidance), 'Task '.$task->id().' | Full Description');
+            $this->assertStringNotContainsString("NOT FOUND",$task->getOtherIsoTips(), 'Task '.$task->id().' | Other ISO Tips');
+            $this->assertStringNotContainsString("NOT FOUND",$task->getEnergyStarTips(), 'Task '.$task->id().' | Energy Star Tips');
+            $this->assertStringNotContainsString("NOT FOUND",$task->getCustomTips(), 'Task '.$task->id().' | Custom Tips');
         }
     }
 
