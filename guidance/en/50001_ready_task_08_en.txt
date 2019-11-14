@@ -262,7 +262,7 @@ Task 8: We identify our energy sources and energy uses, have a data collection p
 <p>[Learn More End]</p>
 <p>[Accordion End]</p>
 
-<p>[Accordion](Determine data analysis methods and assign responsibilities)</p>
+<p>[Accordion](Determine data analysis method(s) and assign responsibilities)</p>
 
 <p>Your organization can analyze and track energy in many different ways, from simple in-house spreadsheets to very sophisticated software and web-enabled applications. The DOE Energy Footprint Tool provides basic energy data analysis for your building or facility.</p>
 

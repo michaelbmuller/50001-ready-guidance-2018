@@ -78,7 +78,7 @@ Task 11: We identify energy performance indicators (EnPIs) and energy baselines 
 
  <p>[Accordion End]</p>
 
- <p> [Accordion](Establishing energy baselines (EnBs))</p>
+ <p>[Accordion](Establishing energy baselines (EnBs))</p>
 
  <p>An energy baseline (EnB) is the quantitative reference(s) for comparing current EnPI values to determine if energy performance has improved. Typically, EnBs are associated with EnPIs and represent the value of an EnPI during a time interval known as the baseline period. Like EnPIs, the EnB can be established at any level of your organization. An EnB can be established for the entire facility and/or there can be baselines for individual equipment, systems, or processes. The following inputs will help to determine the appropriate EnBs:</p>
 
