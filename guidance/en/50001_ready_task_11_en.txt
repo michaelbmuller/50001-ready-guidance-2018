@@ -4,269 +4,139 @@ USDOE 50001 READY NAVIGATOR TASK 11
 ----------MENU NAME----------
 Energy Performance Indicators (EnPIs) and Baselines (EnBs)
 ----------TITLE----------
-Task 11: We have established an energy baseline(s), approved objectives and energy performance improvement targets, and timeframes for their achievement
+Task 11: We identify energy performance indicators (EnPIs) and energy baselines (EnBs) to measure and monitor our energy performance and to demonstrate energy performance improvement. We have a methodology for determining and updating them.
 ----------GETTING IT DONE----------
-<ul>
-	<li>Develop an energy baseline(s) for each EnPI.
-	<ul style="list-style-type:circle">
-		<li>Record the energy baseline(s) and measure changes in energy performance against the baselines.</li>
-		<li>Establish the conditions under which adjustments to the baseline(s) will be made.</li>
-	</ul>
-	</li>
-	<li>Develop your organization&rsquo;s objectives and targets for energy performance improvement.
-	<ul style="list-style-type:circle">
-		<li>Use the [resource](Energy_Objectives_Targets_Worksheet) to work through required considerations and document results.</li>
-		<li>Obtain top management&rsquo;s approval of the objectives and targets and communicate appropriately.</li>
-	</ul>
-	</li>
-</ul>
+<ol>
+	<li>Develop energy performance indicators (EnPIs) for your organization including an EnPI for each SEUs. If relevant variables significantly affect energy consumption normalize EnPIs.</li>
+	<li>Develop and energy baseline (EnB) for EnPIs in order to later determine energy performance improvement.</li>
+	<li>Communicate proposed EnPIs and EnBs to top management so they can ensure the EnPIs and EnBs are appropriate for the organization.</li>
+	<li>Record and regularly review the method used to determine and update EnPIs and establish the conditions under which adjustments to the baseline(s) will be made.</li>
+	<li>Compare EnPI values to their respective EnBs on a regular basis.</li>
+	<li>Implement a process for ongoing monitoring, measurement and analysis of your EnPIs, EnBs, and energy performance improvement</li>
+</ol>
 ----------TASK OVERVIEW----------
-<p>The energy baseline is the reference point used as the basis of comparison for determining energy performance. The baseline is established using the energy and organizational data from the energy review. It is responsibility of the management representative with support from the energy team.</p>
+<p>Energy performance indicators (EnPIs) are quantitative metrics used to monitor energy performance and demonstrate energy performance improvement. As quantitative measures, EnPIs are measured values, ratios, or models your organization accepts as meaningful representations of energy performance. Where the EnPI is the metric by which to measure energy performance the &ldquo;EnPI value&rdquo; is the measured or calculated number for a specific time period of measure (e.g. kWh is the EnPI and 42 is the EnPI value, together they indicate an energy performance of 42 kWh).</p>
 
-<p>The baseline facilitates comparison between where an organization&rsquo;s energy performance is (or will be) and where it started the energy improvements. The baseline can be for any time period that is meaningful to your organization and the performance metric being evaluated. Often a baseline is established by an organization&rsquo;s strategic initiatives or in response to a legal or other requirement. The baseline is established considering the data period(s) suitable for your organization&rsquo;s energy use and consumption. Typically, each identified EnPI will have an associated baseline.</p>
+<p>An energy baseline is the quantitative reference for comparing current EnPI values to determine if energy performance is improved. Typically, energy baselines are associated with EnPIs and represent the value of an EnPI during a time interval known as the baseline period. Often a baseline is established by an organization&rsquo;s strategic initiatives or in response to a legal or other requirement. The baseline is established considering the data period(s) suitable for your organization&rsquo;s energy use and consumption.</p>
 
-<p>Once the energy baseline has been determined, energy objectives and targets, with time frames for their achievement, should be established. Energy objectives are specific outcomes that your organization sets for itself to meet its energy policy commitment to improved energy performance. Energy targets are the quantified energy performance requirements set by your organization that need to be met to achieve the associated energy objectives. The energy objectives and targets, along with their related action plans (see [task](Improvement Projects)), are the driving force for continual improvement in your organization&rsquo;s energy performance.</p>
+<p>EnPIs and EnBs can be established at the level of the entire organization or at the level of a specific facility, piece of equipment, system, or process. ISO 50001 requires that all SEUs have at least one EnPI and associated EnB.</p>
 
-<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+<p>As discussed in [task](Energy Data Collection and Analysis) relevant variables are quantifiable factors that routinely change and have a major impact on energy performance, including the performance. EnPIs and EnBs that take relevant variables into account may be more meaningful than those that do depending on the intended use of the EnPI and EnB. Where the organization has data indicating that relevant variables significantly affect energy performance, the EnPIs should consider the relevant variables into account. The organization determines what indicates that a variable &ldquo;significantly affects energy performance&rdquo; and should develop a criteria to follow. If relevant variables are identified the EnPI should be &ldquo;and normalized,&rdquo; meaning absolute energy consumption itself cannot be used as the EnPI but needs to be adjusted through the use of an energy intensity, regression, or other adjustment method. the EnPIs and their respective EnBs.</p>
 
-<ul>
-	<li>Established a baseline(s)</li>
-	<li>Compared EnPIs to the baseline(s)</li>
-	<li>Recorded and maintained the baseline(s)</li>
-	<li>Specified conditions for adjusting the baseline(s)</li>
-	<li>Gathered and reviewed appropriate inputs</li>
-	<li>Defined and documented energy objectives and targets</li>
-	<li>Obtained management approval</li>
-	<li>Communicated the energy objectives and targets</li>
-</ul>
+<p>Responsibility for determining the EnPIs and EnBs typically rests with the energy team. It is top management&rsquo;s responsibility to ensure that the EnPIs and EnBs are appropriate for your organization and to provide the resources needed to establish, track, and evaluate the EnPI values.</p>
 
-<p><em>This guidance is relevant to Sections 4.4.4 and 4.4.6 of the ISO 50001:2011 standard.</em></p>
+<p>Once the EnPIs and EnBs are established, it is vital to analyze and monitor them and their associated EnPI values. The benefit of analyzing EnPIs values by making the comparison to the EnBs shows the direction and rate of change in organizational energy performance. Since the ultimate objective of energy management is continual improvement, consistent trends in actual and predicted energy performance can demonstrate and quantify the improvement.</p>
+
+<p><em>This guidance is relevant to Sections 6.4 and 6.5 of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Establish baseline(s))</p>
+<p>[Accordion](Establishing energy performance indicators (EnPIs))</p>
 
-<p>The baseline can be established at any level of your organization, and there may be multiple baselines. A baseline can be established for the entire facility and/or there can be baselines for individual equipment, systems, or processes. The baseline(s) is the reference(s) for comparing current energy performance to determine if performance is improving. The following inputs will help to determine the appropriate baseline(s):</p>
+ <p>Energy performance indicators (EnPIs) are developed using the information from the energy review ([task](Energy Data Collection and Analysis)). The responsibility for developing a list of potential EnPIs typically is left to the energy team and others assigned to assist. Top management is responsible for ensuring that the EnPIs appropriately represent energy performance. Most often, this is accomplished through the management review process (see [task]Management Review)).</p>
 
-<ul>
-	<li>How is each EnPI used for evaluating energy performance? Is there a logical baseline for each?</li>
-	<li>What are the historical changes to facilities, equipment, systems, processes, or organization that would change how energy performance is evaluated?</li>
-	<li>What stakeholder interests should be considered when establishing baselines for the energy metrics?</li>
-	<li>Are there strategic initiatives that would be measured or influenced by one or more of the established energy performance metrics? Is there a baseline associated with these strategic initiatives?</li>
-	<li>What are the historical periods that have reliable, consistent data for the established EnPIs?</li>
-</ul>
+ <p>It may be necessary to develop different EnPIs for different stakeholders. Stakeholder needs can vary significantly, and their requirements should be considered in EnPI development. Top management typically will be interested in an EnPI that is related to your organization&rsquo;s strategic business goals and improves the bottom line. Operations or production personnel may want a metric that provides guidance for operating equipment and systems at maximum efficiency. External agencies may require specific performance metrics to provide information related to regulatory or other requirements.</p>
 
-<p>The answers to these questions will help identify the relevant baselines for the established EnPIs.</p>
+ <p>While there are no limits on the number of EnPIs that your organization can have consider selecting a handful that provide immediate value to key stakeholders. At a minimum each significant energy use (SEU) should have one associated EnPI. EnPIs should be developed so you have an ability to monitor energy performance and demonstrate energy performance improvement of SEUs and other parts of your organization that are of interest.</p>
 
-<p>[Learn More](Using DOE EnPI Lite)</p>
+ <p>The meaning and usefulness of an EnPI may be enhanced if it is normalized by a relevant variable that affects the energy consumption pertaining to the EnPI. See [task](Energy Data Collection and Analysis) for additional details on relevant variables</p>
 
-<p>If you are using [resource](EnPI_Lite), it is recommended that your baseline year be the 12 months before your reporting period. It is also recommended that you select your reporting period such that the last month falls within the last 11 months. A benefit of refreshing your baseline every year is your model is more likely to fit your existing conditions and operations. Due to changes impacting energy use and consumption at the facility, energy models should be reviewed and refreshed periodically. Updating your baseline every year ensures this.</p>
+ <p>EnPIs are typically established in one of three forms:</p>
 
-<p>There may be several reasons for selecting a baseline other than the previous year (e.g., alignment with corporate baseline, alignment with financial metrics, facility changes rendering previous year unrepresentative of current conditions, etc.). If are having trouble developing a model, the [resource](EnPI_Lite) tool features two regression options: forecast and backcast. See the guidance in [task](Performance Indicators) for more information on this. EnPI Lite will also accept baseline and reporting periods outside of the recommended windows (see above). However, older baseline periods are less likely to reflect your facility&rsquo;s current energy use characteristics and may not track improvements related to your 50001 Ready EnMS. If both forecast and backcast valid models are available, [resource](EnPI_Lite) will default to the forecast model. However, use your understanding of how relevant variables impact your energy consumption and how they are included in each model before ultimately selecting a model.</p>
+ <ul>
+ 	<li>a single metric, such as consumption;</li>
+ 	<li>a ratio or per unit basis such as Btu/square foot or Btu/pound or Btu/unit; or</li>
+ 	<li>a numerical model that accounts for one or more relevant variables.</li>
+ </ul>
 
-<p>If you are using [resource](EnPI_Lite) to report against another baseline (e.g. a corporate baseline) or would like to leverage your DOE recognized improvements for meeting another energy performance target, you may want to consider &ldquo;banking&rdquo; your year-on-year energy intensity improvements. Through banking, you add successive year&rsquo;s energy performance improvements to each other. While this allows for maintaining multiple baselines, there is a discrepancy between the actual improvement calculated against the baseline year and the improvement calculated using banking against the same baseline year. This discrepancy will increase as you move further away from your baseline year. The table below describes the &ldquo;banking&rdquo; concept and illustrates the discrepancy:</p>
+ <p><strong>A single metric</strong>, such as consumption, is frequently adequate to determine and monitor energy performance if the equipment, system, or process is not affected by other variables or the relevant variables are constant. Single metrics are also easily conveyed to those not familiar with the details of energy uses or who wish to connect energy consumption to financial costs and environmental impacts.</p>
 
-<table border="1" cellspacing="0">
-	<tbody>
-		<tr>
-			<td style="width:97.9pt">
-			<p>Achievement period</p>
-			</td>
-			<td style="width:119.0pt">
-			<p>Annual improvement calculated in EnPI Lite</p>
-			</td>
-			<td style="width:126.3pt">
-			<p>Total improvement calculated against 2015</p>
-			</td>
-			<td style="width:135.6pt">
-			<p>Total improvement against 2015 using &ldquo;banking&rdquo;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:97.9pt">
-			<p>2015 &ndash; 2016</p>
-			</td>
-			<td style="width:119.0pt">
-			<p>2%</p>
-			</td>
-			<td style="width:126.3pt">
-			<p>2%</p>
-			</td>
-			<td style="width:135.6pt">
-			<p>2%</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:97.9pt">
-			<p>2016 &ndash; 2017</p>
-			</td>
-			<td style="width:119.0pt">
-			<p>3%</p>
-			</td>
-			<td style="width:126.3pt">
-			<p>4.9%</p>
-			</td>
-			<td style="width:135.6pt">
-			<p>5% ( = 2% + 3%)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:97.9pt">
-			<p>2017 - 2018</p>
-			</td>
-			<td style="width:119.0pt">
-			<p>4%</p>
-			</td>
-			<td style="width:126.3pt">
-			<p>8.7%</p>
-			</td>
-			<td style="width:135.6pt">
-			<p>9% ( = 2% + 3% + 5%)</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+ <p>[Learn More](Examples of single metrics)</p>
 
-<p>[Learn More End]</p>
+ <ul>
+ 	<li>A warehouse with no heating or cooling, equipped only with lighting, and operates on a set schedule every day would be expected to have consistent energy consumption. Any changes would reflect facility changes (e.g., adjusted schedule, facility expansion) or changes in energy performance (e.g., installed high efficiency lighting, removed excess fixtures).</li>
+ 	<li>A motor operated 24 hours a day at a constant load. A change in consumption may indicate motor problems, or if the current motor is replaced with an energy-efficient motor, a consumption decrease would be expected.</li>
+ </ul>
 
-<p>[Accordion End]</p>
+ <p>In these examples, monitoring consumption as the EnPI provides guidance on the operational status of equipment or information on the results of changes.</p>
 
-<p>[Accordion](Compare EnPIs to the baseline(s))</p>
+ <p>[Learn More End]</p>
 
-<p>The EnPIs that are established to determine energy performance are compared to the baseline to measure progress on improvement. Since the EnPIs and their associated baselines are compared, they must be consistent in forms and units to provide for a valid comparison.</p>
+ <p><strong>A ratio</strong> or a per unit basis EnPI may be desired so it is possible to make comparisons over time at different output levels or at different locations of a similar process. These EnPIs typically relate energy consumption, cost, or environmental impact to an appropriate organizational output. One form of a ratio EnPI that relates performance to production or to one single output is commonly referred to as <em>simple energy intensity.</em> An energy intensity EnPI is defined and calculated by dividing energy consumption by productive output for an organization, facility, department, product, equipment, system, process, or other part of the organization under consideration.</p>
 
-<p>If the EnPI is a simple metric (e.g., consumption) or a ratio (e.g., energy intensity Btu/lb.), energy performance is measured by comparing the current EnPI against the baseline to evaluate performance outcome from implementing action plans.</p>
+ <p>When calculating the EnPI, the energy measurement must accurately capture energy consumption for the unit under consideration, and the chosen unit, such as production measure, must cover the same time frame as the energy consumption.</p>
 
-<p>[Learn More](Result of comparing EnPI to baseline)</p>
+ <p>[Learn More](Examples of ratio metrics)</p>
 
-<p>At least four possible results representing different performance outcomes can occur when the comparison is made:</p>
+ <ul>
+ 	<li>For a commercial operation, an EnPI may be Btu/occupied-square foot or Btu/type-square foot or use (e.g., a commercial warehouse may calculate an EnPI for refrigerated square footage and another EnPI for dry goods square footage).</li>
+ 	<li>For an industrial plant, an EnPI may be Btu/unit produced or Btu/$-value added to product.</li>
+ 	<li>For an organization that makes bricks, a typical EnPI is Btu/lb. or Btu/ton of bricks. A change in this EnPI provides an indication that some parameter in the process has changed and warrants investigation.</li>
+ </ul>
 
-<ul>
-	<li>EnPI compared to the baseline indicates improvement in energy performance;</li>
-	<li>EnPI compared to the baseline indicates deterioration in energy performance;</li>
-	<li>EnPI compared to the baseline indicates no change in energy performance; or</li>
-	<li>EnPI and baseline show no discernible pattern in their relative values. (This could indicate variation in a factor assumed to be constant or the presence of variables unaccounted for in the metric.)</li>
-</ul>
+ <p>[Learn More End]</p>
 
-<p>[Learn More End]</p>
+ <p><strong>A model</strong> may provide a more meaningful measure of energy performance than a single metric or simple ratio to accurately represent the relationship between operational activities and energy consumption. In this case, more sophisticated models that allow the use of one or more factors for estimating energy consumption may be required. Depending on your needs, regression analysis or calculations using engineering theory may be required to provide a sufficiently accurate model. Modeling based on regression analysis or engineering theory can be complex, and typically requires analysis by someone skilled in the systems, processes, operations, or equipment being modeled.&nbsp; The U.S. Department of Energy offers a regression-based tool called the Energy Performance Indicator Tool Lite.</p>
 
-<p>The baseline can also help you forecast expected or predicted energy performance metrics. The benefit of making the comparison between actual and predicted EnPI is that it shows the direction and rate of change in organizational energy performance. Since the ultimate objective of energy management is continual improvement, consistent trends in actual and predicted energy performance indicators can demonstrate and quantify the improvement.</p>
+ <p>[Accordion End]</p>
 
-<p>The responsibility for EnPI and baseline analysis generally rests with the same personnel responsible for developing, testing, and determining the factors that affect the identified performance indicators. Often charts or graphs are used to report on EnPIs and energy performance metrics. EnPIs and their associated baselines are used to report energy performance to top management.</p>
+ <p> [Accordion](Establishing energy baselines (EnBs))</p>
 
-<p>[Accordion End]</p>
+ <p>An energy baseline (EnB) is the quantitative reference(s) for comparing current EnPI values to determine if energy performance has improved. Typically, EnBs are associated with EnPIs and represent the value of an EnPI during a time interval known as the baseline period. Like EnPIs, the EnB can be established at any level of your organization. An EnB can be established for the entire facility and/or there can be baselines for individual equipment, systems, or processes. The following inputs will help to determine the appropriate EnBs:</p>
 
-<p>[Accordion](Record and maintain the baseline(s))</p>
+ <ul>
+ 	<li>How will each EnPI be used for evaluating energy performance? Is there a logical EnB for each?</li>
+ 	<li>What are the historical changes to facilities, equipment, systems, processes, or organization that would change how energy performance is evaluated?</li>
+ 	<li>What stakeholder interests should be considered when establishing EnB for the EnPI?</li>
+ 	<li>Are there strategic initiatives that would be measured or influenced by one or more of the established EnPIs? Is there an EnB associated with these strategic initiatives?</li>
+ 	<li>What are the historical periods that have reliable, consistent data for the established EnPIs?</li>
+ </ul>
 
-<p>The baseline or baselines are recorded, maintained, and periodically reviewed to determine if adjustments are required. Calculated EnPIs and their associated baseline(s) are recorded and reviewed regularly. Updated EnPIs are incorporated into your organization&rsquo;s energy planning and used to help determine energy performance. Updated EnPIs include an evaluation of the relevant baselines to determine if the baseline(s) remain relevant. Maintaining the baseline(s) ensures that the evaluation of energy performance will remain relevant and meaningful as the EnMS matures.</p>
+ <p>The answers to these questions will help identify the relevant EnBs for the established EnPIs.</p>
 
-<p>Accurately recording and storing of EnPIs and the associated baseline(s) creates a historical registry that displays the impact of energy management practices over time. These performance data verify the success of activities such as energy-efficiency projects, energy-efficiency training, and increased energy-management awareness. It also provides a positive message for management to build support for the EnMS.</p>
+ <p>[Accordion End]</p>
 
-<p>[Accordion End]</p>
+ <p>[Accordion](Document the methodology for determining and updating EnPIs)</p>
 
-<p>[Accordion](Specify conditions for adjusting the baseline(s))</p>
+ <p>Documented information must be maintained on the methods you use to determine and update your organization&rsquo;s EnPIs. Some organizations document their methods within an energy manual, which is not required but can be useful as a &ldquo;roadmap&rdquo; to the EnMS. Other organizations address their methods for determining and updating EnPIs within an energy planning procedure. How and in what format the documented information is maintained is up to your organization.</p>
 
-<p>Because the energy baseline serves as the basis for comparison of energy performance, it generally remains stable over time. However, adjustments to the baseline are made in the following instances:</p>
+ <p>EnPI values are reviewed and compared to their respective EnBs, as appropriate. Typically, this is done on a regular basis to ensure continuing applicability for the energy performance being measured. Changes in facilities, equipment, systems, processes, operating procedures, materials, relevant variables, and many other factors could result in a change in the validity of the EnPI used to measure energy performance. When changes occur, they are evaluated so the EnPI can be updated as needed. Recall that top management is responsible for ensuring that the EnPIs are appropriate for the organization (see [task](Management Commitment)). As changes occur that affect the validity of the EnPIs, this information is included in [task](Management Review).</p>
 
-<ul>
-	<li>When the EnPIs no longer accurately reflect organizational energy use or consumption</li>
-	<li>When there are major changes in the process, operational patterns, or energy systems</li>
-	<li>According to a predetermined method</li>
-</ul>
+ <p>[Accordion End]</p>
 
-<p>Baseline records are updated when the baseline(s) is updated. Maintaining the baseline(s) keeps the measures of energy performance relevant and meaningful to your organization.</p>
+ <p>[Accordion](Determine when EnBs are adjusted)</p>
 
-<p>[Accordion End]</p>
+ <p>Calculated EnPI values and their associated EnBs are retained as documented information and periodically reviewed to determine if adjustments are required.</p>
 
-<p>[Accordion](Gather and review appropriate inputs)</p>
+ <p>The process of updating EnPIs should include an evaluation of the EnBs to determine if they remain a meaningful point of comparison to determine energy performance improvement. Adjustments to an EnB should be made in the following instances:</p>
 
-<p>An important first step in setting energy objectives and energy targets is to get the right people together and provide them with the inputs needed to develop relevant energy objectives and targets. The management representative and the energy team are key participants in this activity, but involving other functions can be beneficial if they are not already represented on the energy team.</p>
+ <ul>
+ 	<li>When the EnPIs no longer accurately reflect the organization&rsquo;s energy performance</li>
+ 	<li>When there are major changes to static factors, the process, operational patterns, or energy systems</li>
+ 	<li>According to a predetermined method</li>
+ </ul>
 
-<p>[Learn More](Other functions to involve in developing energy objectives and targets)</p>
+ <p>Records of modifications and updates to EnBs must be retained. Maintaining EnBs keeps the measures of energy performance relevant and meaningful.</p>
 
-<p>For the purpose of establishing energy objectives and targets, a recommended best practice is to supplement the energy team with:</p>
+ <p>[Accordion End]</p>
+<p>[Accordion](Monitor and analyze EnPI values and EnBs)</p>
 
-<ul>
-	<li>Individuals with energy expertise</li>
-	<li>Personnel in specialized functions, such as accounting or finance</li>
-	<li>Personnel familiar with operational or production equipment</li>
-	<li>Management familiar with organizational plans and goals</li>
-	<li>Suppliers or contractors that provide energy equipment or resources</li>
-	<li>Customers</li>
-	<li>Interested parties</li>
-</ul>
+ <p>Calculated EnPI values and EnBs should be recorded and reviewed on a regular basis. Updated EnPIs and EnBs are an input to management review ([task](Management Review)) and used to help monitor energy performance and demonstrate energy performance improvement. These metrics can be used to verify the success of activities such as energy-efficiency projects, operator or maintenance personnel energy-efficiency training, and energy management awareness programs. This provides a positive message for middle and top management to build support for the EnMS. Improvements in EnPIs are indicators of growing sophistication of the EnMS. Accurately recording and storing EnPIs and EnBs creates a historical registry that will display the impact of energy management practices over time.</p>
 
-<p>[Learn More End]</p>
+ <p>The components of EnPIs that are measured or calculated will be managed for accuracy and repeatability in the energy data collection plan (addressed in [task](Energy Data Collection and Analysis)). Top management&rsquo;s review of energy performance must include a review of performance as determined by the EnPIs and the related EnBs. Top management must ensure changes are made when these metrics are no longer appropriate.</p>
 
-<p>When setting (and later, when reviewing) the energy objectives and targets, you need to take into account the significant energy uses ([task](Data Analysis) through [task](Significant Energy Uses)) and the prioritized energy opportunities ([task](Improvement Opportunities)) that were identified as part of your energy review, as well as the energy-related legal and other requirements that apply to your organization ([task](Legal Requirements)). This is how the information generated by the energy review becomes an input into the energy performance improvement objectives and targets your organization sets for itself.</p>
+ <p>[Learn More](U.S. Department of Energy EnPI Lite software tool)</p>
 
-<p>However, you also need to ensure that the realities of your organization&rsquo;s business situation, operating conditions, and constraints are part of the context in which the energy objectives and targets are established. After all, the goal is to set objectives and targets that are achievable, align with your organization&rsquo;s strategic business plans, and result in successful energy performance improvement. These items are:</p>
+ <p>The U.S. Department of Energy developed the online EnPI Lite software as a free resource for organizations wishing to use regression modeling to develop normalized EnPIs and calculate energy performance improvement against an EnB. The EnPI Lite uses a set of statistical validity tests documented in the 50001 Ready M&amp;V Protocol to ensure results are mathematically meaningful. The EnPI Lite tool is used by many facilities seeking U.S. Department of Energy recognition as part of the 50001 Ready program. The EnPI Lite tool will provide you facility-level site energy savings, energy performance improvement percentage, and energy performance improvement percentage for each energy source.</p>
 
-<ul>
-	<li>Financial requirements</li>
-	<li>Business and operational conditions and constraints</li>
-	<li>Potential technological solutions</li>
-	<li>Views of interested parties</li>
-</ul>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Define and document energy objectives and targets)</p>
-
-<p>As specific outcomes that an organization sets to achieve its energy policy commitment to improved energy performance, energy objectives are high-level goals that are communicated throughout the organization and are the basis for setting quantifiable energy targets. Time frames for achieving the energy objectives and targets must be established. An example of an energy objective is:</p>
-
-<p><em>&ldquo;Reduce energy consumption 10 percent in five years from the 2014 baseline.&rdquo;</em></p>
-
-<p>After energy objectives are determined, your organization needs to set one or more energy targets for each objective. Energy targets define the specific, measurable energy performance improvements that contribute to achieving the objective. An energy target can apply organization-wide or only to a specific activity or part of the organization. Examples of targets that could be related to the previous example of an energy objective are:</p>
-
-<p><em>&ldquo;Reduce electricity consumption 5 percent compared to a 2014 baseline by the third Quarter of 2018.&rdquo;</em></p>
-
-<p><em>&ldquo;Reduce lighting system consumption 10 percent compared to a 2014 baseline by the end of FY 2017&rdquo;</em></p>
-
-<p>Targets may be developed in conjunction with the energy objective, or additional input may be required to identify specific targets that will enable the organization to meet the objective(s). For example, you may find it necessary to closely evaluate the potential energy savings associated with a specific energy opportunity to determine an appropriate energy target. Or, alternatively, an energy target will drive the choice of which energy opportunities are implemented to achieve the energy target and energy objective.</p>
-
-<p>The extent to which energy objectives and targets have been met is reported to top management through the management review process (see [task](Management Review)). Progress towards achieving the energy objectives and targets should be monitored and reviewed on an ongoing basis. Sometimes after initial implementation of the energy objectives and targets, an organization discovers that the initial data or metrics used to measure the energy target need to be revised to meet the energy objective.</p>
-
-<p>Energy objectives and targets must be documented.</p>
-
-<p>[Learn More](Benefits of documenting energy objectives and targets)</p>
-
-<p>Documenting them benefits your organization by:</p>
-
-<ul>
-	<li>Clarifying the objectives and targets</li>
-	<li>Preventing misunderstanding or assumptions</li>
-	<li>Providing structure to the process</li>
-	<li>Supporting training</li>
-	<li>Providing a means for accurate communication</li>
-</ul>
-
-<p>[Learn More End]</p>
-
-<p>Documentation may be in any format appropriate for your organization. The [resource](Energy_Objectives_Targets_Worksheet) is one approach to documenting the energy objectives and targets and the required considerations. Complete a separate worksheet for each energy objective.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Obtain management approval)</p>
-
-<p>Top management is responsible for ensuring that energy objectives and targets are established and for providing the resources needed to achieve them. Management ensures the energy objectives and targets are in line with overall organizational goals and strategies.</p>
-
-<p>Present the objectives and targets to management for review and approval in a clear and understandable format. Sufficient information should be provided to justify the objective&rsquo;s or target&rsquo;s purpose and its relationship to the organization&rsquo;s business goals and energy policy commitments. Management approves the objectives and targets or provides direction for any needed changes.</p>
-
-<p>The [resource](Energy_Objectives_Targets_Worksheet) also provides a convenient way to communicate the proposed objectives and related targets to management. This helps inform management on the inputs that were considered and identifies how they will be monitored.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Communicate the energy objectives and targets)</p>
-
-<p>Once the energy objectives and targets have been formally documented and approved by management, they should be broadly communicated across the organization using the communication and training processes of the EnMS (see [task](Communications) and [task](Training)). At a minimum, start by communicating the objectives and targets to the energy team and to all personnel who can affect them or have a role in achieving them. While some personnel may not have direct responsibility for achieving the objectives and targets, broad awareness of your organization&rsquo;s improvement efforts promotes a culture of energy efficiency and supports positive energy behavior. Employees and on-site contractors will need to be aware of how they contribute to achieving the objectives and target, so ensure that this information is incorporated into your organization&rsquo;s EnMS Awareness Training (see [task](Communications)). Periodically update personnel on progress made towards achieving the energy objectives and targets and celebrate success when they are achieved.</p>
-
-<p>[Accordion End]</p>
+ <p>[Learn More End]</p>
+ <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Objectives and information on when they will be completed is required by ISO 14001:2015 and ISO 9001:2015. The processes used to establish environmental and/or quality objectives may be suitable for setting energy objectives and targets for the ISO 50001:2011 system. Different personnel may be involved but the overall objectives-setting process could be the same. Often, the setting of quality, environmental, safety and health and energy objectives are part of the outcome of the organization&rsquo;s annual process for setting its overall business objectives. Note that unlike ISO 50001, ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo;</p>
+<p>Both ISO 14001:2015 and ISO 9001:2015 management systems involve the use of indicators, but not necessarily energy performance indicators (EnPIs). However, existing processes used to determine appropriate indicators for environmental or quality likely could be applied to determining EnPIs appropriate for an ISO 50001:2018 EnMS.</p>
+
+<p>ISO 14001:2015 uses indicators to evaluate progress towards environmental objectives. Since ISO 14001 also requires the determination of the criteria against which environmental performance is evaluated, some organizations may be using environmental indicators to evaluate energy performance as well. In ISO 9001:2015, indicators are focused on effective operation and control of processes. Indicators in ISO 50001:2018 are quantitative values or measures of energy performance.</p>
+
+<p>Overall, indicators in these standards are different from one another in terms of focus and purpose. But, organizational familiarity with the development and use of indicators can be helpful in implementing EnPIs for an ISO 50001 EnMS. Neither ISO 9001 or ISO 14001 include the concept of baselines.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 2.2 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provides tips on establishing a baseline--and Step 2.3, Step 3.0, Step 3.3, and Step 6.1 all provide tips on measuring energy performance against the energy baseline.</p>
-
-<p>If your organization already has data stored in the ENERGY STAR [resource](Portfolio_Manager), this data can be exported into [resource](EnPI_Lite) in order to estimate energy savings relative to relevant variables like production levels and weather. More instructions are available on the EnPI Lite webpage. The EnPI Lite energy model results in a normalized baseline using variables which impact energy consumption (variable such as weather and production).</p>
-
-<p>Your organization may have already established energy performance improvement objectives and targets using guidance from Step 3.3 &ldquo;Setting Goals&rdquo; and Step 4.1 &ldquo;Define Technical Steps and Targets&rdquo; of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management). This 50001 Ready Navigator task provides specific guidance to ensure your organization&rsquo;s energy objectives and targets meet certain criteria specified in the ISO 50001 standard.</p>
+<p>Your organization may already be using energy performance indicators (EnPIs) to monitor, measure and evaluate energy performance. Step 3.2, Step 4.1, Step 5.5, Step 6.0 and Step 6.1 of the ENERGY STAR Guidelines for Energy Management provide tips related to this topic, including establishing EnPIs such as Btu/ft2 or Btu/product. Energy performance indicators used in the ENERGY STAR program may be applicable to the EnMS but should be reevaluated to ensure all EnMS requirements are met. And, Appendix 4 of the ENERGY STAR Guidelines provides detail on normalizing data.
+   This 50001 Ready Navigator task provides additional guidance, and DOE tools referenced in this task can help your organization establish a simple energy model that is often a more meaningful measure of energy performance than a single metric or simple ratio to accurately represent the relationship between operational activities and energy consumption.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
