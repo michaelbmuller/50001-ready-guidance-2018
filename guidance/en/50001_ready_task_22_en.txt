@@ -4,238 +4,218 @@ USDOE 50001 READY NAVIGATOR TASK 22
 ----------MENU NAME----------
 Internal Audit
 ----------TITLE----------
-Task 22: We have established energy performance criteria spanning the operating life for purchases affecting energy performance,  informed suppliers that this is a factor in procurement, and have defined and currently use specifications for energy supply purchases
+Task 22: We conduct internal audits of the 50001 Ready energy management system at specified intervals and report the results to relevant management. We identify trends in internal audit results for consideration in management review.
 ----------GETTING IT DONE----------
-<ul>
-	<li>For purchases related to SEUs, procurement specifications should clearly identify any energy performance-related requirements. Communicate these requirements to suppliers and/or service providers, and inform them that energy performance is part of the evaluation criteria.</li>
-	<li>Use the [resource](Procurement_Checklist) to evaluate your organization&rsquo;s current procurement processes for items that can significantly impact energy performance. Determine and take any needed actions to adjust existing procurement processes to meet EnMS requirements.</li>
-	<li>Determine if your organization has established life cycle criteria for specific types of procurement actions.
-	<ul style="list-style-type:circle">
-		<li>If so, use training and/or documentation to ensure that the life cycle criteria are applied when procuring items or services that have a major impact on the organization&rsquo;s energy performance.</li>
-		<li>If not, consider using the [resource](Life_Cycle_Cost_Assessment_Worksheet) for purchases that can significantly impact energy performance.</li>
-	</ul>
-	</li>
-	<li>Determine if your organization has documented specifications for the purchase of energy supply. Review any existing specifications and compare with the [resource](Energy_Purchasing_Specification_Worksheets) to determine if any additional specifications are needed. If no energy supply specifications exist, use the [resource](Energy_Purchasing_Specification_Worksheets) to determine what specifications may be applicable to the different types of energy that your organization uses.</li>
-	<li>Incorporate relevant specifications into the requirements for purchases of energy.</li>
-</ul>
+<ol>
+	<li>Appoint an EnMS internal audit program manager.</li>
+	<li>Develop a documented internal audit procedure that addresses the responsibilities, planning, and conducting of EnMS internal audits, as well as the reporting of audit results.</li>
+	<li>Identify personnel to serve as EnMS internal auditors and train them on 50001 Ready Navigator EnMS guidance (or ISO 50001 requirements), internal auditing of ISO 50001 (including auditing of energy performance improvement), and your internal audit procedure.</li>
+	<li>Conduct regularly scheduled EnMS internal audits to identify areas of success and areas in need of improvement.</li>
+	<li>Record the results of your organization&rsquo;s internal audits.</li>
+	<li>Ensure that internal audit results are reported to relevant management.</li>
+</ol>
 ----------TASK OVERVIEW----------
-<p>The purchase of energy-using products, equipment, and services can impact your organization&rsquo;s significant energy uses (SEUs) and energy performance. Your organization must establish a procurement process to ensure energy performance is considered when procurement is related to your organization&rsquo;s SEUs or when it can have a significant impact on energy performance. Your procurement activities need to support effective management of the significant energy uses and the achievement of improved energy performance.</p>
+<p>An internal audit checks your energy performance and the implementation and effectiveness of your EnMS. It is a systematic and independent process that must be documented. Internal auditors collect and objectively evaluate evidence to determine whether your organization is meeting the requirements of its EnMS and ISO 50001.</p>
 
-<p>In an ISO 50001 EnMS, you must evaluate energy use, energy consumption, and energy efficiency over the planned or expected operating lifetime for any purchased items or services expected to have a significant impact on energy performance. Your organization must determine the evaluation criteria. These criteria look beyond your SEUs, so consider the bigger picture of how procurement impacts any item that affects energy performance.</p>
+<p>Management system audits are system-focused; they are very different from other types of audits with which you may be familiar, such as environmental compliance audits, safety audits or financial audits. Hence, training in management system auditing is critical for internal auditors. Appropriate resources will be needed to ensure that this training is provided, either in-house or by an external training provider.</p>
 
-<p>An important part of procurement in an EnMS involves acquiring an adequate supply of energy with acceptable quality to maintain ongoing operations. Developing purchasing specifications for sources of energy helps ensure the availability of a sufficient quantity of energy with acceptable quality and at a reasonable price.</p>
+<p>The leader or other member of the energy management team often has overall responsibility for the internal audit program. But some organizations assign a separate internal audit program manager.</p>
 
-<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+<p>If your organization has an internal audit program in place for another management system (e.g. ISO 9001 quality, ISO 14001 environmental, ISO 45001 safety and health), then leverage that existing process and the available in-house internal auditing expertise. If you do not already have an internal audit program in place, it is recommended that you attend an internal auditing or lead auditor training course to learn how to manage and conduct internal audits.</p>
 
-<ul>
-	<li>Informed suppliers of energy performance as an evaluation factor for SEU-related purchases</li>
-	<li>Established operating lifetime energy performance criteria for purchases that can significantly affect energy performance</li>
-	<li>Developed documented specifications for the purchase of energy supply</li>
-</ul>
+<p>The results of internal audits, both positive and negative, must be recorded and communicated to the relevant management. These results are often recorded on an audit finding form, a corrective action form, and/or in an audit report. The report can be in any format, including a PowerPoint presentation. Regardless of the specific style and format used, the results should be communicated with two specific objectives in mind:</p>
 
-<p><em>This guidance is relevant to Section 4.5.7 of the ISO 50001:2011 standard.</em></p>
+<ol>
+	<li>Providing objective evidence of effective implementation of the audit process, and</li>
+	<li>Allowing for corrective actions to be addressed and for follow-up requirements to be established and initiated.</li>
+</ol>
+
+<p><em>This guidance is relevant to Section 9.2 of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Inform suppliers of energy performance as an evaluation factor for SEU-related purchases)</p>
+<p>[Accordion](Develop a documented internal audit procedure)</p>
 
-<p>You identified significant energy uses (SEUs) to focus your resources in the areas where you can achieve the most benefit (see [task](Relevant Variables)). When an energy use is identified as significant, you must address a number of ISO 50001 requirements that apply specifically to SEUs (see [task](Relevant Variables)), including those related to procurement.</p>
-
-<p>[Learn More](Purchases related to SEUs)</p>
-
-<p>Purchases related to SEUs can include:</p>
+<p>You should document your internal audit program including:</p>
 
 <ul>
-	<li>Repair parts</li>
-	<li>Add-on equipment</li>
-	<li>Replacement parts/equipment</li>
-	<li>Maintenance materials</li>
-	<li>Maintenance services</li>
-	<li>Operational/maintenance controls</li>
-	<li>Supplies</li>
-	<li>Input materials</li>
-	<li>Operator services</li>
-	<li>Engineering services</li>
-	<li>Consultants</li>
+	<li>Purpose of the audit program</li>
+	<li>Auditor training requirements</li>
+	<li>Planning and scheduling audits</li>
+	<li>Criteria and scope for each audit</li>
+	<li>Process of selecting auditors</li>
+	<li>Conducting internal audits, including audit methods</li>
+	<li>Recording the audit results</li>
+	<li>Communicating the results to relevant management</li>
+	<li>Retaining records</li>
+	<li>Collecting and analyzing trend data on audit results</li>
 </ul>
 
-<p>[Learn More End]</p>
+<p>Make sure that the program clearly identifies the roles and responsibilities of the personnel involved. Structuring the audit process around what needs to be done, when it needs to be done, who needs to do it, and what records will be retained helps to communicate clearly the expectations for the internal audit program.</p>
 
-<p>For purchases related to an SEU, procurement specifications need to clearly identify any energy performance-related requirements. Communicate these requirements to suppliers, and inform them that energy performance is part of the evaluation criteria. Consider leveraging your existing processes for communicating this information to your suppliers.</p>
-
-<p>You will need a process for evaluating and selecting the product, equipment, or service for the SEU. Your organization determines what role energy performance will play in the procurement selection process. Energy performance does not have to be the sole or most heavily weighted criterion, but it is one of the factors you use to make the final purchase decision. You may incorporate energy performance into existing procurement selection processes.</p>
-
-<p>Also inform service providers who will impact SEUs that energy performance is part of the evaluation for procuring their services. The major assessment component for service providers is competency, but you may consider other factors.</p>
-
-<p>[Learn More](Evaluation factors relevant to service providers)</p>
-
-<p>Some evaluation factors relevant to service providers could include:</p>
-
-<ul>
-	<li>Training records</li>
-	<li>Certifications</li>
-	<li>Experience with similar uses</li>
-	<li>Skilled trades available</li>
-	<li>Parts/materials procurement practices</li>
-	<li>Client recommendations/reviews</li>
-</ul>
-
-<p>[Learn More End]</p>
+<p>When deciding how the audit results will be recorded, be aware that trend data on audit results are a required input for management review. This may influence what fields would be included on a form used for recording the audit findings. For example, compilation of trend data would be facilitated if recorded findings indicated the relevant 50001 Ready Navigator task number and the department or area where the finding was located. That information could be used to look at trends in findings across the various parts of the 50001 Ready Navigator guidance and trends in findings across the various departments or functional areas.</p>
 
 <p>[Accordion End]</p>
+<p>[Accordion](Develop the audit schedule)</p>
 
-<p>[Accordion](Establish operating lifetime energy performance criteria for purchases that can significantly affect energy performance)</p>
-
-<p>Energy performance is determined by the key characteristics (<a href="https://ecenter.ee.doe.gov/_layouts/ecenter/ppc.eguide/home.aspx#step_4-1">see </a>[task](Measurement)). It is important that your organization makes the connection between procurement and its impact on energy performance. At a minimum, energy performance for your organization is determined by the following:</p>
-
-<ul>
-	<li>Energy performance of the significant energy uses</li>
-	<li>Significant energy uses relevant variables</li>
-	<li>Energy performance indicators (EnPIs)</li>
-	<li>Effectiveness in meeting energy objectives and targets through action plans</li>
-	<li>Actual versus expected energy consumption evaluation</li>
-</ul>
-
-<p>If a purchase can affect one of more of these key characteristics, your organization must establish criteria for evaluating whether there is a significant impact on energy performance.</p>
-
-<p>[Learn More](Evaluation criteria examples)</p>
-
-<p>Some examples are as follows:</p>
+<p>The frequency of internal audits must be defined; they are not surprise activities. The audit program manager (or other responsible personnel) prepares an EnMS internal audit schedule that:</p>
 
 <ul>
-	<li><strong>Significant energy use</strong><strong>:</strong> Assume that your lighting system has been determined to be an SEU. You may define a significant impact as the purchase of certain lighting items, the number of items, a cost level, or any purchase associated with lighting.</li>
-	<li><strong>Significant energy use relevant variables</strong><strong>:</strong> A relevant variable for the lighting system SEU is the amount of daylight. If your organization has skylights and you are considering a new roof that would eliminate the skylights, the loss of daylight could result in a significant impact on the operation, and energy consumption, of the lighting system. A significant impact could be defined as a certain consumption increase or the potential for consumption increase.</li>
-	<li><strong>Effectiveness in meeting energy objectives and targets through action plans</strong><strong>:</strong> The purchase of a service or piece of equipment could determine whether an energy target is reached for an energy improvement project. Failure to meet the target could be a significant impact on energy performance.</li>
+	<li>Addresses auditing both energy performance and the management system</li>
+	<li>Considers the importance of the processes concerned</li>
+	<li>Considers the results of previous audits</li>
 </ul>
 
-<p>[Learn More End]</p>
-
-<p>Brainstorm other factors that can have a major impact on energy performance, such as controls for SEUs, controls to sustain past energy improvements, and energy system maintenance activities.</p>
-
-<p>Significant impact can be a specific hurdle or limit, or it can be an evaluation based on your organization&rsquo;s experience. Be mindful of using cost as a hurdle for determining significant impact, as it can be misleading. For example, buying a few light bulbs on a frequent basis can have a bigger impact on energy performance than replacing one large piece of machinery once over a long time-span.</p>
-
-<p>Similarly, a significant impact on energy performance does not have to relate to large items or complex services. It can result from a relatively inexpensive maintenance items.</p>
-
-<p>[Learn More](Example maintenance items that can significantly impact energy performance)</p>
-
-<p>&nbsp;Example maintenance items that can significantly impact energy performance include:</p>
+<p>In considering the importance of the processes concerned attention typically is given to the areas and processes associated with the following:</p>
 
 <ul>
-	<li>High efficiency air filters</li>
-	<li>Synthetic lubricants</li>
-	<li>Cogged v-belts</li>
-	<li>Low leakage couplings</li>
-	<li>Electronic condensate drain valves on compressed air systems</li>
+	<li>SEUs</li>
+	<li>Objectives</li>
+	<li>Energy targets</li>
+	<li>Action plans</li>
+	<li>Operational and maintenance controls</li>
+	<li>Activities related to sustaining energy improvements over time</li>
 </ul>
 
-<p>As an example:</p>
+<p>The internal audit schedule usually covers an annual period, but may be for shorter or longer periods. You may decide to conduct one internal audit per year that covers the entire EnMS. Or, you may decide to conduct a series of shorter audits that together cover all of the EnMS requirements within a defined period. Some organizations decide to conduct internal audits of energy performance separately from internal audits of the management system.</p>
 
-<p>Quick disconnect &ldquo;O&rdquo; rings for an air compressor can cost from two cents to one dollar. The more expensive rings result in an improved system efficiency. Despite higher first cost, the increased efficiency of high quality &ldquo;O&rdquo; rings results in a significant savings over their life cycle. <a class="msocomanchor" href="#_msocom_1" id="_anchor_1" name="_msoanchor_1">[CJW1]</a></p>
+<p>Other reasons for modifying the audit schedule include:</p>
 
-<p>[Learn More End]</p>
+<ul>
+	<li>New management initiatives</li>
+	<li>Organizational changes</li>
+	<li>Customer issues or needs</li>
+	<li>Process changes</li>
+	<li>EnPIs not being met</li>
+	<li>New or revised energy objectives or targets</li>
+</ul>
 
-<p>If a purchase can have a significant impact on energy performance, your organization must evaluate the purchase and its energy performance over its planned or expected operating lifetime. Many tools can be used to calculate life cycle cost, and the best one for your organization will depend on the items purchased and their application, as well as the complexity of your accounting system. The [resource](Life_Cycle_Cost_Assessment_Worksheet) provides a simple accounting-based tool for calculating life cycle cost. Other resources for life cycle calculation methods are provided in the [resource](Tool_Life_Cycle_Resources_List).</p>
+<p>The internal audit schedule may be in any format that meets your organization&rsquo;s needs. Often, the schedule identifies the processes, functions, and areas to be audited and the planned dates. Some audit schedules only indicate what EnMS processes and performance will be audited and when. In either case, ensure that:</p>
 
-<p>To ensure that procurement actions support the EnMS, it is critical that procurement personnel be kept informed about the needs of the EnMS, including the SEUs and the types of items and services that can significantly affect your organization&rsquo;s energy performance. This information enables them to make appropriate procurement decisions. Procurement personnel must be familiar with the key characteristics of operations that determine energy performance, and mindful that energy performance and life cycle assessment may be part of the procurement decision. Once personnel are aware of the EnMS, it is their responsibility to purchase items in a manner consistent with the EnMS&rsquo;s needs.</p>
-
-<p>[Learn More](LED lighting procurement example)</p>
-
-<p>Your maintenance director evaluated the energy use of LED lighting and incandescent bulbs for your lighting system over their planned or expected lifetime. The analysis showed that substituting LED lighting for incandescent bulbs would improve energy performance substantially. Savings are realized from reduced energy consumption, as well as reduced maintenance costs, because the longer life of the LEDs reduces their frequency of replacement. The LED lighting costs more initially, but over time will use less energy. Procurement typically tries to minimize costs, and if they are not made aware of the life cycle analysis and provided with appropriate specifications, they likely would continue buying the less expensive bulbs.</p>
-
-<p>[Learn More End]</p>
-
-<p>The [resource](Example_Life_Cycle_Cost_Assessment_Worksheet) uses the lighting example to demonstrate how life cycle cost may be calculated.</p>
-
-<p>Procurement in your organization may be handled by a corporate or headquarters function. To satisfy the ISO 50001 requirements you may need to work with the corporate procurement function to implement the necessary procurement processes. Some ideas to consider in establishing these processes are provided in [resource](Establishing_Energy_Related_Procurement_Processes).</p>
-
-<p>The [resource](Procurement_Checklist) can assist with the implementation of the ISO 50001 requirements related to procurement processes.</p>
+<ul>
+	<li>The importance of the processes is considered</li>
+	<li>All EnMS processes and ISO 50001 requirements are audited in all applicable functions or areas within a defined period of time</li>
+</ul>
 
 <p>[Accordion End]</p>
+<p>[Accordion](Develop the audit plan)</p>
 
-<p>[Accordion](Develop documented specifications for energy supply)</p>
-
-<p>ISO 50001 requires that your organization define and document specifications for the purchase of energy supply. The energy requirements for your organization may be adequately addressed by the local supplier(s), and perhaps you do not require special considerations. In this case, the supplier can typically provide the specifications for the energy you are being supplied, or it may be specified in your contract, along with the rates.</p>
-
-<p>Your organization may have special needs, or there may be other considerations for selecting and purchasing the energy needed for your facility. If your organization has unique energy supply requirements, you may have to develop the specifications necessary to meet your needs.</p>
-
-<p>[Learn More](Factors impacting the development of an energy supply purchasing specification)</p>
-
-<p>The development of an energy supply purchasing specification can depend on:</p>
+<p>An internal audit plan or agenda is prepared for each internal audit. Typically, this plan is prepared by the internal audit program manager, a lead auditor, or audit team leader. It often includes the following basic information:</p>
 
 <ul>
-	<li>Equipment requirements</li>
-	<li>Energy availability</li>
-	<li>Facility location</li>
-	<li>Manufacturing process requirements</li>
-	<li>Environmental regulations</li>
-	<li>Other governmental regulations</li>
+	<li>Date(s) of the audit</li>
+	<li>Objectives of the audit</li>
+	<li>Scope of the audit</li>
+	<li>Requirements (criteria) to be audited</li>
+	<li>Processes and area(s) to be audited</li>
+	<li>Auditor(s) responsible for auditing each process and area</li>
+	<li>Timing</li>
 </ul>
 
-<p>For example:</p>
+<p>[Learn More](Examples of common audit objectives and audited processes)</p>
 
-<div style="background:#eeeeee; border:1px solid #cccccc; padding:5px 10px">Governmental regulations &ndash; Governmental regulations specify that a new facility must use the local electrical utility provider if the facility&rsquo;s connected load will be less than 900 kilovolts. Above 900 kilovolts, the organization can select their provider with a competitive bid process. The local supplier may allow few variations in the characteristics or rates of the energy supplied. If the load is large, competition may allow more flexibility in the energy specifications.</div>
-
-<div style="background:#eeeeee; border:1px solid #cccccc; padding:5px 10px">Manufacturing process requirements &ndash; A carpet manufacturer uses a direct-fired dryer. Because the carpet comes in contact with combustion products, a clean fuel like natural gas or propane is required. Fuel oil or solid fuels are excluded, since contact between the finished product and combustion gases could result in contamination with soot or ash.</div>
-
-<p>[Learn More End]</p>
-
-<p>Specifications you may need to consider for your energy supply can include requirements related to quality, quantity, reliability, and cost.</p>
-
-<p>[Learn More](Factors impacting energy supply specifications)</p>
-
-<p>Examples of each these factors (Quality, quantity, reliability, and cost) include the following:</p>
+<p>Examples of common audit objectives are to evaluate the following:</p>
 
 <ul>
-	<li>Quality
-	<ul style="list-style-type:circle">
-		<li>Maximum moisture content in coal</li>
-		<li>Maximum sulfur content in fuel oil</li>
-		<li>Minimum Btu content in fuels</li>
-		<li>Acceptable voltage variation</li>
-		<li>Minimum power factor</li>
-	</ul>
-	</li>
-	<li>Quantity
-	<ul style="list-style-type:circle">
-		<li>Amount</li>
-		<li>Delivery requirements</li>
-	</ul>
-	</li>
-	<li>Reliability
-	<ul style="list-style-type:circle">
-		<li>Allowable quality variation</li>
-		<li>Allowable delivery variation</li>
-		<li>Interruptible acceptance</li>
-	</ul>
-	</li>
-	<li>Cost factors
-	<ul style="list-style-type:circle">
-		<li>Cost per unit</li>
-		<li>Cost for non-interruption</li>
-		<li>Demand cost</li>
-		<li>Delivery cost</li>
-	</ul>
-	</li>
+	<li>Conformity with the guidance of the 50001 Ready Navigator and additional requirements of the EnMS by the organization</li>
+	<li>Conformity with the energy policy and the established objectives and energy targets</li>
+	<li>Implementation and effectiveness of the EnMS</li>
+	<li>Energy performance improvement</li>
+</ul>
+
+<p>Examples of processes to be audited include, but are not limited to, those associated with the following:</p>
+
+<ul>
+	<li>Leadership and commitment</li>
+	<li>Context of the organization</li>
+	<li>Energy review</li>
+	<li>Significant energy uses</li>
+	<li>Actions to address risks and opportunities</li>
+	<li>Objectives</li>
+	<li>Energy targets and action plans</li>
+	<li>Communication and awareness</li>
+	<li>Operational and maintenance controls</li>
+	<li>Documented information</li>
+	<li>Design and procurement</li>
+	<li>Monitoring, measurement, analysis and evaluation</li>
+	<li>Internal audits</li>
+	<li>Evaluation of compliance with legal and other requirements</li>
+	<li>Corrective action</li>
 </ul>
 
 <p>[Learn More End]</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Select and train internal auditors)</p>
 
-<p>Develop the energy purchasing specifications to ensure the effective use of energy. The effective use of energy means the energy characteristic will contribute towards maximizing energy performance while providing no or limited negative consequences. As an example:</p>
+<p>Internal audits are conducted by personnel who have been trained in internal auditing of management systems. It is recommended that the internal audit training be focused specifically on the guidance of the 50001 Ready Navigator (or ISO 50001) due to the need to demonstrate energy performance improvement. The pool of internal auditors should have cross-functional representation. The audits can be conducted by a single auditor or by one or more teams. In either case, the person(s) conducting the internal audit needs to be objective and impartial, and does not audit his or her own work. Internal auditors are usually trained by experienced internal management system auditors or by an external training course provider.</p>
 
-<div style="background:#eeeeee; border:1px solid #cccccc; padding:5px 10px">Your organization is using fuel oil as a process fuel. Consider the sulfur content of fuel oil as a factor relating to effective use of it as an energy source. Sulfur dioxide emissions are tightly controlled in many areas. High smog alert days may impact the ability of your organization to use fuel oil if the sulfur content is too high. Consequently, sulfur content will influence the effective use of fuel oil as an energy source.</div>
+<p>Auditor training typically consists of the following:</p>
 
-<p>&nbsp;</p>
+<ul>
+	<li>Guidance of the 50001 Ready Navigator or requirements of ISO 50001</li>
+	<li>Objectives of the audit</li>
+	<li>How to develop and use a checklist</li>
+	<li>How to collect and assess objective evidence</li>
+	<li>How to document both positive and negative findings</li>
+	<li>How to report the audit results</li>
+</ul>
 
-<p>To help you develop purchasing specifications for energy supply, you may want to use the [resource](Energy_Purchasing_Specification_Worksheets). The worksheets will help you identify important energy supply parameters and formulate suitable purchasing specifications. Purchasing specifications are dependent on the energy source, so this resource includes separate tabs for electricity, natural gas, fuel oil, and solid fuels. Since effective use of energy is an important consideration in purchasing, the worksheet contains a column for rating whether or not the purchasing factor influences effective use.</p>
+<p>[Accordion End]</p>
+<p>[Accordion](Conduct internal audits)</p>
 
-<p>Document the energy supply specifications to ensure the energy source, delivery, price, invoicing, payment, and contracting requirements are known by potential vendors and satisfied by selective purchasing. To help you prepare energy purchasing documentation, energy source specifications can be developed using the [resource](Energy_Purchasing_Specification_Worksheets), along with input from your procurement and legal departments. Consult your procurement specialists for help with delivery, invoicing, and payment requirements, and legal analysts for assistance with contractual issues. Document the energy purchasing specifications to ensure that initial and future energy supply will meet all requirements. The [resource](Energy_Purchasing_Specification_Summary) can be used to help organize the information needed for purchasing of energy supply.</p>
+<p>Internal audits identify both areas of success and areas in need of improvement. In conducting the audit, the internal auditors focus on determining if your organization is:</p>
+
+<ul>
+	<li>Doing what it says it will do</li>
+	<li>Conforms with its energy policy, objectives, and energy targets</li>
+	<li>Continually improving its EnMS</li>
+	<li>Achieving improvement in energy performance</li>
+</ul>
+
+<p>Both the selection of auditors and the method for conducting the audits need to demonstrate that the process is objective and impartial. Each auditor is expected to carry out his or her assigned responsibilities as set out in the audit plan.</p>
+
+<p>When conducting an internal audit, auditors collect objective evidence by:</p>
+
+<ul>
+	<li>Interviewing personnel</li>
+	<li>Observing activities</li>
+	<li>Reviewing documents</li>
+	<li>Examining records and data</li>
+</ul>
+
+<p>Audit checklists are often used to help organize and document the evidence and the audit findings. It is important that the details of the evidence and findings are captured (e.g. what department, activity, shift, position title, what was said, what was observed, what documented information was reviewed, what requirement was not met, what is the relevant section of the 50001 Ready Navigator guidance). Nonconformities need to be reproducible for purposes of corrective action and positive finding need to be reproducible for potential application in other areas.</p>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Report internal audit results to relevant management)</p>
+
+<p>Some organizations record internal audit findings on an audit finding form. Other organizations record negative findings directly onto a corrective action request form and list the positive findings within an audit report or other summary of the audit results.</p>
+
+<p>The reporting of internal audit results to relevant management should be timely. This can be done in a closing meeting conducted by the lead auditor at the conclusion of the audit with attendance by the management whose operations were audited. Another approach is simply to distribute an audit report and/or corrective action request to each relevant manager. Corrective action on negative findings should be taken in a timely manner.</p>
+
+<p>Trends in internal audit results, but not necessarily the detailed audit findings themselves, are reported into management review as part of the information on the performance of the EnMS. At the end of each audit, it is recommended that the lead auditor or the internal audit program manager collate or map the results by ISO 50001 requirements and by the areas/departments audited. The audit results matrix located in the optional Worksheet can be used for this purpose. It enables trends in the results to be identified, such as which requirements are presenting the greatest challenges and where (based on the number and location of nonconformities). An audit results matrices for each internal audit can be combined to provide a single comprehensive view of the trends in overall conformity to EnMS requirements.</p>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Retain records)</p>
+
+<p>In addition to retaining documented information (in this case, records) on the results of audits, you should retain documented information that demonstrates the implementation of the audit program. Typically, the documented information that is retained includes:</p>
+
+<ul>
+	<li>Audit schedule(s)</li>
+	<li>Audit plan(s) or agenda(s)</li>
+	<li>Auditor training records</li>
+	<li>Audit nonconformity reports</li>
+	<li>Positive findings</li>
+	<li>Completed corrective action records</li>
+	<li>Evidence that audit results have been reported to relevant management</li>
+	<li>Trend data on audit results</li>
+</ul>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Organizations with ISO 14001:2015 and/or ISO 9001:2015 systems have processes in place to both determine and communicate the requirements that need to be met in their procurement actions. When implementing ISO 50001:2011, the existing procurement processes should be evaluated and leveraged as appropriate as the potential starting point for meeting the procurement-related requirements of ISO 50001:2011.</p>
+<p>There are very few differences between the structure and management of an internal audit programs for ISO 50001:2018 and those required for ISO 9001:2015 and ISO 14001:2015. The ISO 9001 and ISO 14001 standards actually have a few more specific program requirements (e.g. taking into consideration changes affecting the organization) than are included in ISO 50001. Even if an organization chooses not to conduct integrated management system audits, the ISO 9001, ISO 14001 and ISO 50001 systems can share common procedures for internal audit planning, conducting and reporting. Or, alternatively, if the systems are to be maintained separately, the structure and requirements of those existing ISO 9001 or ISO 14001 internal audit processes, procedures, methods and responsibilities can be easily copied and adapted for an ISO 50001 EnMS.</p>
 
-<p>Consistent with a life cycle perspective, determination of environmental requirements for the procurement of products and services are part of an ISO 14001:2015 system. These processes for determining environmental requirements could be leveraged to help meet the ISO 50001 requirements for life cycle criteria in procurement actions that can significantly impact energy performance. ISO 9001:2015 systems provide processes for control of externally provided products and services that could provide an excellent starting point for implementing ISO 50001:2011 procurement requirements.</p>
+<p>The key difference in internal audit requirements between ISO 50001 and the ISO 9001 and ISO 14001 standards is related to the intent of an internal audit. In addition to ensuring conformance and effective implementation and maintenance of the management system, ISO 50001 internal audits are conducted to provide information on whether energy performance improvement can be demonstrated. One practical implication of this ISO 50001 requirement relates to the training and competency of the internal auditors. The pool of internal auditors for ISO 50001 must include personnel who are comfortable with, and preferably experienced with, evaluation of data and data analyses. These skills may already be included among the members of the existing internal auditor pool, for example where internal auditors for ISO 9001 are experienced with evaluating quality data. In ISO 14001 systems, environmental performance must also be evaluated; however, this could be implemented only through the processes for monitoring, measurement, analysis and evaluation, not through the internal audit process itself. Some adjustments to the skills of the internal auditors may be needed to effectively audit energy performance in an ISO 50001 system. Existing internal auditors for quality and environmental management systems would need training in the requirements of ISO 50001 and the energy topics addressed in that standard in order to conduct internal audits of the EnMS effectively.</p>
+
+<p>Like ISO 9001:2015 and ISO 14001:2015, the updated version of ISO 5001 now requires the reporting of internal audit results to &ldquo;relevant management.&rdquo; The change from &ldquo;top management&rdquo; in ISO 50001:2011 to &ldquo;relevant management&rdquo; in ISO 50001:2018 further aligns the internal audit requirements across these three standards.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>When implementing EnMS, you may need to review details in the supply management portion contained in Step 4.2 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a>. EnMS procurement requirements related to SEUs extends its reach to applicable suppliers and vendors.</p>
-
-<p>In addition, Step 4.2 of the <a href="https://www.energystar.gov/sites/default/files/buildings/tools/Guidelines%20for%20Energy%20Management%206_2013.pdf">[resource](ENERGY_STAR_Guidelines_for_Energy_Management)</a> briefly mentions identifying internal roles, including those related to supply management. ISO 50001 has more specific requirements related to lifecycle criteria and the purchase of energy supply, with guidance provided in this task.</p>
+<p>This guidance is relevant to Step 5.1, Step 5.2, Step 5.5, Step 6.1 and Step 6.2 of the ENERGY STAR Guidelines for Energy Management. You can leverage and modify elements of these ENERGY STAR Guidelines in developing an EnMS internal audit program, however additional work will be needed to meet ISO 50001 requirements for conducting EnMS internal audits based on documented internal audit procedures, schedules, and plans. The ENERGY STAR Guidelines recommend creating a communications plan and raising awareness across the facility. ISO 50001 specifically requires retaining records to demonstrate the implementation of the internal audit program, as well as records of the audit results. Audit results are communicated to the relevant management.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
