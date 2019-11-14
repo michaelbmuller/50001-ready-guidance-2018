@@ -208,8 +208,7 @@ Task 19: We establish energy performance criteria spanning the operating life fo
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Document procurement)<br />
-&nbsp;</p>
+<p>[Accordion](Document procurement)</p>
 
 <p>Where applicable, your organization must define and document specifications needed to ensure the energy performance of equipment and services that have been purchased. First, identify the types of procured equipment and services where specifications are important for maintaining their energy performance. For those, consider possible specifications related to receiving inspections, equipment installation, preventive maintenance, operational controls, procurement of related supplies, etc. If specifications are needed, document them or incorporate them into training activities and ensure there are processes in place to communicate them to the appropriate personnel. If specifications are already in place for energy-using equipment and services, then check that the specifications are communicated to those who need to know them.</p>
 
