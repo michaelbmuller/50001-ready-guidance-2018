@@ -2,73 +2,95 @@ USDOE 50001 READY NAVIGATOR TASK 9
 ----------TASK VERSION----------
 1.0 [content_update.format_update]
 ----------MENU NAME----------
-Significant Energy Uses
+Significant Energy Uses (SEUs)
 ----------TITLE----------
-Task 9: We have determined the relevant variables that affect energy consumption of each SEU and collected the associated data.
+Task 9: We determine our significant energy uses (SEUs), identify and monitor their relevant variables and energy performance, and identify the persons that affect the SEUs. We have a process to review and update SEU data and related information, including our methods and criteria to determine that an energy use should be an SEU.
 ----------GETTING IT DONE----------
-<ul>
-	<li>Identify and list the relevant variables to your organization&rsquo;s significant energy uses (SEUs).</li>
-	<li>If your organization is using [resource](EnPI_Lite), have a member of your staff complete the &ldquo;Relevant Variables&rdquo; tab of the [resource](Energy_Footprint_Lite_Data_Uploader) or the [resource](Energy_Footprint_Tool) that is being used for [task](Data Collection).</li>
-</ul>
+<ol>
+	<li>Identify the energy uses that consume the most energy within your boundaries.</li>
+	<li>Identify factors and persons that affect the energy consumption of identified energy uses.</li>
+	<li>Establish a selection criteria for identifying which of these energy uses should be a significant energy use (SEU).</li>
+	<li>Determine SEU energy performance based upon energy consumption and relevant variables is appropriate.</li>
+	<li>Review the SEU selection criteria as part of the SEU update process.</li>
+</ol>
 ----------TASK OVERVIEW----------
-<p>Once SEUs have been determined, it&rsquo;s important to identify the factors that can affect them&mdash;their <em>relevant variables.</em> In manufacturing, production and weather are often two key relevant variables. In commercial buildings, occupancy or weather are most often the key variables affecting energy consumption. Understanding the relationship between relevant variables and energy consumption enables you to better understand how energy can be controlled and energy performance maximized at your organization.</p>
+<p>Significant energy uses (SEUs) are energy uses identified by the organization as having major energy consumption and/or considerable opportunity for improvement. SEUs are a key component of the 50001 Ready system and require additional attention and action relative to other energy uses. It&rsquo;s important to identify your organization&rsquo;s SEUs using defined criteria for significance. Especially when starting out with a 50001 Ready system it is recommended to tackle just one or two SEUs.</p>
 
-<p><strong>At the completion of this task, you will have&hellip;</strong>&nbsp;</p>
+<p>Once identified, the current energy performance of SEUs needs to be determined. The performance of the SEU is dependent on factors that influence its operation. Identifying these factors or relevant variables will assist with determining their current energy performance. Once the performance is determined, processes should be implemented to continually monitor that performance. Collecting, analyzing, and tracking data on SEU performance can reveal opportunities for improvement.</p>
 
-<ul>
-	<li>Identified relevant variables affecting SEUs</li>
-	<li>Identified the relevant variables affecting the facility</li>
-</ul>
+<p>In addition to determining and then monitoring SEU energy performance, it is important to identify the people that influence or affect the operation of SEUs. In most cases, the energy performance of SEUs is affected by persons who perform ongoing operational control and maintenance activities. However, there may be other personnel who also influence or affect the SEUs, for example, facility managers or engineers. Once these people are identified it will be important to engage with them so they are aware of the focus on the SEU and any upcoming capital or operational improvements to be made.</p>
 
-<p><em>This guidance is relevant to Section 4.4.3 b) of the ISO 50001:2011 standard.</em></p>
+<p>Lastly, it is important to plan for how and when the energy team will review and update the criteria and process of selecting SEUs and consider if current and potential SEUs meet selection criteria. Over time, the energy uses identified as significant may change as your organization continues to improve its energy performance. Also over time, it may be appropriate to modify the evaluation and selection methodology based on changes in facilities, equipment, systems or processes.</p>
+
+<p><em>This guidance is relevant to Section 6.3 b) and c) of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Identify relevant variables affecting SEUs)</p>
+<p>[Accordion](Determine and apply criteria for selecting SEUs)</p>
 
-<p>Factors that can affect SEUs are called <em>relevant variables.</em> For commercial or institutional facilities, occupancy and weather can often be variables affecting consumption. For industrial facilities, production is generally one of the key variables affecting energy consumption of SEUs. As production rate changes, consumption will generally change accordingly. However, SEU consumption can be influenced by other factors, and they should be examined for correlation. Understanding the relationship between relevant variables and energy consumption is important in formulating how energy can be controlled and energy performance maximized.</p>
+<p>By definition in ISO 50001, significant energy uses (SEUs) are energy uses with substantial energy consumption and/or considerable potential for energy performance improvement. Criteria for the selection of SEUs should include both of these determining concepts. Your organization decides as part of this criteria what is considered to be &ldquo;substantial&rdquo; consumption and what is considered to be &ldquo;considerable potential&rdquo; for energy performance improvement.</p>
 
-<p>Below are some common relevant variables including their potential impacts on energy consumption.</p>
+<p>Most organizations will determine SEUs based on the largest energy consuming systems and equipment identified in an energy balance. However, SEUs also may be determined based on considerable potential for energy performance improvement (see [task](Improvement Opportunities)). This can be a good option if your organization has been engaged in energy management activities for many years and the opportunities for additional improvements to the largest energy-consuming systems are limited or if organizational hurdles exist to meaningfully change the largest energy-consuming systems. In this situation, you can focus on smaller systems that have greater opportunity for energy performance improvement.</p>
 
-<ul>
-	<li><strong>Weather</strong> &ndash; Temperature changes can affect both process and comfort heating and cooling energy consumption. Drying processes are another example. Other weather characteristics (e.g., humidity, wind, rain, etc.) may also affect energy consumption.</li>
-	<li><strong>Operating schedule (e.g., hours, days, weeks, holidays)</strong> &ndash; Generally, a longer schedule will require more energy.</li>
-	<li><strong>Occupancy</strong> &ndash; A change in the number of occupants in a building can change the requirement for lighting, plug loads and air conditioning, and therefore, their associated energy consumption.</li>
-	<li><strong>Production output </strong>&ndash; Changes in the production rate (i.e. number of units produced within a given time period) will affect energy consumption.</li>
-	<li><strong>Product mix</strong> &ndash; Each different product produced by the organization can consume a different amount of energy. Consequently, the product mix may affect energy consumption.</li>
-	<li><strong>Input materials </strong>&ndash; Variations in the raw material characteristics, such as moisture content, could affect energy required for forming, cutting, drying, evaporation, product temperature, etc.</li>
-	<li><strong>Season of the year</strong> &ndash; Products or services that have seasonal demand will influence production or occupancy and affect consumption.</li>
-	<li><strong>Production line(s) and/or SEUs in operation</strong> &ndash; The number or the size of the production lines or SEUs that are in operation will affect consumption.</li>
-</ul>
+<p>In [task](Energy Data Collection and Analysis), the energy balance was presented as a method of reasonable assurance that you have accounted for all the energy consumed in your organization. Once a balance is achieved, one of the most common methods for determining SEUs is to rank the energy uses by consumption. You can then establish a certain threshold of energy consumption or a certain percentage of total consumption as the selection criterion for significance (see [task](Energy Data Collection and Analysis)). The top energy consuming uses can then be evaluated for improvement opportunities, if they haven&rsquo;t been already (see [task](Improvement Opportunities)). However, this is only an example of one way to approach the selection criteria; you can choose different approaches that are appropriate for your organization.</p>
+
+<p>[Learn More](80/20 Rule)</p>
+
+<p>In industry and many businesses, the <em>80/20 rule</em> typically applies (see [task](Energy Data Collection and Analysis)); i.e., 80 percent of the energy consumption will be accounted for by 20 percent of the equipment or processes. Typically, only a few energy systems consume the majority of a facility&rsquo;s energy. Consider focusing on these, and apply the criteria for significance. Energy management is a continual improvement process, and over time additional energy uses can be identified as significant.</p>
+
+<p>[Learn More End]</p>
+
+<p>For newly implemented energy management systems, it is important to start simple. Consider limiting the number of SEUs in your new EnMS, since these energy uses can require the most resources. ISO 50001 requires that you address operational and maintenance controls (see [task](Operational Controls)), procurement (see [task](Energy Considerations in Procurement)), and monitoring and measurement (see [task](Monitoring and Measurement of Energy Performance Improvement)) of all the SEUs identified. You will also need to consider SEUs when establishing objectives and energy targets (see [task](Objectives and Targets)) and [task](Improvement Opportunities)). These requirements can quickly consume available resources.</p>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Determine relevant variables and current energy performance of SEUs and implement monitoring)</p>
+
+<p>Once SEUs are identified, collect appropriate energy data to determine their performance (part of [task](Energy Data Collection and Analysis)). Factors that can affect SEU energy performance are called relevant variables (for details on relevant variables see [task](Energy Data Collection and Analysis))<em>.</em></p>
+
+<p>For commercial or institutional facilities, occupancy and weather can often be variables affecting consumption. For industrial facilities, production is generally an additional variable that affects energy consumption of SEUs. Using engineering logic, think about the potential SEU and what may be relevant variables. In addition to weather, occupancy, and production consider the following: operating schedule, product mix, input materials, and season.</p>
 
 <p>Verify the impact on SEUs of specific variables by collecting relevant energy data and comparing it to appropriate variable data to determine the relationship, if any, of the change in energy consumption coinciding with the change in the variable. One way to define the relationship is to graph the energy data over a defined time period and compare it to a graph of the variable data, such as average daily temperature, over the same period and determine if there are coincidental variations. Consistent variations between the two could indicate a valid relevant variable. Anomalies between the two may indicate other relevant variables are also a factor in energy consumption of the SEU. Statistical techniques or more sophisticated engineering calculations may be required for analysis of multiple variables.</p>
 
+<p>Energy performance indicators (EnPIs) (see [task](Energy Performance Indicators and Baselines)) can be developed to define the energy performance for a SEU. For many common energy systems that are often identified as SEUs there are standardized EnPIs used by energy professionals. Similar EnPIs can be developed for facilities, equipment, processes, personnel, or other systems. Normalize the EnPIs for the SEUs using relevant variable data should be considered and may lead to more meaningful results. Normalized EnPIs and related baselines allow performance comparisons under equivalent conditions.</p>
+
+<p>Track EnPI values to reveal trends that allow comparison of the performance of SEUs over time. Benchmarking, which is the practice of comparing an SEU to the best in class or theoretically optimal performance of similar uses, may be used when available (see [task](Energy Data Collection and Analysis)).</p>
+
+<p>Energy performance of a SEU also can be determined and monitored by operational or maintenance parameters (see [task](Monitoring and Measurement of Energy Performance Improvement)).</p>
+
+<p>Operations of SEUs are among the &ldquo;key characteristics&rdquo; affecting energy performance that are regularly monitored, measured, and analyzed (see [task](Monitoring and Measurement of Energy Performance Improvement)). Your organization decides on the method for determining the energy performance, identifies the monitoring and measurement necessary for data collection, and includes it in the Energy Data Collection Plan (see [task](Energy Data Collection and Analysis)).</p>
+
+<p>Data analysis is a continuous process. Continue to monitor SEUs and collect, analyze, and track the data. This can have the added potential benefit of identifying opportunities for energy performance improvement of the SEUs.</p>
+
 <p>[Accordion End]</p>
 
-<p>[Accordion](Identify the relevant variables affecting the facility)</p>
+<p>[Accordion](Identify persons who affect the SEUs)</p>
 
-<p>DOE [resource](EnPI_Lite) is an online regression-based tool that estimates energy savings relative to relevant variables like production levels and weather. Use of EnPI Lite in conjunction with 50001 Ready Navigator for tracking your energy performance improvement is recommended.</p>
+<p>Identify the employees, onsite contractors, and service providers whose work activities affect SEUs. These personnel may need additional awareness training or specific qualifications to ensure that the operations associated with the SEU are followed correctly and, if applicable, energy performance targets are achieved. This is particularly true for personnel responsible for the operation or maintenance of facilities, equipment, systems, or processes identified as SEUs. The optional Worksheet can be useful in helping to identify the potential types of personnel who may be relevant to a SEU.</p>
 
-<p>Production and weather should be considered as relevant variables. For more guidance on selecting facility-level relevant variables, please refer to DOE&rsquo;s [resource](Energy_Intensity_Baselining_And_Tracking_Guidance), for information specifically on selecting relevant variables, refer to <em>Step 3: Determine Relevant Variables, Including Units of Output, for Each Facility</em>).</p>
+<p>[Accordion End]</p>
 
-<p>The time period over which your relevant variable data spans must match that of the energy consumption data collected in [task](Data Collection). Further, the intervals for your relevant variable data should be monthly and correspond to the energy consumption data for the same interval. See the guidance in [task](Data Collection) for additional details on selecting a baseline and reporting year when using EnPI Lite.</p>
+<p>[Accordion](Plan for updating SEU selection)</p>
 
-<p>You can use the QUEST by inputting your relevant variables in one of three ways:</p>
+<p>The process of identifying SEUs is part of the energy review. Documented information must be maintained on the criteria and process used to select SEUs. Documented information should be updated as the selection criteria and process of identifying SEUs changes. The optional Worksheet can help document the criteria and method used to determine significant energy uses.</p>
 
-<p><strong>1. Inputting Data from the DOE Energy Footprint Lite Tool</strong></p>
+<p>Plan for how the energy team will regularly review and update what energy uses are selected as SEUs, as well as the selection criteria and process methodology. Management input should be solicited during this process. Changes in the selected SEUs or the evaluation and selection process may be necessary for a number of reasons:</p>
 
-<p>The Energy Lite Data Uploader, which can be downloaded from the [resource](EnPI_Lite)homepage, will compile your facility&rsquo;s relevant variable data for your 50001 Ready EnMS Scope into one spreadsheet. If you have completed [task](Data Collection), your facility&rsquo;s energy consumption information will be stored in the <em>Energy Consumption </em>sheet in the same [resource](Energy_Footprint_Lite_Data_Uploader) file. After uploading your data and running EnPI Lite (this is done in Task 24), EnPI Lite will return your Energy Lite Data Uploader file with the results of your energy analysis in the same file. Detailed instructions for using the Energy Lite Data Uploader can be at the [resource](EnPI_Lite) homepage.</p>
+<ul>
+	<li>Improvement projects have reduced consumption of an SEU below the selection threshold</li>
+	<li>Changes in resources available to address SEUs</li>
+	<li>Business changes have affected SEU focus/selection</li>
+	<li>New processes have altered energy consumption patterns</li>
+	<li>Major changes in facilities, equipment, systems and energy-using processes</li>
+</ul>
 
-<p><strong>2. Inputting Data from the DOE Footprint Tool</strong></p>
+<p>[Accordion End]</p>
 
-<p>You may also use your compiled relevant variable data from the DOE [resource](Energy_Footprint_Tool). Complete the <em>Relevant Variables</em> tab in the Energy Footprint Tool. For instructions on using the Footprint tool, see the [resource](Energy_Footprint_Tool)<strong> </strong>homepage. [resource](EnPI_Lite) cannot return the results of your energy analysis within the Energy Footprint Tool (as it can when using the Energy Lite Data Uploader).</p>
+<p>[Accordion](Documenting SEU information)</p>
 
-<p><strong>3. Inputting Data from the EPA ENERGY STAR Portfolio Manager</strong></p>
-
-<p>To add relevant variable information when starting from Portfolio Manager (PM), upload your PM file to [resource](EnPI_Lite), following the instructions shown on the EnPI Lite homepage. [resource](EnPI_Lite) will not provide a valid model since there is no relevant variable information listed in PM. However, it will still provide downloadable results. Download these from [resource](EnPI_Lite) and enter your relevant variable information into the Relevant Variables tab of the file (see [task](Performance Indicators) for guidance on relevant variables).</p>
+<p>Documenting SEU information is a recommended best practice.&nbsp; Record the significant energy uses, the areas or operations with which they are associated, and the affected personnel (by position title). A simple spreadsheet can serve as the list of current SEUs and a place to record other information that will be needed to ensure proper management of significant energy uses.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Relevant variables are determined for an ISO 50001:2011 EnMS, something that does not apply to ISO 14001 environmental management systems (EMS).</p>
+<p>Both ISO 14001:2015 and ISO 50001:2018 use a construct of “significance.” In an ISO 14001 environmental management system (EMS) significant environmental aspects are determined using environmental impact criteria, while in an ISO 50001:2018 EnMS, significant energy uses are determined using criteria related to consumption and/or improvement opportunities. Although the criteria (and typically the methodologies) used to determine significance differs between ISO 50001 and ISO 14001, the end result is that determining significance helps to establish priorities and focus resources in each management system. It is recommended that the energy review for the ISO 50001 system be maintained separately from the environmental aspects information for the ISO 14001 system.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>The ENERGY STAR program does not require determining relevant variables. Appendix 4 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) provides detail on normalizing data, which may use similar variables.</p>
+<p>The ENERGY STAR program does not require significant energy uses (SEUs) to be determined or for defined intervals for reviewing and updating them, something that is required by ISO 50001 and is covered in the guidance in this task.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

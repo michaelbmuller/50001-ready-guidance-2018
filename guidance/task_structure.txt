@@ -65,7 +65,7 @@ Level of Effort:Shared
 Related ISO Sections:6.3d
 
 Task:11
-ID Name:Energy Performance Indicators (EnPIs) and Baselines (EnBs)
+ID Name:Energy Performance Indicators and Baselines
 Prerequisite Tasks:
 Level of Effort:Shared
 Related ISO Sections:6.4,6.5

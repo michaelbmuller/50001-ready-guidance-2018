@@ -226,7 +226,7 @@ class Task
      */
     public function getGettingItDone()
     {
-        return Markup::process($this->getting_it_done, $this->markupProcessor);
+        return Markup::process($this->getting_it_done, $this->markupProcessor, $this->guidance);
     }
 
     /**
@@ -236,7 +236,7 @@ class Task
      */
     public function getTaskOverview()
     {
-        return Markup::process($this->task_overview, $this->markupProcessor);
+        return Markup::process($this->task_overview, $this->markupProcessor, $this->guidance);
     }
 
     /**
