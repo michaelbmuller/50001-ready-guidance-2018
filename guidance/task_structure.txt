@@ -3,7 +3,7 @@ Section:Context of the Organization
 Task:1
 ID Name:An EnMS and Your Organization
 Prerequisite Tasks:
-Level of Effort:Shared
+Level of Effort:Individual
 Related ISO Sections:4.1
 
 Task:2
@@ -48,7 +48,7 @@ Related ISO Sections:6.1
 
 Task:8
 ID Name:Energy Data Collection and Analysis
-Prerequisite Tasks:
+Prerequisite Tasks:3
 Level of Effort:Shared
 Related ISO Sections:6.6,6.3a,6.3e
 

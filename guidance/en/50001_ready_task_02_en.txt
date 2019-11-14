@@ -4,59 +4,188 @@ USDOE 50001 READY NAVIGATOR TASK 2
 ----------MENU NAME----------
 People and Legal Requirements Affecting the EnMS
 ----------TITLE----------
-Task 2: We have developed an energy policy statement, which has been approved by top management
+Task 2: We determine the interested parties and energy-related legal and other requirements relevant to our energy performance and the EnMS. At defined intervals, we review these requirements and evaluate our compliance with them.
 ----------GETTING IT DONE----------
-<ul>
-	<li>Use the [resource](Energy_Policy_Worksheets) to draft your energy policy statement.</li>
-	<li>Have top management approve, issue, and communicate the energy policy statement across the organization and incorporate it into your EnMS awareness program (see [task](Communications)).</li>
-</ul>
+<ol>
+	<li>Identify and record the interested parties relevant to your organization&rsquo;s energy performance and EnMS.</li>
+	<li>Determine the needs and expectations of these interested parties as they relate to your organization&rsquo;s EnMS.</li>
+	<li>Identify the applicable legal and other requirements related to energy.</li>
+	<li>Implement a process to periodically evaluate compliance with the identified requirements.</li>
+</ol>
 ----------TASK OVERVIEW----------
-<p>The energy policy is top management&rsquo;s statement of its intentions with respect to your organization&rsquo;s energy performance. The commitments stated in the policy set the direction for energy management activities and provide the framework for using energy objectives and targets to achieve energy performance improvements. It is documented and communicated to personnel across all levels of the organization, including on-site contractors.</p>
+<p>The interested parties and their requirements relevant to your energy performance and EnMS are an extension of the external and internal context issues identified as part of [task](An EnMS and Your Organization). This task involves identifying those interested parties, understanding their needs and expectations, and determining requirements your organization must follow that will be addressed in your EnMS.&nbsp;</p>
 
-<p><strong>At the completion of this task, you will have&hellip;</strong></p>
+<p>An interested party is &ldquo;a person or organization that can affect, be affected by, or perceive itself to be affected by a decision or activity&rdquo; as related to your organization&rsquo;s energy performance and EnMS. An interested party that &ldquo;perceives&rdquo; itself to be affected by such decisions or activities must make this known to your organization.</p>
 
-<ul>
-	<li>Drafted the energy policy</li>
-	<li>Approved the energy policy</li>
-</ul>
+<p>Identifying, accessing, reviewing and updating applicable energy-related legal and other requirements is a logical follow-on from determining interested parties&rsquo; requirements, and an important component of comprehensive energy management. These requirements must be addressed within your EnMS. Those that include mandates for specific energy data collection and reporting may need to be inputs into the energy review (see [task](Energy Data Collection and Analysis)).</p>
 
-<p><em>This guidance is relevant to Sections 4.2.1 a) and 4.3 in the ISO 50001:2011 standard.</em></p>
+<p>Legal requirements are those embedded in law or otherwise imposed by a governmental entity or regulatory agency. You need to develop a complete picture of your organization&rsquo;s energy-related legal requirements so ongoing compliance with those requirements can be maintained.</p>
+
+<p>In addition to legal requirements, there are a variety of &ldquo;other requirements&rdquo; related to energy that an organization may have adopted or is subject to (e.g., a corporate energy mandate) or may commit to voluntarily (U.S. Environmental Protection Agency ENERGY STAR). Your organization&rsquo;s processes for identifying, accessing, evaluating, and keeping abreast of applicable legal requirements must address these &ldquo;other requirements&rdquo; as well.</p>
+
+<p>Personnel assigned responsibility for identifying and accessing the various energy-related legal and other requirements typically also have responsibility for evaluating and updating those requirements. Clearly defined and communicated roles, responsibilities, and authorities are critical for maintaining compliance.</p>
+
+<p>On a routine basis, you need to evaluate your organization&rsquo;s compliance with the legal and other requirements that apply to its energy use, energy consumption, and energy efficiency. The purpose of evaluating compliance is to ensure that your organization is meeting those requirements; and when it is either not meeting or has the potential of not meeting the requirements, appropriate action is taken.</p>
+
+<p><em>This guidance is relevant to Sections 4.2 and 9.1.2 of the ISO 50001:2018 standard</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Draft the energy policy)</p>
+<p>[Accordion](Determine the interested parties relevant to your energy performance and EnMS)</p>
 
-<p>The energy policy must state top management&rsquo;s commitments to the following:</p>
+<p>Identifying interested parties relevant to your energy performance and EnMS compliments the strategic, high-level understanding of the organization&rsquo;s context determined in [task](An EnMS and Your Organization).</p>
 
-<ul>
-	<li>Achieving continual improvement in energy performance</li>
-	<li>Ensuring the information and resources needed to meet energy objectives and targets</li>
-	<li>Complying with applicable legal requirements and other energy-related requirements subscribed to by your organization</li>
-</ul>
+<p>Identifying interested parties and their requirements is best performed by leveraging the multiple organizational perspectives represented by the energy team (see [task](Energy Team and Resources)). The energy team can help ensure that a comprehensive approach has been taken, and that the interested parties identified are indeed relevant to your energy performance and EnMS. If an energy team is not yet established, an individual can complete this task, and the results can be reviewed when the energy team is formed or during an annual review of the EnMS.</p>
 
-<p>In addition, the energy policy must support:</p>
+<p>An interested party is &ldquo;a person or organization that can affect, be affected by, or perceive itself to be affected by a decision or activity.&rdquo; In this case, we are concerned with decisions or activities as related to your organization&rsquo;s energy performance and EnMS. An interested party that &ldquo;perceives&rdquo; itself to be affected by such decisions or activities must make this known to your organization.</p>
+
+<p>Potential interested parties may include, but are not limited to:</p>
 
 <ul>
-	<li>Purchasing of energy-efficient products and services</li>
-	<li>Energy performance improvement in design activities</li>
+	<li>government agencies or regulatory authorities (federal, state, local, tribal)</li>
+	<li>local community groups</li>
+	<li>neighbors</li>
+	<li>customers</li>
+	<li>suppliers and contractors</li>
+	<li>&ldquo;corporate&rdquo; or parent organizations</li>
+	<li>trade and professional associations</li>
+	<li>non-governmental organizations</li>
 </ul>
 
-<p>The policy may be only a few sentences, or it may be several paragraphs long. Simpler and shorter is typically better, but it needs to include the commitments listed above and be appropriate to the nature and extent of your organization&rsquo;s energy use and consumption.</p>
-
-<p>Sometimes top management or the energy team will incorporate additional commitments into the energy policy (e.g., sustainability, reductions in greenhouse gas emissions, ENERGY STAR) that are not required by ISO 50001. This is acceptable; however, remember that what is stated in the policy must be demonstrated. In other words, if you say it then you must do it.</p>
-
-<p>The energy policy must be documented. Typically, the energy team prepares an initial draft of the energy policy for top management&rsquo;s consideration and approval. The [resource](Energy_Policy_Worksheets) can help your team draft the energy policy. An [resource](Example_Energy_Policy) shows how mnemonics can be used to phrase top management&rsquo;s commitments and facilitate personnel understanding and awareness as part of EnMS training activities.</p>
+<p>It can be helpful to capture the information used to identify interested parties in a table or matrix but there is no specific requirement that this information be maintained or retained as documented information.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Approve the energy policy)</p>
+<p>[Accordion](Determine which interested parties&rsquo; needs and expectations are requirements you will address in your EnMS)</p>
 
-<p>As a statement of your organization&rsquo;s intentions, top management must take &ldquo;ownership&rdquo; of the energy policy. This includes ensuring that the energy policy is aligned with the strategic direction of the organization. Evidence of top management&rsquo;s approval of the energy policy can take a variety of forms, from a simple signature and date to a recorded meeting decision.</p>
+<p>Determining interested parties necessarily involves understanding what their needs and expectations are related to your organization&rsquo;s energy performance and EnMS.</p>
 
-<p>Once approved and communicated, the energy policy is reviewed regularly and updated as needed. This is accomplished through the management review process (see [task](Management Review)).</p>
+<p>Interested parties&rsquo; relevant needs and expectations can be requirements because they are mandatory, e.g. the interested party is a regulatory agency or &ldquo;corporate&rdquo; for your organization. Many of these expectations may be identified as applicable energy-related legal requirements. The second half of this task discusses identifying and documenting these requirements.</p>
+
+<p>Or, the needs and expectations can be requirements because your organization has voluntarily agreed to meet them, e.g. the local Chamber of Commerce&rsquo;s sustainability code of practice or ENERGY STAR practices. Needs and expectations that are neither mandatory under law or regulation, nor voluntarily adopted by your organization are not requirements that need to be addressed in your EnMS even if an interested party thinks they should be.</p>
+
+<p>The Worksheet can be used to capture and work through what are the needs and expectations of interested parties and which of those are or will be requirements that are included in your organization&rsquo;s EnMS.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Identify and access applicable energy-related legal requirements)</p>
+
+<p>This part of the task involves identifying and establishing access to the federal, state, and local legal and regulatory requirements that apply to your organization&rsquo;s energy use, energy consumption, and energy efficiency. Some of this information may have been developed as part of the determination of interested parties and their applicable requirements. For most organizations, this process is already in place for environmental regulatory compliance. In addition, be aware that a number of environmental regulations, particularly some of those regulating air emissions, can be relevant to both the organization&rsquo;s environmental impacts and its energy uses.</p>
+
+<p>[Learn More](Examples)</p>
+
+<ul>
+	<li>An environmental regulatory permit may dictate a control that consumes energy, but that is not in operation on a continual basis (e.g., overflow pump for storm water discharge).</li>
+	<li>An environmental regulatory permit may specify a specific energy use (e.g., operation of a cyclone under an air permit).</li>
+	<li>A regulatory air permit may dictate that a facility burns only a certain type of fuel.</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Additional energy-related legal requirements could include local ordinances, zoning laws, or regulations or utility requirements. Building codes may include energy-efficiency requirements for new, modified, or renovated facilities. The Worksheet lists a variety of example requirements.</p>
+
+<p>To get started, gather information that answers the following questions:</p>
+
+<ul>
+	<li>What is your organization&rsquo;s existing process for identifying the applicable legal requirements related to energy uses?</li>
+	<li>Who in your organization has information on the applicable legal and regulatory requirements related to your energy uses?</li>
+	<li>How is this information maintained? Is there a list of these applicable legal and regulatory requirements?</li>
+	<li>Who is responsible for ensuring access to the applicable laws and regulations and their requirements? How is this accomplished?</li>
+	<li>Who is responsible for keeping this information current?</li>
+</ul>
+
+<p>Once the answers to these questions are obtained, the energy team typically coordinates with the environmental staff and management to evaluate the existing process and make any needed changes, and then assigns responsibilities for identifying, evaluating, and updating those legal requirements. The environmental staff may continue to handle the process for environmental legal requirements that also apply to energy uses, while the energy team may handle specific legal requirements related only to energy.</p>
+
+<p>The Worksheet can be used to list and keep track of applicable legal and other requirements and other relevant information.</p>
+
+<p>For organizations that do not have an existing process and assigned responsibilities for identifying, evaluating, and updating applicable legal requirements, the starting point for this task is different. First, assign responsibility for these activities to specific personnel. In some cases, the organization may decide to hire external assistance in developing this part of its EnMS.</p>
+
+<p>[Learn More](Resources to help identify applicable legal requirements)</p>
+
+<p>A variety of resources are available to help an organization identify the legal requirements related to its energy efficiency, energy use and energy consumption. These include the following:</p>
+
+<ul>
+	<li>Commercial legal and regulatory updating services</li>
+	<li>Websites of federal, state, and local regulatory agencies</li>
+	<li>The Code of Federal Regulations (CFR)</li>
+	<li>Electronic newsletters</li>
+	<li>Trade periodicals</li>
+	<li>Trade associations</li>
+	<li>Training courses and informational seminars</li>
+	<li>Networking relationships with local agencies and officials</li>
+	<li>Attorneys and consultants</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Ensure that the requirements of applicable laws and regulations are easily and readily accessible. Depending on the source of the legal requirement, access may be available through governmental or other websites, commercial or governmental databases, hardcopy or electronic subscriptions, etc.</p>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Identify and access other applicable energy-related requirements)</p>
+
+<p>The basic process for identifying and accessing the voluntary programs or other energy-related requirements subscribed to by your organization is much the same as it is for legal requirements. Roles, responsibilities, and authorities are assigned, and sources for accessing the text of the applicable requirements are determined. Information on the voluntary commitments and &ldquo;other requirements&rdquo; that apply to your organization&rsquo;s energy uses is maintained and kept accessible. Often, this information is included in the list (or database or other compilation) of applicable legal requirements as a separate section or coded as a non-legal or voluntary requirement. Some of this information may have been identified and developed as part of the determination of interested parties and their applicable requirements.</p>
+
+<p>The Worksheet can be used to list and keep up with the applicable other requirements and associated information.</p>
+
+<p>[Learn More](Examples of voluntary commitments and other requirements)</p>
+
+<p>Examples of voluntary commitments and other requirements related to an organization&rsquo;s energy uses include the following:</p>
+
+<ul>
+	<li>Voluntary standards (e.g., ISO 14001)</li>
+	<li>Certification programs (ISO, Trade Group, etc.)</li>
+	<li>Corporate energy requirements (e.g., energy conservation, energy performance reporting)</li>
+	<li>LEED Certification (Existing Building &amp; Maintenance)</li>
+	<li>ENERGY STAR&reg; Facility (U.S. EPA)</li>
+	<li>State Greenhouse Gas (GHG) goals</li>
+	<li>State Environmental or Energy Performance Programs</li>
+	<li>Better Buildings, Better Plants (U.S. Department of Energy)</li>
+	<li>Superior Energy Performance Program (U.S. Department of Energy)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>The process for identifying the applicable &ldquo;other energy-related requirements&rdquo; subscribed to by your organization involves clearly defined communication channels between management (who commit on behalf of the organization) and the energy team (or other personnel responsible for the organization&rsquo;s compliance with those requirements). Typically, the agency, non-governmental organization, trade association, or other organization responsible for the program or requirements will provide access to the program requirements and related resources.</p>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Establish a process for evaluating and updating requirements)</p>
+
+<p>Evaluating energy-related legal and other requirements, whether they are current, new, or changed, involves first a review of their applicability. Second, if determined to be applicable, what those current, new, or modified requirements mean for your organization&rsquo;s facilities, equipment, systems, processes, and personnel needs to be evaluated. Once the evaluation is completed and those impacts are understood, the actions needed to comply with those requirements are implemented. This can include, for example, additional or modified training, operational controls, measuring and monitoring, calibration, and record-keeping.</p>
+
+<p>The recommended approach for effectively managing this part of the EnMS is to incorporate both the evaluation and updating processes into your organization&rsquo;s change management processes. Keep in mind that it isn&rsquo;t just new or changed legal and other requirements that may trigger changes in your EnMS. Changes in your organization&rsquo;s activities, facilities, equipment, systems, and processes (including those resulting from energy projects) can also trigger changes in the legal and other requirements that apply to your operations.</p>
+
+<p>You need to set defined intervals for reviewing legal and other energy requirements. Some organizations set a minimum review schedule (e.g., quarterly, semi-annually), but will keep the information on legal requirements up to date on an ongoing basis. Monitoring for new or changed legal requirements sometimes can be accomplished using electronic newsletters or email update notifications from regulatory agencies or other sources. Reviews for updates to voluntary programs or other energy requirements subscribed to by your organization usually are conducted on an established frequency. It is good practice to retain evidence that the reviews have been conducted.</p>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Conduct compliance evaluations)</p>
+
+<p>Compliance with legal and other energy-related requirements subscribed to by your organization must be evaluated at planned intervals. There is no required frequency; you determine the appropriate interval for the evaluations. The planned intervals may be different for different sets of requirements. Although compiling and submitting required regulatory reports generally is not considered evaluation of compliance with legal requirements, decisions on the interval for conducting compliance evaluations typically consider the required timing for such reports.&nbsp; For simplicity you may consider conducting compliance evaluations at intervals that correspond with those established for the review of legal and other requirements.</p>
+
+<p>It is imperative that roles, responsibilities, and authorities for planning, conducting, and retaining the results of compliance evaluations are defined and communicated to the appropriate personnel. Depending on the type of energy-related legal and other requirements that apply, compliance evaluation responsibilities and authorities may be dispersed across multiple positions. For example, the environmental manager may have overall responsibility for evaluating compliance for legal requirements that involve both environmental and energy issues, while the energy manager or members of the energy team may be responsible for evaluating compliance with the energy requirements of the local community&rsquo;s sustainability program.</p>
+
+<p>Your organization may already have processes in place for periodic auditing or evaluation of compliance. For example, such processes may be in place for environmental or safety and health regulatory requirements. Appropriately leveraging any existing processes can be a more efficient use of resources than starting from scratch.</p>
+
+<p>Consider either developing or obtaining checklist tools to assist in the compliance evaluation process. Checklists for auditing legal requirements (particularly for federal regulations) are often available either commercially or on the Internet. Customized checklists can be created by taking each requirement and developing questions that can be asked or evidence to be examined (e.g., records) to determine whether that requirement is being met. The Worksheet can be a useful starting point for the development of customized checklists.</p>
+
+<p>When evaluations of compliance determine that one or more requirements are not being met, corrective action is taken to eliminate the source of the problem. See [task](Corrective Actions) for additional information on corrective action.</p>
+
+<p>[Accordion End]</p>
+<p>[Accordion](Ensure records of results and actions taken are retained)</p>
+
+<p>The results of the compliance evaluations and any actions taken must be recorded and retained. How the results and actions are recorded, including the format and level of detail, is up to you. One approach is to prepare a high-level summary that indicates whether or not concerns or non-compliances were found and whether or not corrective actions to address them have been undertaken and completed.</p>
+
+<p>Trends on compliance evaluation results must be reviewed by top management as part of the management review process (see [task](Management Review)). Trend information could include the number and types of non-compliances found over time across the various legal and other requirements. Trend information also could be developed based on the types of actions taken to address the results of the compliance evaluations. It is recommended that decisions on exactly what trends on compliance evaluation results will be reported to management review be made as part of the implementation of the compliance evaluation process and the retention of records of the results.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Like policies in both ISO 14001:2015 and ISO 9001:2015, the energy policy in a management system is a responsibility of top management. And, although the required policy commitments are different for each of these standards, they can be combined into a single integrated management system policy very easily. The energy policy commitments of ISO 50001 often are integrated into environmental and/or safety and health management system policies. The energy policy also can be implemented as a stand-alone policy. Note that unlike the quality and environmental policies, the energy policy is not required to be available outside of the organization. If it were to be integrated with an ISO 14001 and/or ISO 9001 policy statement, then the energy policy would be available to external interested parties. The key difference between ISO 50001 and these other two standards (ISO 14001 and ISO 9001) is that the energy policy must explicitly commit to achieving energy performance improvement.</p>
+<p>The ISO 14001:2015 processes for determining and accessing applicable legal and other requirements can be leveraged to meet similar requirements of ISO 50001:2018. Integrating energy-related legal and other requirements with environmental legal and other requirements is relatively straightforward, although the personnel assigned responsibilities for the energy requirements may be different than the assigned personnel for environmental. If integration is not an option, then the existing processes used to identify and access environmental requirements can be duplicated for use by the 50001 Ready system.</p>
+
+<p>The ISO 9001:2015 processes for identifying and meeting applicable statutory and regulatory requirements are embedded in customer focus and determination of requirements for products and services. Since ISO 50001:2018 does not address energy requirements as part of customer, product or service requirements, ISO 9001 may not provide the processes needed to fully meet the ISO 50001 requirements for legal and other requirements.</p>
+
+<p>Processes used to evaluate and update environmental legal and other requirements under ISO 14001:2015 can be adapted and applied to evaluate and update energy-related legal and other requirements for ISO 50001:2018. Or, a single integrated process can be used to meet the requirements of both standards.</p>
+
+<p>ISO 50001:2018 would not necessarily require any adaptations to a compliance evaluation processes maintained under ISO 14001:2015. The same process could be used for both systems separately or on an integrated basis. The differences would likely relate to the personnel assigned responsibility and authority for the compliance evaluation process and the specific legal and other requirements (called &ldquo;compliance obligations&rdquo; in ISO 14001) involved. One additional requirement in ISO 14001:2015 that is not present in ISO 50001:2018 relates to the organization maintaining knowledge and understanding of its compliance status. However, this requirement could be considered implicit in ISO 50001 as it is commonly expected that any organization would know its compliance status at any point in time.</p>
+
+<p>Integrating energy-related compliance evaluations with environmental can be an effective use of resources. Such integration with an ISO 9001:2015 system would not be as straightforward and usually results in separate processes. This is due to the fact that in ISO 9001:2015 quality systems, statutory and regulatory requirements are part of the determination and review of the requirements for products and services, including customer requirements. They are almost exclusively product-or service-focused and are achieved through the controls and performance evaluation processes of the quality system.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>The energy policy your organization instituted in Step 1.3 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) should be checked to ensure it meets the specific requirements for ISO 50001. An energy policy that adheres to ISO 50001 must commit to achieving continual improvement in energy performance, meeting compliance obligations, supporting the purchase of energy efficient products and services, and documenting and communicating the policy at all levels of the organization.</p>
+<p>The ENERGY STAR Guidelines for Energy Management refers in Sections 1.2, 2.2, 6.1, 5.2, 6.2 and 7.2 to stakeholders (i.e. interested parties) with respect to communicating to them. Additional references to stakeholders are concerned with the value to them of external recognition of an organization’s energy management program (see Section 7.2). The ENERGY STAR Guidelines for Energy Management does not refer to energy-related legal and voluntarily adopted other requirements.</p>
 ----------LICENSE----------
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.=
