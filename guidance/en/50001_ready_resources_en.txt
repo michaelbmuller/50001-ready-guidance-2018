@@ -1,21 +1,48 @@
 USDOE 50001 READY NAVIGATOR
 ----------RESOURCES----------
-Name||50001 Ready Playbook Task 02 People and Legal Requirements Affecting the EnMS
+Name||50001 Ready Playbook Task 02
 ID||Task2_Playbook
 File Type||docx
-Short Description||
+Short Description||People and Legal Requirements Affecting the EnMS
 File Name||50001 Ready Playbook Task 02 People and Legal Requirements Affecting the EnMS [DOE Draft].docx
 Link||
-Associated Tasks||
+Associated Tasks||2
 Last Updated||2019-11-18 20:30:00
 ----------
-Name||50001 Ready Playbook Task 03 Scope and Boundaries
+Name||50001 Ready Playbook Task 03
 ID||Task3_Playbook
 File Type||docx
-Short Description||
+Short Description||Scope and Boundaries
 File Name||50001 Ready Playbook Task 03 Scope and Boundaries [DOE Draft].docx
 Link||
-Associated Tasks||
+Associated Tasks||3
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 04
+ID||Task4_Playbook
+File Type||docx
+Short Description||Management Commitment
+File Name||50001 Ready Playbook Task 04 Management Commitment [DOE Draft].docx
+Link||
+Associated Tasks||4
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 05
+ID||Task5_Playbook
+File Type||docx
+Short Description||Energy Policy
+File Name||50001 Ready Playbook Task 05 Energy Policy [DOE Draft].docx
+Link||
+Associated Tasks||5
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 06
+ID||Task6_Playbook
+File Type||docx
+Short Description||Energy Team and Resources
+File Name||50001 Ready Playbook Task 06 Energy Team and Resources [DOE Draft].docx
+Link||
+Associated Tasks||6
 Last Updated||2019-11-18 20:30:00
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
