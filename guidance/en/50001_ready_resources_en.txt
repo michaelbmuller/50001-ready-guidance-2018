@@ -44,5 +44,50 @@ File Name||50001 Ready Playbook Task 06 Energy Team and Resources [DOE Draft].do
 Link||
 Associated Tasks||6
 Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 18
+ID||Task18_Playbook
+File Type||docx
+Short Description||Energy Considerations in Design
+File Name||50001 Ready Playbook Task 18 Energy Considerations in Design [DOE Draft].docx
+Link||
+Associated Tasks||18
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 19
+ID||Task19_Playbook
+File Type||docx
+Short Description||Energy Considerations in Procurement
+File Name||50001 Ready Playbook Task 19 Energy Considerations in Procurement [DOE Draft].docx
+Link||
+Associated Tasks||19
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 22
+ID||Task22_Playbook
+File Type||docx
+Short Description||Internal Audit
+File Name||50001 Ready Playbook Task 22 Internal Audit [DOE Draft].docx
+Link||
+Associated Tasks||22
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 23
+ID||Task23_Playbook
+File Type||docx
+Short Description||Management Review
+File Name||50001 Ready Playbook Task 23 Management Review [DOE Draft].docx
+Link||
+Associated Tasks||23
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 24
+ID||Task24_Playbook
+File Type||docx
+Short Description||Corrective Actions
+File Name||50001 Ready Playbook Task 24 Corrective Actions [DOE Draft].docx
+Link||
+Associated Tasks||24
+Last Updated||2019-11-18 20:30:00
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
