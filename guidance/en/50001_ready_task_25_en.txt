@@ -75,8 +75,6 @@ Task 25: We have a 50001 Ready energy management system and continually improve 
 	<li>In planning the actions to address risks and opportunities as part of [Task](Risks to EnMS Success), your organization sets plans for how to implement and integrate those actions into the EnMS and energy performance processes. Depending on the type of actions to be taken, this could include integrating the actions into objectives, energy targets, action plans, communication processes, operational controls, design plans, monitoring and measurement activities, etc.</li>
 </ul>
 
-<p>&nbsp;</p>
-
 <ul>
 	<li>Similarly, consideration should be given to how your actions to achieve objectives and energy targets can be integrated into the organization&rsquo;s business processes (see [Task](Action Plans for Continual Improvement)). Depending on the actions to be taken, this could mean integrating the actions with strategic planning or budgeting processes, competency or training requirements, procurement activities, development of documented information, etc.</li>
 </ul>

@@ -46,9 +46,10 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 
 <p>[Accordion End]</p>
 
-<p>As part of assembling the team, or after the team is formed, it can be helpful to identify and authorize an energy team leader. Often this person is the energy manager, facilities director, or someone experienced with ISO management systems or energy-using equipment and systems. In the best case, specific skill sets can enhance the ability of the energy team leader to be successful.</p>
 
-<p>[Accordion](Desirable skills of an energy team leader)</p>
+<p>[Accordion](Energy team leader)</p>
+
+<p>As part of assembling the team, or after the team is formed, it can be helpful to identify and authorize an energy team leader. Often this person is the energy manager, facilities director, or someone experienced with ISO management systems or energy-using equipment and systems. In the best case, specific skill sets can enhance the ability of the energy team leader to be successful.</p>
 
 <p>Desirable skills of an energy team leader include the following:</p>
 
@@ -64,15 +65,13 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 	<li>Computer proficiency</li>
 </ul>
 
-<p>[Accordion End]</p>
-
 <p>Once the team has been established, it is critically important that it is authorized and resourced by top management to carry out its assigned roles and responsibilities. This is true, regardless of the levels of the job positions and authorities held by the various members of the team. The team will be overseeing the EnMS and the team cannot succeed if it is not appropriately empowered to execute its tasks without jeopardizing the regular job functions of the team members.</p>
 
 <p>The authorization of the team should be communicated broadly across the organization by top management. This helps convey the importance top management is placing on energy management and energy performance improvement and promotes cooperation that the energy team needs from across the organization.</p>
 
 <p>Management supports the energy team by allowing them the time and resources necessary to conduct the activities associated with their responsibilities.</p>
 
-<p>[Accordion](Typical resources provided to energy team members)</p>
+<p>[Learn More](Typical resources provided to energy team members)</p>
 
 <p>Typical resources provided to energy team members can include the following:</p>
 
@@ -85,9 +84,9 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 	<li>Resources required for any personnel that would assist with the EnMS</li>
 </ul>
 
-<p>[Accordion End]</p>
+<p>[Learn More End]</p>
 
-<p>[Accordion](Assign energy team responsibilities and authorities)</p>
+<p>[Learn More](Assign energy team responsibilities and authorities)</p>
 
 <p>Top management assigns responsibility and authority to the energy team for the following:</p>
 
@@ -116,6 +115,7 @@ Task 6: We have an energy team authorized by top management to oversee the EnMS.
 
 <p>Energy team members should be assigned specific EnMS implementation tasks and should be held accountable for their timely completion. Robust team communication processes are critical for communicating assignments, developing or adapting the processes needed for the EnMS and obtaining feedback from other team members.</p>
 
+<p>[Learn More End]</p>
 <p>[Accordion End]</p>
 
 <p>[Accordion](Schedule regular energy team meetings)</p>

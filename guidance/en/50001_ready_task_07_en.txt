@@ -7,8 +7,8 @@ Risks to EnMS Success
 Task 7: We determine strategic risks and opportunities to ensure that our organization can achieve the intended outcomes of our EnMS and energy performance improvement. We plan and implement actions to address these risks and opportunities and evaluate the effectiveness of the actions taken.
 ----------GETTING IT DONE----------
 <ol>
-<li>Use the [task](An EnMS and Your Organization) Worksheet or similar document to identify the risks and opportunities pertaining to the ability of your EnMS to achieve its intended outcomes.</li>
-<li>For each of the identified risks and opportunities, plan and implement actions to address them using the processes of the EnMS. Add this information to the Worksheet or similar document.</li>
+<li>Identify the risks and opportunities pertaining to the ability of your EnMS to achieve its intended outcomes.</li>
+<li>For each of the identified risks and opportunities, plan and implement actions to address them using the processes of the EnMS and record this information.</li>
 <li>Plan for how the actions taken will be evaluated for effectiveness. Perform an effectiveness evaluation.</li>
 </ol>
 ----------TASK OVERVIEW----------

@@ -18,7 +18,7 @@ Task 10: We identify and prioritize energy performance improvement opportunities
 
 <p><em>This guidance is relevant to Section 6.3 d) of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Identify energy opportunities)</p>
+<p>[Accordion](Identify energy performance improvement opportunities.)</p>
 
 <p>Identification of energy performance improvement opportunities is the responsibility of the energy team. Input from all employees, as well as from external resources, should be solicited and considered as appropriate.</p>
 

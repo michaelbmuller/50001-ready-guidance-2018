@@ -68,9 +68,9 @@ Task 16: We document information we determined is needed to ensure EnMS effectiv
 
 <p>[Learn More End]</p>
 
-<p>[Accordion End]</p>
-
 <p>For this task, make sure that you have the documented information required for the processes of the EnMS that have been implemented so far. As you continue with EnMS implementation, the energy team should use this resource to ensure that the documented information required for other parts of the EnMS have been included in the system.</p>
+
+<p>[Accordion End]</p>
 
 <p>[Accordion](Determine the documented information needed by your organization for its EnMS)</p>
 

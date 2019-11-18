@@ -153,8 +153,6 @@ Task 4: Our top management demonstrates leadership and commitment to continual i
 
 <p>If management has not already committed to EnMS implementation, or if commitment is lacking, they will need to be convinced of the benefits so they can provide successful support.</p>
 
-<p>[Learn More](Tips for preparing a briefing for top management)</p>
-
 <p>Consider the following tips when preparing your briefing for top management:</p>
 
 <ul>
@@ -166,11 +164,8 @@ Task 4: Our top management demonstrates leadership and commitment to continual i
 
 <p>An elevator speech - a short summary - can be used to get a point across quickly and simply. It should take no longer than two minutes to present. Use the Worksheet to focus on the essential information, and then expand it to the time available. Regardless of the amount of time available, be sure to cover the important points at the beginning. To ensure that management hears what you want to share, an old adage is appropriate: &ldquo;Tell them what you are going to tell them, then tell them, and then tell them what you told them.&rdquo;</p>
 
-<p>[Learn More End]</p>
 <p>[Accordion End]</p>
 <p>[Accordion](Deliver briefing to top management)</p>
-
-<p>[Learn More](Tips for delivering a briefing to top management)</p>
 
 <p>Develop a briefing for top management using the organization&rsquo;s standard presentation tools or in another format that best displays the information.</p>
 
@@ -188,7 +183,6 @@ Task 4: Our top management demonstrates leadership and commitment to continual i
 
 <p>The intent of the presentation is to briefly provide the information needed for management to make necessary decisions, and to provide additional details as required. If the topic begins to stray, put the presentation back on track by bringing the group&rsquo;s attention back to the presentation materials. The Worksheet can help you stay on track. Adjust the agenda based on the time available.</p>
 
-<p>[Learn More End]</p>
 <p>[Accordion End]</p>
 <p>[Accordion](Secure management commitment)</p>
 

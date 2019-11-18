@@ -125,7 +125,7 @@ Task 8: We identify our energy sources and energy uses, have a data collection p
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Relevant Variables)</p>
+<p>[Accordion](Identify relevant variables)</p>
 
 <p>Relevant variables are quantifiable factors that routinely change and have a major impact on energy performance, including the performance. As part of ISO 50001:2018 energy consumption values for EnPIs, EnBs, and SEUs may need to be &ldquo;normalized&rdquo; for relevant variables. Consider potential EnPIs and SEUs and what factors might be relevant variables if the organization determines that the relevant variables &ldquo;significantly&rdquo; affects energy consumption. For commercial or institutional facilities, occupancy and weather can often be variables affecting consumption. For industrial facilities, production level is generally an additional variable that affects energy consumption. In addition to weather, occupancy, and production consider the following: operating schedule, product mix, input materials, and season. Understanding the relationship between relevant variables and energy consumption is important in formulating how energy can be controlled and energy performance maximized.</p>
 
@@ -141,7 +141,7 @@ Task 8: We identify our energy sources and energy uses, have a data collection p
 
 <p>In addition to the data needed to measure and monitor energy consumption and relevant variables, you should identify data needs to satisfy the process of conducting an energy review, the &ldquo;key characteristics&rdquo; of operations affecting energy performance, and other needs of your organization.</p>
 
-<p>[Learn More](Energy Review Data Needs)</p>
+<p>[Learn More](Energy Review)</p>
 
 <p>The energy review is intended to profile your organization&rsquo;s energy situation and serve as a guide for collecting and analyzing the data needed to determine energy performance and identify improvement opportunities.</p>
 
@@ -166,7 +166,7 @@ Task 8: We identify our energy sources and energy uses, have a data collection p
 
 <p>[Learn More End]</p>
 
-<p>[Learn More](Key Characteristics Data Needs)</p>
+<p>[Learn More](Key Characteristics)</p>
 
 <p>In addition to the data required for the energy review and that your organization determines is needed, ISO 50001 requires that some specific data identified as &ldquo;key characteristics of operations affecting energy performance&rdquo; be collected in order to evaluate your organization&rsquo;s energy performance (see [task](Monitoring and Measurement of Energy Performance Improvement)). These key characteristics include:</p>
 
@@ -182,7 +182,7 @@ Task 8: We identify our energy sources and energy uses, have a data collection p
 
 <p>[Learn More End]</p>
 <p>[Accordion End]</p>
-<p>[Accordion](Data sources)</p>
+<p>[Accordion](Identify data sources)</p>
 
 <p>It is important to know where to locate and how to acquire energy data. Requirements will vary depending on the data to be collected. Energy bills are generally readily available and easy to collect, but other data may require more effort. Metering may not exist for some energy management data, and it may be necessary to evaluate your metering availability and data collection process to determine the most advantageous method(s) to collect the required data. For energy sources that can be metered, there are generally four sources for energy data collection, and you can employ some combination of these:</p>
 
