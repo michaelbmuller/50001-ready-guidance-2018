@@ -89,5 +89,50 @@ File Name||50001 Ready Playbook Task 24 Corrective Actions [DOE Draft].docx
 Link||
 Associated Tasks||24
 Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 10
+ID||Task10_Playbook
+File Type||docx
+Short Description||Improvement Opportunities
+File Name||50001 Ready Playbook Task 10 Improvement Opportunities [DOE Draft].docx
+Link||
+Associated Tasks||10
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 15
+ID||Task15_Playbook
+File Type||docx
+Short Description||Awareness and Communication
+File Name||50001 Ready Playbook Task 15 Awareness and Communication [DOE Draft].docx
+Link||
+Associated Tasks||15
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 16
+ID||Task16_Playbook
+File Type||docx
+Short Description||Documenting the EnMS
+File Name||50001 Ready Playbook Task 16 Documenting the EnMS [DOE Draft].docx
+Link||
+Associated Tasks||16
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 17
+ID||Task17_Playbook
+File Type||docx
+Short Description||Operational Controls
+File Name||50001 Ready Playbook Task 17 Operational Controls [DOE Draft].docx
+Link||
+Associated Tasks||17
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 25
+ID||Task25_Playbook
+File Type||docx
+Short Description||Continual Improvement
+File Name||50001 Ready Playbook Task 25 Continual Improvement [DOE Draft].docx
+Link||
+Associated Tasks||25
+Last Updated||2019-11-18 20:30:00
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
