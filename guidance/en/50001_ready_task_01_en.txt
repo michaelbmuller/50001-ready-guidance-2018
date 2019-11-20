@@ -8,7 +8,7 @@ Task 1: We determine the strategic issues that affect our ability to improve ene
 ----------GETTING IT DONE----------
 <ol>
 <li>Identify the external and internal strategic issues that affect your organization&rsquo;s ability to improve its energy performance and achieve the intended outcomes of the EnMS.</li>
-<li>Record this information by completing the External and Internal Issues sections of the Worksheet.</li>
+<li>Record this information.</li>
 </ol>
 ----------TASK OVERVIEW----------
 <p>This task develops information to ensure your energy management activities support your organization&rsquo;s foundational needs, allowing you to more fully customize your energy management system (EnMS) to your business realities.</p>
