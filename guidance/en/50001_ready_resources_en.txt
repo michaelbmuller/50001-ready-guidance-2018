@@ -1,5 +1,14 @@
 USDOE 50001 READY NAVIGATOR
 ----------RESOURCES----------
+Name||50001 Ready Playbook Task 01
+ID||Task1_Playbook
+File Type||docx
+Short Description||An EnMS and your Organization
+File Name||50001 Ready Playbook Task 01 An EnMS and your Organization [DOE Draft].docx
+Link||
+Associated Tasks||1
+Last Updated||2019-11-18 20:30:00
+----------
 Name||50001 Ready Playbook Task 02
 ID||Task2_Playbook
 File Type||docx
@@ -45,6 +54,24 @@ Link||
 Associated Tasks||6
 Last Updated||2019-11-18 20:30:00
 ----------
+Name||50001 Ready Playbook Task 07
+ID||Task7_Playbook
+File Type||docx
+Short Description||Risks to EnMS Success
+File Name||50001 Ready Playbook Task 07 Risks to EnMS Success [DOE Draft].docx
+Link||
+Associated Tasks||7
+Last Updated||2019-11-18 20:30:00
+----------
+Name||Energy Consumption Tracker
+ID||Task8_Excel
+File Type||docx
+Short Description||Track Energy Consumption and Relevant Variables
+File Name||Energy Consumption Tracker (Task 8) [DOE Draft].xlsx
+Link||
+Associated Tasks||8
+Last Updated||2019-11-18 20:30:00
+----------
 Name||50001 Ready Playbook Task 10
 ID||Task10_Playbook
 File Type||docx
@@ -52,6 +79,24 @@ Short Description||Improvement Opportunities
 File Name||50001 Ready Playbook Task 10 Improvement Opportunities [DOE Draft].docx
 Link||
 Associated Tasks||10
+Last Updated||2019-11-18 20:30:00
+----------
+Name||Energy Performance Improvement Opportunity Tracker
+ID||Task10_Excel
+File Type||docx
+Short Description||Track Various Energy Saving Opportunities
+File Name||Energy Performance Improvement Opportunity Tracker (Task 10) [DOE Draft].xlsx
+Link||
+Associated Tasks||10
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 11
+ID||Task11_Playbook
+File Type||docx
+Short Description||EnPIs and EnBs
+File Name||50001 Ready Playbook Task 11 EnPIs and EnBs [DOE Draft].docx
+Link||
+Associated Tasks||11
 Last Updated||2019-11-18 20:30:00
 ----------
 Name||50001 Ready Playbook Task 15
@@ -97,6 +142,24 @@ Short Description||Energy Considerations in Procurement
 File Name||50001 Ready Playbook Task 19 Energy Considerations in Procurement [DOE Draft].docx
 Link||
 Associated Tasks||19
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 20
+ID||Task20_Playbook
+File Type||docx
+Short Description||Monitoring and Measurement of the EnMS
+File Name||50001 Ready Playbook Task 20 Monitoring and Measurement of the EnMS [DOE Draft].docx
+Link||
+Associated Tasks||20
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 21
+ID||Task21_Playbook
+File Type||docx
+Short Description||Monitoring and Measurement of Energy Performance Improvement
+File Name||50001 Ready Playbook Task 21 Monitoring and Measurement of Energy Performance Improvement [DOE Draft].docx
+Link||
+Associated Tasks||21
 Last Updated||2019-11-18 20:30:00
 ----------
 Name||50001 Ready Playbook Task 22
