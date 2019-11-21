@@ -65,7 +65,7 @@ Last Updated||2019-11-18 20:30:00
 ----------
 Name||Energy Consumption Tracker
 ID||Task8_Excel
-File Type||docx
+File Type||xlsx
 Short Description||Track Energy Consumption and Relevant Variables
 File Name||Energy Consumption Tracker (Task 8) [DOE Draft].xlsx
 Link||
@@ -83,7 +83,7 @@ Last Updated||2019-11-18 20:30:00
 ----------
 Name||Energy Performance Improvement Opportunity Tracker
 ID||Task10_Excel
-File Type||docx
+File Type||xlsx
 Short Description||Track Various Energy Saving Opportunities
 File Name||Energy Performance Improvement Opportunity Tracker (Task 10) [DOE Draft].xlsx
 Link||
