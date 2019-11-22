@@ -63,6 +63,15 @@ Link||
 Associated Tasks||7
 Last Updated||2019-11-18 20:30:00
 ----------
+Name||50001 Ready Playbook Task 08
+ID||Task8_Playbook
+File Type||docx
+Short Description||Energy Data Collection and Analysis
+File Name||50001 Ready Playbook Task 08 Energy Data Collection and Analysis [DOE Draft].docx
+Link||
+Associated Tasks||8
+Last Updated||2019-11-18 20:30:00
+----------
 Name||Energy Consumption Tracker
 ID||Task8_Excel
 File Type||xlsx
@@ -70,6 +79,15 @@ Short Description||Track Energy Consumption and Relevant Variables
 File Name||Energy Consumption Tracker (Task 8) [DOE Draft].xlsx
 Link||
 Associated Tasks||8
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 09
+ID||Task9_Playbook
+File Type||docx
+Short Description||Significant Energy Uses
+File Name||50001 Ready Playbook Task 09 Significant Energy Uses [DOE Draft].docx
+Link||
+Associated Tasks||9
 Last Updated||2019-11-18 20:30:00
 ----------
 Name||50001 Ready Playbook Task 10
@@ -97,6 +115,33 @@ Short Description||EnPIs and EnBs
 File Name||50001 Ready Playbook Task 11 EnPIs and EnBs [DOE Draft].docx
 Link||
 Associated Tasks||11
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 12
+ID||Task12_Playbook
+File Type||docx
+Short Description||Objectives and Targets
+File Name||50001 Ready Playbook Task 12 Objectives and Targets [DOE Draft].docx
+Link||
+Associated Tasks||12
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 13
+ID||Task13_Playbook
+File Type||docx
+Short Description||Action Plans for Continual Improvement
+File Name||50001 Ready Playbook Task 13 Action Plans for Continual Improvement [DOE Draft].docx
+Link||
+Associated Tasks||13
+Last Updated||2019-11-18 20:30:00
+----------
+Name||50001 Ready Playbook Task 14
+ID||Task14_Playbook
+File Type||docx
+Short Description||Competence and Training
+File Name||50001 Ready Playbook Task 14 Competence and Training [DOE Draft].docx
+Link||
+Associated Tasks||14
 Last Updated||2019-11-18 20:30:00
 ----------
 Name||50001 Ready Playbook Task 15
