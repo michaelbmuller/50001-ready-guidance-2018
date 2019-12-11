@@ -7,13 +7,13 @@ Action Plans for Continual Improvement
 Task 13: We develop action plans and implement improvement projects to achieve our objectives and energy targets.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Use your prioritized opportunities from [task](Improvement Opportunities) to select projects for implementation.</li>
+	<li>Use your prioritized opportunities from Task 10 [task](Improvement Opportunities) to select projects for implementation.</li>
 	<li>Apply any applicable criteria set by your organization to justify and gain approval of the project.</li>
-	<li>Develop action plans for meeting your organization&rsquo;s objectives and energy targets identified in [task](Objectives and Targets).</li>
+	<li>Develop action plans for meeting your organization&rsquo;s objectives and energy targets identified in Task 12 [task](Objectives and Targets).</li>
 	<li>Communicate expectations to relevant positions and review action plan progress.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>After setting objectives and energy targets, you must determine how your organization will achieve them. This involves reviewing the list of prioritized opportunities (see [task](Improvement Opportunities)) and selecting projects for implementation. This process helps to ensure that the projects best suited to meet the objectives and energy targets are planned and implemented.</p>
+<p>After setting objectives and energy targets, you must determine how your organization will achieve them. This involves reviewing the list of prioritized opportunities (see Task 10 [task](Improvement Opportunities)) and selecting projects for implementation. This process helps to ensure that the projects best suited to meet the objectives and energy targets are planned and implemented.</p>
 
 <p>Once you have selected the projects that will enable your organization to achieve its objectives and energy targets, designate a leader for each project. If the scope and complexity of the project requires additional resources, assemble a project team with the support of the energy team and top management. Then, develop an action plan for each project.</p>
 
@@ -34,57 +34,58 @@ Task 13: We develop action plans and implement improvement projects to achieve o
 ----------FULL DESCRIPTION----------
 <p>[Accordion](Select improvement opportunities (projects) for implementation)</p>
 
-<p>Using the compilation of prioritized energy opportunities you developed as part of the energy review ([task](Improvement Opportunities)), your organization will need to select projects to achieve the specific objectives and targets established in [task](Objectives and Targets). However, it is unlikely that management can provide resources for all of the potential projects on your list of energy opportunities.</p>
+<p>Using the compilation of prioritized energy opportunities you developed as part of the energy review (Task 10 [task](Improvement Opportunities)), your organization will need to select projects to achieve the specific objectives and targets established in Task 12 [task](Objectives and Targets). However, it is unlikely that management can provide resources for all of the potential projects on your list of energy opportunities.</p>
 
 <p>Review the list of prioritized energy opportunities. When selecting a project for implementation, consider the specific objectives and energy targets you have established. Determine which projects are feasible and that will enable you to achieve the improvement(s) in the stated objectives and energy targets. The following considerations can be useful in this process:</p>
 
 <ul>
 	<li>The estimated energy savings associated with implementation of the project</li>
 	<li>Organizational constraints, such as
-	<ul>
-		<li>Funding requirements or constraints,</li>
-		<li>Availability of personnel expertise and time (both internal and external, as applicable), and</li>
-		<li><a name="_heading=h.30j0zll"></a>Effect on other organizational priorities</li>
+	<ul style="list-style-type:circle">
+		<li>funding requirements or constraints,</li>
+		<li>availability of personnel expertise and time (both internal and external, as applicable), and</li>
+		<li><a name="_heading=h.30j0zll"></a>effect on other organizational priorities.</li>
 	</ul>
 	</li>
-	<li>Any applicable capital justification or other criteria required for project approval by your organization (e.g. ROI, payback, etc.)</li>
+	<li>Any applicable capital justification or other criteria required for project approval by your organization (e.g., return on investment, payback, etc.)</li>
 </ul>
 
 <p>[Accordion End]</p>
 
 <p>[Accordion](Action plans - determine actions, time frames and responsible positions)</p>
 
-<p>Action plans must be established and maintained when planning how to achieve your objectives and energy targets. Start by designating a leader for each energy project. The project leader should be a member of the energy team. Recall that the energy team is responsible for implementing action plans and this responsibility cannot be delegated away from the team (See [task](Energy Team and Resources)).</p>
+<p>Action plans must be established and maintained when planning how to achieve your objectives and energy targets. Start by designating a leader for each energy project. The project leader should be a member of the energy team. Recall that the energy team is responsible for implementing action plans and this responsibility cannot be delegated away from the team (See Task 6 [task](Energy Team and Resources)).</p>
 
-<p>The project leader assembles a project team with representatives from the appropriate functions or areas. Not all representatives on the project team have to be members of the energy team. The project team then develops an action plan that defines the specific actions needed to implement the project (i.e. what will be done), the resources that will be required and who will be responsible.</p>
+<p>The project leader assembles a project team with representatives from the appropriate functions or areas. Not all representatives on the project team have to be members of the energy team. The project team then develops an action plan that defines the specific actions needed to implement the project (i.e., what will be done), the resources that will be required, and who will be responsible.</p>
 
-<p>The optional Worksheet can be a useful starting point. There is no requirement that action plan information be retained in a single document. In some organizations, the information may be retained across different databases or spreadsheets, linked by a common identifier.</p>
+<p>The optional Playbook worksheet can be a useful starting point. There is no requirement that action plan information be retained in a single document. In some organizations, the information may be retained across different databases or spreadsheets, linked by a common identifier.</p>
 
 <p>When defining actions necessary for project implementation, be sure also to address the following:</p>
 
 <ul>
-	<li>The method(s) to be used to verify the results of the action plan and the energy performance improvement(s) achieved;</li>
+	<li>The method(s) to be used to verify the results of the action plan and the energy performance improvement(s) achieved.</li>
 	<li>Consideration of how the actions to implement the project and achieve the objectives and energy targets can be integrated into your business processes; for example, consider:
-	<ul>
-		<li>Any changes in processes or procedures (e.g. operational controls) that are required due to the project,</li>
-		<li>Any needed training of employees or contractors on the changes implemented due to the project,</li>
-		<li>Continued monitoring and measurement of project parameters to ensure that energy performance improvements are sustained over time</li>
+	<ul style="list-style-type:circle">
+		<li>any changes in processes or procedures (e.g., operational controls) that are required due to the project,</li>
+		<li>any needed training of employees or contractors on the changes implemented due to the project,</li>
+		<li>continued monitoring and measurement of project parameters to ensure that energy performance improvements are sustained over time.</li>
 	</ul>
 	</li>
 </ul>
 
 <p>A comprehensive list of actions helps to ensure the team understands what is necessary to implement the project, and they can communicate required resources effectively to management.</p>
 
-<p>After what will be done and the required resources have been defined, the team determines the time frame for completing the action plan, considering resource availability and any time frames established for achieving the objectives and energy targets. A recommended practice is that responsible positions and due dates for specific actions are included in the action plan, and that action plans are regularly reviewed and updated. This helps to ensure progress of project activities can be tracked.</p>
+<p>After the team has defined what will be done and the required resources necessary for implementation, the team determines the time frame for completing the action plan, considering resource availability and any time frames established for achieving the objectives and energy targets. A recommended practice is that responsible positions and due dates for specific actions are included in the action plan, and that action plans are regularly reviewed and updated. This helps to ensure progress of project activities can be tracked.</p>
 
-<p><a name="_heading=h.gjdgxs"></a>Note: Objectives and associated action plans also can be used for planning and implementing projects related to improvement of the EnMS. Such objectives and action plans tend to be qualitative. There is no explicit requirement that the organization establish objectives and action plans related to the EnMS; however, ISO 50001:2018 does require continual improvement of the suitability, adequacy and effectiveness of the EnMS. For some EnMS improvements, use of objectives and action plans can be useful.</p>
+<p><a name="_heading=h.gjdgxs"></a>Note: Objectives and associated action plans also can be used to plan and implement projects related to improving the energy management system (EnMS). Such objectives and action plans tend to be qualitative. There is no explicit requirement that the organization establish objectives and action plans related to the EnMS; however, ISO 50001:2018 does require continual improvement of the suitability, adequacy, and effectiveness of the EnMS. For some EnMS improvements, use of objectives and action plans can be useful.</p>
 
 <p>[Accordion End]</p>
+
 <p>[Accordion](Define verification methods)</p>
 
-<p>To effectively evaluate project results, the project leader or team will need to identify who is going to be responsible for project verification. The person or team assigned should have a working knowledge of the systems involved, and be competent in performing the necessary data gathering and analysis.</p>
+<p>To effectively evaluate project results, the project leader or team will need to identify who is going to be responsible for project verification. The person or team assigned should have a working knowledge of the systems involved and be competent in performing the necessary data gathering and analysis.</p>
 
-<p>To clearly define the method of verification the following questions will need to be answered:</p>
+<p>To clearly define the method of verification, the following questions will need to be answered:</p>
 
 <ul>
 	<li>What will be measured or evaluated to identify project impacts?</li>
@@ -98,24 +99,26 @@ Task 13: We develop action plans and implement improvement projects to achieve o
 <p>The project is not complete until the verification of results is complete and both the project team and energy team have reviewed them. The verification methods and the verification results should be recorded on the action plan.</p>
 
 <p>[Accordion End]</p>
+
 <p>[Accordion](Communicate expectations and review progress)</p>
 
-<p>The first step to communicating expectations for the energy project(s) is to have them fully defined and documented. The optional Worksheet may be of use.</p>
+<p>The first step to communicating expectations for the energy project(s) is to have them fully defined and documented. The optional Playbook worksheet may be of use.</p>
 
-<p>Everyone involved in energy project(s) needs to know their role and responsibilities. As previously indicated, action plans can involve personnel who are not on the energy team, communicating to them the responsibilities and expectations for their involvement is critical. This should be done using the internal communication processes of the EnMS (see [task](Awareness and Communication)). A &ldquo;project kick-off&rdquo; meeting that brings together all the personnel involved can be an effective approach for communicating the expectations for the project. It can help them understand how their assigned tasks or actions fit into the overall effort.</p>
+<p>Everyone involved in energy project(s) needs to know their role and responsibilities. As previously indicated, action plans can involve personnel who are not on the energy team; communicating to them the responsibilities and expectations for their involvement is critical. This should be done using the internal communication processes of the EnMS (see Task 15 [task](Awareness and Communication)). A &ldquo;project kick-off&rdquo; meeting that brings together all the personnel involved can be an effective approach for communicating the expectations for the project. It can help them understand how their assigned tasks or actions fit into the overall effort.</p>
 
-<p>The project team with participation from members of the energy team should hold regular meetings to review the action plan(s) and determine progress against schedule. During these meetings, use the action plan to determine if implementation is progressing as expected. Also, use team meetings to determine if any additional resources are required or if any additional activities need to be included in the action plan. Review and update the action plan in accordance with the schedule and use it to communicate regularly with management.</p>
+<p>The project team, with participation from members of the energy team, should hold regular meetings to review the action plan(s) and determine progress against schedule. During these meetings, use the action plan to determine if implementation is progressing as expected. Also, use team meetings to determine if any additional resources are required or if any additional activities need to be included in the action plan. Review and update the action plan in accordance with the schedule and use it to communicate regularly with management.</p>
 
-<p>The optional Worksheet illustrates a completed action plan, including the verification of the energy performance improvement achieved.</p>
+<p>The optional Playbook worksheet illustrates a completed action plan, including the verification of the energy performance improvement achieved.</p>
 
 <p>Good project management can ensure that the action plans are properly implemented. Ongoing communication such as status reporting and project and energy team meetings, when appropriate, will contribute to this success.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>When planning to achieve objectives, both ISO 14001:2015 and ISO 9001:2015 require that the organization develop information that is virtually identical to the information that must be included in action plans under ISO 50001:2018 though only ISO 50001 uses the phrase “action plans.” The term action plans is used to describe the information to be developed when planning to achieve objectives, all three standards are concerned with determining what will be done, who will be responsible, timeframes for completion and how the results will be evaluated. In this regard, there is considerable potential for integration of these planning activities across the three standards. A key difference between the three standards with regard to this planning is that ISO 50001 uses the construct of planning to meet both objectives and energy targets, while ISO 14001 and ISO 9001 do not use the construct of “targets.”</p>
-----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 3.2 of the ENERGY STAR Guidelines for Energy Management provides some tips on estimating potential for improvement, which includes reviewing opportunities to reduce energy consumption.</p>
+<p>When planning to achieve objectives, both ISO 14001:2015 and ISO 9001:2015 require that the organization develop information that is virtually identical to the information that must be included in action plans under ISO 50001:2018, though only ISO 50001 uses the phrase <em>action plans.</em> The term <em>action plans</em> is used to describe the information to be developed when planning to achieve objectives. All three standards are concerned with determining what will be done, who will be responsible, time frames for completion, and how the results will be evaluated. In this regard, there is considerable potential to integrate these planning activities across the three standards. A key difference between the three standards with regard to this planning is that ISO 50001 uses the construct of planning to meet both objectives and energy targets, while ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo;</p>
 
-<p>Step 4 and Step 5 in the ENERGY STAR Guidelines for Energy Management address creating and implementing action plans. The guidance in this 50001 Ready Navigator task contains similar guidance, including helpful resources like an action plan template.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Step 3.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> provides some tips on estimating potential for improvement, which includes reviewing opportunities to reduce energy consumption.</p>
+
+<p>Steps 4 and 5 in the ENERGY STAR <em>Guidelines for Energy Management</em> address creating and implementing action plans. The guidance in this 50001 Ready Navigator task contains similar guidance, including helpful resources like an action plan template.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

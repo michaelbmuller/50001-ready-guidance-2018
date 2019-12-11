@@ -4,10 +4,10 @@ USDOE 50001 READY NAVIGATOR TASK 15
 ----------MENU NAME----------
 Awareness and Communication
 ----------TITLE----------
-Task 15: Our personnel and on-site contractors are aware of our energy policy and their energy-related roles and responsibilities. We have processes in place for internal and any applicable external EnMS communications.
+Task 15: Our personnel and on-site contractors are aware of our energy policy and their energy-related roles and responsibilities. We have processes in place for internal and any applicable external energy management system communications.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Develop and deliver an initial EnMS communication from top management that includes the importance of energy management and the organization&rsquo;s energy policy.</li>
+	<li>Develop and deliver an initial energy management system (EnMS) communication from top management that includes the importance of energy management and the organization&rsquo;s energy policy.</li>
 	<li>Develop the details for EnMS awareness training for specific personnel or departments.</li>
 	<li>Plan and implement awareness training.</li>
 	<li>Conduct awareness training and retain records.</li>
@@ -15,7 +15,7 @@ Task 15: Our personnel and on-site contractors are aware of our energy policy an
 	<li>Plan and implement external EnMS communication processes.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Creating organizational awareness about the EnMS and energy performance is an important part of getting and sustaining buy-in. It is top management&rsquo;s responsibility to communicate the importance of energy management and to encourage employee participation. Top management takes the first steps in conveying this message, which is then supported by ongoing processes for internal communications.</p>
+<p>Creating organizational awareness about the energy management system (EnMS) and energy performance is an important part of getting and sustaining buy-in. It is top management&rsquo;s responsibility to communicate the importance of energy management and to encourage employee participation. Top management takes the first steps in conveying this message, which is then supported by ongoing processes for internal communications.</p>
 
 <p>Personnel must also be aware of their roles and responsibilities related to the organization&rsquo;s EnMS. Energy awareness among personnel is a first step in integrating energy management into daily operations and supporting effective EnMS functioning. These personnel include anyone working under the organization&rsquo;s control, and include salaried, hourly, part-time, and temporary employees, as well as on-site contractors, suppliers, and consultants.</p>
 
@@ -23,11 +23,11 @@ Task 15: Our personnel and on-site contractors are aware of our energy policy an
 
 <p>External communication processes help ensure that any required reporting of energy information is managed appropriately. They also provide an opportunity for the organization to potentially enhance its public image and demonstrate leadership in sustainability by proactively sharing energy performance information with outside stakeholders. Whether internal or external, the EnMS communication processes must ensure that the information communicated is consistent and dependable and that responsibilities and authorities for the various types of communication are assigned.</p>
 
-<p><em>This guidance is relevant to sections 5.1 f), 7.3 and 7.4 of the ISO 50001:2018 standard.</em></p>
+<p><em>This guidance is relevant to sections 5.1 f), 7.3, and 7.4 of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
 <p>[Accordion](Develop and deliver the initial EnMS communication by top management)</p>
 
-<p>In the early stages of EnMS implementation, the goals of the initial EnMS communication to employees are to:</p>
+<p>In the early stages of energy management system (EnMS) implementation, the goals of the initial EnMS communication to employees are to:</p>
 
 <ul>
 	<li>announce your organization&rsquo;s commitment to energy performance improvement,</li>
@@ -63,6 +63,7 @@ Task 15: Our personnel and on-site contractors are aware of our energy policy an
 <p>If print communications are used, ensure it is clear that the message comes from top management. Live events led by top management such as a kick-off activity, employee luncheon, or all-employees meeting tend to be more effective in delivering the message and garnering employee attention and support than passive approaches.</p>
 
 <p>[Accordion End]</p>
+
 <p>[Accordion](Ensure awareness of affected personnel)</p>
 
 <p>Awareness of the importance of managing energy is relevant to personnel across the organization, as well as to your on-site contractors, suppliers, consultants, and others. To be effective, all personnel included within the scope and boundaries of the EnMS must be aware of how the EnMS impacts their daily work activities and know their roles and responsibilities.</p>
@@ -72,26 +73,27 @@ Task 15: Our personnel and on-site contractors are aware of our energy policy an
 <p>EnMS communication and training activities need to ensure that all personnel, including on-site contractors and service providers, are aware of their EnMS responsibilities, including the following:</p>
 
 <ul>
-	<li><strong>The energy policy</strong> &ndash; Personnel are expected to be aware of how energy relates to their job activities and how their work demonstrates the commitments of the energy policy, including improved energy performance.</li>
-	<li><strong>How they contribute to the EnMS</strong> &ndash;&nbsp; Personnel must understand how their activities contribute to achieving the organization&rsquo;s specific objectives and energy targets.</li>
-	<li><strong>Benefits of improved energy performance</strong> &ndash; Personnel must be aware of the benefits of improved energy performance. Examples of potential benefits include reduced costs, higher profit margin, more efficient operation, less maintenance, reduced environmental impact, extended equipment life, and improved comfort.</li>
-	<li><strong>Impact of activities and behavior on energy performance</strong> &ndash; Personnel must be aware of how their activities and behaviors affect energy use, energy consumption and energy efficiency.</li>
-	<li><strong>Consequences of not following EnMS requirements</strong> &ndash; Personnel must be aware of the implications of not following the requirements of the EnMS. The energy policy is an umbrella for the development of activities and processes to maximize the efficient use of energy and reduce energy consumption. For example, failure to respond to a significant deviation in the energy performance of an SEU could result in a significant increase in the facility&rsquo;s overall energy consumption.</li>
+	<li><strong>The energy policy:</strong> Personnel are expected to be aware of how energy relates to their job activities and how their work demonstrates the commitments of the energy policy, including improved energy performance.</li>
+	<li><strong>How they contribute to the EnMS:</strong> Personnel must understand how their activities contribute to achieving the organization&rsquo;s specific objectives and energy targets.</li>
+	<li><strong>Benefits of improved energy performance:</strong> Personnel must be aware of the benefits of improved energy performance. Examples of potential benefits include reduced costs, higher profit margin, more efficient operation, less maintenance, reduced environmental impact, extended equipment life, and improved comfort.</li>
+	<li><strong>Impact of activities and behavior on energy performance:</strong> Personnel must be aware of how their activities and behaviors affect energy use, energy consumption, and energy efficiency.</li>
+	<li><strong>Consequences of not following EnMS requirements:</strong> Personnel must be aware of the implications of not following the requirements of the EnMS. The energy policy is an umbrella for the development of activities and processes to maximize the efficient use of energy and reduce energy consumption. For example, failure to respond to a significant deviation in the energy performance of a significant energy use (SEU) could result in a significant increase in the site&rsquo;s overall energy consumption.</li>
 </ul>
 
-<p>The optional Worksheet can help you define and document the specific awareness requirements associated with each individual, position, or department.</p>
+<p>The optional Playbook worksheet can help you define and document the specific awareness requirements associated with each individual, position, or department.</p>
 
-<p>Once the awareness requirements have been defined, the optional Worksheet can be used to document the awareness training needs throughout the organization and to develop a plan to address those needs. The training plan includes who, what, when, where, and how; and can serve as the training record. The optional Worksheet may be referenced for additional examples.</p>
+<p>Once the awareness requirements have been defined, the optional Playbook worksheet can be used to document the awareness training needs throughout the organization and to develop a plan to address those needs. The training plan includes who, what, when, where, and how; and can serve as the training record. The optional Playbook worksheet may be referenced for additional examples.</p>
 
-<p>Most organizations develop some form of general EnMS awareness training that can be used as an overall introduction to the EnMS for new and existing employees, contractors, suppliers, and others who perform work on-site.</p>
+<p>Most organizations develop some form of general EnMS awareness training that can be used as an overall introduction to the EnMS for new and existing employees, contractors, suppliers, and others who perform work on site.</p>
 
 <p>[Learn More](EnMS awareness presentation)</p>
 
-<p>General EnMS awareness training typically ranges from 5 to 30 minutes in length and may involve such training and communication aids as videos, slide presentations, brochures, handouts, or postings. One approach is to make a general Initial EnMS Awareness Presentation and add slides specifically addressing the SEUs, objectives, energy targets, and other needed information for specific audiences. Such presentations are sometimes conducted face-to-face in real time or posted on an intranet for review by employees and contractors.</p>
+<p>A general EnMS awareness training typically ranges from 5 to 30 minutes in length and may involve such training and communication aids as videos, slide presentations, brochures, handouts, or postings. One approach is to make a general Initial EnMS Awareness Presentation and add slides specifically addressing the SEUs, objectives, energy targets, and other needed information for specific audiences. Such presentations are sometimes conducted face-to-face in real time or posted on an intranet for review by employees and contractors.</p>
 
 <p>Organizations often leverage their existing supplier/contractor communication processes to provide EnMS or energy awareness information.</p>
 
 <p>[Learn More End]</p>
+
 <p>[Accordion End]</p>
 
 <p>[Accordion](Communicate internally)</p>
@@ -106,20 +108,20 @@ Task 15: Our personnel and on-site contractors are aware of our energy policy an
 	<li>who will do the communicating.</li>
 </ul>
 
-<p>Topics and items that are required to be communicated internally to relevant personnel include:</p>
+<p>Topics and items that are required to be communicated internally to relevant personnel include the following:</p>
 
 <ul>
-	<li>energy policy,</li>
-	<li>the importance of effective energy management,</li>
-	<li>commitment and role of top management,</li>
-	<li>roles and responsibility of staff,</li>
-	<li>objectives and energy targets, and</li>
-	<li>operational criteria</li>
+	<li>Energy policy</li>
+	<li>The importance of effective energy management</li>
+	<li>Commitment and role of top management</li>
+	<li>Roles and responsibility of staff</li>
+	<li>Objectives and energy targets</li>
+	<li>Operational criteria</li>
 </ul>
 
 <p>[Learn More](Methods to communicate internally)</p>
 
-<p>A variety of methods can be used to communicate internally, including:</p>
+<p>A variety of methods can be used to communicate internally, including the following:</p>
 
 <ul>
 	<li>Postings</li>
@@ -138,17 +140,17 @@ Task 15: Our personnel and on-site contractors are aware of our energy policy an
 
 <p>[Learn More](Keys to effective EnMS internal communication processes)</p>
 
-<p>Communications have to take place on an ongoing basis. Top management must communicate the importance of energy management across the organization and ensure that relevant roles, responsibilities and authorities are assigned and communicated. Often, this responsibility is delegated to the energy management team. Generally, it is the energy management team that ensures that internal EnMS communications (including those by top management) occur across all levels and functions of the organization.</p>
+<p>Communications have to take place on an ongoing basis. Top management must communicate the importance of energy management across the organization and ensure that relevant roles, responsibilities, and authorities are assigned and communicated. Often, this responsibility is delegated to the energy management team. Generally, it is the energy management team that ensures that internal EnMS communications (including those by top management) occur across all levels and functions of the organization.</p>
 
-<p>Not all employees need the same information. Consider communication strategies and content that is appropriate for the different audiences. Use the optional Worksheet to help plan and implement internal communication processes for the EnMS.</p>
+<p>Not all employees need the same information. Consider communication strategies and content that is appropriate for the different audiences. Use the optional Playbook worksheet to help plan and implement internal communication processes for the EnMS.</p>
 
 <p>The pathways of effective communication are multidirectional. EnMS communications must include mechanisms that enable employees to communicate upward within the organization (bottom-up), as well as laterally across the organization.</p>
 
 <p>Part of communicating internally is the use of a comment or suggestion system to ensure that both employees and others working under the control of the organization (such as contractors and suppliers working on site) can submit comments or suggest improvements to the EnMS. Effective suggestion systems ensure that there is some form of feedback on the comments and suggestions, even if some ideas are determined to not be feasible.</p>
 
-<p>The optional Worksheet can be used to help develop a comment and suggestion system, which can be either manual or electronic. Alternatively, some organizations leverage the ongoing activities of their continual improvement teams as mechanisms for generating suggestions and comments for EnMS or energy-related improvements. Examples of common approaches to suggestion systems for on-site contractors include suggestion boxes and routine supplier/contractor meetings.</p>
+<p>The optional Playbook worksheet can be used to help develop a comment and suggestion system, which can be either manual or electronic. Alternatively, some organizations leverage the ongoing activities of their continual improvement teams as mechanisms for generating suggestions and comments for EnMS or energy-related improvements. Examples of common approaches to suggestion systems for on-site contractors include suggestion boxes and routine supplier/contractor meetings.</p>
 
-<p>The energy team needs to decide whether any suggested improvements will be retained as documented information. Consider including potentially feasible suggestions as part of the development of opportunities for energy performance improvement ([task # ](Improvement Opportunities)).</p>
+<p>The energy team needs to decide whether any suggested improvements will be retained as documented information. Consider including potentially feasible suggestions as part of the development of opportunities for energy performance improvement (see Task 10 [task](Improvement Opportunities)).</p>
 
 <p>[Learn More End]</p>
 
@@ -161,33 +163,35 @@ Task 15: Our personnel and on-site contractors are aware of our energy policy an
 	<li>Monetary gift cards</li>
 	<li>Movie tickets</li>
 	<li>Catered lunches served by the supervisors and managers</li>
-	<li>Awarding of marketing novelties (t-shirt, mug, ball cap, etc.)</li>
+	<li>Awards of marketing novelties (t-shirt, mug, ball cap, etc.)</li>
 	<li>Designated parking space for the month</li>
 </ul>
 
-<p>Although required by ISO 50001, some organizations may resist suggestion systems. In large organizations with hundreds or even thousands of employees, suggestion systems can quickly become overwhelmingly. This can be especially true if there are incentives or gain-sharing programs that support the suggestion process. One way to manage the volume of suggestions while ensuring their appropriate consideration is to allow suggestions alternate opening and closing the suggestion process on a limited specified schedule. This approach also can be useful in smaller organizations with limited personnel resources for managing the suggestion and commenting processes.</p>
+<p>Although required by ISO 50001, some organizations may resist suggestion systems. In large organizations with hundreds or even thousands of employees, suggestion systems can quickly become overwhelming. This can be especially true if there are incentives or gain-sharing programs that support the suggestion process. One way to manage the volume of suggestions while ensuring their appropriate consideration is to is to limit the open suggestion period to a pre-determined schedule. This approach also can be useful in smaller organizations with limited personnel resources for managing the suggestion and commenting processes.</p>
 
 <p>[Learn More End]</p>
+
 <p>[Accordion End]</p>
+
 <p>[Accordion](Deciding to communicate externally)</p>
 
-<p>External EnMS communications processes must be established and implemented. At a minimum, the process for external communication needs to address:</p>
+<p>External EnMS communications processes must be established and implemented. At a minimum, the process for external communication needs to address the following:</p>
 
 <ul>
 	<li>What topics or information will be communicated externally</li>
 	<li>When the communication will occur</li>
-	<li>Who is the audience for the communication</li>
-	<li>How will the communication occur</li>
+	<li>Who the audience for the communication is</li>
+	<li>How the communication will occur</li>
 	<li>Who will do the communicating</li>
 </ul>
 
-<p>Recognizing the growing public, customer, and other stakeholder interest in sustainability and the desire of many organizations to demonstrate leadership in this area, some organizations decide to communicate proactively about their energy&nbsp; policy, goals, and achievements. Other organizations take a reactive approach, responding to relevant inquiries or requests for information on a case-by-case basis.</p>
+<p>Recognizing the growing public, customer, and other stakeholder interest in sustainability and the desire of many organizations to demonstrate leadership in this area, some organizations decide to communicate proactively about their energy policy, goals, and achievements. Other organizations take a reactive approach, responding to relevant inquiries or requests for information on a case-by-case basis.</p>
 
-<p>For external EnMS communication processes, be sure to review and coordinate as needed with any existing communication policies or procedures. Such policies may stipulate that only specific organizational positions (personnel) are responsible for and have the authority to communicate with specific types of stakeholders or interested parties such as utility providers, community representatives, or government regulators.The optional Worksheet can help with planning&nbsp; external communications. External and internal communication planning can be combined to reduce effort.</p>
+<p>For external EnMS communication processes, be sure to review and coordinate as needed with any existing communication policies or procedures. Such policies may stipulate that only specific organizational positions (personnel) are responsible for and have the authority to communicate with specific types of stakeholders or interested parties such as utility providers, community representatives, or government regulators. The optional Playbook worksheet can help with planning external communications. External and internal communication planning can be combined to reduce effort.</p>
 
 <p>[Learn More](External communications)</p>
 
-<p>External communications typically include:</p>
+<p>External communications typically include the following:</p>
 
 <ul>
 	<li>Availability of the energy policy to external interested parties</li>
@@ -220,28 +224,28 @@ Task 15: Our personnel and on-site contractors are aware of our energy policy an
 	<li>Print or electronic newsletters</li>
 	<li>Electronic meetings/webinars</li>
 	<li>Community meetings</li>
-	<li>Facility tours or open houses</li>
+	<li>Site tours or open houses</li>
 	<li>Sponsorship opportunities</li>
 	<li>Radio/television spots</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>Your organization can choose whether it will maintain or retain documented information related to EnMS communications, including the comment or suggestion system. The optional Worksheet can be used to retain documented information related to EnMS communications.</p>
+<p>Your organization can choose whether it will maintain or retain documented information related to EnMS communications, including the comment or suggestion system. The optional Playbook worksheet can be used to retain documented information related to EnMS communications.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Like ISO 50001:2018, both ISO 14001:2015 and ISO 9001:2015 require top management to establish, implement and maintain a policy that must be communicated within the organization. In all three standards, top management also is required to communicate the importance of effective [energy/environmental/quality] management. The communication processes in place in one management system to achieve these items can be used for the same purpose in the other management system(s).</p>
+<p>Like ISO 50001:2018, both ISO 14001:2015 and ISO 9001:2015 require top management to establish, implement, and maintain a policy that must be communicated within the organization. In all three standards, top management also is required to communicate the importance of effective (energy/environmental/quality) management. The communication processes in place in one management system to achieve these items can be used for the same purpose in the other management system(s).</p>
 
 <p>The training and awareness processes used in ISO 14001:2015 and ISO 9001:2015 management systems to ensure needed awareness among personnel are likely well suited for use by an ISO 50001:2018 energy management system. Although the content of the awareness training and communication will vary depending on the specific standard involved, the underlying processes used to achieve the requisite awareness can be common to the environmental, energy, safety and health, and/or quality management systems.</p>
 
-<p>Organizations that conform to ISO 14001:2015 should already have in place the processes needed to meet the internal communication requirements of ISO 50001. Processes used to communicate environmental information for ISO 14001, also can be used to convey the energy policy and EnMS and energy-specific information. The ISO 50001 comment/suggestion process is a communication process that allows contributions to continual improvement, also requirement of ISO 14001.</p>
+<p>Organizations that conform to ISO 14001:2015 should already have in place the processes needed to meet the internal communication requirements of ISO 50001. Processes used to communicate environmental information for ISO 14001 also can be used to convey the energy policy and EnMS and energy-specific information. The ISO 50001 comment/suggestion process is a communication process that allows contributions to continual improvement, also a requirement of ISO 14001.</p>
 
-<p>Organizations that conform to ISO 9001:2015 have a number of internal communication processes in place that can be leveraged for the ISO 50001 system. These would include, for example, the ISO 9001 processes used to internally communicate the policy, objectives, and roles, responsibilities and authorities.</p>
+<p>Organizations that conform to ISO 9001:2015 have a number of internal communication processes in place that can be leveraged for the ISO 50001 system. These would include, for example, the ISO 9001 processes used to internally communicate the policy, objectives, and roles, as well as responsibilities and authorities.</p>
 
-<p>Organizations conforming to ISO 9001 or ISO 14001 already have external communication processes that address the who, what, when, with whom and how of the communications. These same external communication processes can be used for purposes of the EnMS.</p>
+<p>Organizations conforming to ISO 9001 or ISO 14001 already have external communication processes that address the who, what, when, with whom, and how of the communications. These same external communication processes can be used for purposes of the EnMS.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 1.3 of the ENERGY STAR Guidelines for Energy Management suggests communicating the energy policy to all staff and employees to encourage them to get involved. ISO 50001 requires that the energy policy is communicated within your organization.</p>
+<p>Step 1.3 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> suggests communicating the energy policy to all staff and employees to encourage them to get involved. ISO 50001 requires that the energy policy is communicated within your organization.</p>
 
 <p>ENERGY STAR users communicate externally to stakeholders. These communications could be a starting point for EnMS external communications.</p>
 ----------LICENSE----------

@@ -7,19 +7,19 @@ Monitoring and Measurement of Energy Performance Improvement
 Task 21: We monitor and measure the key characteristics of processes that affect our energy performance. We define the methods used, the frequency of the monitoring and measurement, and when the results are analyzed and evaluated. We evaluate our energy performance improvement and investigate and respond to significant deviations in energy performance.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Determine what needs to be monitored and measured for energy performance, including the key characteristics of operations affecting energy performance. Use the data and information you generated in the energy review, energy data collection plan, analysis of SEUs, your energy performance indicators (EnPIs) and energy baselines (EnBs).</li>
-	<li>For each datum/metric, define the method used for monitoring, measuring, analysis and evaluation. Define how often and when the results are to be analyzed and evaluated.</li>
-	<li>Implement all needed monitoring, measurement and analysis if not already in place from prior Navigator tasks.</li>
+	<li>Determine what needs to be monitored and measured for energy performance, including the key characteristics of operations affecting energy performance. Use the data and information you generated in the energy review, energy data collection plan, analysis of significant energy uses (SEUs), your energy performance indicators (EnPIs), and energy baselines (EnBs).</li>
+	<li>For each datum/metric, define the method used for monitoring, measuring, analysis, and evaluation. Define how often and when the results are to be analyzed and evaluated.</li>
+	<li>Implement all needed monitoring, measurement, and analysis if not already in place from prior Navigator tasks.</li>
 	<li>Evaluate your organization&rsquo;s energy performance by comparing EnPI values to the corresponding EnB.</li>
 	<li>For each performance metric in the energy measurement plan, define the criteria or parameters for a significant deviation in energy performance.</li>
 	<li>Establish a process for investigating and responding to such deviations and for retaining records of the results.</li>
 	<li>Train the appropriate personnel on how to identify and respond to significant deviations in energy performance.</li>
-	<li>Record results from monitoring and measurement</li>
+	<li>Record results from monitoring and measurement.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Monitoring, measurement, analysis and evaluation of performance metrics is the logical extension of the data analyses conducted for the energy review in [task](Energy Data Collection and Analysis). Effective decisions on energy management rely on the ongoing collection and analysis of energy and other data.</p>
+<p>Monitoring, measurement, analysis, and evaluation of performance metrics is the logical extension of the data analyses conducted for the energy review in [task](Energy Data Collection and Analysis). Effective decisions on energy management rely on the ongoing collection and analysis of energy and other data.</p>
 
-<p>Monitoring, measurement, analysis and evaluation enable your organization to determine if:</p>
+<p>Monitoring, measurement, analysis, and evaluation enable your organization to determine if:</p>
 
 <ul>
 	<li>significant energy uses are being appropriately managed,</li>
@@ -28,60 +28,69 @@ Task 21: We monitor and measure the key characteristics of processes that affect
 	<li>energy performance improvement can be demonstrated.</li>
 </ul>
 
-<p>Monitoring, measurement, analysis and evaluation is applied to the &ldquo;key characteristics&rdquo; of the organization&rsquo;s operations that affect energy performance in order to assist organizations in making these determinations. These key characteristics include the effectiveness of the action plans, EnPIs, operation of SEUs, and actual vs expected consumption. The evaluation of energy performance improvement is determined by a comparison of the EnPI value(s) against the corresponding EnB(s)</p>
+<p>Monitoring, measurement, analysis, and evaluation is applied to the &ldquo;key characteristics&rdquo; of the organization&rsquo;s operations that affect energy performance in order to assist organizations in making these determinations. These key characteristics include the effectiveness of the action plans and EnPIs, operation of SEUs, and actual versus expected consumption. The evaluation of energy performance improvement is determined by a comparison of the EnPI value(s) against the corresponding EnB(s)</p>
 
-<p>The data specified in the energy data collection plan in [task # ](Energy Data Collection and Analysis) are inputs to the monitoring, measurement, analysis and evaluation of the key characteristics. They also are inputs to the monitoring and measurement of data needed for the energy review.</p>
+<p>The data specified in the energy data collection plan in Task 8 [task](Energy Data Collection and Analysis) are inputs to the monitoring, measurement, analysis, and evaluation of the key characteristics. They also are inputs to the monitoring and measurement of data needed for the energy review.</p>
 
-<p>SEUs are an important focus of the EnMS. Monitor the energy performance of your SEU(s), as small changes in their operation or deviations in procedures, equipment, or maintenance can significantly affect your organization&rsquo;s overall energy consumption.</p>
+<p>SEUs are an important focus of the energy management system (EnMS). Monitor the energy performance of your SEU(s), as small changes in their operation or deviations in procedures, equipment, or maintenance can significantly affect your organization&rsquo;s overall energy consumption.</p>
 
 <p>Significant deviations in energy performance are defined by your organization. When a significant deviation occurs, your organization must investigate and provide an appropriate response and record the results of the response. The data you collect by monitoring and measuring the key characteristics of operations that determine energy performance is used to identify significant deviations. Your organization determines what will be considered a significant deviation but, in general, it is a departure from a level of energy performance that is acceptable, defined, or expected.</p>
 
-<p><em>This guidance is relevant to section 9.1.1 of the ISO 50001:2018 standard.</em></p>
+<p><em>This guidance is relevant to Section 9.1.1 of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
 <p>[Accordion](Determine and implement what needs to be monitored and measured for energy performance)</p>
 
-<p>A foundational requirement of ISO 50001 is to demonstrate energy performance and energy performance improvement. Doing so will help you understand that you are establishing an infrastructure of &ldquo;data connections&rdquo; between the processes of the energy review, EnPIs, EnBs, objectives, energy targets, action plans, energy data collection plan and the monitoring, measurement, analysis and evaluation activities of the EnMS. You have been working on these data connections and been evaluating energy performance and energy performance improvement as you have worked through the previous Navigator tasks. Up to this point:</p>
+<p>A foundational requirement of ISO 50001 is to demonstrate energy performance and energy performance improvement. Doing so will help you understand that you are establishing an infrastructure of &ldquo;data connections&rdquo; between the processes of the energy review, EnPIs, EnBs, objectives, energy targets, action plans, energy data collection plan and the monitoring, measurement, analysis, and evaluation activities of the EnMS. You have been working on these data connections and been evaluating energy performance and energy performance improvement as you have worked through the previous Navigator tasks. Up to this point you have completed the following:</p>
 
 <ul>
-	<li>In [task](Energy Data Collection and Analysis), the collection and analysis of energy consumption by energy type and other data in the energy review determined your organization&rsquo;s energy performance and provided the basis for establishing the energy performance metrics (i.e. EnPIs, EnBs);</li>
-	<li>Also in [task](Energy Data Collection and Analysis), you implemented an energy data collection plan and collected data, including relevant variables for SEUs, energy consumption, operational criteria for SEUs, static factors (if applicable) and data specified in action plans.</li>
-	<li>In [task](Significant Energy Uses), you analyzed data to determine the SEUs, performed analyses to determine SEU relevant variables and SEU current energy performance and then implemented associated monitoring activities;</li>
-	<li>In [task](Energy Performance Indicators and Baselines), you implemented monitoring and analysis of the EnPIs and EnBs;</li>
-	<li>In [task](Objectives and Targets), you set and then implemented monitoring of the objectives and energy targets.</li>
-	<li>In [task](Action Plans for Continual Improvement), you defined how the results of the action plans would be evaluated, including energy performance improvement verification methods to be used.</li>
+	<li>In Task 8 [task](Energy Data Collection and Analysis), the collection and analysis of energy consumption by energy type and other data in the energy review determined your organization&rsquo;s energy performance and provided the basis for establishing the energy performance metrics (i.e., EnPIs, EnBs).</li>
+	<li>Also in Task 8 [task](Energy Data Collection and Analysis), you implemented an energy data collection plan and collected data, including relevant variables for SEUs, energy consumption, operational criteria for SEUs, static factors (if applicable), and data specified in action plans.</li>
+	<li>In Task 9 [task](Significant Energy Uses), you analyzed data to determine the SEUs, performed analyses to determine SEU relevant variables and SEU current energy performance, and implemented associated monitoring activities.</li>
+	<li>In Task 11 [task](Energy Performance Indicators and Baselines), you implemented monitoring and analysis of the EnPIs and EnBs.</li>
+	<li>In Task 12 [task](Objectives and Targets), you set and then implemented monitoring of the objectives and energy targets.</li>
+	<li>In Task 13 [task](Action Plans for Continual Improvement), you defined how the results of the action plans would be evaluated, including the energy performance improvement verification methods to be used.</li>
 </ul>
 
-<p>In this task, you can ensure that your processes for data collection, monitoring, measurement, analysis and evaluation are properly established and implemented, and include all the relevant data and information, especially as related to the key characteristics of operations that affect energy performance (see [task](Energy Data Collection and Analysis)). This is the data infrastructure needed to monitor energy performance and demonstrate energy performance improvement.</p>
+<p>In this task, you can ensure that your processes for data collection, monitoring, measurement, analysis, and evaluation are properly established and implemented, and include all the relevant data and information, especially as related to the key characteristics of operations that affect energy performance (see Task 8 [task](Energy Data Collection and Analysis)). This is the data infrastructure needed to monitor energy performance and demonstrate energy performance improvement.</p>
 
-<p>Your efforts in this task should include reviewing and pulling together what you developed in the tasks above as related to monitoring, measurement, analysis and evaluation of energy performance.</p>
+<p>Your efforts in this task should include reviewing and pulling together what you developed in the tasks above as related to monitoring, measurement, analysis, and evaluation of energy performance.</p>
 
-<p>For energy performance, your organization must determine and implement:</p>
+<p>For energy performance, your organization must determine and implement the following:</p>
 
 <ul>
-	<li>what needs to be monitored and measured;</li>
-	<li>the methods you will use to ensure valid results from monitoring, measurement, analysis and evaluation (as applicable);</li>
-	<li>how often the monitoring and measurement will be done;</li>
-	<li>when the analysis and evaluation of results will be done.</li>
+	<li>What needs to be monitored and measured</li>
+	<li>The methods you will use to ensure valid results from monitoring, measurement, analysis, and evaluation (as applicable)</li>
+	<li>How often the monitoring and measurement will be done</li>
+	<li>When the analysis and evaluation of results will be done</li>
 </ul>
 
 <p>At a minimum, your organization must monitor and measure the key characteristics of operations that affect energy performance. The key characteristics include:</p>
 
 <ul>
-	<li>effectiveness of the action plans in achieving objectives and energy targets;</li>
-	<li>EnPIs;</li>
-	<li>operation of SEUs</li>
-	<li>actual vs expected energy consumption</li>
+	<li>Effectiveness of the action plans in achieving objectives and energy targets</li>
+	<li>EnPIs</li>
+	<li>Operation of SEUs</li>
+	<li>Actual versus expected energy consumption</li>
 </ul>
 
-<p>Some of the data needed to monitor these key characteristics already are being collected as part of your energy data collection plan (see [task](Energy Data Collection and Analysis)). And, as indicated by the list of tasks you have completed, much of this information has already been determined, especially what needs to be monitored and measured and the methods of analysis that will be used (see [task](Energy Data Collection and Analysis)).</p>
+<p>Some of the data needed to monitor these key characteristics already are being collected as part of your energy data collection plan (see Task 8 [task](Energy Data Collection and Analysis)). And, as indicated by the list of tasks you have completed, much of this information already has been determined, especially what needs to be monitored and measured and the methods of analysis that will be used (see Task 8 [task](Energy Data Collection and Analysis)).</p>
 
-<p>Some organizations choose to add the information on what is to be monitored and measured; how often; methods to be used for monitoring, measurement, analysis and evaluation; and when analysis and evaluation is to be done into the energy data collection plan. This transforms this into a more comprehensive data collection and measurement plan. There is no specific required format, it is your organization that decides how and in what format to capture this information.</p>
+<p>Some organizations choose to add the following information into the energy data collection plan:</p>
+
+<ul>
+	<li>What is to be monitored and measured</li>
+	<li>How often it will be monitored and measured</li>
+	<li>Methods to be used for monitoring, measurement, analysis, and evaluation</li>
+	<li>When analysis and evaluation is to be done.</li>
+</ul>
+
+<p>This information transforms this effort into a more comprehensive data collection and measurement plan. There is no specific required format; your organization decides how and in what format to capture this information.</p>
 
 <p>[Learn More](Discussion of data that determine energy performance)</p>
 
-<p>Discussion of monitoring and analyzing energy consumption for all energy types, along with further discussion of monitoring, measuring, analyzing and evaluating the key characteristics of operations that determine energy performance is provided below:</p>
+<p>Discussion of monitoring and analyzing energy consumption for all energy types, along with further discussion of monitoring, measuring, analyzing, and evaluating the key characteristics of operations that determine energy performance, is provided below:</p>
 
-<p><strong>Energy consumption for all energy types</strong> - Energy types were identified, and past and present energy consumption data were initially collected and analyzed, as part of the energy review (see [task](Energy Data Collection and Analysis)). This information was used to accomplish the following:</p>
+<p><strong>Energy consumption for all energy types:</strong> Energy types were identified, and past and present energy consumption data were initially collected and analyzed, as part of the energy review (see Task 8 [task](Energy Data Collection and Analysis)). This information was used to accomplish the following:</p>
 
 <ul>
 	<li>Profile your organization&rsquo;s energy use and energy consumption</li>
@@ -90,18 +99,18 @@ Task 21: We monitor and measure the key characteristics of processes that affect
 	<li>Develop energy performance indicators and baselines needed to evaluate energy performance</li>
 </ul>
 
-<p>Energy consumption needs to be continually monitored, as it is a key component of energy performance evaluation and using less energy is the goal of energy performance improvement. Present energy consumption is compared against past consumption. Various methods of data analysis were discussed in [task](Energy Data Collection and Analysis). Energy consumption data should be:</p>
+<p>Energy consumption needs to be continually monitored, as it is a key component of energy performance evaluation, and using less energy is the goal of energy performance improvement. Present energy consumption is compared against past consumption. Various methods of data analysis were discussed in Task 8 [task](Energy Data Collection and Analysis). Energy consumption data should be:</p>
 
 <ul>
-	<li>monitored and measured prior to any change being made (baseline),</li>
-	<li>monitored and measured after the change is implemented and compared with the baseline (or pre-implementation measurement),</li>
-	<li>representative of normal operating conditions, and</li>
-	<li>reflective of consistency in factors that can affect energy performance such as weather, occupancy, production, or hours of operation.</li>
+	<li>monitored and measured prior to any change being made (baseline).</li>
+	<li>monitored and measured after the change is implemented and compared with the baseline (or pre-implementation measurement).</li>
+	<li>representative of normal operating conditions.</li>
+	<li>reflective of consistency in factors that can affect energy performance, such as weather, occupancy, production, or hours of operation.</li>
 </ul>
 
-<p><strong>Effectiveness of actions plans in achieving the objectives and energy targets</strong> - In [task](Action Plans for Continual Improvement), action plans to achieve the objectives and targets were developed. Action plans are monitored, measured, analyzed and evaluated to ensure that the objectives and targets are being met effectively. Recall that the data specified in action plans are among the data to be collected under the energy data collection plan (see [task](Energy Data Collection and Analysis)). Also, actual vs expected consumption is a key characteristic that must be monitored and measured (see below the last entry in this list of key characteristics). The expected energy consumption associated with an action plan that is implemented is compared to the actual results after the project is completed. This comparison tells you whether the energy savings you expected were actually achieved. The methods to perform this verification were defined in the action plan.</p>
+<p><strong>Effectiveness of actions plans in achieving the objectives and energy targets:</strong> In Task 13 [task](Action Plans for Continual Improvement), action plans to achieve the objectives and targets were developed. Action plans are monitored, measured, analyzed, and evaluated to ensure that the objectives and targets are being met effectively. Recall that the data specified in action plans are among the data to be collected under the energy data collection plan (see Task 8 [task](Energy Data Collection and Analysis)). Also, actual versus expected consumption is a key characteristic that must be monitored and measured. The expected energy consumption associated with an action plan that is implemented is compared to the actual results after the project is completed. This comparison tells you whether the energy savings you expected were actually achieved. The methods to perform this verification were defined in the action plan.</p>
 
-<p>Successful action plans are analyzed and evaluated for appropriate reproduction in other processes or areas. Projects where energy targets are not met are analyzed and evaluated to determine the reason(s) for shortfall, and appropriate follow-up is planned and implemented. Action plans that are not generating the intended results (i.e. ineffective) are modified as needed. Indicators that action plans may not be effective:</p>
+<p>Successful action plans are analyzed and evaluated for appropriate reproduction in other processes or areas. Projects where energy targets are not met are analyzed and evaluated to determine the reason(s) for the shortfall, and appropriate follow-up is planned and implemented. Action plans that are not generating the intended results (i.e., ineffective) are modified as needed. The following are indicators that action plans may not be effective:</p>
 
 <ul>
 	<li>Objectives&rsquo; not met</li>
@@ -113,20 +122,22 @@ Task 21: We monitor and measure the key characteristics of processes that affect
 	<li>Change in priorities</li>
 </ul>
 
-<p><strong>EnPIs</strong> - Setting, monitoring and analyzing EnPIs and EnBs was addressed in [task](Energy Performance Indicators and Baselines) and [task](Significant Energy Uses). Recall that under the energy data collection plan, relevant data being collected includes energy consumption related to the organization and SEUs, relevant variables for SEUs and static factors (if applicable). This data, along with the relevant variables you determined significantly affect energy performance, helped you establish, monitor and analyze EnPIs for the organization and your SEUs. To evaluate energy performance improvement, the EnPI values are compared against the corresponding EnB.</p>
+<p><strong>EnPIs:</strong> Setting, monitoring, and analyzing EnPIs and EnBs was addressed in Task 11 [task](Energy Performance Indicators and Baselines) and Task 9 [task](Significant Energy Uses). Recall that under the energy data collection plan, relevant data being collected includes energy consumption related to the organization and SEUs, relevant variables for SEUs, and static factors (if applicable). These data, along with the relevant variables you determined significantly affect energy performance, helped you establish, monitor, and analyze EnPIs for the organization and your SEUs. To evaluate energy performance improvement, the EnPI values are compared against the corresponding EnB.</p>
 
-<p><strong>Operation of SEUs</strong> - Data on the SEU relevant variables, energy consumption of SEUs, and operational criteria for SEUs are being collected under the energy data collection plan. In [task](Significant Energy Uses), you determined relevant variables and current SEU energy performance and implemented associated monitoring.</p>
+<p><strong>Operation of SEUs:</strong> Data on the SEU relevant variables, energy consumption of SEUs, and operational criteria for SEUs are being collected under the energy data collection plan. In Task 9 [task](Significant Energy Uses), you determined relevant variables and current SEU energy performance and implemented associated monitoring.</p>
 
-<p>Monitoring the energy performance of a SEU can involve measuring energy consumption, related operational and maintenance parameters, relevant variables associated with the SEU, or some combination of these. (Monitoring of EnPIs is discussed in [task](Energy Performance Indicators and Baselines).</p>
+<p>Monitoring the energy performance of an SEU can involve measuring energy consumption, related operational and maintenance parameters, relevant variables associated with the SEU, or some combination of these. (Monitoring of EnPIs is discussed in Task 11 [task](Energy Performance Indicators and Baselines).</p>
 
-<p><strong>Actual vs expected energy consumption</strong> - Implementing energy opportunities is accomplished through action plans. Action plans should include estimates for energy performance improvement expected from the action plan&rsquo;s implementation. Analyze variances between the action plan&rsquo;s actual versus expected results and evaluate that information to identify elements that improve performance or identify problems to address. The results of this analysis should be recorded as feedback for the corrective action process, to improve future action plan implementation and energy performance improvements.</p>
+<p><strong>Actual versus expected energy consumption:</strong> Implementing energy opportunities is accomplished through action plans. Action plans should include estimates for energy performance improvement expected from the action plan&rsquo;s implementation. Analyze variances between the action plan&rsquo;s actual versus expected results and evaluate that information to identify elements that improve performance or identify problems to address. The results of this analysis should be recorded as feedback for the corrective action process, to improve future action plan implementation and energy performance improvements.</p>
 
-<p>Future energy use and energy consumption was estimated as part of the energy review (see [task](Energy Data Collection and Analysis)). Your organization decides for itself what period of time is considered to be &ldquo;future&rdquo; and monitors the assumptions (or criteria) that you used to make the estimates. Make sure you have a process to review and update those estimates as needed on a regular basis and in response to major changes to facilities, equipment, systems, and processes.</p>
+<p>Future energy use and energy consumption was estimated as part of the energy review (see Task 8 [task](Energy Data Collection and Analysis)). Your organization decides for itself what period of time is considered to be &ldquo;future&rdquo; and monitors the assumptions (or criteria) that you used to make the estimates. Make sure you have a process to review and update those estimates as needed on a regular basis and in response to major changes to sites, equipment, systems, and processes.</p>
 
 <p>[Learn More End]</p>
 
-<p>Once all the needed monitoring, measurement, analysis and evaluation is determined, it must be fully implemented. The output of the monitoring, measurement, analysis and evaluation is knowledge of your energy performance trends and calculations of energy performance improvement(s) that has been achieved.</p>
+<p>Once all the needed monitoring, measurement, analysis, and evaluation is determined, it must be fully implemented. The output of the monitoring, measurement, analysis, and evaluation is knowledge of your energy performance trends and calculations of energy performance improvement(s) achieved.</p>
+
 <p>[Accordion End]</p>
+
 <p>[Accordion](Set and implement criteria for significant deviations)</p>
 
 <p>A deviation may be identified by a specific level of variation or can be evaluated by knowledgeable personnel to determine if it is significant and if action is required. Examples of methods for specifying significant deviations can include the following:</p>
@@ -154,11 +165,12 @@ Task 21: We monitor and measure the key characteristics of processes that affect
 
 <p>[Learn More End]</p>
 
-<p>Consider documenting the criteria for significant deviations within the energy data collection plan (see [task](Energy Data Collection and Analysis)).</p>
+<p>Consider documenting the criteria for significant deviations within the energy data collection plan (see Task 8 [task](Energy Data Collection and Analysis)).</p>
 
-<p>Significant deviations are also related to operational and maintenance controls, as discussed in [task](Operational Controls). The methods for identifying significant deviations relative to operational and maintenance controls would be similar to the process for key characteristics discussed here. Operational and maintenance criteria could be a factor in the determination of significant deviations, and [task](Operational Controls) lists significant deviations that could be the result of operational or maintenance issues.</p>
+<p>Significant deviations are also related to operational and maintenance controls, as discussed in Task 17 [task](Operational Controls). The methods for identifying significant deviations relative to operational and maintenance controls would be similar to the process for key characteristics discussed here. Operational and maintenance criteria could be a factor in the determination of significant deviations, and Task 17 [task](Operational Controls) lists significant deviations that could be the result of operational or maintenance issues.</p>
 
 <p>[Accordion End]</p>
+
 <p>[Accordion](Develop and implement investigation process)</p>
 
 <p>Once you have set the criteria for determining a significant deviation for each of the key characteristics that are measured and monitored, you must investigate and respond if the deviation occurs. Many organizations use the corrective action process to address significant deviations, which is a best practice (not a requirement).</p>
@@ -180,12 +192,12 @@ Task 21: We monitor and measure the key characteristics of processes that affect
 <p>You must develop a response as a result of the investigation. Your response will likely be some type of action that is required to alleviate a significant deviation that results in declining energy performance or reproducing the conditions in other areas if performance is improved. However, note that a decision not to respond can be a legitimate response. This can occur if the significant deviation, for example:</p>
 
 <ul>
-	<li>Is a one-time occurrence</li>
-	<li>Is the result of an improvement that will persist</li>
-	<li>Is the result of process changes</li>
-	<li>Is the result of a simple mathematical error</li>
-	<li>Is too expensive to fix</li>
-	<li>Requires currently unavailable technology</li>
+	<li>is a one-time occurrence.</li>
+	<li>is the result of an improvement that will persist.</li>
+	<li>is the result of process changes.</li>
+	<li>is the result of a simple mathematical error.</li>
+	<li>is too expensive to fix.</li>
+	<li>requires currently unavailable technology.</li>
 </ul>
 
 <p>You must record the results of the investigation and the response(s). If your corrective action process is used to investigate significant deviations, then the record requirements would already be addressed (ISO 50001 requires records of the nature of nonconformities, the actions taken and the results of corrective actions). Otherwise, decide on how the results of the investigation and the response will be recorded and retained</p>
@@ -206,19 +218,21 @@ Task 21: We monitor and measure the key characteristics of processes that affect
 </ul>
 
 <p>[Learn More End]</p>
+
 <p>[Accordion End]</p>
+
 <p>[Accordion](Record results from monitoring and measurement)</p>
 
 <p>The results of the monitoring and measurement activities must be recorded and retained. This can be done in a variety of ways, including the use of spreadsheets, databases, log sheets, or other formats.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>ISO 50001:2011, ISO 14001:2015 and ISO 9001:2015 all have requirements related to ensuring the competency of personnel on the basis of appropriate education, training or experience. An ISO 14001:2015 environmental management system focuses on the competency of personnel that affect the organization&rsquo;s environmental performance and environmental compliance obligations. An ISO 9001:2015 system focuses on personnel that affect the performance and effectiveness of the quality management system. The focus of an ISO 50001:2011 EnMS is more specific, focusing on personnel whose work is related to the organization&rsquo;s identified significant energy uses. However, the processes used by the organization to ensure the competency of personnel can be the same for all three management systems, although the personnel involved in each may be different. In implementing ISO 50001, it is recommended that the processes used to address the competency requirements of ISO 14001 and/or ISO 9001 be applied to the EnMS. Also, the types of competency records maintained for the quality and/or environmental management system(s) would be similar to those needed for the EnMS</p>
+<p>ISO 50001:2011, ISO 14001:2015, and ISO 9001:2015 all have requirements related to ensuring the competency of personnel on the basis of appropriate education, training, or experience. An ISO 14001:2015 environmental management system focuses on the competency of personnel that affect the organization&rsquo;s environmental performance and environmental compliance obligations. An ISO 9001:2015 system focuses on personnel that affect the performance and effectiveness of the quality management system. The focus of an ISO 50001:2011 EnMS is more specific, focusing on personnel whose work is related to the organization&rsquo;s identified significant energy uses. However, the processes used by the organization to ensure the competency of personnel can be the same for all three management systems, although the personnel involved in each may be different. In implementing ISO 50001, it is recommended that the processes used to address the competency requirements of ISO 14001 and/or ISO 9001 be applied to the EnMS. Also, the types of competency records maintained for the quality and/or environmental management system(s) would be similar to those needed for the EnMS</p>
 
-<p>The processes used in an ISO 14001:2015 system to determine and address training needs related to environmental aspects and the environmental management system (EMS) could be applied to identify training needs related to the control of significant energy uses and operation of the ISO 50001:2011 EnMS. This is an area where the energy, environmental, and safety and health requirements related to training needs are frequently integrated so that a single process is used to address the training need requirements of all three management systems.</p>
+<p>The processes used in an ISO 14001:2015 system to determine and address training needs related to environmental aspects and the environmental management system (EMS) could be applied to identify training needs related to the control of significant energy uses and operation of the ISO 50001:2011 EnMS. This is an area where the energy, environmental, and safety and health requirements related to training needs are frequently integrated, so a single process is used to address the training need requirements of all three management systems.</p>
 
 <p>Processes used to determine competency needs in an ISO 9001:2015 quality management system (QMS) can be adapted for use in the EnMS, although the personnel involved may be different.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 5.3 of the [resource](ENERGY_STAR_Guidelines_for_Energy_Management) discusses building capacity through training of staff. This 50001 Ready Navigator task guidance, which focuses on qualification and training of personnel related to the operation of the ISO 50001 EnMS and the identified significant energy uses, could help to strengthen your existing training efforts.</p>
+<p>Step 5.3 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> discusses building capacity through training of staff. This 50001 Ready Navigator task guidance, which focuses on qualification and training of personnel related to the operation of the ISO 50001 EnMS and the identified significant energy uses, could help to strengthen your existing training efforts.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

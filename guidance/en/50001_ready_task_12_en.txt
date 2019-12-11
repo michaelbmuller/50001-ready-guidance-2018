@@ -7,17 +7,18 @@ Objectives and Targets
 Task 12: We establish objectives and energy performance targets.
 ----------GETTING IT DONE----------
 <ol>
-<li>Develop and record your organization’s objectives and energy targets.</li>
-<li>Obtain top management&rsquo;s approval of the objectives and energy targets and communicate appropriately.</li>
-<li>Communicated the energy objectives and energy targets appropriately to your organization</li>
+	<li>Develop and record your organization&rsquo;s objectives and energy targets.</li>
+	<li>Obtain top management&rsquo;s approval of the objectives and energy targets and communicate appropriately.</li>
+	<li>Communicate the energy objectives and energy targets appropriately to your organization</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Objectives and energy targets are important outputs of the planning process. Objectives are specific outcomes that your organization sets for itself in order to meet its energy policy commitments. Objectives can be strategic, tactical, or operational. Energy targets are quantified objectives of energy performance improvement. The objectives and energy targets, along with their related action plans (see&nbsp;[task](Action Plans for Continual Improvement)), are the driving force for continual improvement of your organization&rsquo;s energy performance and EnMS.</p>
-<p><em>This guidance is relevant to Sections 6.2.1 and 6.2.2 of the ISO 50001:2018 standard.</em></p>
+<p>Objectives and energy targets are important outputs of the planning process. Objectives are specific outcomes that your organization sets for itself in order to meet its energy policy commitments. Objectives can be strategic, tactical, or operational. Energy targets are quantified objectives of energy performance improvement. The objectives and energy targets, along with their related action plans (see Task 13 [task](Action Plans for Continual Improvement)), are the driving force for continual improvement of your organization&rsquo;s energy performance and energy management system (EnMS).</p>
+
+<p><em>This guidance is relevant to sections 6.2.1 and 6.2.2 of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
 <p>[Accordion](Gather and review appropriate inputs to establish objectives and energy targets)</p>
 
-<p>In ISO 50001, the term objective means &ldquo;results to be achieved.&rdquo; No specific results are mandated by the standard and in turn objectives are established by you so long as they are consistent with the commitments documented in the energy policy. It is important to note that the definition of objective accommodates both quantitative and qualitative results. This means that objectives can relate to the continual improvement of the EnMS, energy performance, or other business objectives. Objectives related to improvement of the EnMS are often qualitative, although it is preferable that the improvement be quantified in some way.</p>
+<p>In ISO 50001, the term <em>objective</em> means &ldquo;results to be achieved.&rdquo; No specific results are mandated by the standard, and in turn objectives are established by you so long as they are consistent with the commitments documented in the energy policy. It is important to note that the definition of <em>objective</em> accommodates both quantitative and qualitative results. This means that objectives can relate to the continual improvement of the energy management system (EnMS), energy performance, or other business objectives. Objectives related to improvement of the EnMS are often qualitative, although it is preferable that the improvement be quantified in some way.</p>
 
 <p>Energy targets are quantifiable objectives of energy performance improvement. Energy targets can be associated with other objectives, or they can be stand-alone results to be achieved.</p>
 
@@ -25,7 +26,7 @@ Task 12: We establish objectives and energy performance targets.
 
 <p>[Learn More](Other functions to involve in developing objectives and energy targets)</p>
 
-<p>For the purpose of establishing objectives and energy targets, a recommended best practice is to supplement the energy team, as appropriate, with:</p>
+<p>For the purpose of establishing objectives and energy targets, a recommended best practice is to supplement the energy team, as appropriate, with the following:</p>
 
 <ul>
 	<li>Individuals with energy expertise</li>
@@ -38,13 +39,13 @@ Task 12: We establish objectives and energy performance targets.
 
 <p>[Learn More End]</p>
 
-<p>There are specific requirements that objectives and energy targets must meet. They must be consistent with the energy policy. This means that the objectives and energy targets are the mechanisms for putting the energy policy commitments into action. For example, an objective to reduce overall energy consumption by 2022, with an energy target to reduce natural gas consumption by 5% by the end of this fiscal year is intended to achieve energy performance improvement, one of the commitments made in the energy policy.</p>
+<p>There are specific requirements that objectives and energy targets must meet. They must be consistent with the energy policy. This means that the objectives and energy targets are the mechanisms for putting the energy policy commitments into action. For example, an objective to reduce overall energy consumption by 2022, with an energy target to reduce natural gas consumption by 5 percent by the end of this fiscal year is intended to achieve energy performance improvement, one of the commitments made in the energy policy.</p>
 
-<p>Objectives and energy targets must &ldquo;take into account&rdquo; applicable requirements and opportunities for energy performance improvement. Applicable requirements include the legal, voluntary and other requirements of interested parties that you determined in&nbsp;[task](People and Legal Requirements Affecting the EnMS). This means that you need to consider and meaning fully incorporate the potential energy improvement opportunities that you identified, prioritized, and can realistically achieve as part of the energy review in&nbsp;[task](Improvement Opportunities)Your objectives and energy targets should focus on the requirements your organization has to meet and the potential energy projects identified as a high priority and can be realistically achieved.</p>
+<p>Objectives and energy targets must take into account applicable requirements and opportunities for energy performance improvement. Applicable requirements include the legal, voluntary, and other requirements of interested parties that you determined in Task 2 [task](People and Legal Requirements Affecting the EnMS). This means that you need to consider and meaningfully incorporate the potential energy improvement opportunities that you identified, prioritized, and can realistically achieve as part of the energy review in Task 10 [task](Improvement Opportunities)Your objectives and energy targets should focus on the requirements your organization has to meet and the potential energy projects identified as a high priority that can be achieved realistically.</p>
 
-<p>Your objectives and energy targets should also consider the significant energy uses ([task](Significant Energy Uses)) you have identified. The fact that SEUs must be considered in objectives and energy targets recognizes that not all SEUs may be candidates for improvement, in spite of the fact that they are major energy consumers. However, if there is an attractive improvement opportunity related to an SEU, you are encouraged to set an objective and/or energy target related to that improvement.</p>
+<p>Your objectives and energy targets should also consider the significant energy uses (Task 9 [task](Significant Energy Uses)) you have identified. The fact that significant energy uses (SEUs) must be considered in objectives and energy targets recognizes that not all SEUs may be candidates for improvement, in spite of the fact that they are major energy consumers. However, if there is an attractive improvement opportunity related to an SEU, you are encouraged to set an objective and/or energy target related to that improvement.</p>
 
-<p>Other inputs that you may want to consider in the objectives and energy targets are the realities of your organization&rsquo;s business and financial situation, operating conditions, and constraints.&nbsp; The goal is to set objectives and energy targets that are achievable, compatible, and align with your organization&rsquo;s strategic business plans, and result in successful improvement of energy performance and the EnMS.</p>
+<p>Other inputs that you may want to consider in the objectives and energy targets are the realities of your organization&rsquo;s business and financial situation, operating conditions, and constraints. The goal is to set objectives and energy targets that are achievable and compatible, and that align with your organization&rsquo;s strategic business plans and result in successful improvement of energy performance and the EnMS.</p>
 
 <p>[Accordion End]</p>
 
@@ -53,33 +54,30 @@ Task 12: We establish objectives and energy performance targets.
 <p>Objectives can be:</p>
 
 <ul>
-	<li>strategic, tactical or operational,</li>
-	<li>results to be achieved for multiple disciplines (e.g. achieve energy, environmental and financial results)</li>
-	<li>applied at different levels (e.g. strategic, organization-wide, project or process specific)</li>
-	<li>expressed in different ways (e.g. aim, goal, purpose)</li>
+	<li>strategic, tactical or operational.</li>
+	<li>results to be achieved for multiple disciplines (e.g., achieve energy, environmental, and financial results).</li>
+	<li>applied at different levels (e.g., strategic, organization-wide, project or process specific).</li>
+	<li>expressed in different ways (e.g., aim, goal, purpose).</li>
 </ul>
 
-<p>An example of an objective related to energy performance improvement is:</p>
+<p>An example of an objective related to energy performance improvement is: &ldquo;Reduce energy consumption 10 percent in five years from the 2019 baseline.&rdquo;</p>
 
-<p><em>&ldquo;Reduce energy consumption 10 percent in five years from the 2019 baseline.&rdquo;</em></p>
-
-<p>An example of an objective related to improvement of the EnMS is:</p>
-
-<p><em>&ldquo;Improve energy-related communications to on-site suppliers and contractors by the end of FY2020.&rdquo;</em></p>
+<p>An example of an objective related to improvement of the EnMS is: &ldquo;Improve energy-related communications to on-site suppliers and contractors by the end of FY2020.&rdquo;</p>
 
 <p>Energy targets are quantitative and may or may not be associated with objectives.</p>
 
 <p>Examples of energy targets that may or may not be associated with the previous example of an objective related to energy performance improvement are:</p>
 
-<p><em>&ldquo;Reduce electricity consumption 5 percent compared to a 2019 baseline by the third Quarter of 2021.&rdquo;</em></p>
-
-<p><em>&ldquo;Reduce lighting system consumption 10 percent compared to a 2019 baseline by the end of FY 2020&rdquo;</em></p>
+<ul>
+	<li>&ldquo;Reduce electricity consumption 5 percent compared to a 2019 baseline by the third Quarter of 2021.&rdquo;</li>
+	<li>&ldquo;Reduce lighting system consumption 10 percent compared to a 2019 baseline by the end of FY 2020.&rdquo;</li>
+</ul>
 
 <p>As part of taking into account energy performance improvement opportunities in objectives and energy targets (see &ldquo;Gather and review appropriate inputs&rdquo; above), you may find it necessary to closely evaluate the potential energy savings associated with a specific energy opportunity to determine an appropriate objective or energy target. Or, alternatively, an objective or energy target will drive the choice of which energy opportunities are implemented to achieve that objective and/or energy target.</p>
 
-<p>Objectives and energy targets must be monitored through an ongoing process of review. The extent to which objectives and energy targets have been achieved is reported to top management through the management review process (see&nbsp;[task](Management Review)). Sometimes after the initial establishment of the objectives and energy targets, an organization discovers that the data or metrics needed to measure or monitor the objective and/or energy target needs to be revised.</p>
+<p>Objectives and energy targets must be monitored through an ongoing process of review. The extent to which objectives and energy targets have been achieved is reported to top management through the management review process (see Task 23 [task](Management Review)). Sometimes after the initial establishment of the objectives and energy targets, an organization discovers that the data or metrics needed to measure or monitor the objective and/or energy target needs to be revised.</p>
 
-<p>Documented information on the objectives and energy targets must be retained. The information retained may be in any format appropriate for your organization. The&nbsp;optional Worksheet&nbsp;is one tool to recording objectives and energy targets and the required inputs.</p>
+<p>Documented information on the objectives and energy targets must be retained. The information retained may be in any format appropriate for your organization. The optional Playbook worksheet is one tool to recording objectives and energy targets and the required inputs.</p>
 
 <p>[Accordion End]</p>
 
@@ -89,20 +87,20 @@ Task 12: We establish objectives and energy performance targets.
 
 <p>Present the objectives and energy targets to management for review and approval in a clear and understandable format. Sufficient information should be provided to justify the purpose of the objective(s) and energy target(s) and its relationship to the organization&rsquo;s business goals and energy policy commitments. Management approves the objectives and energy targets or provides direction for any needed changes.</p>
 
-<p>The optional Worksheet provides a convenient way to communicate the proposed objectives and related targets to management. This helps inform management on the relevant inputs and identifies how the objectives and energy targets will be monitored.</p>
+<p>The optional Playbook worksheet provides a convenient way to communicate the proposed objectives and related targets to management. This helps inform management on the relevant inputs and identifies how the objectives and energy targets will be monitored.</p>
 
 <p>[Accordion End]</p>
 
 <p>[Accordion](Communicate the objectives and energy targets)</p>
 
-<p>Once the objectives and energy targets have been approved by top management, they are broadly communicated across the organization using the communication and training processes of the EnMS (see&nbsp;[task](Awareness and Communication)).&nbsp; Start by communicating the objectives and energy targets back to the energy team and then, to all personnel who can affect them or have a role in achieving them. While some personnel may not have direct responsibility for achieving the objectives and energy targets, broad awareness of your organization&rsquo;s improvement efforts promotes a culture of energy efficiency and supports positive energy behavior.</p>
+<p>Once the objectives and energy targets have been approved by top management, they are broadly communicated across the organization using the communication and training processes of the EnMS (see Task 15 [task](Awareness and Communication)). Start by communicating the objectives and energy targets back to the energy team and then, to all personnel who can affect them or have a role in achieving them. While some personnel may not have direct responsibility for achieving the objectives and energy targets, broad awareness of your organization&rsquo;s improvement efforts promotes a culture of energy efficiency and supports positive energy behavior.</p>
 
-<p>Employees and on-site contractors will need to be aware of how they contribute to achieving the objectives and energy targets, so ensure that this information is incorporated into your organization&rsquo;s EnMS Awareness Training (see&nbsp;[task](Awareness and Communication)). Periodically update personnel on progress made towards achieving the objectives and energy targets and celebrate success when they are achieved.</p>
+<p>Employees and on-site contractors will need to be aware of how they contribute to achieving the objectives and energy targets, so ensure that this information is incorporated into your organization&rsquo;s EnMS Awareness Training (see Task 15 [task](Awareness and Communication)). Periodically update personnel on progress made towards achieving the objectives and energy targets, and celebrate success when they are achieved.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Objectives and information on when the objectives will be completed is required by ISO 14001:2015 and ISO 9001:2015. The processes used to establish environmental and/or quality objectives may be suitable for setting objectives and energy targets for the ISO 50001:2018 system. Different personnel may be involved but the overall objectives-setting process could be the same. Often, the setting of quality, environmental, safety and health and energy objectives are part of the outcome of the organization’s annual process for setting its overall business objectives. Note that unlike ISO 50001, ISO 14001 and ISO 9001 do not use the construct of “targets.” Also, ISO 50001:2018 contains additional requirements for objectives and energy targets that are not present in ISO 9001 or ISO 14001.</p>
+<p>Objectives and information on when the objectives will be completed is required by ISO 14001:2015 and ISO 9001:2015. The processes used to establish environmental and/or quality objectives may be suitable for setting objectives and energy targets for the ISO 50001:2018 system. Different personnel may be involved, but the overall objectives-setting process could be the same. Often, the setting of quality, environmental, safety and health, and energy objectives are part of the outcome of the organization&rsquo;s annual process for setting its overall business objectives. Note that unlike ISO 50001, ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo; Also, ISO 50001:2018 contains additional requirements for objectives and energy targets that are not present in ISO 9001 or ISO 14001.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Your organization may have already established objectives and energy performance improvement targets using guidance from Step 3.3 “Setting Goals” and Step 4.1 “Define Technical Steps and Targets” of the ENERGY STAR Guidelines for Energy Management. This 50001 Ready Navigator task provides specific guidance to ensure your organization’s  objectives and energy targets meet the criteria specified in the ISO 50001 standard.</p>
+<p>Your organization may have already established objectives and energy performance improvement targets using guidance from step 3.3 and 4.1 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management.</em> This 50001 Ready Navigator task provides specific guidance to ensure your organization&rsquo;s objectives and energy targets meet the criteria specified in the ISO 50001 standard.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
