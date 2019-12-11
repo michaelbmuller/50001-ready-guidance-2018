@@ -7,56 +7,60 @@ An EnMS and Your Organization
 Task 1: We determine the strategic issues that affect our ability to improve energy performance and achieve the goals of our 50001 Ready energy management system.
 ----------GETTING IT DONE----------
 <ol>
-<li>Identify the external and internal strategic issues that affect your organization&rsquo;s ability to improve its energy performance and achieve the intended outcomes of the EnMS.</li>
-<li>Record this information.</li>
+	<li>Identify the external and internal strategic issues that affect your organization&rsquo;s ability to improve its energy performance and achieve the intended outcomes of the energy management system (EnMS).</li>
+	<li>Record this information.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>This task develops information to ensure your energy management activities support your organization&rsquo;s foundational needs, allowing you to more fully customize your energy management system (EnMS) to your business realities.</p>
-<p>Understanding the context of your organization from a strategic perspective allows a broad look at what strategic issues may affect the EnMS. This influences the design of the EnMS and helps align it more closely with existing strategic priorities and direction. This, in turn, facilitates the integration of the EnMS into your organization&rsquo;s existing business processes.</p>
-<p>The information to be developed involves identifying, from a strategic perspective, the external and internal issues that may affect your organization&rsquo;s ability to improve its energy performance or to achieve the intended outcomes of the EnMS. The intended outcomes of the EnMS are (or will be) what your organization plan to achieve by implementing its EnMS (e.g. reduce energy costs, reduce GHG emissions, meet sustainability goals).</p>
-<p>The information to be developed involves identifying, from a strategic perspective, the external and internal issues that may affect your organization&rsquo;s ability to improve its energy performance or to achieve the intended outcomes of the EnMS. The intended outcomes of the EnMS are (or will be) what your organization plans to achieve by implementing its EnMS. Strategic issues can have a positive or negative impact on the EnMS.</p>
-<p>The outputs of this process will be used in [task](Risks to EnMS Success) to determine the risks and opportunities that need to be addressed by your EnMS.</p>
+<p>In this task, you develop information to ensure your energy management activities support your organization&rsquo;s foundational needs, allowing you to more fully customize your energy management system (EnMS) to your business realities.</p>
+
+<p>Understanding your organization&rsquo;s overall strategic goals and objectives enables you to look broadly at what strategic issues may affect the EnMS. This information influences the design of the EnMS and ensures that it is more closely aligned with existing strategic priorities and direction. This, in turn, facilitates the successful integration of the EnMS into your organization&rsquo;s existing business processes.</p>
+
+<p>The information to be developed involves identifying, from a strategic perspective, the external and internal issues that may affect your organization&rsquo;s ability to improve its energy performance or to achieve the intended outcomes of the EnMS. The intended outcomes of the EnMS are (or will be) what your organization plans to achieve by implementing its EnMS, such as reducing energy costs and greenhouse gas emissions or meeting sustainability goals. Strategic issues can have a positive or negative impact on the EnMS.</p>
+
+<p>The outputs of this process will be used in Task 7 [task](Risks to EnMS Success) to determine the risks and opportunities that need to be addressed by your EnMS.</p>
+
 <p><em>This guidance is relevant to Section 4.1 of the ISO 50001:2018 standard.</em></p>
 ----------FULL DESCRIPTION----------
 <p>[Accordion](Determine the strategic external and internal issues that may affect your organization&rsquo;s ability to improve energy performance and achieve the intended outcomes of your EnMS)</p>
 
-<p>In order to determine strategic issues that may affect your organization&rsquo;s ability to improve its energy performance and achieve the intended outcomes of the EnMS, information about the organization&rsquo;s strategic objectives and challenges are needed. This information may have already been identified as part of the organization&rsquo;s strategic or long-term planning process. Having management input into the determination of the relevant issues is desired not only to expedite the process but also to show management that the EnMS considers strategic issues facing the organization. However, it is not unusual for management to not be involved in this process and for the energy team to develop this information on its own. In this case the information should be presented to top management for their review and input. This approach presumes that the energy team has access to the relevant information about the organization&rsquo;s strategic direction, goals, and challenges.</p>
+<p>To determine strategic issues that may affect your organization&rsquo;s ability to improve its energy performance and achieve the intended outcomes of the EnMS, information about the organization&rsquo;s strategic objectives and challenges are needed. This information may have already been identified as part of the organization&rsquo;s strategic or long-term planning process. Having management input into the determination of the relevant issues is desirable, not only to expedite the process but also to show management that the EnMS considers strategic issues facing the organization. However, it is not unusual for management to not be involved in this process and for the energy team to develop this information on its own. In this case the information should be presented to top management for their review and input. This approach presumes that the energy team has access to the relevant information about the organization&rsquo;s strategic direction, goals, and challenges.</p>
 
 <p>Examples of strategic external issues may include:</p>
 
 <ul>
-	<li>economic and financial conditions</li>
-	<li>competitive circumstances</li>
-	<li>legal and regulatory requirements</li>
-	<li>technological developments</li>
-	<li>political, social, and cultural conditions</li>
-	<li>environmental conditions</li>
-	<li>restrictions on energy supply</li>
-	<li>effects of climate change</li>
+	<li>Economic and financial conditions</li>
+	<li>Competitive circumstances</li>
+	<li>Legal and regulatory requirements</li>
+	<li>Technological developments</li>
+	<li>Political, social, and cultural conditions</li>
+	<li>Environmental conditions</li>
+	<li>Restrictions on energy supply</li>
+	<li>Effects of climate change</li>
 </ul>
 
 <p>Examples of strategic internal issues may include:</p>
 
 <ul>
-	<li>core business objectives and strategies</li>
-	<li>governance and organizational structure</li>
-	<li>information flows and decision-making processes</li>
-	<li>organizational culture and knowledge</li>
-	<li>organizational policies</li>
-	<li>financial resources</li>
-	<li>technological maturity</li>
-	<li>sustainability goals</li>
+	<li>Core business objectives and strategies</li>
+	<li>Governance and organizational structure</li>
+	<li>Information flows and decision-making processes</li>
+	<li>Organizational culture and knowledge</li>
+	<li>Organizational policies</li>
+	<li>Financial resources</li>
+	<li>Technological maturity</li>
+	<li>Sustainability goals</li>
 </ul>
 
-<p>In performing this task, keep in mind that the relevant issues are those that may affect your organization&rsquo;s ability to achieve the intended outcomes of your EnMS and energy performance improvement. The completed Worksheets contains examples of the strategic external and internal issues identified by several organizations that have implemented these requirements.</p>
+<p>In performing this task, keep in mind that the relevant issues are those that may affect your organization&rsquo;s ability to achieve the intended outcomes of your EnMS and energy performance improvement.</p>
 
-<p>The Worksheet for your optional use. As with most of the optional Worksheets in the Navigator, you can adopt this resource for your EnMS or simply use it to generate ideas on how you may want to capture the information generated by this task.</p>
+<p>The Playbook worksheet is for your optional use. As with most of the optional Playbook worksheets in the Navigator, you can adopt this resource for your EnMS or simply use it to generate ideas on how you may want to capture the information generated by this task.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>ISO 9001:2015 and ISO 14001:2015 contain the same requirements to determine the external and internal issues that may affect an organization&rsquo;s ability to achieve the intended outcomes of its management systems. There are however some minor differences that go beyond those of ISO 50001. ISO 9001 explicitly requires that the issues are monitored and reviewed. ISO 14001 requires that the issues include environmental conditions affected by or capable of being affected by the organization.</p>
-<p>Despite these minor differences, the requirements for understanding the context of the organization and determining the relevant issues have the same intent across these standards. Because the external and internal issues are relevant to the strategic situation and direction of the organization, there should be some consistency in the types of issues identified if your organization has implemented some or all three of these management systems. Of course, there can be differences in exactly how the issues affect the ability of quality management, environmental management and energy management to achieve their intended outcomes or results. A single approach to determining the issues could be used for each management system standard.</p>
+<p>ISO 9001:2015 and ISO 14001:2015 contain the same requirements to determine the external and internal issues that may affect an organization&rsquo;s ability to achieve the intended outcomes of its management systems. There are, however, some minor differences that go beyond those of ISO 50001. ISO 9001 explicitly requires that the issues are monitored and reviewed. ISO 14001 requires that the issues include environmental conditions affected by or capable of being affected by the organization.</p>
+
+<p>Despite these minor differences, the requirements for understanding the organization&rsquo;s strategic goals and objectives and determining the relevant issues have the same intent across these standards. Because the external and internal issues are relevant to the strategic situation and direction of the organization, there should be some consistency in the types of issues identified if your organization has implemented some or all three of these management systems. Of course, there can be differences in exactly how the issues affect the ability of quality management, environmental management, and energy management to achieve their intended outcomes or results. A single approach to determining the issues could be used for each management system standard.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>The ENERGY STAR Guidelines for Energy Management does not explicitly address the context of the organization, its strategic external and internal issues and how they affect the ability of the management system to achieve its intended outcomes. Chapter 3.1 Determine Scope does discuss that a combination of short-term and long-term energy goals can be effective. It points out that long-term goals can be affected by internal rates of return, internal planning horizons and guidelines, organizational strategic plans and commitment to voluntary environmental initiatives. Chapter 3.2 Estimate Potential for Improvement, discusses the methods used by leading energy programs. These include linking to organization-wide strategic goals in addition to operational goals. This is consistent with ISO 50001 requirements to align the EnMS with the strategic direction of the organization.</p>
+<p>The ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> does not explicitly address the organization&rsquo;s strategic goals and objectives, its strategic external and internal issues, and how they affect the ability of the management system to achieve its intended outcomes. Step 3.1 does discuss that a combination of short-term and long-term energy goals can be effective. It points out that long-term goals can be affected by internal rates of return, internal planning horizons and guidelines, organizational strategic plans, and commitment to voluntary environmental initiatives. Step 3.2, discusses the methods used by leading energy programs. These include linking to organization-wide strategic goals in addition to operational goals. This is consistent with ISO 50001 requirements to align the EnMS with the strategic direction of the organization.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

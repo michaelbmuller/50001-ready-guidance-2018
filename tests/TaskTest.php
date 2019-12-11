@@ -7,6 +7,9 @@ use PHPUnit\Framework\TestCase;
 
 class TaskTest extends TestCase
 {
+    /**
+     * @throws \Exception
+     */
     public function test_task()
     {
         $task = Task::load(1);
@@ -16,6 +19,9 @@ class TaskTest extends TestCase
         $this->assertEquals("An EnMS and Your Organization", $task->getMenuName());
     }
 
+    /**
+     * @throws \Exception
+     */
     public function test_load_all_tasks()
     {
         for ($task_id = 1; $task_id <= 25; $task_id++) {
@@ -24,6 +30,9 @@ class TaskTest extends TestCase
         }
     }
 
+    /**
+     * @throws \Exception
+     */
     public function test_default_to_english()
     {
         $task = Task::load(1, 'XX');
@@ -31,19 +40,25 @@ class TaskTest extends TestCase
         $this->assertEquals('en', $task->language_displayed);
     }
 
-    public function test_spanish()
-    {
-        $task = Task::load(1, 'es');
-        $this->assertEquals('es', $task->language_requested);
-        $this->assertEquals('es', $task->language_displayed);
-    }
+//    public function test_spanish()
+//    {
+//        $task = Task::load(1, 'es');
+//        $this->assertEquals('es', $task->language_requested);
+//        $this->assertEquals('es', $task->language_displayed);
+//    }
 
+    /**
+     * @throws \Exception
+     */
     public function test_missing_task()
     {
         $this->expectExceptionMessage('Task ID not valid');
         Task::load(0);
     }
 
+    /**
+     * @throws \Exception
+     */
     public function test_missing_task2()
     {
         $this->expectExceptionMessage('Task ID not valid');

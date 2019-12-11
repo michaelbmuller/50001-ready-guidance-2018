@@ -12,6 +12,9 @@ class SupportTest extends TestCase
         $this->assertEquals('testTest', Support::ConvertSectionName('test test'));
     }
 
+    /**
+     * @throws \Exception
+     */
     public function test_missing_file(){
         $this->expectExceptionMessage('Requested File Not Found');
         Support::getFile('asdf');

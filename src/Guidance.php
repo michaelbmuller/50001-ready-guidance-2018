@@ -277,7 +277,7 @@ class Guidance
      * Return first Task with Matching Menu Name
      *
      * @param $id_name string
-     * @return string
+     * @return Task|bool
      */
     public function getTaskByIDName($id_name)
     {
