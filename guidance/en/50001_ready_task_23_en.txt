@@ -4,7 +4,7 @@ USDOE 50001 READY NAVIGATOR TASK 23
 ----------MENU NAME----------
 Management Review
 ----------TITLE----------
-<p>This guidance is relevant to steps 5.1, 5.2, 5.5, 6.1, and 6.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management.</em> You can leverage and modify elements of these ENERGY STAR guidelines in developing an EnMS internal audit program, however additional work will be needed to meet ISO 50001 requirements for conducting EnMS internal audits based on documented internal audit procedures, schedules, and plans. The ENERGY STAR guidelines recommend creating a communications plan and raising awareness across the site. ISO 50001 specifically requires retaining records to demonstrate the implementation of the internal audit program, as well as records of the audit results. Audit results are communicated to the relevant management.</p>
+Task 23: Top management periodically reviews the 50001 Ready energy management system and our organization’s energy performance to ensure its continuing suitability, adequacy, and effectiveness.
 ----------GETTING IT DONE----------
 <ol>
 	<li>Define the intervals at which top management will review the energy management system (EnMS) and energy performance.</li>
