@@ -4,7 +4,7 @@ Name||50001 Ready Playbook Task 01
 ID||Task1_Playbook
 File Type||docx
 Short Description||An EnMS and your Organization
-File Name||50001 Ready Playbook Task 01 An EnMS and your Organization [DOE Draft].docx
+File Name||50001 Ready Playbook Task 01 An EnMS and your Organization [PB.01.01.00].docx
 Link||
 Associated Tasks||1
 Last Updated||2019-11-18 20:30:00
@@ -13,7 +13,7 @@ Name||50001 Ready Playbook Task 02
 ID||Task2_Playbook
 File Type||docx
 Short Description||People and Legal Requirements Affecting the EnMS
-File Name||50001 Ready Playbook Task 02 People and Legal Requirements Affecting the EnMS [DOE Draft].docx
+File Name||50001 Ready Playbook Task 02 People and Legal Requirements Affecting the EnMS [PB.02.01.00].docx
 Link||
 Associated Tasks||2
 Last Updated||2019-11-18 20:30:00
@@ -22,7 +22,7 @@ Name||50001 Ready Playbook Task 03
 ID||Task3_Playbook
 File Type||docx
 Short Description||Scope and Boundaries
-File Name||50001 Ready Playbook Task 03 Scope and Boundaries [DOE Draft].docx
+File Name||50001 Ready Playbook Task 03 Scope and Boundaries [PB.03.01.00].docx
 Link||
 Associated Tasks||3
 Last Updated||2019-11-18 20:30:00
@@ -31,7 +31,7 @@ Name||50001 Ready Playbook Task 04
 ID||Task4_Playbook
 File Type||docx
 Short Description||Management Commitment
-File Name||50001 Ready Playbook Task 04 Management Commitment [DOE Draft].docx
+File Name||50001 Ready Playbook Task 04 Management Commitment [PB.04.01.00].docx
 Link||
 Associated Tasks||4
 Last Updated||2019-11-18 20:30:00
@@ -40,7 +40,7 @@ Name||50001 Ready Playbook Task 05
 ID||Task5_Playbook
 File Type||docx
 Short Description||Energy Policy
-File Name||50001 Ready Playbook Task 05 Energy Policy [DOE Draft].docx
+File Name||50001 Ready Playbook Task 05 Energy Policy [PB.05.01.00].docx
 Link||
 Associated Tasks||5
 Last Updated||2019-11-18 20:30:00
@@ -49,7 +49,7 @@ Name||50001 Ready Playbook Task 06
 ID||Task6_Playbook
 File Type||docx
 Short Description||Energy Team and Resources
-File Name||50001 Ready Playbook Task 06 Energy Team and Resources [DOE Draft].docx
+File Name||50001 Ready Playbook Task 06 Energy Team and Resources [PB.06.01.00].docx
 Link||
 Associated Tasks||6
 Last Updated||2019-11-18 20:30:00
@@ -58,7 +58,7 @@ Name||50001 Ready Playbook Task 07
 ID||Task7_Playbook
 File Type||docx
 Short Description||Risks to EnMS Success
-File Name||50001 Ready Playbook Task 07 Risks to EnMS Success [DOE Draft].docx
+File Name||50001 Ready Playbook Task 07 Risks to EnMS Success [PB.07.01.00].docx
 Link||
 Associated Tasks||7
 Last Updated||2019-11-18 20:30:00
@@ -67,7 +67,7 @@ Name||50001 Ready Playbook Task 08
 ID||Task8_Playbook
 File Type||docx
 Short Description||Energy Data Collection and Analysis
-File Name||50001 Ready Playbook Task 08 Energy Data Collection and Analysis [DOE Draft].docx
+File Name||50001 Ready Playbook Task 08 Energy Data Collection and Analysis [PB.08.01.00].docx
 Link||
 Associated Tasks||8
 Last Updated||2019-11-18 20:30:00
@@ -76,7 +76,7 @@ Name||Energy Consumption Tracker
 ID||Task8_Excel
 File Type||xlsx
 Short Description||Track Energy Consumption and Relevant Variables
-File Name||Energy Consumption Tracker (Task 8) [DOE Draft].xlsx
+File Name||Energy Consumption Tracker (Task 8) [ET.08.01.00].xlsx
 Link||
 Associated Tasks||8
 Last Updated||2019-11-18 20:30:00
@@ -85,7 +85,7 @@ Name||50001 Ready Playbook Task 09
 ID||Task9_Playbook
 File Type||docx
 Short Description||Significant Energy Uses
-File Name||50001 Ready Playbook Task 09 Significant Energy Uses [DOE Draft].docx
+File Name||50001 Ready Playbook Task 09 Significant Energy Uses [PB.09.01.00].docx
 Link||
 Associated Tasks||9
 Last Updated||2019-11-18 20:30:00
@@ -94,7 +94,7 @@ Name||50001 Ready Playbook Task 10
 ID||Task10_Playbook
 File Type||docx
 Short Description||Improvement Opportunities
-File Name||50001 Ready Playbook Task 10 Improvement Opportunities [DOE Draft].docx
+File Name||50001 Ready Playbook Task 10 Improvement Opportunities [PB.10.01.00].docx
 Link||
 Associated Tasks||10
 Last Updated||2019-11-18 20:30:00
@@ -103,7 +103,7 @@ Name||Energy Performance Improvement Opportunity Tracker
 ID||Task10_Excel
 File Type||xlsx
 Short Description||Track Various Energy Saving Opportunities
-File Name||Energy Performance Improvement Opportunity Tracker (Task 10) [DOE Draft].xlsx
+File Name||Energy Performance Improvement Opportunity Tracker (Task 10) [OT.10.01.00].xlsx
 Link||
 Associated Tasks||10
 Last Updated||2019-11-18 20:30:00
@@ -112,7 +112,7 @@ Name||50001 Ready Playbook Task 11
 ID||Task11_Playbook
 File Type||docx
 Short Description||EnPIs and EnBs
-File Name||50001 Ready Playbook Task 11 EnPIs and EnBs [DOE Draft].docx
+File Name||50001 Ready Playbook Task 11 EnPIs and EnBs [PB.11.01.00].docx
 Link||
 Associated Tasks||11
 Last Updated||2019-11-18 20:30:00
@@ -121,7 +121,7 @@ Name||50001 Ready Playbook Task 12
 ID||Task12_Playbook
 File Type||docx
 Short Description||Objectives and Targets
-File Name||50001 Ready Playbook Task 12 Objectives and Targets [DOE Draft].docx
+File Name||50001 Ready Playbook Task 12 Objectives and Targets [PB.12.01.00].docx
 Link||
 Associated Tasks||12
 Last Updated||2019-11-18 20:30:00
@@ -130,7 +130,7 @@ Name||50001 Ready Playbook Task 13
 ID||Task13_Playbook
 File Type||docx
 Short Description||Action Plans for Continual Improvement
-File Name||50001 Ready Playbook Task 13 Action Plans for Continual Improvement [DOE Draft].docx
+File Name||50001 Ready Playbook Task 13 Action Plans for Continual Improvement [PB.13.01.00].docx
 Link||
 Associated Tasks||13
 Last Updated||2019-11-18 20:30:00
@@ -139,7 +139,7 @@ Name||50001 Ready Playbook Task 14
 ID||Task14_Playbook
 File Type||docx
 Short Description||Competence and Training
-File Name||50001 Ready Playbook Task 14 Competence and Training [DOE Draft].docx
+File Name||50001 Ready Playbook Task 14 Competence and Training [PB.14.01.00].docx
 Link||
 Associated Tasks||14
 Last Updated||2019-11-18 20:30:00
@@ -148,7 +148,7 @@ Name||50001 Ready Playbook Task 15
 ID||Task15_Playbook
 File Type||docx
 Short Description||Awareness and Communication
-File Name||50001 Ready Playbook Task 15 Awareness and Communication [DOE Draft].docx
+File Name||50001 Ready Playbook Task 15 Awareness and Communication [PB.15.01.00].docx
 Link||
 Associated Tasks||15
 Last Updated||2019-11-18 20:30:00
@@ -157,7 +157,7 @@ Name||50001 Ready Playbook Task 16
 ID||Task16_Playbook
 File Type||docx
 Short Description||Documenting the EnMS
-File Name||50001 Ready Playbook Task 16 Documenting the EnMS [DOE Draft].docx
+File Name||50001 Ready Playbook Task 16 Documenting the EnMS [PB.16.01.00].docx
 Link||
 Associated Tasks||16
 Last Updated||2019-11-18 20:30:00
@@ -166,7 +166,7 @@ Name||50001 Ready Playbook Task 17
 ID||Task17_Playbook
 File Type||docx
 Short Description||Operational Controls
-File Name||50001 Ready Playbook Task 17 Operational Controls [DOE Draft].docx
+File Name||50001 Ready Playbook Task 17 Operational Controls [PB.17.01.00].docx
 Link||
 Associated Tasks||17
 Last Updated||2019-11-18 20:30:00
@@ -175,7 +175,7 @@ Name||50001 Ready Playbook Task 18
 ID||Task18_Playbook
 File Type||docx
 Short Description||Energy Considerations in Design
-File Name||50001 Ready Playbook Task 18 Energy Considerations in Design [DOE Draft].docx
+File Name||50001 Ready Playbook Task 18 Energy Considerations in Design [PB.18.01.00].docx
 Link||
 Associated Tasks||18
 Last Updated||2019-11-18 20:30:00
@@ -184,7 +184,7 @@ Name||50001 Ready Playbook Task 19
 ID||Task19_Playbook
 File Type||docx
 Short Description||Energy Considerations in Procurement
-File Name||50001 Ready Playbook Task 19 Energy Considerations in Procurement [DOE Draft].docx
+File Name||50001 Ready Playbook Task 19 Energy Considerations in Procurement [PB.19.01.00].docx
 Link||
 Associated Tasks||19
 Last Updated||2019-11-18 20:30:00
@@ -193,7 +193,7 @@ Name||50001 Ready Playbook Task 20
 ID||Task20_Playbook
 File Type||docx
 Short Description||Monitoring and Measurement of the EnMS
-File Name||50001 Ready Playbook Task 20 Monitoring and Measurement of the EnMS [DOE Draft].docx
+File Name||50001 Ready Playbook Task 20 Monitoring and Measurement of the EnMS [PB.20.01.00].docx
 Link||
 Associated Tasks||20
 Last Updated||2019-11-18 20:30:00
@@ -202,7 +202,7 @@ Name||50001 Ready Playbook Task 21
 ID||Task21_Playbook
 File Type||docx
 Short Description||Monitoring and Measurement of Energy Performance Improvement
-File Name||50001 Ready Playbook Task 21 Monitoring and Measurement of Energy Performance Improvement [DOE Draft].docx
+File Name||50001 Ready Playbook Task 21 Monitoring and Measurement of Energy Performance Improvement [PB.21.01.00].docx
 Link||
 Associated Tasks||21
 Last Updated||2019-11-18 20:30:00
@@ -211,7 +211,7 @@ Name||50001 Ready Playbook Task 22
 ID||Task22_Playbook
 File Type||docx
 Short Description||Internal Audit
-File Name||50001 Ready Playbook Task 22 Internal Audit [DOE Draft].docx
+File Name||50001 Ready Playbook Task 22 Internal Audit [PB.22.01.00].docx
 Link||
 Associated Tasks||22
 Last Updated||2019-11-18 20:30:00
@@ -220,7 +220,7 @@ Name||50001 Ready Playbook Task 23
 ID||Task23_Playbook
 File Type||docx
 Short Description||Management Review
-File Name||50001 Ready Playbook Task 23 Management Review [DOE Draft].docx
+File Name||50001 Ready Playbook Task 23 Management Review [PB.23.01.00].docx
 Link||
 Associated Tasks||23
 Last Updated||2019-11-18 20:30:00
@@ -229,7 +229,7 @@ Name||50001 Ready Playbook Task 24
 ID||Task24_Playbook
 File Type||docx
 Short Description||Corrective Actions
-File Name||50001 Ready Playbook Task 24 Corrective Actions [DOE Draft].docx
+File Name||50001 Ready Playbook Task 24 Corrective Actions [PB.24.01.00].docx
 Link||
 Associated Tasks||24
 Last Updated||2019-11-18 20:30:00
@@ -238,7 +238,7 @@ Name||50001 Ready Playbook Task 25
 ID||Task25_Playbook
 File Type||docx
 Short Description||Continual Improvement
-File Name||50001 Ready Playbook Task 25 Continual Improvement [DOE Draft].docx
+File Name||50001 Ready Playbook Task 25 Continual Improvement [PB.25.01.00].docx
 Link||
 Associated Tasks||25
 Last Updated||2019-11-18 20:30:00
