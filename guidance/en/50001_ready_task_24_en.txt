@@ -40,9 +40,9 @@ Task 24: We identify nonconformities and other problems in the 50001 Ready energ
 
 <p>The process for corrective action that you develop for your organization needs to include all of these elements. Some organizations use specialized software or a corrective action form (usually electronic) to outline the steps in the process and capture the needed information.</p>
 
-<p><a name="_heading=h.30j0zll"></a>If your organization has an integrated management system, consider using, or at least &ldquo;harvesting&rdquo; from, processes already in place. Your organization may already have corrective action process as part of another management system, such as an ISO 9001 quality management system or an ISO 14001 environmental management system.</p>
+<p>If your organization has an integrated management system, consider using, or at least &ldquo;harvesting&rdquo; from, processes already in place. Your organization may already have corrective action process as part of another management system, such as an ISO 9001 quality management system or an ISO 14001 environmental management system.</p>
 
-<p>[Learn more](Process for corrective action)</p>
+<p>[Learn More](Process for corrective action)</p>
 
 <p><strong>1. Control and correct the immediate situation and address the consequences</strong></p>
 
@@ -131,7 +131,7 @@ Task 24: We identify nonconformities and other problems in the 50001 Ready energ
 
 <p>In addition to retaining documented information on the nature of the nonconformities (i.e., what was the problem), the actions taken, and the results, attention should be given to what other information may be needed to develop and provide trend information on corrective actions as a required input for management review.</p>
 
-<p>[Learn more End]</p>
+<p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
