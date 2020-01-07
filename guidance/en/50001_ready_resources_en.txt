@@ -13,7 +13,7 @@ Name||50001 Ready Playbook Task 02
 ID||Task2_Playbook
 File Type||docx
 Short Description||People and Legal Requirements Affecting the EnMS
-File Name||50001 Ready Playbook Task 02 People and Legal Requirements Affecting the EnMS [PB.02.01.00].docx
+File Name||50001 Ready Playbook Task 02 People and Legal Requirements Affecting the EnMS [PB.02.01.01].docx
 Link||
 Associated Tasks||2
 Last Updated||2019-11-18 20:30:00
