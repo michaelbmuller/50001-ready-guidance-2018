@@ -9,7 +9,7 @@ Task 22: We conduct internal audits of the 50001 Ready energy management system 
 <ol>
 	<li>Appoint an energy management system (EnMS) internal audit program manager.</li>
 	<li>Develop a documented internal audit procedure that addresses the responsibilities, planning, and conducting of EnMS internal audits, as well as the reporting of audit results.</li>
-	<li>Identify personnel to serve as EnMS internal auditors and train them on 50001 Ready Navigator EnMS guidance (or ISO 50001 requirements), internal auditing of ISO 50001 (including auditing of energy performance improvement), and your internal audit procedure.</li>
+	<li>Identify personnel to serve as EnMS internal auditors and train them on 50001 Ready Navigator EnMS guidance (or optionally ISO 50001 requirements and/or internal auditing of ISO 50001 including auditing of energy performance improvement), and your internal audit procedure.</li>
 	<li>Conduct regularly scheduled EnMS internal audits to identify areas of success and areas in need of improvement.</li>
 	<li>Record the results of your organization&rsquo;s internal audits.</li>
 	<li>Ensure that internal audit results are reported to relevant management.</li>
@@ -93,7 +93,7 @@ Task 22: We conduct internal audits of the 50001 Ready energy management system 
 
 <ul>
 	<li>the importance of the processes is considered.</li>
-	<li>all EnMS processes and ISO 50001 requirements are audited in all applicable functions or areas within a defined period of time.</li>
+	<li>all EnMS processes (or optionally ISO 50001 requirements) are audited in all applicable functions or areas within a defined period of time.</li>
 </ul>
 
 <p>[Accordion End]</p>
