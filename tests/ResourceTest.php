@@ -39,12 +39,12 @@ class ResourceTest extends TestCase
 
     public function test_task_resources()
     {
-        $this->assertGreaterThan(0, count($this->guidance->getTask(1)->resources));
+        $this->assertGreaterThan(0, count($this->guidance->getTask(8)->resources));
     }
 
     public function test_get_link()
     {
-        $this->assertEquals('/Energy Consumption Tracker (Task 8) [DOE Draft].xlsx',
+        $this->assertEquals('/Energy Consumption Tracker (Task 8) [ET.08.01.00].xlsx',
             $this->guidance->resources['Task8_Excel']->getLink());
     }
 
