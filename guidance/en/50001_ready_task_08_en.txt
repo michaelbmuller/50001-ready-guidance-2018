@@ -9,7 +9,7 @@ Task 8: We identify our energy sources and energy uses, have a data collection p
 <ol>
 	<li>Identify all energy sources that are consumed within the scope and boundaries.</li>
 	<li>Make a list of energy uses within the scope and boundaries.</li>
-	<li>Identify relevant variables that potentially affect the energy consumption of significant energy uses (SEUs), and would help create meaningful energy performance indicators (EnPIs) and energy baselines (EnBs).</li>
+	<li>Identify relevant variables that potentially affect the energy consumption of significant energy uses (SEUs), and would help create meaningful energy performance indicators (EnPIs) and energy baselines (EnBs). If seeking U.S. DOE 50001 Ready recognition identify relevant variables that potentially affect the energy consumption of the scope and boundaries of your 50001 Ready EnMS.</li>
 	<li>Develop and implement a data collection plan based upon the data needs, including the key characteristics of ISO 50001.</li>
 	<li>Ensure measurements and metering are conducted accurately and are repeatable</li>
 	<li>Determine appropriate analysis methods, and use them to understand and monitor energy use and energy consumption.</li>
@@ -252,19 +252,7 @@ Task 8: We identify our energy sources and energy uses, have a data collection p
 	<li>Maintaining appropriate documentation &ndash; plan and records</li>
 </ul>
 
-<p>[Learn More](Components of a calibration program)</p>
-
-<ul>
-	<li>Identify equipment to be calibrated</li>
-	<li>Specify the calibration method</li>
-	<li>Establish calibration tolerance and frequency</li>
-	<li>Define and assign calibration responsibilities</li>
-	<li>Maintain appropriate documentation</li>
-</ul>
-
 <p>Smaller organizations can use simpler plans to assure measurements, monitoring, and metering are accurate and repeatable. Some available resources are located in the optional Playbook worksheet.</p>
-
-<p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 

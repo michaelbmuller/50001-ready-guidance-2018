@@ -7,19 +7,25 @@ Energy Performance Indicators (EnPIs) and Baselines (EnBs)
 Task 11: We identify energy performance indicators and energy baselines to measure and monitor our energy performance and to demonstrate energy performance improvement. We have a methodology for determining and updating them.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Develop energy performance indicators (EnPIs) for your organization, including an EnPI for each significant energy use (SEU). If relevant variables significantly affect energy consumption, normalize the EnPIs.</li>
+	<li>Develop one or more energy performance indicators (EnPIs) for your organization. If relevant variables significantly affect energy consumption, normalize the EnPIs.</li>
 	<li>Develop an energy baseline (EnB) for EnPI in order to later determine energy performance improvement.</li>
 	<li>Communicate proposed EnPIs and EnBs to top management so they can ensure the EnPIs and EnBs are appropriate for the organization.</li>
 	<li>Record and regularly review the method used to determine and update EnPIs, and establish the conditions under which adjustments to the baseline(s) will be made.</li>
 	<li>Compare EnPI values to their respective EnBs on a regular basis.</li>
 	<li>Implement a process for ongoing monitoring, measurement, and analysis of your EnPIs, EnBs, and energy performance improvements.</li>
 </ol>
+<ul>
+	<li>If you are planning on seeking U.S. DOE 50001 Ready recognition for this project please refer to the, &ldquo;Get Ready Recognized,&rdquo; page of the 50001 Ready Navigator to ensure you select an EnPI, EnB, and method for demonstrating energy performance improvement allowed by the recognition program. To achieve Ready recognition energy performance improvement is demonstrated for the same scope and boundaries as your 50001 Ready EnMS.</li>
+</ul>
 ----------TASK OVERVIEW----------
 <p>Energy performance indicators are quantitative metrics used to monitor energy performance and demonstrate energy performance improvement. As quantitative measures, energy performance indicators (EnPIs) are measured values, ratios, or models your organization accepts as meaningful representations of energy performance. Where the EnPI is the metric by which to measure energy performance, the &ldquo;EnPI value&rdquo; is the measured or calculated number for a specific time period of measure (e.g., kilowatt-hours [kWh] is the EnPI and 42 is the EnPI value; together they indicate an energy performance of 42 kWh).</p>
 
 <p>An energy baseline (EnB) is the quantitative reference used for comparing current EnPI values to determine if energy performance has improved. Typically, energy baselines are associated with EnPIs and represent the value of an EnPI during a time interval known as the <em>baseline period.</em> Often a baseline is established by an organization&rsquo;s strategic initiatives or in response to a legal or other requirement. The baseline is established considering the data period(s) suitable for your organization&rsquo;s energy use and consumption.</p>
 
-<p>EnPIs and EnBs can be established at the level of the entire organization or at the level of a specific sites, piece of equipment, system, or process. ISO 50001 requires that all SEUs have at least one EnPI and associated EnB.</p>
+<p>EnPIs and EnBs can be established at the level of the entire organization or at the level of a specific sites, piece of equipment, system, or process. ISO 50001 requires, but does not specify for what scope and boundaries, that an organization must demonstrate energy performance improvement. As they are the focus of energy performance improvement actions, it is recommended that each SEU have at least one EnPI and associated EnB.</p>
+
+<p>If you are planning on seeking U.S. DOE 50001 Ready recognition for this project please refer to the, “Get Ready Recognized,” page to ensure you select an EnPI, EnB, and method for demonstrating energy performance improvement allowed by the recognition program. To achieve Ready recognition energy performance improvement is demonstrated for the same scope and boundaries as your 50001 Ready EnMS.
+</p>
 
 <p>As discussed in Task 8 [task](Energy Data Collection and Analysis) relevant variables are quantifiable factors that routinely change and have a major impact on energy performance, including the operational performance. EnPIs and EnBs that take relevant variables into account may be more meaningful than those that depend on the intended use of the EnPI and EnB. Where the organization has data indicating that relevant variables significantly affect energy performance, the EnPIs should consider the relevant variables into account. The organization determines what indicates that a variable &ldquo;significantly affects energy performance&rdquo; and should develop a criteria to follow. If relevant variables are identified the EnPI should be normalizedmeaning absolute energy consumption itself cannot be used as the EnPI but needs to be adjusted through the use of an energy intensity, regression, or other adjustment method.</p>
 
@@ -35,7 +41,9 @@ Task 11: We identify energy performance indicators and energy baselines to measu
 
 <p>It may be necessary to develop different EnPIs for different stakeholders. Stakeholder needs can vary significantly, and their requirements should be considered in EnPI development. Top management typically will be interested in an EnPI that is related to your organization&rsquo;s strategic business goals and improves the bottom line. Operations or production personnel may want a metric that provides guidance for operating equipment and systems at maximum efficiency. External agencies may require specific performance metrics to provide information related to regulatory or other requirements.</p>
 
-<p>While there are no limits on the number of EnPIs that your organization can have consider selecting a handful that provide immediate value to key stakeholders. At a minimum each SEU should have one associated EnPI. EnPIs should be developed so you have an ability to monitor energy performance and demonstrate energy performance improvement of SEUs and other parts of your organization that are of interest.</p>
+<p>While there are no limits on the number of EnPIs that your organization can have consider selecting a handful that provide immediate value to key stakeholders. It is recommended that each SEU should have one associated EnPI. EnPIs should be developed so you have an ability to monitor energy performance and demonstrate energy performance improvement of SEUs and other parts of your organization that are of interest.</p>
+
+<p>ISO 50001 requires organizations to demonstrate energy performance improvement. This requirement necessitates the development of at least one EnPI and EnB. There is no requirement for what scope and boundaries for which energy performance improvement needs to be demonstrated. If you are planning on seeking U.S. DOE 50001 Ready recognition for this project please refer to the, “Get Ready Recognized,” page to ensure you select an EnPI, EnB, and method for demonstrating energy performance improvement allowed by the recognition program. To achieve Ready recognition energy performance improvement is demonstrated for the same scope and boundaries as your 50001 Ready EnMS.</p>
 
 <p>The meaning and usefulness of an EnPI may be enhanced if it is normalized by a relevant variable that affects the energy consumption pertaining to the EnPI. See Task 8 [task](Energy Data Collection and Analysis) for additional details on relevant variables</p>
 
