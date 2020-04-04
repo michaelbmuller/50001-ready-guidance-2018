@@ -173,13 +173,14 @@ class Task
 
     /**
      * Process and load task file data
+     * @throws \Exception
      */
     protected function loadFile()
     {
         $full_id = $this->id < 10 ? '0' . $this->id : $this->id;
         list($this->task_file_contents, $this->language_displayed) = Support::getFile('50001_ready_task_' . $full_id, $this->language_requested);
         $taskPieces = explode('----------', $this->task_file_contents);
-        $this->version = explode(" ", $taskPieces[2])[0];
+        $this->version = trim(explode(" ", $taskPieces[2])[0]);
         $this->menuName = trim($taskPieces[4]);
         $this->title = trim($taskPieces[6]);
         $this->getting_it_done = trim($taskPieces[8]);
@@ -278,6 +279,14 @@ class Task
     public function getCustomTips()
     {
         return Markup::process($this->custom_tips, $this->markupProcessor);
+    }
+
+    /**
+     * @return string
+     */
+    public function getVersion(): string
+    {
+        return $this->version;
     }
 
 

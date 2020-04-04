@@ -1,6 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 5
 ----------TASK VERSION----------
-3.0 [content_update.format_update]
+v18.05.01.02
 ----------MENU NAME----------
 Energy Policy
 ----------TITLE----------
@@ -30,13 +30,13 @@ Task 5: We have an energy policy statement, which has been approved by top manag
 <p>In addition, the energy policy must support:</p>
 
 <ul>
-	<li>purchasing of energy-efficient products and services that impact energy performance.</li>
-	<li>consideration of energy performance improvement in design activities.</li>
+	<li>Purchasing of energy-efficient products and services that impact energy performance.</li>
+	<li>Consideration of energy performance improvement in design activities.</li>
 </ul>
 
 <p>The policy may be only a few sentences, or it may be several paragraphs long. Simpler and shorter is typically better, but it needs to include the commitments listed above and be appropriate to the nature of your organization.</p>
 
-<p>Sometimes top management or the energy management team will incorporate additional commitments into the energy policy (e.g., sustainability, reductions in greenhouse gas emissions, ENERGY STAR<sup>&reg;</sup>) that are not required by ISO 50001. This is acceptable; however, remember that what is stated in the policy must be demonstrated. In other words, if you say it then you must do it.</p>
+<p>Sometimes top management or the energy management team will incorporate additional commitments into the energy policy (e.g., sustainability, reductions in greenhouse gas emissions, ENERGY STAR<sup>&reg;</sup>, and other government requirements) that are not required by ISO 50001. This is acceptable; however, remember that what is stated in the policy must be demonstrated. In other words, if you say it then you must do it.</p>
 
 <p>Typically, the energy team prepares an initial draft of the energy policy for top management&rsquo;s consideration and approval. The Playbook worksheet can help your team draft the energy policy. If your organization already has an energy policy, that can serve as a starting point. Conduct a review to see if the existing policy includes the items listed above.</p>
 

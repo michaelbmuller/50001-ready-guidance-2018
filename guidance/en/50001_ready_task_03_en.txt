@@ -1,6 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 3
 ----------TASK VERSION----------
-3.0 [content_update.format_update]
+v18.03.01.02
 ----------MENU NAME----------
 Scope and Boundaries
 ----------TITLE----------
@@ -11,7 +11,7 @@ Task 3: We have documented and approved the scope and boundaries of our 50001 Re
 	<li>Develop and document an EnMS Scope and Boundaries Statement.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>The scope and boundaries enable your organization to focus efforts and resources by defining what the EnMS includes. The scope identifies the set of activities that are included in the energy management system (EnMS), while the boundaries are the physical or organizational limits of the EnMS, commonly the &ldquo;fence line&rdquo; of your site. The boundaries do not have to be fixed in a physical space and could be established around a fleet of vehicles or other transportation equipment.</p>
+<p>The scope and boundaries enable your organization to focus efforts and resources by defining what the EnMS includes. The scope identifies the set of activities that are included in the energy management system (EnMS), while the boundaries are the physical or organizational limits of the EnMS, commonly referred to as the &ldquo;fence line&rdquo; of your site. The boundaries do not have to be fixed in a physical space and could be established around a fleet of vehicles or other transportation equipment.</p>
 
 <p>In the 50001 Ready Navigator the term site is used and carries the same meaning as other terms that describe the physical definitions of a space such as facility, complex, location, and campus so long as there is a relative physical proximity to the assets that will be included within the EnMS.</p>
 

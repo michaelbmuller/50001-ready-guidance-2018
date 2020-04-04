@@ -86,6 +86,7 @@ class Guidance
 
     /**
      * Load all tasks
+     * @throws \Exception
      */
     protected function loadTasks()
     {
@@ -97,6 +98,7 @@ class Guidance
 
     /**
      * Load all sections
+     * @throws \Exception
      */
     protected function loadSections()
     {
