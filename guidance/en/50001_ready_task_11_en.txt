@@ -1,8 +1,8 @@
 USDOE 50001 READY NAVIGATOR TASK 11
 ----------TASK VERSION----------
-3.0 [content_update.format_update]
+v18.11.02.02
 ----------MENU NAME----------
-Energy Performance Indicators (EnPIs) and Baselines (EnBs)
+Energy Performance Indicators and Energy Baselines
 ----------TITLE----------
 Task 11: We identify energy performance indicators and energy baselines to measure and monitor our energy performance and to demonstrate energy performance improvement. We have a methodology for determining and updating them.
 ----------GETTING IT DONE----------
@@ -27,7 +27,7 @@ Task 11: We identify energy performance indicators and energy baselines to measu
 <p>If you are planning on seeking U.S. DOE 50001 Ready recognition for this project please refer to the, “Get Ready Recognized,” page to ensure you select an EnPI, EnB, and method for demonstrating energy performance improvement allowed by the recognition program. To achieve Ready recognition energy performance improvement is demonstrated for the same scope and boundaries as your 50001 Ready EnMS.
 </p>
 
-<p>As discussed in Task 8 [task](Energy Data Collection and Analysis) relevant variables are quantifiable factors that routinely change and have a major impact on energy performance, including the operational performance. EnPIs and EnBs that take relevant variables into account may be more meaningful than those that depend on the intended use of the EnPI and EnB. Where the organization has data indicating that relevant variables significantly affect energy performance, the EnPIs should consider the relevant variables into account. The organization determines what indicates that a variable &ldquo;significantly affects energy performance&rdquo; and should develop a criteria to follow. If relevant variables are identified the EnPI should be normalizedmeaning absolute energy consumption itself cannot be used as the EnPI but needs to be adjusted through the use of an energy intensity, regression, or other adjustment method.</p>
+<p>As discussed in Task 8 [task](Energy Data Collection and Analysis) relevant variables are quantifiable factors that routinely change and have a major impact on energy performance, including the operational performance. EnPIs and EnBs that take relevant variables into account may be more meaningful than those that depend on the intended use of the EnPI and EnB. Where the organization has data indicating that relevant variables significantly affect energy performance, the EnPIs should consider the relevant variables into account. The organization determines what indicates that a variable &ldquo;significantly affects energy performance&rdquo; and should develop a criteria to follow. If relevant variables are identified the EnPI should be normalized meaning absolute energy consumption itself cannot be used as the EnPI but needs to be adjusted through the use of an energy intensity, regression, or other adjustment method.</p>
 
 <p>Responsibility for determining the EnPIs and EnBs typically rests with the energy team. It is top management&rsquo;s responsibility to ensure that the EnPIs and EnBs are appropriate for your organization and to provide the resources needed to establish, track, and evaluate the EnPI values.</p>
 

@@ -1,6 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 14
 ----------TASK VERSION----------
-3.0 [content_update.format_update]
+v18.14.01.02
 ----------MENU NAME----------
 Competence and Training
 ----------TITLE----------

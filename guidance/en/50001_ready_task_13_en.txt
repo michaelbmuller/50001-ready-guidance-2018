@@ -1,6 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 13
 ----------TASK VERSION----------
-3.0 [content_update.format_update]
+v18.13.01.02
 ----------MENU NAME----------
 Action Plans for Continual Improvement
 ----------TITLE----------
@@ -77,7 +77,7 @@ Task 13: We develop action plans and implement improvement projects to achieve o
 
 <p>After the team has defined what will be done and the required resources necessary for implementation, the team determines the time frame for completing the action plan, considering resource availability and any time frames established for achieving the objectives and energy targets. A recommended practice is that responsible positions and due dates for specific actions are included in the action plan, and that action plans are regularly reviewed and updated. This helps to ensure progress of project activities can be tracked.</p>
 
-<p><a name="_heading=h.gjdgxs"></a>Note: Objectives and associated action plans also can be used to plan and implement projects related to improving the energy management system (EnMS). Such objectives and action plans tend to be qualitative. There is no explicit requirement that the organization establish objectives and action plans related to the EnMS; however, ISO 50001:2018 does require continual improvement of the suitability, adequacy, and effectiveness of the EnMS. For some EnMS improvements, use of objectives and action plans can be useful.</p>
+<p>Note: Objectives and associated action plans also can be used to plan and implement projects related to improving the energy management system (EnMS). Such objectives and action plans tend to be qualitative. There is no explicit requirement that the organization establish objectives and action plans related to the EnMS; however, ISO 50001:2018 does require continual improvement of the suitability, adequacy, and effectiveness of the EnMS. For some EnMS improvements, use of objectives and action plans can be useful.</p>
 
 <p>[Accordion End]</p>
 
