@@ -1,6 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 7
 ----------TASK VERSION----------
-3.0 [content_update.format_update]
+v18.07.01.02
 ----------MENU NAME----------
 Risks to EnMS Success
 ----------TITLE----------
