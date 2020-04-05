@@ -1,6 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 19
 ----------TASK VERSION----------
-3.0 [content_update.format_update]
+v18.19.01.02
 ----------MENU NAME----------
 Energy Considerations in Procurement
 ----------TITLE----------
