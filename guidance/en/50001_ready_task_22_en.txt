@@ -1,6 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 22
 ----------TASK VERSION----------
-3.0 [content_update.format_update]
+v18.22.02.02
 ----------MENU NAME----------
 Internal Audit
 ----------TITLE----------
@@ -21,7 +21,7 @@ Task 22: We conduct internal audits of the 50001 Ready energy management system 
 
 <p>The leader or other member of the energy management team often has overall responsibility for the internal audit program, but some organizations assign a separate internal audit program manager.</p>
 
-<p>If your organization has an internal audit program in place for another management system (e.g., ISO 9001 quality, ISO 14001 environmental, ISO 45001 safety and health), leverage that existing process and the available in-house internal auditing expertise. If you do not already have an internal audit program in place, it is recommended that you attend an internal auditing or lead auditor training course to learn how to manage and conduct internal audits.</p>
+<p>Searching for resources developed for other management system internal audits such as ISO 9001 and 14001 can be a great place to start. If your organization has an internal audit program in place for another management system (e.g., ISO 9001 quality, ISO 14001 environmental, ISO 45001 safety and health), leverage that existing process and the available in-house internal auditing expertise. If you do not already have an internal audit program in place, it is recommended that you attend an internal auditing or lead auditor training course to learn how to manage and conduct internal audits.</p>
 
 <p>The results of internal audits, both positive and negative, must be recorded and communicated to the relevant management. These results are often recorded on an audit finding form, a corrective action form, and/or in an audit report. The report can be in any format, including a PowerPoint presentation. Regardless of the specific style and format used, the results should be communicated with two specific objectives in mind:</p>
 
