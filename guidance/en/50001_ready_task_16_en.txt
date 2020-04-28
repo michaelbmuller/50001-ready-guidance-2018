@@ -1,6 +1,6 @@
 USDOE 50001 READY NAVIGATOR TASK 16
 ----------TASK VERSION----------
-v18.16.01.02
+v18.16.02.02
 ----------MENU NAME----------
 Documenting the EnMS
 ----------TITLE----------
@@ -35,7 +35,7 @@ Task 16: We document information we determined is needed to ensure energy manage
 	<li>Records are &ldquo;snapshots in time&rdquo; that provide information on activities that were performed or results that were achieved. They are used to provide evidence of what has occurred.</li>
 </ul>
 
-<p>These two types of documented information are distinguished within ISO 50001 by requirements for documented information to be <em>maintained</em> and records to be <em>retained</em>. Documents such as work instructions, blank forms, videos, online training modules, and the like, would be <em>maintained</em>; while records such as meeting minutes, internal audit findings, and historical energy consumption data would be <em>retained. </em>The optional Playbook worksheet lists the documented information that ISO 50001 explicitly requires be maintained and retained.</p>
+<p>These two types of documented information are distinguished within ISO 50001 by requirements for documented information to be <em>maintained</em> and records to be <em>retained</em>. Documents such as work instructions, blank forms, videos, online training modules, and the like, would be <em>maintained</em>; while records such as meeting minutes, internal audit findings, and historical energy consumption data would be <em>retained. </em></p>
 
 <p>[Learn More](Generic examples documents)</p>
 
