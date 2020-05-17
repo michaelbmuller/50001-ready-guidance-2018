@@ -1,10 +1,10 @@
 USDOE 50001 READY NAVIGATOR TASK 4
 ----------TASK VERSION----------
-v18.04.01.02
+v18.04.01.03
 ----------MENU NAME----------
 Management Commitment
 ----------TITLE----------
-Task 4: Our top management demonstrates leadership and commitment to continual improvement of energy performance and the effectiveness of the 50001 Ready system.
+Task 4: Our top management demonstrates leadership and commitment to continual improvement of energy performance and the effectiveness of the energy management system.
 ----------GETTING IT DONE----------
 <ol>
 	<li>Optionally, identify business drivers and benefits applicable to your organization.</li>
