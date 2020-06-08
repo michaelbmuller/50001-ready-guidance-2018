@@ -1,0 +1,66 @@
+USDOE 50001 READY NAVIGATOR TASK 1
+----------TASK VERSION----------
+v18.01.01.02
+----------MENU NAME----------
+Un Sistema de Gestión de Energía (EnMS) y Su Organización
+----------TITLE----------
+Tarea 1: Determinamos los problemas estratégicos que afectan nuestra capacidad para mejorar el rendimiento energético y lograr los objetivos de nuestro sistema de gestión de energía 50001 Ready.
+----------GETTING IT DONE----------
+<ol>
+	<li>Identifique los problemas estratégicos externos e internos que afectan la capacidad de su organización para mejorar su rendimiento energético y lograr los resultados previstos del sistema de gestión de energía (EnMS).</li>
+	<li>Registre esta información.</li>
+</ol>
+----------TASK OVERVIEW----------
+<p>En esta tarea, usted desarrolla informaci&oacute;n para asegurar que sus actividades de administraci&oacute;n de energ&iacute;a apoyen las necesidades fundamentales de su organizaci&oacute;n, lo que le permite dise&ntilde;ar m&aacute;s completamente su sistema de administraci&oacute;n de energ&iacute;a (EnMS) conforme a las realidades de su negocio.</p>
+
+<p>Comprender las metas y objetivos estrat&eacute;gicos generales de su organizaci&oacute;n le permite observar ampliamente qu&eacute; problemas estrat&eacute;gicos pueden afectar el EnMS. Esta informaci&oacute;n influye en el dise&ntilde;o del EnMS y garantiza que est&eacute; m&aacute;s estrechamente alineado con las prioridades estrat&eacute;gicas y la direcci&oacute;n existentes. Esto, a su vez, facilita la integraci&oacute;n exitosa de EnMS en los procesos comerciales existentes de su organizaci&oacute;n.</p>
+
+<p>La informaci&oacute;n a desarrollar implica identificar, desde una perspectiva estrat&eacute;gica, los problemas externos e internos que pueden afectar la capacidad de su organizaci&oacute;n para mejorar su rendimiento energ&eacute;tico o para lograr los resultados previstos del EnMS. Los resultados previstos del EnMS son (o ser&aacute;n) lo que su organizaci&oacute;n planea lograr al implementar su EnMS, como reducir los costos de energ&iacute;a y las emisiones de gases de efecto invernadero o cumplir con los objetivos de sostenibilidad. Los problemas estrat&eacute;gicos pueden tener un impacto positivo o negativo en el EnMS.</p>
+
+<p>Los resultados de este proceso se utilizar&aacute;n en la Tarea 7 [task](Risks to EnMS Success) para determinar los riesgos y las oportunidades que su EnMS debe abordar.</p>
+
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 4.1 de la norma ISO 50001: 2018</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Determine los problemas estrat&eacute;gicos externos e internos que pueden afectar la capacidad de su organizaci&oacute;n para mejorar el rendimiento energ&eacute;tico y lograr los resultados previstos de su EnMS)</p>
+
+<p>Para determinar los problemas estrat&eacute;gicos que pueden afectar la capacidad de su organizaci&oacute;n para mejorar su rendimiento energ&eacute;tico y lograr los resultados previstos del EnMS, se necesita informaci&oacute;n sobre los objetivos estrat&eacute;gicos y desaf&iacute;os de la organizaci&oacute;n. Es posible que esta informaci&oacute;n ya se haya identificado como parte del proceso de planificaci&oacute;n estrat&eacute;gica o de largo plazo de la organizaci&oacute;n. Es deseable contar con la participaci&oacute;n de la gerencia en la determinaci&oacute;n de los asuntos relevantes, no solo para acelerar el proceso, sino tambi&eacute;n para mostrarle a la gerencia que EnMS considera los problemas estrat&eacute;gicos que enfrenta la organizaci&oacute;n. Sin embargo, no es inusual que la gerencia no participe en este proceso y que el equipo de energ&iacute;a desarrolle esta informaci&oacute;n por s&iacute; solo. En este caso, la informaci&oacute;n debe presentarse a la alta direcci&oacute;n para su revisi&oacute;n y aporte. Este enfoque supone que el equipo de energ&iacute;a tiene acceso a la informaci&oacute;n relevante sobre la direcci&oacute;n estrat&eacute;gica, los objetivos y los desaf&iacute;os de la organizaci&oacute;n.</p>
+
+<p>Los ejemplos de problemas externos estrat&eacute;gicos pueden incluir:</p>
+
+<ul>
+	<li>Condiciones econ&oacute;micas y financieras.</li>
+	<li>Circunstancias competitivas</li>
+	<li>Requisitos legales y regulatorios.</li>
+	<li>Desarrollos tecnol&oacute;gicos</li>
+	<li>Condiciones pol&iacute;ticas, sociales y culturales.</li>
+	<li>Condiciones ambientales</li>
+	<li>Restricciones en el suministro de energ&iacute;a.</li>
+	<li>Efectos del cambio clim&aacute;tico.</li>
+</ul>
+
+<p>Los ejemplos de problemas internos estrat&eacute;gicos pueden incluir:</p>
+
+<ul>
+	<li>Objetivos y estrategias comerciales centrales</li>
+	<li>Gobernanza y estructura organizativa.</li>
+	<li>Flujos de informaci&oacute;n y procesos de toma de decisiones.</li>
+	<li>Cultura y conocimiento organizacional.</li>
+	<li>Pol&iacute;ticas organizacionales</li>
+	<li>Recursos financieros</li>
+	<li>Madurez tecnol&oacute;gica</li>
+	<li>Objetivos de sustentabilidad.</li>
+</ul>
+
+<p>Al realizar esta tarea, tenga en cuenta que los problemas relevantes son aquellos que pueden afectar la capacidad de su organizaci&oacute;n para lograr los resultados previstos de su EnMS y la mejora del rendimiento energ&eacute;tico.</p>
+
+<p>La hoja de trabajo de Playbook es para su uso opcional. Al igual que con la mayor&iacute;a de las hojas de trabajo opcionales de Playbook en el Navegador, puede adoptar este recurso para su EnMS o simplemente usarlo para generar ideas sobre c&oacute;mo desea capturar la informaci&oacute;n generada por esta tarea.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>ISO 9001: 2015 e ISO 14001: 2015 contienen los mismos requisitos para determinar los problemas externos e internos que pueden afectar la capacidad de una organizaci&oacute;n para lograr los resultados previstos de sus sistemas de gesti&oacute;n. Sin embargo, hay algunas diferencias menores que van m&aacute;s all&aacute; de las de ISO 50001. ISO 9001 requiere expl&iacute;citamente que los problemas sean monitoreados y revisados. ISO 14001 requiere que los problemas incluyan condiciones ambientales afectadas o capaces de ser afectadas por la organizaci&oacute;n.</p>
+
+<p>A pesar de estas diferencias menores, los requisitos para comprender las metas y objetivos estrat&eacute;gicos de la organizaci&oacute;n y determinar los problemas relevantes tienen la misma intenci&oacute;n en todos estos est&aacute;ndares. Debido a que los problemas externos e internos son relevantes para la situaci&oacute;n estrat&eacute;gica y la direcci&oacute;n de la organizaci&oacute;n, debe haber cierta coherencia en los tipos de problemas identificados si su organizaci&oacute;n ha implementado alguno o estos tres sistemas de gesti&oacute;n. Por supuesto, puede haber diferencias en la forma exacta en que los problemas afectan la capacidad de la gesti&oacute;n de calidad, la gesti&oacute;n medioambiental y la gesti&oacute;n de la energ&iacute;a para lograr los resultados o resultados previstos. Se podr&iacute;a utilizar un enfoque &uacute;nico para determinar los problemas para cada est&aacute;ndar del sistema de gesti&oacute;n.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p><em>Las Gu&iacute;as para la Gesti&oacute;n de Energ&iacute;a de ENERGY STAR &reg; </em>no abordan expl&iacute;citamente las metas y objetivos estrat&eacute;gicos de la organizaci&oacute;n, sus problemas estrat&eacute;gicos externos e internos y c&oacute;mo afectan la capacidad del sistema de gesti&oacute;n para lograr los resultados previstos. El paso 3.1 si indica que una combinaci&oacute;n de objetivos energ&eacute;ticos a corto y largo plazo puede ser efectiva. Se&ntilde;ala que los objetivos a largo plazo pueden verse afectados por las tasas internas de retorno, los horizontes y lineamientos de planificaci&oacute;n interna, los planes estrat&eacute;gicos organizacionales y el compromiso con las iniciativas ambientales voluntarias. Paso 3.2, discute los m&eacute;todos utilizados por los principales programas de energ&iacute;a. Estos incluyen la vinculaci&oacute;n a objetivos estrat&eacute;gicos de toda la organizaci&oacute;n, adem&aacute;s de los objetivos operativos. Esto es consistente con los requisitos de ISO 50001 para alinear el EnMS con la direcci&oacute;n estrat&eacute;gica de la organizaci&oacute;n.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

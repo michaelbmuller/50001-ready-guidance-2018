@@ -1,0 +1,164 @@
+USDOE 50001 READY NAVIGATOR TASK 24
+----------TASK VERSION----------
+v18.24.01.02
+----------MENU NAME----------
+Acciones Correctivas
+----------TITLE----------
+Tarea 24: Identificamos las no conformidades y otros problemas en el sistema de administración de energía 50001 Ready y adoptamos las medidas correctivas apropiadas.
+----------GETTING IT DONE----------
+<ol>
+	<li>Develop and implement a process for taking corrective action at your organization.</li>
+	<li>Define roles, responsibilities, and authorities for the various steps in the corrective action process.</li>
+	<li>Train employees on the types of problems and nonconformities to be addressed through implementing the corrective action process.</li>
+</ol>
+----------TASK OVERVIEW----------
+<p>An energy management system (EnMS) needs processes for identifying and addressing problems, including nonconformities. A nonconformity generally is a situation where evidence indicates that:</p>
+
+<ul>
+	<li>a requirement or the intent of ISO 50001 or your EnMS is not being met,</li>
+	<li>your organization is not doing what it said it would do,</li>
+	<li>the current processes in place are not effective, or</li>
+	<li>the intended energy performance improvement is not being achieved.</li>
+</ul>
+
+<p>The processes involved here are correction and corrective action. <em>Correction</em> is action taken to eliminate a detected nonconformity. <em>Corrective action</em> is action taken to eliminate the cause of a detected nonconformity.</p>
+
+<p><em>This guidance is relevant to Section 10.2 of the ISO 50001:2018 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Develop the process for corrective action)</p>
+
+<p>The corrective action process consists of the following elements:</p>
+
+<ol>
+	<li>Control and correct the immediate situation.</li>
+	<li>Evaluate the impacts of the nonconformity.</li>
+	<li>Determine the cause of the nonconformity.</li>
+	<li>Act to eliminate the cause.</li>
+	<li>Review the effectiveness of the action taken.</li>
+	<li>Retain records.</li>
+</ol>
+
+<p>The process for corrective action that you develop for your organization needs to include all of these elements. Some organizations use specialized software or a corrective action form (usually electronic) to outline the steps in the process and capture the needed information.</p>
+
+<p>If your organization has an integrated management system, consider using, or at least &ldquo;harvesting&rdquo; from, processes already in place. Your organization may already have corrective action process as part of another management system, such as an ISO 9001 quality management system or an ISO 14001 environmental management system.</p>
+
+<p>[Learn More](Process for corrective action)</p>
+
+<p><strong>1. Control and correct the immediate situation and address the consequences</strong></p>
+
+<p>When a nonconformity is detected, the first step is, if applicable, to take appropriate action to control and correct the immediate situation. This is called <em>correction.</em> For example:</p>
+
+<p>A site has a compressed air system which is a large consumer of energy. The site&rsquo;s procedure states that the operating pressure set point for the compressed air system shall be 105 psig. The site was found to be operating their compressor system at 115 psig. An example of correcting the current situation is to change the operating pressure back to 105 psig, but consider the effects on production before assuming the procedure is correct. The appropriate correction may be to change the procedure to state 115 psig.</p>
+
+<p>Correction can also involve dealing with the immediate consequences of the nonconformity. In the example above, an appropriate correction would be to determine whether there were effects on production that needed to be addressed as a result of the higher operating pressure.</p>
+
+<p><strong>2. Evaluate the impact of the nonconformity</strong></p>
+
+<p>The next step is to review the nonconformity to determine its impact and the need for further action. Do similar nonconformities exist? Can similar nonconformities potentially occur?</p>
+
+<p>Consider whether the nonconformity impacts energy performance. This can involve looking at actual and potential effects on, for example:</p>
+
+<ul>
+	<li>Objectives, energy targets, and action plans</li>
+	<li>Significant energy uses (SEUs)</li>
+	<li>Energy performance indicators (EnPIs)</li>
+	<li>Energy efficiency of sites, equipment, systems, and processes</li>
+	<li>Existing or planned operational or maintenance controls</li>
+	<li>Other energy sources or energy uses within the organization</li>
+</ul>
+
+<p>Based on this and other information (i.e., cause analysis), a decision is made as to whether the nonconformity should be subject to further review and investigation. If so, the nonconformity can be entered formally into the organization&rsquo;s corrective action system.</p>
+
+<p><strong>3. Determine the cause of the nonconformity</strong></p>
+
+<p>Once entered into the system, the nonconformity is further reviewed to determine its cause. For example:</p>
+
+<p>In the compressed air system example above, determining the cause consists of considering how and why the operating pressure was changed. Although any type of problem-solving process can be used, it can be helpful to apply the &ldquo;Five Why&rdquo; concept to determine the cause of a nonconformity. In this case, you might ask the following:</p>
+
+<ul>
+	<li>Question: Why was the operating pressure changed?
+	<ul style="list-style-type:circle">
+		<li>Answer: Because the operator thought it should be.</li>
+	</ul>
+	</li>
+	<li>Question: Why did the operator think it should be changed?
+	<ul style="list-style-type:circle">
+		<li>Answer: Because the operator was experiencing problems at 105 psig that were not experienced at 115 psig.</li>
+	</ul>
+	</li>
+	<li>Question: What problem was the operator experiencing?
+	<ul style="list-style-type:circle">
+		<li>Answer: A lack of sufficient pressure to actuate the press.</li>
+	</ul>
+	</li>
+	<li>Question: What was the cause of the problem?
+	<ul style="list-style-type:circle">
+		<li>Answer: The pressure gauge was out of calibration and indicated incorrect pressures.</li>
+	</ul>
+	</li>
+	<li>Question: Why was the pressure gauge out of calibration?
+	<ul style="list-style-type:circle">
+		<li>Answer: The calibration frequency was annual. The calibration history shows the gauge has been found to be out of calibration at each calibration for the past two years.</li>
+	</ul>
+	</li>
+</ul>
+
+<p><strong>4. Act to eliminate the cause</strong></p>
+
+<p>Next, you decide on and implement an appropriate course of action to eliminate the cause of the nonconformity so it does not recur or occur elsewhere.</p>
+
+<p>The actions taken to address a problem can sometimes result in the need to make other adjustments or changes to the EnMS. If changes to the EnMS are needed as part of or as a result of corrective action, they must be made. For example, if existing operational controls were modified as part of implementing a corrective action, then there may be a need to modify the associated EnMS documentation. The actions taken need to be appropriate to the extent of the problem and its effects. For example:</p>
+
+<p>In the compressed air system example, one action to eliminate the cause would be to increase the calibration frequency of the pressure gauges.</p>
+
+<p>To ensure that the nonconformity does not occur elsewhere, appropriate action may be needed in another process, area, or site. A systemwide approach to problem identification and resolution such as this helps further a culture of continual improvement. For most organizations this approach results in fewer nonconformities and negative audit findings over time. As an example:</p>
+
+<p>In the example, you may decide that a look at the calibration frequency for all gauges is appropriate.</p>
+
+<p><strong>5. Review the effectiveness of the action taken</strong></p>
+
+<p>After appropriate action is taken to eliminate the cause of the nonconformity, a review is performed to determine if the action taken was effective. In other words, did the action taken to eliminate the cause result in the nonconformity not occurring or recurring? In some situations, it may be necessary to let a reasonable interval of time pass after the solution is implemented before the review for effectiveness is performed. Sometimes a solution needs time to work before its effectiveness can be fully evaluated. Returning to the compressed air system example:</p>
+
+<p>The effectiveness review could consist of verifying that the calibration frequency was changed in the calibration system and then verify that the actual operating pressure is the same as that indicated in the procedure.</p>
+
+<p>The review for effectiveness should be assigned to personnel who are independent from the area which was responsible for developing and implementing the corrective action. For corrective actions associated with audit findings, it is not unusual that the internal audit program manager or the internal auditor who found the nonconformity conducts the follow-up for effectiveness.</p>
+
+<p><strong>6. Retain records</strong></p>
+
+<p>A corrective action preventive action request form along with a corrective action tracking log are commonly used to record and track the status of corrective and preventive actions. See the optional Playbook worksheet for a template of each.</p>
+
+<p>A corrective action tracking log can be used to track actions to completion. As mentioned earlier, most corrective action systems are electronic, using either specialized software or internally developed spreadsheets. This provides the opportunity to easily capture additional information about each corrective action request that can be used to develop trend information on corrective actions. For example, recording how the nonconformity was identified (e.g., internal audit, management review, data analysis, observation) could be used to identify trends in the various problem identification processes of the organization. Assigning a code for the type of problem or nonconformity can help identify trends in the types of issues that are occurring most frequently. Tracking the timely completion of corrective actions can show trends in compliance with the mandated time frames.</p>
+
+<p>In addition to retaining documented information on the nature of the nonconformities (i.e., what was the problem), the actions taken, and the results, attention should be given to what other information may be needed to develop and provide trend information on corrective actions as a required input for management review.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Define roles and responsibilities)</p>
+
+<p>Overall responsibility for managing the corrective action system needs to be assigned. This could be the energy management team leader or other personnel associated with the organization&rsquo;s problem solving processes. However, responsibilities for conducting investigation and cause analysis and for taking action can be delegated as long as all required steps are followed and the appropriate records are retained.</p>
+
+<p>Most commonly, all employees are responsible for identifying actual and potential nonconformities in their work areas, for informing the appropriate supervisory personnel, and for making an immediate correction. Internal auditors are typically responsible for determining if nonconformities exist in the EnMS.</p>
+
+<p>Corrective actions are usually assigned to the manager of the department or area where the problem exists. That manager may assign the corrective action for investigation and development of proposed actions to a specific individual or may assemble a team to address the problem. As mentioned earlier, the follow-up that evaluates the effectiveness of the action taken should be assigned to personnel who are independent from the area that was responsible for developing and implementing the corrective action.</p>
+
+<p>Typically, time frames are established for completion of the investigation and development of proposed action(s), and for implementation and the follow-up for effectiveness. A 30-day time frame is common. However, it can be a good idea to allow for time extensions where appropriate justifications can be provided. For example, a solution that calls for capital investment in new equipment can take more time for full implementation.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Implement the process for corrective action)</p>
+
+<p>Like the other processes of the EnMS, implementation of the corrective action process involves putting the process into practice and ensuring that appropriate training is provided across the workforce. Training should include reviewing the steps to be followed, demonstrating the use of any required forms or software, and clearly communicating roles, responsibilities, and expectations.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>The requirements for corrective action in ISO 50001:2018, ISO 9001:2015, and ISO 14001:2015 are virtually identical. A fully functional corrective action process used for ISO 9001 and ISO 14001 will work for ISO 50001 with minimal modifications. In all three of these management systems, corrective actions must be appropriate to the effects of the nonconformities. ISO 14001 requires the corrective actions to be appropriate to the <em>significance</em> of the effects, including the environmental impacts.</p>
+
+<p>All three standards require making changes if needed to the management system as a result of a corrective action. ISO 9001 additionally requires updating, if needed, the risks and opportunities determined in planning.</p>
+
+<p>The types of records retained on corrective actions taken and their results would be the same for ISO 50001 as they are for ISO 9001 and ISO 14001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>This guidance is relevant to Step 5.5 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management.</em> ISO 50001 requires that organizations address nonconformities (including those identified in EnMS internal audits) by taking corrective action, as applicable. If your organization has developed a tracking system as described in Step 5.5 of the ENERGY STAR <em>Guidelines for Energy Management,</em> this tracking system can be a good starting point for developing and implementing what is needed to meet the ISO 50001 requirements.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

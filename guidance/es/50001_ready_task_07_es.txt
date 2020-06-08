@@ -1,0 +1,59 @@
+USDOE 50001 READY NAVIGATOR TASK 7
+----------TASK VERSION----------
+v18.07.01.02
+----------MENU NAME----------
+Riesgos para el Éxito del EnMS
+----------TITLE----------
+Tarea 7: Determinamos riesgos estratégicos y oportunidades para garantizar que nuestra organización pueda lograr los resultados previstos de nuestro sistema de gestión de energía y la mejora del rendimiento energético. Planificamos e implementamos acciones para abordar estos riesgos y oportunidades y evaluamos la efectividad de las acciones tomadas.
+----------GETTING IT DONE----------
+<ol>
+	<li>Identify the risks and opportunities pertaining to the ability of your energy management system (EnMS) to achieve its intended outcomes.</li>
+	<li>For each of the identified risks and opportunities, plan and implement actions to address them using the processes of the EnMS, and record this information.</li>
+	<li>Plan for how the actions taken will be evaluated for effectiveness. Perform an effectiveness evaluation.</li>
+</ol>
+----------TASK OVERVIEW----------
+<p>The risk-opportunity approach of this task is intended to help your organization mitigate risks and take advantage of opportunities to position your energy management system (EnMS) for success.</p>
+
+<p>This task is concerned with planning the EnMS from a strategic perspective and should be reviewed on an annual basis. It involves anticipating the potential consequences to the EnMS and energy performance improvement from the risks and opportunities identified in previous tasks. This part of EnMS planning allows potential negative consequences to be addressed before they occur and potential positive consequences with beneficial outcomes to be identified and pursued.</p>
+
+<p>Begin by identifying the risks and opportunities arising from the strategic external and internal issues identified in Task 1 [task](An EnMS and Your Organization) and Task 2 [task](People and Legal Requirements Affecting the EnMS). Remember to limit your review of these issues to identifying the risks and opportunities that need to be addressed to ensure that continual improvement of the EnMS and energy performance improvement can be achieved. Once identified, develop actions to address the risks and opportunities and plans to evaluate action effectiveness.</p>
+
+<p><em>This guidance is relevant to Section 6.1 of the ISO 50001:2018 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Determine the risks and opportunities associated with the strategic issues identified in An EnMS and Your Organization and the requirements identified in People and Legal Requirements Affecting the EnMS)</p>
+
+<p>The process of planning the EnMS starts at a strategic level and, based upon the analysis performed in this task, finishes in tactical actions that are described in subsequent 50001 Ready Navigator tasks. The analysis conducted in this tasks makes use of the outputs from Task 1 [task](An EnMS and Your Organization) and Task 2 [task](People and Legal Requirements Affecting the EnMS) to determine the strategic risks and opportunities that can affect what you want to achieve with your EnMS; in other words, the strategic business risks and opportunities that need to be addressed to prevent or reduce negative impacts on the EnMS and to ensure that the EnMS is continually improved and energy performance improvement is achieved.</p>
+
+<p>The phrase &ldquo;risks and opportunities&rdquo; broadly refers to something that poses a threat having a detrimental or negative effect, or alternatively, something that has the potential for a beneficial or positive effect. Your organization decides on the means or method to determine what are and are not risks and opportunities. The identification process can be formal or informal, quantitative or qualitative. The optional Playbook worksheet can be used to assess previously identified risks and opportunities associated with specific issues and interested parties&rsquo; requirements.</p>
+
+<p>Consider adding the output of your analysis to the Task 1 [task](An EnMS and Your Organization) Playbook worksheet. Although documenting this information is not required by ISO 50001, it is helpful for future reference. Most organizations develop some kind of documented information to at least capture the planned actions. The Playbook worksheet for this task can be a helpful &ldquo;one-stop shop&rdquo; to capture the issues you identified in Task 1 [task](An EnMS and Your Organization) and the guidance in Task 2 [task](People and Legal Requirements Affecting the EnMS), along with information on the associated risks and opportunities and actions to address them.</p>
+
+<p>The risks and opportunities information should be developed by the energy team with input or review from top management. Your organization may have already performed risk and opportunities identification activities such as Strength/ Weakness/ Opportunities/ Threats (SWOT) analyses, PESTLE (political, economic, social, technological, legal, and environmental factors) analyses, &ldquo;What If&rdquo; analyses, and structured brainstorming.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Plan actions to address these risks and opportunities and how those actions can be integrated into your EnMS)</p>
+
+<p>Once the risks and opportunities arising from your organization&rsquo;s strategic external and internal issues and legal and other requirements have been determined, actions to address them must be planned. However, before considering new actions, consider whether these risks are already managed or the opportunities are already being leveraged. Your organization may already have objectives, action plans, projects, programs, operational controls, or other relevant actions or initiatives in place.</p>
+
+<p>Note that these different types of planned actions should use the processes and mechanisms within the EnMS. This is how the actions are best integrated into your EnMS. The optional Playbook worksheet illustrates one approach to capturing information on the planned actions, whether those actions are new or already in place.</p>
+
+<p>There is no requirement that planned actions have to be action plans, as discussed in Task 13 [task](Action Plans for Continual Improvement). Action plans can be a useful approach if the actions to be taken are new and it is appropriate to define more fully what is to be done, when, by whom, the resources required, and the method of verifying the results. But, in some cases, an operational control (e.g., documented procedure, physical device, training, competence of personnel) could be sufficient to mitigate a risk or leverage an opportunity.</p>
+
+<p>Information on (or references to) the planned actions can be added to the optional Playbook worksheet.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Implement the actions and evaluate their effectiveness)</p>
+
+<p>Regardless of the approach taken, using the processes of the EnMS to implement the actions supports their integration into your organization&rsquo;s daily activities and operations. When planning and implementing the actions to address risks and opportunities, be sure those actions are integrated into the EnMS and energy performance processes and evaluate them for effectiveness.</p>
+
+<p>Evaluating effectiveness of the actions taken is concerned with whether the intended results have been or are being achieved (i.e., mitigation or elimination of the risk, taking advantage of the opportunities). Common approaches can include the use of measuring and monitoring techniques (see Task 20 [task](Monitoring and Measurement of the EnMS), internal audits (see Task 22 [task](Internal Audit) and management review (see Task 23 [task](Management Review)).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Requirements for determining and taking action to address risks and opportunities is common text from the ISO’s High Level Structure. As such, ISO 9001:2015, ISO 14001:2015, and other ISO management system standards contain similar requirements, but the details can vary. For example, ISO 14001 additionally requires the determination of risks and opportunities related to environmental aspects. The approaches or methods used to identify the risks and opportunities that need to be addressed likely can be applied across the various management systems. The same is true for how associated actions are planned, implemented, and evaluated for effectiveness.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>The ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> does not specifically address the determination of strategic risks and opportunities that can affect the intended outcomes of the EnMS and energy performance improvement.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

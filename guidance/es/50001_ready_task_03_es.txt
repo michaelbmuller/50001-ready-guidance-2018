@@ -1,0 +1,95 @@
+USDOE 50001 READY NAVIGATOR TASK 3
+----------TASK VERSION----------
+v18.03.01.02
+----------MENU NAME----------
+Alcance y Límites
+----------TITLE----------
+Tarea 3: Hemos documentado y aprobado el alcance y los límites de nuestro sistema de gestión de energía 50001 Ready.
+----------GETTING IT DONE----------
+<ol>
+	<li>Consider the strategic issues and requirements identified as part of Task 1 [task](An EnMS and Your Organization) to determine the scope and boundaries of the energy management system (EnMS).</li>
+	<li>Develop and document an EnMS Scope and Boundaries Statement.</li>
+</ol>
+----------TASK OVERVIEW----------
+<p>The scope and boundaries enable your organization to focus efforts and resources by defining what the EnMS includes. The scope identifies the set of activities that are included in the energy management system (EnMS), while the boundaries are the physical or organizational limits of the EnMS, commonly referred to as the &ldquo;fence line&rdquo; of your site. The boundaries do not have to be fixed in a physical space and could be established around a fleet of vehicles or other transportation equipment.</p>
+
+<p>In the 50001 Ready Navigator the term site is used and carries the same meaning as other terms that describe the physical definitions of a space such as facility, complex, location, and campus so long as there is a relative physical proximity to the assets that will be included within the EnMS.</p>
+
+<p>When determining the scope and boundaries strategic issues and requirements determined as part of Task 1 [task](An EnMS and Your Organization) should be considered. In addition, you should ensure that your organization has the authority to control all energy uses within the scope and boundaries, and that no energy-using equipment or systems are excluded unless they are separately metered or a dependable calculation can be made. Once the scope and boundaries are defined, an organization cannot exclude any energy sources that cross or are within the defined boundaries of the EnMS.</p>
+
+<p>EnMS scope and boundaries could include any combination of physical structures: the building management operations of one or more commercial buildings at one or more specific locations; the manufacturing, warehousing, and distribution activities at a particular plant; or multiple sites of a corporation at multiple sites, to name just a few. In many cases, the scope and boundaries may only include one building or site. Top management must ensure the organization&rsquo;s scope and boundaries are established.</p>
+
+<p><em>This guidance is relevant to Section 4.3 of the ISO 50001:2018 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Scope and boundaries - Where to start)</p>
+
+<p>While the scope and boundaries of an energy management system (EnMS) are different concepts, they are highly related and iteration between the two concepts will yield the best results. You can choose to start by establishing either the scope or the boundaries first, and then establish the other. The guidance below will pose a set of questions that will help establish the scope and boundaries together, focusing on the scope first.</p>
+
+<p>Before starting on this task, consider gathering some of the following resources within your organization. These can be useful in determining the scope and boundaries of the EnMS.</p>
+
+<ul>
+	<li>Organization chart</li>
+	<li>Site map or site plan</li>
+	<li>Site photographs</li>
+	<li>List of on-site contractors and related operations</li>
+	<li>Site/building layout</li>
+	<li>Process layouts/maps</li>
+	<li>Process flow diagrams</li>
+	<li>Utilities drawings</li>
+	<li>Site/building energy consumption data</li>
+	<li>Equipment energy consumption data</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Scope: Identify the set of activities to be included in your EnMS)</p>
+
+<p>Consider these questions when defining the set of activities to be included or excluded in the scope of EnMS. These questions will also help inform your subsequent process to establish boundaries. The Playbook worksheet can be used to help you formulate the scope.</p>
+
+<ul>
+	<li>Is there an area for which you do not have energy information?</li>
+	<li>Is there an area where you cannot obtain employee involvement or participation?</li>
+	<li>Are there areas that have a different management team or decision structure?</li>
+	<li>Do you have a building or location that you are not including?
+	<ul style="list-style-type:circle">
+		<li>Can you isolate the energy consumption of those locations?</li>
+	</ul>
+	</li>
+	<li>Do you have the authority to control your organization&rsquo;s energy efficiency, energy use and energy consumption?</li>
+</ul>
+
+<p>Additionally, the EnMS scope should reflect the strategic internal and external issues and requirements that were identified as part of Task 1 [task](An EnMS and Your Organization).</p>
+
+<ul>
+	<li>Do any of the identified internal or external issues have implications or consequences that need to be considered as related to the scope of the EnMS?</li>
+	<li>Do any of the interested parties&rsquo; requirements affect what is included or not included within the EnMS?</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Boundaries: Define the physical or organizational limits of your EnMS)</p>
+
+<p>Now that you have considered the set of activities to be included in the scope of your EnMS, what are the physical implications of your decision? In many cases this could be as simple as the fence line of your site. How would they be translated into a statement of the boundaries of your EnMS?</p>
+
+<p>Consider your answers to these questions when defining the boundaries of your EnMS. The Playbook worksheet can be used to help formulate the boundaries to be defined in the statement.</p>
+
+<ul>
+	<li>What are the physical or organizational limitations of the areas that are included?</li>
+	<li>What are the physical or organizational limitations of the areas that are not included?</li>
+	<li>How do the areas that are included and not included compare to the site map or site plan?</li>
+	<li>Do you have the authority to control your organization&rsquo;s energy use and energy consumption within the proposed boundaries?</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Scope and boundaries statement)</p>
+
+<p>The optional Playbook worksheet can be used to formalize a statement of scope and boundaries. The statement of the EnMS scope and boundaries can be a stand-alone document or included within an energy manual, which is not required, but which many organizations find useful as a &ldquo;road map&rdquo; to their EnMS. Top management is responsible for ensuring that a scope and boundaries statement has been established, so make sure to review the finalized document with them.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>Organizations that conform to ISO 14001:2015 or ISO 9001:2015 have determined and documented the scope of these management systems. The same or a similar process can be used to define and document the scope and boundaries of the EnMS. Unlike ISO 14001 and ISO 9001, ISO 50001 makes top management responsible for ensuring that the EnMS scope and boundaries are established. Typically, it is drafted by the energy management team for top management review and approval. Once the scope and boundaries of the EnMS are defined, all energy types within the defined scope and boundaries must be included within the EnMS.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>The scope that was determined in Step 3.1 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> is not the same as the scope and boundaries of the EnMS. In the case of the ENERGY STAR guidelines, the scope is determined in respect to short-term or long-term performance goals at an organization-wide, site, or process/equipment level. The EnMS scope and boundaries define the activities and physical or organizational limits that are covered (i.e., included) in the EnMS, such as a building, plant, site, campus, site or corporation, or some component of these, and the activities and operations associated with them.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

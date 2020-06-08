@@ -1,0 +1,258 @@
+USDOE 50001 READY NAVIGATOR TASK 4
+----------TASK VERSION----------
+v18.04.01.03
+----------MENU NAME----------
+Compromiso de la Administración
+----------TITLE----------
+Tarea 4: Nuestra alta dirección demuestra liderazgo y compromiso con la mejora continua del rendimiento energético y la efectividad del sistema 50001 Ready.
+----------GETTING IT DONE----------
+<ol>
+	<li>Optionally, identify business drivers and benefits applicable to your organization.</li>
+	<li>Optionally, prepare and deliver a briefing to top management on the identified business drivers and benefits, management roles and responsibilities, and how these responsibilities will be met.</li>
+	<li>Secure commitment from top management to continual improvement of energy performance and the development and use of a 50001 Ready system.</li>
+	<li>Brief top management on their energy management system (EnMS) leadership responsibilities.</li>
+	<li>Plan for how top management will meet their responsibilities.</li>
+</ol>
+----------TASK OVERVIEW----------
+<p>A critical key to the success of an energy management system (EnMS) is involvement and commitment by top management. This does not mean top management needs to be at energy team meetings and approve all decisions but they need to provide honest, constant, and visible commitment to the concept and implementation of the EnMS. In addition to providing the leadership needed to improve energy performance and the EnMS, top management must demonstrate that they perform the specific responsibilities assigned to them within the continual improvement framework of the EnMS. Not only does top management approve and authorize an EnMS, they are also responsible and accountable for ensuring its ongoing suitability, adequacy, and effectiveness.</p>
+
+<p><em>This guidance is relevant to Section 5.1 of the ISO 50001:2018 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Identify EnMS benefits and business drivers)</p>
+
+<p>Many organizations pursue energy efficiency and energy conservation, reduced environmental impacts, and sustainability initiatives because they are valued as the &ldquo;right thing to do.&rdquo; However, impacts to the bottom line and prospects for long-term viability are most often the determinants of proposed organizational initiatives, including those for energy management. The benefits of improved energy management and energy performance should be identified and communicated to top management in terms they understand. Consequently, making the business case is an important part of establishing an energy management system (EnMS).</p>
+
+<p>As ISO 50001 gains traction in the global marketplace, implementation case studies and other analyses are reporting the benefits of this systematic approach to energy management. These benefits include:</p>
+
+<ul>
+	<li>Improved operational efficiencies</li>
+	<li>Decreased energy intensity</li>
+	<li>Energy data for informed evidence-based decision making</li>
+	<li>Support for organizational and cultural change</li>
+	<li>Drivers for organizational integration</li>
+	<li>Reduced environmental impacts</li>
+	<li>Competitive advantages over firms that neglect resource management</li>
+	<li>Visible demonstration of social responsibility</li>
+	<li>Positioning for carbon accounting and accountability</li>
+</ul>
+
+<p>Learn about the benefits that other organizations have experienced with their EnMS. Search the web for general examples and case studies, as well as those related specifically to your own industry.</p>
+
+<p>Consider the potential benefits of an EnMS within the context of your organization&rsquo;s priorities and needs. To build the business case you must connect the benefits of the EnMS with the business drivers of your organization because management will want to know how the EnMS and improved energy efficiency affect those drivers.</p>
+
+<p>Energy team members (see Task 6 [task](Energy Team and Resources)) should identify the business drivers relevant to your organization. Then work to ensure management understands the benefits by presenting information in terms that are important to them. If the energy team members have not been designated, then identify someone willing to champion the initiative and accept this responsibility.</p>
+
+<p>[Learn More](Social business drivers)</p>
+
+<p>Social pressures can be as daunting as financial and legal issues for an organization. An EnMS can help address social issues as well as provide evidence of an organization&rsquo;s efforts to do so. Many public concerns are related to environmental issues, but there are others that are important. Some of these may include:</p>
+
+<ul>
+	<li>Climate change (e.g., emissions/carbon footprint/greenhouse gases)</li>
+	<li>Alternative energy (e.g., solar, wind, thermal, hydro, nuclear, biomass)</li>
+	<li>Natural resource depletion</li>
+	<li>Environmental stewardship</li>
+	<li>Energy conservation</li>
+	<li>Energy waste</li>
+	<li>Ethics, values, principles</li>
+	<li>Triple bottom line</li>
+	<li>Sustainability</li>
+</ul>
+
+<p>Pressures can be exerted by government entities, local communities, trade associations, environmental groups, and employees, just to name a few. An organization should identify the relevant issues and use their management system processes to minimize negative impacts and communicate the positive efforts being made to address them.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](External business drivers)</p>
+
+<p>External drivers are typically outside the organization&rsquo;s control. There are many external groups or stakeholders that could have an interest in the organization&rsquo;s energy activities and help drive its direction. Their interest could be reflected through financial, legal, or social drivers. The external groups that have or can have an impact on the organization can be identified, and appropriate procedures and communication channels can be implemented to address the needs and interests of these groups relative to energy use and efficiency. An EnMS can help companies address these needs and interests.</p>
+
+<p>Some of the influencing groups could be the following:</p>
+
+<p><strong>Stockholders</strong>: Obviously, stockholders are interested in the profitability of the organization and in measures that reduce costs. They are also interested in the business operating legally and addressing relevant social issues, and they expect to be provided a measure of assurance of the business&rsquo; long-term viability.</p>
+
+<p><strong>Lenders:</strong> Lenders want their money back with interest. An EnMS is a tool for the organization to address continual improvement, thereby improving profits and efficiencies and enhancing long-term existence.</p>
+
+<p><strong>Customers:</strong> Customers want the best return for their dollar. Reducing costs and improving efficiencies allow products and services to be offered at the lowest price with less waste, thus providing the best value to the customer and improving the organization&rsquo;s competitiveness. The continual improvement component of an EnMS can help an organization improve efficiencies and reduce costs.</p>
+
+<p><strong>Suppliers:</strong> An efficient supply chain is important to competitiveness. An important component of supplier selection and maintenance is a commitment to continual improvement, including energy efficiency. An EnMS can help with supplier selection. The presence of an EnMS would be one indication of a supplier&rsquo;s commitment to energy efficiency improvement.</p>
+
+<p><strong>Public:</strong> The public in general, as well as many public groups, can be drivers for an organization&rsquo;s operation. Both can provide pressure relative to issues like emissions reduction, resource conservation, and alternative fuels. Public utilities can impose requirements that must be addressed. An EnMS can help an organization address these issues and provide evidence of its efforts. Examples of public interested parties are:</p>
+
+<ul>
+	<li>Neighbors</li>
+	<li>Community</li>
+	<li>Utilities</li>
+	<li>Schools</li>
+	<li>Environmental Groups</li>
+	<li>Trade Associations</li>
+	<li>Development organizations</li>
+</ul>
+
+<p><strong>Government: </strong>An EnMS can help an organization address existing regulations and plan for future government regulations. It provides the system to help the organization identify and address relevant government codes and laws. Some examples of governmental interested parties are:</p>
+
+<ul>
+	<li>U.S. Department of Energy</li>
+	<li>U.S. Environmental Protection Agency</li>
+	<li>Department of Natural Resources</li>
+	<li>Building code enforcement offices</li>
+	<li>The state energy office</li>
+	<li>International regulatory agencies</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Internal business drivers)</p>
+
+<p>There are also internal business drivers that affect an organization&rsquo;s strategy and drive its business needs. Internal drivers are generally controlled by the organization and reflect the need of an internal stakeholder, but can be a response to an external driver. These drivers are identified to address internal needs and interests relative to energy use and efficiency.</p>
+
+<p>Relevant internal drivers can include the following:</p>
+
+<p><strong>Employee satisfaction:</strong> Employees want to do a good job and operate in a good working environment. Improving energy efficiency makes the process more efficient and can result in an improved operating environment by reducing heat, exhaust, and waste levels.</p>
+
+<p><strong>Productivity:</strong> As operations are improved and less energy is required, employees become more productive. Productivity is output over input; as output increases or input decreases, productivity is improved. An improved working environment promotes higher employee morale, increased output relative to input, and improved operational control. Examples of energy efficiency changes that can result in improved productivity include the following:</p>
+
+<ul>
+	<li>Efficient energy procurement practices</li>
+	<li>Improved capacity utilization</li>
+	<li>Process and equipment efficiency improvement</li>
+	<li>Fuel burning and utility equipment efficiency improvement</li>
+	<li>Combined heat and power</li>
+	<li>Waste heat recovery</li>
+	<li>Automated control systems</li>
+	<li>Monitoring equipment improvement</li>
+	<li>Reduced backup with better reliability</li>
+	<li>Improved employee environment</li>
+</ul>
+
+<p><strong>Technology:</strong> Advanced technologies are typically more energy efficient and may improve a process or operation. In addition to improving efficiency, advanced technologies can also result in improved operational flexibility and better control.</p>
+
+<p><strong>Maintenance:</strong> Regular maintenance is critical to maintaining equipment operating efficiency, which results in peak energy efficiency. It also promotes improved reliability, better schedule adherence, better utilization, and extended equipment life.</p>
+
+<p><strong>Organization development goals:</strong> Strategic goals by the organization to be the best, the first, the most efficient, the biggest producer, etc. drive the organization to include energy efficiency as a component of their management system. Financial, legal, and social drivers all play into organizational goals, and the role energy efficiency plays in addressing those drivers should be addressed.</p>
+
+<p>Identify the relevant internal drivers and determine how they interface with the organization&rsquo;s energy management and energy performance. Use this information to support the business case for EnMS implementation.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](Key internal influencers)</p>
+
+<p>As part of preparing the business case, consider identifying &ldquo;key internal influencers&rdquo; within your organization. Internal influencers are individuals who do or could have interest or influence on decisions related to energy. To gain support for the development and operation of the EnMS, it can be helpful to identify these individuals from among management and employees. Identify how energy is important to them and what would encourage their support and participation. Each may have a different motivation; for example:</p>
+
+<ul>
+	<li>a Building Manager or Production Manager&rsquo;s primary focus may be energy availability.</li>
+	<li>a Purchasing Manager&rsquo;s primary focus may be energy cost.</li>
+	<li>a Maintenance Manager&rsquo;s primary focus may be energy quality and availability.</li>
+	<li>an Environmental Manager&rsquo;s primary focus may be environmental impacts, such as pollution, from energy consumption.</li>
+</ul>
+
+<p>Ensure that the needs of the internal influencers related to energy use (i.e., application of energy) and energy consumption (i.e., quantity of energy applied) are understood and addressed within the business case. The Playbook worksheet illustrates how this information can be captured. A blank template is available in the Playbook worksheet for your optional use.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Prepare a briefing for top management)</p>
+
+<p>If management has not already committed to EnMS implementation, or if commitment is lacking, they will need to be convinced of the benefits so they can provide successful support.</p>
+
+<p>Consider the following tips when preparing your briefing for top management:</p>
+
+<ul>
+	<li><strong>The target audience is management.</strong> What drivers are important to them? Management is typically most interested in the return on investment, but there may be other important drivers. Focus on these, and make the presentation complete but brief. Management frequently just wants to hear the major facts. Have additional data available if more detail is requested, but if presentation timelines are provided, stick to them.</li>
+	<li><strong>Focus on what you are trying to convey.</strong> Present the background required to support the benefits of an EnMS, and don&rsquo;t mix in unrelated issues or ideas. Focus on the continual improvement-based nature of the management system and the direct impacts on the organization&rsquo;s well-being and improvement.</li>
+	<li><strong>Present the benefits in management&rsquo;s terms.</strong> Using the drivers already identified, present the benefits in terms of those drivers. Make sure management understands the benefits with respect to their key items of interest.</li>
+	<li><strong>Understand the desired objective.</strong> What is the expected result of this presentation? Provide information to encourage that result or offer suggestions.</li>
+</ul>
+
+<p>An elevator speech (a short summary) can be used to get a point across quickly and simply. It should take no longer than two minutes to present. Use the Playbook worksheet to focus on the essential information, and then expand it to the time available. Regardless of the amount of time available, be sure to cover the important points at the beginning. To ensure that management hears what you want to share, an old adage is appropriate: &ldquo;Tell them what you are going to tell them, then tell them, and then tell them what you told them.&rdquo;</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Deliver briefing to top management)</p>
+
+<p>Develop a briefing for top management using the organization&rsquo;s standard presentation tools or in another format that best displays the information.</p>
+
+<p>Stay within the time frame provided, and stick with the planned presentation. Be prepared to answer questions and provide more detail if requested.</p>
+
+<p>Management may ask the following types of questions:</p>
+
+<ul>
+	<li>What do we currently spend each year on energy?</li>
+	<li>What are the estimated cost savings that potentially we could realize in one to two years?</li>
+	<li>What will be the time commitment by the energy management team?</li>
+	<li>What are the biggest challenges to implementing an ISO 50001 EnMS?</li>
+	<li>What will you need from us (top management) to make this program successful?</li>
+</ul>
+
+<p>The intent of the presentation is to briefly provide the information needed for management to make necessary decisions, and to provide additional details as required. If the topic begins to stray, put the presentation back on track by bringing the group&rsquo;s attention back to the presentation materials. The Playbook worksheet can help you stay on track. Adjust the agenda based on the time available.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Secure management commitment)</p>
+
+<p>Obtaining sincere top management support is a critical component of developing an energy management system that will be sustained. Consider the following questions:</p>
+
+<ul>
+	<li>Is your top management on board?</li>
+	<li>Have they assigned the responsibilities and authorities to implement an EnMS?</li>
+	<li>Has top management approved and allocated the resources needed to successfully implement an EnMS?</li>
+	<li>Once the EnMS is implemented, are they committed to the actions and resources needed for operating and maintaining it for the long term?</li>
+	<li>Are they willing to continually improve energy management and energy performance as part of the organization&rsquo;s ongoing business strategy?</li>
+</ul>
+
+<p>Top management commitment needs to be followed by a clear understanding of their responsibilities and appropriate actions. Top management must demonstrate its leadership and commitment. When top management is active and visible in the EnMS, employees and others perceive the value and importance of energy management and energy performance improvement to the organization. For example, simple actions from top management such as adding energy topics to meeting agendas and sending email updates on energy performance help to keep the whole organization involved.</p>
+
+<p>[Learn More](Create a project plan)</p>
+
+<p>A project plan that outlines the actions, schedule, and resources necessary to implement the EnMS can help garner management support because it clearly defines expectations for the effort. Consider creating a project planning for EnMS implementation using the approach outlined in the Playbook worksheet.</p>
+
+<p>[Learn More End]</p>
+
+<p>Top management must support the effort not just during initial EnMS implementation, but also after the system is implemented and operational. Management must take a number of actions that will demonstrate their commitment to continual improvement of energy performance and the EnMS. These actions are detailed below and in Task 3 [task](Scope and Boundaries), Task 5 [task](Energy Policy), Task 6 [task](Energy Team and Resources), and Task 15 [task](Awareness and Communication).</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Brief top management on their EnMS leadership responsibilities)</p>
+
+<p>Once top management is committed to implementing the EnMS, make sure they understand what actions they must take in order to demonstrate their commitment to continual improvement of both energy performance and the EnMS. Per the requirements of ISO 50001, top management can delegate responsibility for many, but not all, actions.</p>
+
+<p>While the 50001 Ready Navigator does not follow the exact requirements of ISO 50001, below is a list of actions the ISO standards says top management must act on directly:</p>
+
+<ul>
+	<li><strong>Communicate</strong> that effective energy management and following the requirements of the EnMS are important.</li>
+	<li><strong>Promote</strong> continual improvement of the EnMS and continual energy performance improvement.</li>
+	<li><strong>Direct and support</strong> contributions by personnel to energy performance improvement and the effectiveness of the EnMS.</li>
+	<li><strong>Support</strong> other management in demonstrating their leadership in their areas of responsibility.</li>
+</ul>
+
+<p>In addition, top management can either perform themselves or delegate (ensure) <u>that</u>:</p>
+
+<ul>
+	<li>the scope and boundaries of the EnMS have been clearly defined.</li>
+	<li>the energy policy and objectives and the energy targets align with the organization&rsquo;s strategic direction.</li>
+	<li>requirements of the EnMS are integrated into the organization&rsquo;s business processes.</li>
+	<li>action plans have approval and are implemented.</li>
+	<li>needed EnMS resources are available.</li>
+	<li>the intended outcomes of the EnMS are achieved.</li>
+	<li>an energy management team is formed.</li>
+	<li>Energy performance indicators (EnPIs) appropriately represent energy performance.</li>
+	<li>there are processes to identify and address changes affecting the EnMS and energy performance.</li>
+</ul>
+
+<p>Briefing top management on their EnMS leadership and commitment responsibilities is typically done by the leader or members of the energy team. An effective approach can be to schedule the briefing as part of an existing management meeting. Alternatively, the briefing could be part of an ISO 50001 training event that includes top management.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Plan for how top management will meet their responsibilities)</p>
+
+<p>One outcome of the briefing to top management should be a plan for how top management will meet their responsibilities during initial EnMS implementation. For example, in most initial EnMS implementations, the energy team develops proposed EnPIs and proposed objectives and energy targets. These are then reviewed and approved by top management before becoming a formal part of the EnMS. A project management best practice for the initial implementation is for project milestones to include submission of final work products (outputs) to top management for specific elements of the EnMS.</p>
+
+<p>After initial implementation, a number of top management&rsquo;s delegated responsibilities can be demonstrated through the management review process. (see Task 23 [task](Management Review)).</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>ISO 9001:2015, ISO 14001:2015, and ISO 50001:2011 all specify the responsibilities for leadership and commitment by top management within the management system. There is considerable overlap between these three standards with respect to those responsibilities. ISO 50001 does include some additional management responsibilities that are unique, but they are consistent with the leadership requirements of ISO 14001 and ISO 9001.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>Step 5.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> gives guidance on raising awareness across a number of key stakeholders, including top management. Step 1.1 of the ENERGY STAR guidelines also suggests that the Energy Director involve upper management as an &ldquo;executive ally.&rdquo; In ISO 50001, this suggestion is formalized by requiring that top management demonstrates its leadership and commitment to the EnMS and energy performance improvement, which includes understanding their specific roles and responsibilities and accepting accountability.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

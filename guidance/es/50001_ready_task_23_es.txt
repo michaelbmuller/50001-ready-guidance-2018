@@ -1,0 +1,189 @@
+USDOE 50001 READY NAVIGATOR TASK 23
+----------TASK VERSION----------
+v18.23.01.02
+----------MENU NAME----------
+Revisión de la Administración
+----------TITLE----------
+Tarea 23: La alta dirección revisa periódicamente el sistema de gestión de energía 50001 Ready y el rendimiento energético de nuestra organización para garantizar su idoneidad, adecuación y eficacia continuas.
+----------GETTING IT DONE----------
+<ol>
+	<li>Define the intervals at which top management will review the energy management system (EnMS) and energy performance.</li>
+	<li>Identify who must participate in the management review.</li>
+	<li>Compile the relevant data and information (inputs) needed for the management review and prepare this information for presentation.</li>
+	<li>Conduct management reviews that address all required inputs and outputs.</li>
+	<li>Implement the decisions and actions (outputs) of management reviews.</li>
+	<li>Determine if the EnMS continues to be suitable, adequate, effective, and aligned with your organization&rsquo;s strategic direction.</li>
+	<li>Maintain a record of the management reviews.</li>
+</ol>
+----------TASK OVERVIEW----------
+<p>Management must periodically evaluate the ongoing suitability, adequacy, and effectiveness of the energy management system (EnMS), ensuring that it continues to be aligned with the strategic direction of the organization. Since the focus of an ISO 50001 EnMS is to improve energy management and energy performance, this review includes the following:</p>
+
+<ul>
+	<li>Analyzing data related to the EnMS and energy performance</li>
+	<li>Determining if appropriate actions are being taken</li>
+	<li>Making decisions on opportunities for improving or making changes to the EnMS</li>
+</ul>
+
+<p>This review and evaluation is the responsibility of top management and is conducted in the form of a management review. An effective management review process ensures the following:</p>
+
+<ul>
+	<li>Appropriate data and information is collected</li>
+	<li>The information is presented in a way that is meaningful to management and conducive to decision-making</li>
+	<li>Management makes decisions related to continual improvement opportunities for both energy performance and the EnMS</li>
+	<li>Actions required by the decisions are implemented</li>
+</ul>
+
+<p><em>This guidance is relevant to Section 9.3 of the ISO 50001:2018 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Plan the management review)</p>
+
+<p><strong>Frequency:</strong> Management reviews must be conducted at planned intervals; however, the frequency depends on your organization. When there are changes to your organization&rsquo;s energy situation, or a large number of action plans or capital projects under way related to the energy management system (EnMS), then additional management reviews may be needed. More frequent management reviews allow for quicker responses to issues and opportunities, while conducting a review annually serves as a review of the year. There is no prescribed or required frequency as long as the review is effective. Management review also does not have to be done as a single review; it can be a series of partial reviews. However, the partial reviews should result in a complete review of the entire EnMS over a specific period of time. Twelve months is the typical length of time within which the entire management system is reviewed.</p>
+
+<p><strong>Means: </strong>The means for accomplishing a management review is determined by your organization and is dictated by its needs. For example, management reviews could be conducted in a face-to-face meeting or through teleconferences, email exchanges, electronic meetings, or other forms of electronic reviews. It is important that key information is communicated to top management for their use in making decisions and determining needed actions to ensure continual improvement of energy performance and the EnMS.</p>
+
+<p><strong>Participants:</strong> At a minimum, your organization&rsquo;s top management and a representative from the energy management team (most often, the leader of the team) participate in management review. Others may be invited to join, based on:</p>
+
+<ul>
+	<li>who needs the information.</li>
+	<li>who can take action.</li>
+	<li>who can provide the resources needed for any necessary actions.</li>
+</ul>
+
+<p>One best practice to consider is that some organizations define a quorum that is required in order to conduct a management review, or specify a minimum attendance by certain positions or functions. If a quorum cannot be obtained or the required positions are not represented, the review is rescheduled or conducted through alternative means.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Collect information)</p>
+
+<p>Management review involves fact-based decision-making (outputs) related to continual improvement of the organization&rsquo;s EnMS and energy performance. These decisions are accomplished by analyzing specific information (inputs) about the system and its performance.</p>
+
+<p><strong>Responsibility:</strong> Although top management is responsible for ensuring the management review takes place, the energy management team is responsible for preparing the review and reporting to top management. As such, it is up to the energy management team to ensure that relevant information is gathered and provided to top management for their review. The energy management team may call on others who have been assigned responsibility for certain data or information to help compile the information needed. The optional Playbook worksheet can be used for this purpose. Make sure personnel are aware that they are responsible for providing the information in the format specified by the energy management team and that they agree to provide it on or before the due date.</p>
+
+<p><strong>Information to be collected:</strong> The extent of the management review (i.e., full or partial) to be performed will dictate the data and other information to be collected. Outputs of the previous management review and activities that have occurred since the last management review are reviewed during each management review.</p>
+
+<p>One way to determine the needed information is to start with the end in mind. That means looking at the types of decisions and actions that will result from the management review. Typical topics to be addressed include the following:</p>
+
+<ul>
+	<li>What opportunities are there for improvement of:
+	<ul style="list-style-type:circle">
+		<li>energy performance,</li>
+		<li>the EnMS, including its integration with current business processes,</li>
+		<li>competence, and</li>
+		<li>awareness and communication?</li>
+	</ul>
+	</li>
+	<li>What strategic changes or modifications (e.g., a change to the energy policy) are needed, if any?</li>
+	<li>Do the current measures (e.g., energy performance indicators [EnPIs], energy baselines [EnBs]) provide the correct and meaningful information?</li>
+	<li>Is there a need to change, add, or delete any current improvement objective, energy target or action plan?</li>
+	<li>Are the allocations of resources for the EnMS sufficient and appropriate?</li>
+	<li>Is the EnMS suitable, adequate, and effective in achieving continual improvement and aligned with strategic business goals?</li>
+</ul>
+
+<p>Once the relevant topics and types of decisions that need to be made are understood, look at the information generated by the system and determine the data that will help management address these decisions and actions. In other words, the information needed for management review is generated by the systems and processes of the EnMS itself.</p>
+
+<p>In the management review process, specific considerations related to the EnMS and specific inputs related to the organization&rsquo;s energy performance should be given. Considerations related to the EnMS should include the following:</p>
+
+<ul>
+	<li>Status of actions from prior management reviews</li>
+	<li>Changes in internal and external issues and associated risks and opportunities</li>
+	<li>EnMS performance, including trends in:
+	<ul style="list-style-type:circle">
+		<li>nonconformities and corrective actions</li>
+		<li>monitoring and measuring results</li>
+		<li>results of audits</li>
+		<li>results of evaluations of compliance</li>
+	</ul>
+	</li>
+	<li>Opportunities for continual improvement, including for competence</li>
+	<li>Energy policy</li>
+</ul>
+
+<p>The energy performance inputs to management review should include:</p>
+
+<ul>
+	<li><a name="_heading=h.1fob9te"></a>Extent to which objectives and energy targets have been achieved</li>
+	<li>Energy performance and energy performance improvement based on the results of monitoring and measurement, including the EnPI(s)</li>
+	<li>Action plans and their status</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Prepare information for presentation)</p>
+
+<p>In general, the responsible personnel should provide the energy management team with detailed data and information, along with a summary that is concise and represented graphically whenever possible. This facilitates top management&rsquo;s review and understanding of the information. The information should provide the big picture but be detailed enough to allow management to make fact-based decisions. The leader of the energy management team can have detailed data available as a backup in case it is needed during the review to answer questions.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Conduct the management review)</p>
+
+<p>Management review is the &ldquo;Act&rdquo; part of the Plan&ndash;Do&ndash;Check&ndash;Act continual improvement cycle. It is the responsibility of top management and is intended to be a dynamic activity focused on review and action. Remember that the purpose of management review is to ensure the ongoing suitability, adequacy, and effectiveness of the EnMS in terms of meeting requirements and generating the intended results. The EnMS also must be aligned with your organization&rsquo;s strategic direction, which is typically reflected in the organization&rsquo;s strategic goals.</p>
+
+<p>Based on their review of the organization&rsquo;s energy performance and the performance of the EnMS, top management decides what changes are needed and what actions should be taken in regards to continual improvement opportunities. These are required outputs of the management review. Decisions on whether to make changes to the EnMS must address:</p>
+
+<ul>
+	<li>The energy policy</li>
+	<li>EnPIs and EnBs</li>
+	<li>Objectives, energy targets, and action plans</li>
+	<li>Actions to be taken if the objectives, energy targets, and action plans are not achieved</li>
+	<li>Other elements of the EnMS</li>
+	<li>Resource allocations</li>
+</ul>
+
+<p>Although the energy policy statement is generally stable, there can be situations where the policy needs to be modified; for example, if management decides to make additional commitments in the policy for sustainability reasons or if the organization decides to integrate energy management with environmental management. Revisions to the energy policy also can result from changes in organizational leadership, ownership, or structure.</p>
+
+<p>Decisions on potential changes to EnPIs, EnBs, objectives, energy targets, and action plans are made in the context of management&rsquo;s review of the organization&rsquo;s energy performance. These elements are the engines for continual improvement.</p>
+
+<p>Resource allocations should be reviewed frequently and updated as needed, especially during the course of initial EnMS implementation. Often, there can be resource issues that need to be addressed that were not anticipated in planning for EnMS implementation.</p>
+
+<p>Decisions about continual improvement opportunities must address opportunities to improve the following:</p>
+
+<ul>
+	<li>Energy performance</li>
+	<li>Integration with business processes</li>
+	<li>Competence</li>
+	<li>Awareness and communication</li>
+</ul>
+
+<p>It is important that processes to identify continual improvement opportunities are not limited to energy performance. There should also be continual improvement of the EnMS, and this explicitly includes identifying opportunities to improve:</p>
+
+<ul>
+	<li>How the EnMS is incorporated into the organization&rsquo;s operations</li>
+	<li>The competence of personnel</li>
+	<li>The awareness of personnel</li>
+	<li>Communications to, from, and among personnel</li>
+</ul>
+
+<p>All these opportunities are related to both energy management and energy performance.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Retain records)</p>
+
+<p>Records of management reviews must be retained. The format of the record is not prescribed, but the record should identify the following:</p>
+
+<ul>
+	<li>Date of the management review</li>
+	<li>Names and positions of participants</li>
+	<li>Topics covered and information presented</li>
+	<li>Any decisions or actions to be taken</li>
+	<li>Any assignments made during the meeting</li>
+</ul>
+
+<p>Once all of the inputs of management review have been covered within a defined time period, the record of management review should include the decisions made by top management as to whether the EnMS continues to be suitable, adequate, and effective, and aligned with the organization&rsquo;s strategic direction. The following questions should be asked:</p>
+
+<ul>
+	<li>Suitable: Is the EnMS still appropriate to the purpose of the organization, its culture, operations, and business systems?</li>
+	<li>Adequate: Is the EnMS capable of continuing to meet the 50001 Ready Navigator guidance and the other EnMS requirements established by the organization?</li>
+	<li>Effective: Is the EnMS achieving the intended planned results, including energy performance improvement and improvement in energy management?</li>
+	<li>Aligned: Does the EnMS reflect and contribute to the strategic business priorities of the organization?</li>
+</ul>
+
+<p>Top management should understand these expectations and what they mean. The decisions made on the suitability, adequacy, effectiveness, and alignment of the EnMS should be supported by the data and information covered in management review.</p>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>A management review process implemented for ISO 9001:2015 or ISO 14001:2015 can be used for ISO 50001:2018, either as a stand-alone process or as an integrated one. At a minimum, top management for all three of these management systems performs the review to ensure the ongoing suitability, adequacy, and effectiveness of the management system. Required information (&ldquo;input&rdquo;) is gathered, collated, and prepared for review, although there are some differences between these standards in terms of the exact information needed. The information gathering and preparation processes can be the same for ISO 50001 as for ISO 9001 or ISO 14001, although different personnel would be involved, depending on the management system under review. That the outputs of management review are decisions and actions is something all three systems have in common, although there will be some differences in the topics addressed by those decisions and actions.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>This guidance is relevant to steps 5.2, 5.5, 6.0, 6.1, and 6.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management.</em> An EnMS management review has a formal structure that requires top management to ensure the suitability, adequacy, and effectiveness of the EnMS and continual improvement in energy performance. The EnMS management review process may capitalize on the ENERGY STAR strategies to gain management support (Step 5.2), conduct periodic reviews (Step 5.5), identify and perform corrective actions from reviews (Step 5.5), and evaluate progress and results from formal reviews (Step 6.0).</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

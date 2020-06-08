@@ -1,0 +1,228 @@
+USDOE 50001 READY NAVIGATOR TASK 22
+----------TASK VERSION----------
+v18.22.02.02
+----------MENU NAME----------
+Auditoría Interna
+----------TITLE----------
+Tarea 22: Realizamos auditorías internas del sistema de gestión de energía 50001 Ready en periodos específicos e informamos los resultados a los miembros relevantes de la administración. Identificamos tendencias en los resultados de la auditoría interna para su consideración en la revisión realizada por la administración.
+----------GETTING IT DONE----------
+<ol>
+	<li>Appoint an energy management system (EnMS) internal audit program manager.</li>
+	<li>Develop a documented internal audit procedure that addresses the responsibilities, planning, and conducting of EnMS internal audits, as well as the reporting of audit results.</li>
+	<li>Identify personnel to serve as EnMS internal auditors and train them on 50001 Ready Navigator EnMS guidance (or optionally ISO 50001 requirements and/or internal auditing of ISO 50001 including auditing of energy performance improvement), and your internal audit procedure.</li>
+	<li>Conduct regularly scheduled EnMS internal audits to identify areas of success and areas in need of improvement.</li>
+	<li>Record the results of your organization&rsquo;s internal audits.</li>
+	<li>Ensure that internal audit results are reported to relevant management.</li>
+</ol>
+----------TASK OVERVIEW----------
+<p>An internal audit checks your energy performance and the implementation and effectiveness of your energy management system (EnMS). It is a systematic and independent process that must be documented. Internal auditors collect and objectively evaluate evidence to determine whether your organization is meeting the requirements of its EnMS and ISO 50001.</p>
+
+<p>Management system audits are system-focused; they are very different from other types of audits with which you may be familiar, such as environmental compliance audits, safety audits, or financial audits. Hence, training in management system auditing is critical for internal auditors. Appropriate resources will be needed to ensure this training is provided, either in-house or by an external training provider.</p>
+
+<p>The leader or other member of the energy management team often has overall responsibility for the internal audit program, but some organizations assign a separate internal audit program manager.</p>
+
+<p>Searching for resources developed for other management system internal audits such as ISO 9001 and 14001 can be a great place to start. If your organization has an internal audit program in place for another management system (e.g., ISO 9001 quality, ISO 14001 environmental, ISO 45001 safety and health), leverage that existing process and the available in-house internal auditing expertise. If you do not already have an internal audit program in place, it is recommended that you attend an internal auditing or lead auditor training course to learn how to manage and conduct internal audits.</p>
+
+<p>The results of internal audits, both positive and negative, must be recorded and communicated to the relevant management. These results are often recorded on an audit finding form, a corrective action form, and/or in an audit report. The report can be in any format, including a PowerPoint presentation. Regardless of the specific style and format used, the results should be communicated with two specific objectives in mind:</p>
+
+<ol>
+	<li>providing objective evidence of effective implementation of the audit process, and</li>
+	<li>allowing for corrective actions to be addressed and for follow-up requirements to be established and initiated.</li>
+</ol>
+
+<p><em>This guidance is relevant to Section 9.2 of the ISO 50001:2018 standard.</em></p>
+----------FULL DESCRIPTION----------
+<p>[Accordion](Develop a documented internal audit procedure)</p>
+
+<p>You should document your internal audit program, including the following:</p>
+
+<ul>
+	<li>Purpose of the audit program</li>
+	<li>Auditor training requirements</li>
+	<li>Planning and scheduling audits</li>
+	<li>Criteria and scope for each audit</li>
+	<li>Process of selecting auditors</li>
+	<li>Conducting internal audits, including audit methods</li>
+	<li>Recording the audit results</li>
+	<li>Communicating the results to relevant management</li>
+	<li>Retaining records</li>
+	<li>Collecting and analyzing trend data on audit results</li>
+</ul>
+
+<p>Make sure the program clearly identifies the roles and responsibilities of the personnel involved. Structuring the audit process around what needs to be done, when it needs to be done, who needs to do it, and what records will be retained helps to communicate clearly the expectations for the internal audit program.</p>
+
+<p>When deciding how the audit results will be recorded, be aware that trend data on audit results are a required input for management review. This may influence what fields would be included on a form used for recording the audit findings. For example, compilation of trend data would be facilitated if recorded findings indicated the relevant 50001 Ready Navigator task number and the department or area where the finding was located. That information could be used to look at trends in findings across the various parts of the 50001 Ready Navigator guidance and trends in findings across the various departments or functional areas.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Develop the audit schedule)</p>
+
+<p>The frequency of internal audits must be defined; they are not surprise activities. The audit program manager (or other responsible personnel) prepares an energy management system (EnMS) internal audit schedule that:</p>
+
+<ul>
+	<li>addresses auditing both energy performance and the management system.</li>
+	<li>considers the importance of the processes concerned.</li>
+	<li>considers the results of previous audits.</li>
+</ul>
+
+<p>In considering the importance of the processes concerned, attention typically is given to the areas and processes associated with the following:</p>
+
+<ul>
+	<li>Significant energy uses (SEUs)</li>
+	<li>Objectives</li>
+	<li>Energy targets</li>
+	<li>Action plans</li>
+	<li>Operational and maintenance controls</li>
+	<li>Activities related to sustaining energy improvements over time</li>
+</ul>
+
+<p>The internal audit schedule usually covers an annual period, but may be for shorter or longer periods. You may decide to conduct one internal audit per year that covers the entire EnMS. Or, you may decide to conduct a series of shorter audits that together cover all of the EnMS requirements within a defined period. Some organizations decide to conduct internal audits of energy performance separately from internal audits of the management system.</p>
+
+<p>Other reasons for modifying the audit schedule include:</p>
+
+<ul>
+	<li>New management initiatives</li>
+	<li>Organizational changes</li>
+	<li>Customer issues or needs</li>
+	<li>Process changes</li>
+	<li>Energy performance indicators (EnPIs) not being met</li>
+	<li>New or revised energy objectives or targets</li>
+</ul>
+
+<p>The internal audit schedule may be in any format that meets your organization&rsquo;s needs. Often, the schedule identifies the processes, functions, and areas to be audited and the planned dates. Some audit schedules only indicate which EnMS processes and performance will be audited and when. In either case, ensure that:</p>
+
+<ul>
+	<li>the importance of the processes is considered.</li>
+	<li>all EnMS processes (or optionally ISO 50001 requirements) are audited in all applicable functions or areas within a defined period of time.</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Develop the audit plan)</p>
+
+<p>An internal audit plan or agenda is prepared for each internal audit. Typically, this plan is prepared by the internal audit program manager, a lead auditor, or audit team leader. It often includes the following basic information:</p>
+
+<ul>
+	<li>Date(s) of the audit</li>
+	<li>Objectives of the audit</li>
+	<li>Scope of the audit</li>
+	<li>Requirements (criteria) to be audited</li>
+	<li>Processes and area(s) to be audited</li>
+	<li>Auditor(s) responsible for auditing each process and area</li>
+	<li>Timing</li>
+</ul>
+
+<p>[Learn More](Examples of common audit objectives and audited processes)</p>
+
+<p>Examples of common audit objectives are to evaluate the following:</p>
+
+<ul>
+	<li>Conformity with the guidance of the 50001 Ready Navigator and additional requirements of the EnMS by the organization</li>
+	<li>Conformity with the energy policy and the established objectives and energy targets</li>
+	<li>Implementation and effectiveness of the EnMS</li>
+	<li>Energy performance improvement</li>
+</ul>
+
+<p>Examples of processes to be audited include, but are not limited to, those associated with the following:</p>
+
+<ul>
+	<li>Leadership and commitment</li>
+	<li>Context of the organization</li>
+	<li>Energy review</li>
+	<li>Significant energy uses</li>
+	<li>Actions to address risks and opportunities</li>
+	<li>Objectives</li>
+	<li>Energy targets and action plans</li>
+	<li>Communication and awareness</li>
+	<li>Operational and maintenance controls</li>
+	<li>Documented information</li>
+	<li>Design and procurement</li>
+	<li>Monitoring, measurement, analysis, and evaluation</li>
+	<li>Internal audits</li>
+	<li>Evaluation of compliance with legal and other requirements</li>
+	<li>Corrective action</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Select and train internal auditors)</p>
+
+<p>Internal audits are conducted by personnel who have been trained in internal auditing of management systems. It is recommended that the internal audit training be focused specifically on the guidance of the 50001 Ready Navigator (or ISO 50001) due to the need to demonstrate energy performance improvement. The pool of internal auditors should have cross-functional representation. The audits can be conducted by a single auditor or by one or more teams. In either case, the person(s) conducting the internal audit needs to be objective and impartial, and does not audit his or her own work. Internal auditors are usually trained by experienced internal management system auditors or by an external training course provider.</p>
+
+<p>Auditor training typically consists of the following:</p>
+
+<ul>
+	<li>Guidance of the 50001 Ready Navigator or requirements of ISO 50001</li>
+	<li>Objectives of the audit</li>
+	<li>How to develop and use a checklist</li>
+	<li>How to collect and assess objective evidence</li>
+	<li>How to document both positive and negative findings</li>
+	<li>How to report the audit results</li>
+</ul>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Conduct internal audits)</p>
+
+<p>Internal audits identify both areas of success and areas in need of improvement. In conducting the audit, the internal auditors focus on determining if your organization is:</p>
+
+<ul>
+	<li>Doing what it says it will do</li>
+	<li>Conforming with its energy policy, objectives, and energy targets</li>
+	<li>Continually improving its EnMS</li>
+	<li>Achieving improvement in energy performance</li>
+</ul>
+
+<p>Both the selection of auditors and the method for conducting the audits need to demonstrate that the process is objective and impartial. Each auditor is expected to carry out his or her assigned responsibilities as set out in the audit plan.</p>
+
+<p>When conducting an internal audit, auditors collect objective evidence by:</p>
+
+<ul>
+	<li>interviewing personnel.</li>
+	<li>observing activities.</li>
+	<li>reviewing documents.</li>
+	<li>examining records and data.</li>
+</ul>
+
+<p>Audit checklists are often used to help organize and document the evidence and the audit findings. It is important that the details of the evidence and findings are captured (e.g., department, activity, shift, position title, what was said, what was observed, what documented information was reviewed, what requirement was not met, the relevant section of the 50001 Ready Navigator guidance). Nonconformities need to be reproducible for purposes of corrective action and positive findings need to be reproducible for potential application in other areas.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Report internal audit results to relevant management)</p>
+
+<p>Some organizations record internal audit findings on an audit finding form. Other organizations record negative findings directly onto a corrective action request form and list the positive findings within an audit report or other summary of the audit results.</p>
+
+<p>The reporting of internal audit results to relevant management should be timely. This can be done in a closing meeting conducted by the lead auditor at the conclusion of the audit with attendance by the management whose operations were audited. Another approach is simply to distribute an audit report and/or corrective action request to each relevant manager. Corrective action on negative findings should be taken in a timely manner.</p>
+
+<p>Trends in internal audit results, but not necessarily the detailed audit findings themselves, are reported into management review as part of the information on the performance of the EnMS. At the end of each audit, it is recommended that the lead auditor or the internal audit program manager collate or map the results by ISO 50001 requirements and by the areas/departments audited. The audit results matrix located in the optional Playbook worksheet can be used for this purpose. It enables trends in the results such as which requirements are presenting the greatest challenges and where (based on the number and location of nonconformities) to be identified. An audit results matrix for each internal audit can be combined to provide a single comprehensive view of the trends in overall conformity to EnMS requirements.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Retain records)</p>
+
+<p>In addition to retaining documented information (in this case, records) on the results of audits, you should retain documented information that demonstrates the implementation of the audit program. Typically, the documented information that is retained includes:</p>
+
+<ul>
+	<li>Audit schedule(s)</li>
+	<li>Audit plan(s) or agenda(s)</li>
+	<li>Auditor training records</li>
+	<li>Audit nonconformity reports</li>
+	<li>Positive findings</li>
+	<li>Completed corrective action records</li>
+	<li>Evidence that audit results have been reported to relevant management</li>
+	<li>Trend data on audit results</li>
+</ul>
+
+<p>[Accordion End]</p>
+----------OTHER ISO EXPERIENCE TIPS----------
+<p>There are very few differences between the structure and management of internal audit programs for ISO 50001:2018 and those required for ISO 9001:2015 and ISO 14001:2015. The ISO 9001 and ISO 14001 standards actually have a few more specific program requirements (e.g., taking into consideration changes affecting the organization) than those included in ISO 50001. Even if an organization chooses not to conduct integrated management system audits, the ISO 9001, ISO 14001, and ISO 50001 systems can share common procedures for internal audit planning, conducting, and reporting. Or, alternatively, if the systems are to be maintained separately, the structure and requirements of those existing ISO 9001 or ISO 14001 internal audit processes, procedures, methods, and responsibilities can be easily copied and adapted for an ISO 50001 EnMS.</p>
+
+<p>The key difference in internal audit requirements between ISO 50001 and the ISO 9001 and ISO 14001 standards is related to the intent of an internal audit. In addition to ensuring conformance and effective implementation and maintenance of the management system, ISO 50001 internal audits are conducted to provide information on whether energy performance improvement can be demonstrated. One practical implication of this ISO 50001 requirement relates to the training and competency of the internal auditors. The pool of internal auditors for ISO 50001 must include personnel who are comfortable with, and preferably experienced with, evaluation of data and data analyses. These skills may already be included among the members of the existing internal auditor pool; for example, where internal auditors for ISO 9001 are experienced with evaluating quality data. In ISO 14001 systems, environmental performance must also be evaluated; however, this could be implemented only through the processes for monitoring, measurement, analysis, and evaluation, not through the internal audit process itself. Some adjustments to the skills of the internal auditors may be needed to effectively audit energy performance in an ISO 50001 system. Existing internal auditors for quality and environmental management systems would need training in the requirements of ISO 50001 and the energy topics addressed in that standard in order to conduct internal audits of the EnMS effectively.</p>
+
+<p>Like ISO 9001:2015 and ISO 14001:2015, the updated version of ISO 50001 now requires reporting of internal audit results to &ldquo;relevant management.&rdquo; The change from &ldquo;top management&rdquo; in ISO 50001:2011 to &ldquo;relevant management&rdquo; in ISO 50001:2018 further aligns the internal audit requirements across these three standards.</p>
+----------ENERGY STAR EXPERIENCE TIPS----------
+<p>This guidance is relevant to steps 5.1, 5.2, 5.5, 6.1, and 6.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management.</em> You can leverage and modify elements of these ENERGY STAR guidelines in developing an EnMS internal audit program, however additional work will be needed to meet ISO 50001 requirements for conducting EnMS internal audits based on documented internal audit procedures, schedules, and plans. The ENERGY STAR guidelines recommend creating a communications plan and raising awareness across the site. ISO 50001 specifically requires retaining records to demonstrate the implementation of the internal audit program, as well as records of the audit results. Audit results are communicated to the relevant management.</p>
+----------LICENSE----------
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
