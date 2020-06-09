@@ -7,118 +7,117 @@ Planes de Acción para la Mejora Continua
 Tarea 13: Desarrollamos planes de acción e implementamos proyectos de mejora para lograr nuestros objetivos y metas energéticas.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Use your prioritized opportunities from Task 10 [task](Improvement Opportunities) to select projects for implementation.</li>
-	<li>Apply any applicable criteria set by your organization to justify and gain approval of the project.</li>
-	<li>Develop action plans for meeting your organization&rsquo;s objectives and energy targets identified in Task 12 [task](Objectives and Targets).</li>
-	<li>Communicate expectations to relevant positions and review action plan progress.</li>
+	<li>Utilice sus oportunidades priorizadas de la Tarea 10 [tarea] (Oportunidades de Mejora) para seleccionar proyectos a implementar.</li>
+	<li>Aplique los criterios aplicables establecidos por su organizaci&oacute;n para justificar y obtener la aprobaci&oacute;n del proyecto.</li>
+	<li>Desarrolle planes de acci&oacute;n para cumplir con los objetivos y metas energ&eacute;ticas de su organizaci&oacute;n identificados en la Tarea 12 [tarea] (Objetivos y Metas).</li>
+	<li>Comunique las expectativas a las personas que ocupan puestos relevantes y revise el avance del plan de acci&oacute;n.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>After setting objectives and energy targets, you must determine how your organization will achieve them. This involves reviewing the list of prioritized opportunities (see Task 10 [task](Improvement Opportunities)) and selecting projects for implementation. This process helps to ensure that the projects best suited to meet the objectives and energy targets are planned and implemented.</p>
+<p>Despu&eacute;s de establecer objetivos y metas de energ&iacute;a, debe determinar c&oacute;mo su organizaci&oacute;n los alcanzar&aacute;. Esto implica revisar la lista de oportunidades priorizadas (ver Tarea 10 [tarea] (Oportunidades de Mejora)) y seleccionar proyectos para su implementaci&oacute;n. Este proceso ayuda a garantizar que los proyectos m&aacute;s adecuados para cumplir con los objetivos y las metas energ&eacute;ticas se planifiquen e implementen.</p>
 
-<p>Once you have selected the projects that will enable your organization to achieve its objectives and energy targets, designate a leader for each project. If the scope and complexity of the project requires additional resources, assemble a project team with the support of the energy team and top management. Then, develop an action plan for each project.</p>
+<p>Una vez que haya seleccionado los proyectos que permitir&aacute;n a su organizaci&oacute;n alcanzar sus objetivos y metas de energ&iacute;a, designe un l&iacute;der para cada proyecto. Si el alcance y la complejidad del proyecto requieren recursos adicionales, forme un equipo para el proyecto con el apoyo del equipo de energ&iacute;a y la alta direcci&oacute;n. Luego desarrolle un plan de acci&oacute;n para cada proyecto.</p>
 
-<p>An action plan developed to meet the requirements of ISO 50001 defines, at a minimum, the following:</p>
+<p>Un plan de acci&oacute;n desarrollado para cumplir con los requisitos de ISO 50001 define, como m&iacute;nimo, lo siguiente:</p>
 
 <ul>
-	<li>The activities to be completed to implement the project and achieve energy performance improvement</li>
-	<li>The resources needed to complete the activities</li>
-	<li>The time frame for completing the activities</li>
-	<li>The person or persons responsible for completing the activities</li>
-	<li>A description of the method for verifying project results</li>
-	<li>A description of the method for verifying the energy performance improvement</li>
+	<li>Las actividades que se completar&aacute;n para implementar el proyecto y lograr la mejora del rendimiento energ&eacute;tico.</li>
+	<li>Los recursos necesarios para completar las actividades.</li>
+	<li>El periodo de tiempo para completar las actividades.</li>
+	<li>La persona o personas responsables de completar las actividades.</li>
+	<li>Una descripci&oacute;n del m&eacute;todo para verificar los resultados del proyecto.</li>
+	<li>Una descripci&oacute;n del m&eacute;todo para verificar la mejora del rendimiento energ&eacute;tico.</li>
 </ul>
 
-<p>The designation of a project leader with overall responsibility for project implementation provides for one point of contact between management and the project team. It is recommended that the leader be a member of the energy team since it is the energy team that is responsible for implementing the action plans. This person directs the project team to ensure implementation is in accordance with the action plan.</p>
+<p>La designaci&oacute;n de un l&iacute;der de proyecto con responsabilidad general para la implementaci&oacute;n del proyecto proporciona un punto de contacto entre la gerencia y el equipo del proyecto. Se recomienda que el l&iacute;der sea miembro del equipo de energ&iacute;a, ya que es el equipo de energ&iacute;a el responsable de implementar los planes de acci&oacute;n. Esta persona dirige al equipo del proyecto para garantizar que la implementaci&oacute;n est&eacute; de acuerdo con el plan de acci&oacute;n.</p>
 
-<p><em>This guidance is relevant to Section 6.2.3 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 6.2.3 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Select improvement opportunities (projects) for implementation)</p>
+<p>[Accordion](Seleccione oportunidades de mejora (proyectos) para implementaci&oacute;n)</p>
 
-<p>Using the compilation of prioritized energy opportunities you developed as part of the energy review (Task 10 [task](Improvement Opportunities)), your organization will need to select projects to achieve the specific objectives and targets established in Task 12 [task](Objectives and Targets). However, it is unlikely that management can provide resources for all of the potential projects on your list of energy opportunities.</p>
+<p>Utilizando la compilaci&oacute;n de oportunidades energ&eacute;ticas priorizadas que desarroll&oacute; como parte de la revisi&oacute;n energ&eacute;tica (Tarea 10 [tarea] (Oportunidades de Mejora)), su organizaci&oacute;n necesitar&aacute; seleccionar proyectos para lograr los objetivos y metas espec&iacute;ficos establecidos en la Tarea 12 [tarea] (Objetivos y Metas). Sin embargo, es poco probable que la administraci&oacute;n pueda proporcionar recursos para todos los proyectos potenciales en su lista de oportunidades de energ&iacute;a.</p>
 
-<p>Review the list of prioritized energy opportunities. When selecting a project for implementation, consider the specific objectives and energy targets you have established. Determine which projects are feasible and that will enable you to achieve the improvement(s) in the stated objectives and energy targets. The following considerations can be useful in this process:</p>
+<p>Revise la lista de oportunidades energ&eacute;ticas priorizadas. Al seleccionar un proyecto para implementaci&oacute;n, tenga en cuenta los objetivos espec&iacute;ficos y las metas de energ&iacute;a que ha establecido. Determine qu&eacute; proyectos son factibles y le permitir&aacute;n lograr las mejoras en los objetivos y metas energ&eacute;ticas establecidos. Las siguientes consideraciones pueden ser &uacute;tiles en este proceso:</p>
 
 <ul>
-	<li>The estimated energy savings associated with implementation of the project</li>
-	<li>Organizational constraints, such as
-	<ul style="list-style-type:circle">
-		<li>funding requirements or constraints,</li>
-		<li>availability of personnel expertise and time (both internal and external, as applicable), and</li>
-		<li><a name="_heading=h.30j0zll"></a>effect on other organizational priorities.</li>
+	<li>El ahorro de energ&iacute;a estimado asociado con la implementaci&oacute;n del proyecto.</li>
+	<li>Restricciones organizacionales, como
+	<ul style="list-style-type:disc">
+		<li>Requerimientos o limitaciones de financiaci&oacute;n,</li>
+		<li>Disponibilidad de experiencia y tiempo del personal (tanto interno como externo, seg&uacute;n corresponda), y</li>
+		<li>Efecto sobre otras prioridades organizacionales.</li>
 	</ul>
 	</li>
-	<li>Any applicable capital justification or other criteria required for project approval by your organization (e.g., return on investment, payback, etc.)</li>
+	<li>Cualquier justificaci&oacute;n de capital aplicable u otros criterios requeridos para la aprobaci&oacute;n del proyecto por parte de su organizaci&oacute;n (por ejemplo, retorno de la inversi&oacute;n, recuperaci&oacute;n de la inversi&oacute;n, etc.)</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Action plans - determine actions, time frames and responsible positions)</p>
+<p>[Accordion](Planes de acci&oacute;n: determinar acciones, plazos y cargos de las personas responsables)</p>
 
-<p>Action plans must be established and maintained when planning how to achieve your objectives and energy targets. Start by designating a leader for each energy project. The project leader should be a member of the energy team. Recall that the energy team is responsible for implementing action plans and this responsibility cannot be delegated away from the team (See Task 6 [task](Energy Team and Resources)).</p>
+<p>Los planes de acci&oacute;n deben establecerse y mantenerse al planificar c&oacute;mo lograr sus objetivos y metas energ&eacute;ticas. Comience por designar un l&iacute;der para cada proyecto energ&eacute;tico. El l&iacute;der del proyecto debe ser miembro del equipo de energ&iacute;a. Recuerde que el equipo de energ&iacute;a es responsable de implementar los planes de acci&oacute;n y que esta responsabilidad no se puede delegar fuera del equipo (consulte la Tarea 6 [tarea] (Equipo y Recursos de Energ&iacute;a)).</p>
 
-<p>The project leader assembles a project team with representatives from the appropriate functions or areas. Not all representatives on the project team have to be members of the energy team. The project team then develops an action plan that defines the specific actions needed to implement the project (i.e., what will be done), the resources that will be required, and who will be responsible.</p>
+<p>El l&iacute;der del proyecto forma un equipo del proyecto con representantes de las funciones o &aacute;reas apropiadas. No todos los representantes en el equipo del proyecto tienen que ser miembros del equipo de energ&iacute;a. Posteriormente, el equipo del proyecto desarrolla un plan de acci&oacute;n que define las acciones espec&iacute;ficas necesarias para implementar el proyecto (es decir, lo que se har&aacute;), los recursos que se necesitar&aacute;n y qui&eacute;n ser&aacute; responsable.</p>
 
-<p>The optional Playbook worksheet can be a useful starting point. There is no requirement that action plan information be retained in a single document. In some organizations, the information may be retained across different databases or spreadsheets, linked by a common identifier.</p>
+<p>La hoja de trabajo opcional de Playbook puede ser un punto de partida &uacute;til. No es necesario que la informaci&oacute;n del plan de acci&oacute;n se conserve en un solo documento. En algunas organizaciones, la informaci&oacute;n puede mantenerse en diferentes bases de datos u hojas de c&aacute;lculo, vinculadas por un identificador com&uacute;n.</p>
 
-<p>When defining actions necessary for project implementation, be sure also to address the following:</p>
+<p>Al definir las acciones necesarias para la implementaci&oacute;n del proyecto, aseg&uacute;rese tambi&eacute;n de abordar lo siguiente:</p>
 
 <ul>
-	<li>The method(s) to be used to verify the results of the action plan and the energy performance improvement(s) achieved.</li>
-	<li>Consideration of how the actions to implement the project and achieve the objectives and energy targets can be integrated into your business processes; for example, consider:
-	<ul style="list-style-type:circle">
-		<li>any changes in processes or procedures (e.g., operational controls) that are required due to the project,</li>
-		<li>any needed training of employees or contractors on the changes implemented due to the project,</li>
-		<li>continued monitoring and measurement of project parameters to ensure that energy performance improvements are sustained over time.</li>
+	<li>Los m&eacute;todos que se utilizar&aacute;n para verificar los resultados del plan de acci&oacute;n y las mejoras de rendimiento energ&eacute;tico que se logren.</li>
+	<li>Consideraci&oacute;n de la forma en que las acciones para implementar el proyecto y lograr los objetivos y metas de energ&iacute;a pueden integrarse en sus procesos de negocio; por ejemplo, considere:
+	<ul style="list-style-type:disc">
+		<li>Cualquier cambio en los procesos o procedimientos (por ejemplo, controles operativos) que se requieran debido al proyecto,</li>
+		<li>Cualquier capacitaci&oacute;n necesaria de empleados o contratistas sobre los cambios implementados debido al proyecto,</li>
+		<li>Monitoreo continuo y medici&oacute;n de los par&aacute;metros del proyecto para asegurar que las mejoras en el rendimiento energ&eacute;tico se mantengan a largo plazo.</li>
 	</ul>
 	</li>
 </ul>
 
-<p>A comprehensive list of actions helps to ensure the team understands what is necessary to implement the project, and they can communicate required resources effectively to management.</p>
+<p>Una lista completa de acciones ayuda a garantizar que el equipo entienda lo que es necesario para implementar el proyecto, y que puedan comunicar los recursos necesarios de manera efectiva a la gerencia.</p>
 
-<p>After the team has defined what will be done and the required resources necessary for implementation, the team determines the time frame for completing the action plan, considering resource availability and any time frames established for achieving the objectives and energy targets. A recommended practice is that responsible positions and due dates for specific actions are included in the action plan, and that action plans are regularly reviewed and updated. This helps to ensure progress of project activities can be tracked.</p>
+<p>Despu&eacute;s de que el equipo ha definido lo que se har&aacute; y los recursos necesarios para la implementaci&oacute;n, el equipo determina el periodo de tiempo para completar el plan de acci&oacute;n, considerando la disponibilidad de recursos y los plazos establecidos para alcanzar los objetivos y las metas de energ&iacute;a. Una pr&aacute;ctica recomendada es que los cargos de responsabilidad y las fechas de vencimiento para acciones espec&iacute;ficas se incluyan en el plan de acci&oacute;n, y que los planes de acci&oacute;n se revisen y actualicen peri&oacute;dicamente. Esto ayuda a garantizar el seguimiento del avance de las actividades del proyecto.</p>
 
-<p>Note: Objectives and associated action plans also can be used to plan and implement projects related to improving the energy management system (EnMS). Such objectives and action plans tend to be qualitative. There is no explicit requirement that the organization establish objectives and action plans related to the EnMS; however, ISO 50001:2018 does require continual improvement of the suitability, adequacy, and effectiveness of the EnMS. For some EnMS improvements, use of objectives and action plans can be useful.</p>
+<p>Nota: Los objetivos y los planes de acci&oacute;n relacionados tambi&eacute;n se pueden utilizar para planificar e implementar proyectos relacionados con la mejora del sistema de gesti&oacute;n de energ&iacute;a (EnMS). Dichos objetivos y planes de acci&oacute;n tienden a ser cualitativos. No existe un requisito expl&iacute;cito de que la organizaci&oacute;n establezca objetivos y planes de acci&oacute;n relacionados con el EnMS; sin embargo, ISO 50001: 2018 requiere una mejora continua de la idoneidad, adecuaci&oacute;n y efectividad del EnMS. Para algunas mejoras de EnMS, el uso de objetivos y planes de acci&oacute;n puede ser &uacute;til.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Define verification methods)</p>
+<p>[Accordion](Defina m&eacute;todos de verificaci&oacute;n)</p>
 
-<p>To effectively evaluate project results, the project leader or team will need to identify who is going to be responsible for project verification. The person or team assigned should have a working knowledge of the systems involved and be competent in performing the necessary data gathering and analysis.</p>
+<p>Para evaluar efectivamente los resultados del proyecto, el l&iacute;der o equipo del proyecto deber&aacute; identificar qui&eacute;n ser&aacute; responsable de la verificaci&oacute;n del proyecto. La persona o equipo asignado debe tener un conocimiento pr&aacute;ctico de los sistemas incluidos y ser competente para realizar la recopilaci&oacute;n y el an&aacute;lisis de datos necesarios.</p>
 
-<p>To clearly define the method of verification, the following questions will need to be answered:</p>
+<p>Para definir claramente el m&eacute;todo de verificaci&oacute;n, deber&aacute;n responderse las siguientes preguntas:</p>
 
 <ul>
-	<li>What will be measured or evaluated to identify project impacts?</li>
-	<li>How will it be measured or evaluated?</li>
+	<li>&iquest;Qu&eacute; se medir&aacute; o evaluar&aacute; para identificar los impactos del proyecto?</li>
+	<li>&iquest;C&oacute;mo se medir&aacute; o evaluar&aacute;?</li>
 </ul>
 
-<p>The answers to these questions will establish the measurement or evaluation activities necessary for verification. Consider any instrumentation or metering that could be included in the project scope to enhance the ability to measure and evaluate system energy performance and project results.</p>
+<p>Las respuestas a estas preguntas ayudaran a establecer las actividades de medici&oacute;n o evaluaci&oacute;n necesarias para la verificaci&oacute;n. Considere cualquier instrumentaci&oacute;n o medici&oacute;n que pueda incluirse en el alcance del proyecto para mejorar la capacidad de medir y evaluar el rendimiento energ&eacute;tico del sistema y los resultados del proyecto.</p>
 
-<p>Once these activities are determined, the verification process will need to establish a baseline or measurement of pre-project operations. When the project is complete, the verification process will need to evaluate or measure the post-project results. The estimated or expected project results can then be compared with actual data from the project verification to determine the action plan&rsquo;s effectiveness.</p>
+<p>Una vez que se determinan estas actividades, el proceso de verificaci&oacute;n deber&aacute; establecer una l&iacute;nea de base o una medici&oacute;n de las operaciones previas al proyecto. Cuando se complete el proyecto, el proceso de verificaci&oacute;n deber&aacute; evaluar o medir los resultados posteriores al proyecto. Los resultados estimados o esperados del proyecto se pueden comparar con los datos reales de la verificaci&oacute;n del proyecto para determinar la efectividad del plan de acci&oacute;n.</p>
 
-<p>The project is not complete until the verification of results is complete and both the project team and energy team have reviewed them. The verification methods and the verification results should be recorded on the action plan.</p>
+<p>El proyecto no est&aacute; completo hasta que la verificaci&oacute;n de resultados est&eacute; completa y tanto el equipo del proyecto como el equipo de energ&iacute;a los hayan revisado. Los m&eacute;todos de verificaci&oacute;n y los resultados de la verificaci&oacute;n deben registrarse en el plan de acci&oacute;n.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Communicate expectations and review progress)</p>
+<p>[Accordion](Comunicar expectativas y revisar los avances)</p>
 
-<p>The first step to communicating expectations for the energy project(s) is to have them fully defined and documented. The optional Playbook worksheet may be of use.</p>
+<p>El primer paso para comunicar las expectativas para los proyectos energ&eacute;ticos es tenerlos completamente definidos y documentados. La hoja de trabajo opcional de Playbook puede ser &uacute;til.</p>
 
-<p>Everyone involved in energy project(s) needs to know their role and responsibilities. As previously indicated, action plans can involve personnel who are not on the energy team; communicating to them the responsibilities and expectations for their involvement is critical. This should be done using the internal communication processes of the EnMS (see Task 15 [task](Awareness and Communication)). A &ldquo;project kick-off&rdquo; meeting that brings together all the personnel involved can be an effective approach for communicating the expectations for the project. It can help them understand how their assigned tasks or actions fit into the overall effort.</p>
+<p>Todos los involucrados en proyectos de energ&iacute;a necesitan conocer su rol y responsabilidades. Como se indic&oacute; anteriormente, los planes de acci&oacute;n pueden involucrar personal que no est&aacute; en el equipo de energ&iacute;a; comunicarles las responsabilidades y expectativas para su participaci&oacute;n es fundamental. Esto debe hacerse utilizando los procesos de comunicaci&oacute;n interna del EnMS (ver Tarea 15 [tarea] (Sensibilizaci&oacute;n y Comunicaci&oacute;n)). Una reuni&oacute;n de &ldquo;inicio del proyecto&rdquo; que re&uacute;ne a todo el personal involucrado puede ser un enfoque efectivo para comunicar las expectativas del proyecto. Esta actividad puede ayudar al personal a entender c&oacute;mo sus tareas o acciones asignadas se ajustan al esfuerzo general.</p>
 
-<p>The project team, with participation from members of the energy team, should hold regular meetings to review the action plan(s) and determine progress against schedule. During these meetings, use the action plan to determine if implementation is progressing as expected. Also, use team meetings to determine if any additional resources are required or if any additional activities need to be included in the action plan. Review and update the action plan in accordance with the schedule and use it to communicate regularly with management.</p>
+<p>El equipo del proyecto, con la participaci&oacute;n de los miembros del equipo de energ&iacute;a, debe celebrar reuniones peri&oacute;dicas para revisar los planes de acci&oacute;n y determinar los alcances de acuerdo al cronograma. Durante estas reuniones, use el plan de acci&oacute;n para determinar si la implementaci&oacute;n est&aacute; progresando como se esperaba. Adem&aacute;s, use las reuniones del equipo para determinar si se requieren recursos adicionales o si es necesario incluir actividades adicionales en el plan de acci&oacute;n. Revise y actualice el plan de acci&oacute;n de acuerdo con el cronograma y &uacute;selo para comunicarse regularmente con la gerencia.</p>
 
-<p>The optional Playbook worksheet illustrates a completed action plan, including the verification of the energy performance improvement achieved.</p>
+<p>La hoja de trabajo opcional de Playbook ilustra un plan de acci&oacute;n completo, que incluye la verificaci&oacute;n de la mejora del rendimiento energ&eacute;tico lograda.</p>
 
-<p>Good project management can ensure that the action plans are properly implemented. Ongoing communication such as status reporting and project and energy team meetings, when appropriate, will contribute to this success.</p>
+<p>La buena gesti&oacute;n del proyecto puede garantizar que los planes de acci&oacute;n se implementen adecuadamente. La comunicaci&oacute;n continua, como informes del estatus del proyecto y reuniones de los equipos de proyectos y energ&iacute;a, cuando sea apropiado, contribuir&aacute; a este &eacute;xito.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>When planning to achieve objectives, both ISO 14001:2015 and ISO 9001:2015 require that the organization develop information that is virtually identical to the information that must be included in action plans under ISO 50001:2018, though only ISO 50001 uses the phrase <em>action plans.</em> The term <em>action plans</em> is used to describe the information to be developed when planning to achieve objectives. All three standards are concerned with determining what will be done, who will be responsible, time frames for completion, and how the results will be evaluated. In this regard, there is considerable potential to integrate these planning activities across the three standards. A key difference between the three standards with regard to this planning is that ISO 50001 uses the construct of planning to meet both objectives and energy targets, while ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo;</p>
-
+<p>Cuando se planea el logro los objetivos, tanto la norma ISO 14001: 2015 como ISO 9001: 2015 requieren que la organizaci&oacute;n desarrolle informaci&oacute;n que sea pr&aacute;cticamente id&eacute;ntica a la informaci&oacute;n que debe incluirse en los planes de acci&oacute;n bajo ISO 50001: 2018, aunque solo ISO 50001 usa la frase <em>planes de acci&oacute;n</em>. El t&eacute;rmino planes de acci&oacute;n se utiliza para describir la informaci&oacute;n que se desarrollar&aacute; cuando se planifique el logro de objetivos. Los tres est&aacute;ndares se ocupan de determinar qu&eacute; se har&aacute;, qui&eacute;n ser&aacute; responsable, los plazos para su finalizaci&oacute;n y c&oacute;mo se evaluar&aacute;n los resultados. En este sentido, existe un potencial considerable para integrar estas actividades de planificaci&oacute;n en los tres est&aacute;ndares. Una diferencia clave entre las tres normas con respecto a esta planificaci&oacute;n es que ISO 50001 utiliza el concepto de planificaci&oacute;n para cumplir tanto los objetivos como las metas energ&eacute;ticas, mientras que ISO 14001 e ISO 9001 no usan el concepto de &quot;metas&quot;.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 3.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> provides some tips on estimating potential for improvement, which includes reviewing opportunities to reduce energy consumption.</p>
+<p>El Paso 3.2 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> de ENERGY STAR&reg; proporciona algunos consejos para estimar el potencial de mejora, que incluye la revisi&oacute;n de oportunidades para reducir el consumo de energ&iacute;a.</p>
 
-<p>Steps 4 and 5 in the ENERGY STAR <em>Guidelines for Energy Management</em> address creating and implementing action plans. The guidance in this 50001 Ready Navigator task contains similar guidance, including helpful resources like an action plan template.</p>
+<p>Los pasos 4 y 5 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> de ENERGY STAR abordan la creaci&oacute;n e implementaci&oacute;n de planes de acci&oacute;n. La gu&iacute;a en esta tarea 50001 Ready Navigator contiene una gu&iacute;a similar, que incluye recursos &uacute;tiles como un formato de plan de acci&oacute;n.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

@@ -7,220 +7,220 @@ Consideraciones de Ahorro Energético en Adquisiciones
 Tarea 19: Establecemos criterios de rendimiento energético que cubren la vida operativa de las compras que afectan el rendimiento energético, informamos a los proveedores que éste es un factor en la adquisición y definimos y usamos especificaciones para las compras de suministro de energía.
 ----------GETTING IT DONE----------
 <ol>
-	<li>For purchases related to significant energy uses (SEUs), clearly identify any energy performance-related requirements. Communicate these requirements to suppliers and/or service providers, and inform them that energy performance is part of the evaluation criteria.</li>
-	<li>Evaluate your organization&rsquo;s current procurement processes for items that can significantly impact energy performance.</li>
-	<li>Determine and take any needed actions to adjust existing procurement processes to meet energy management system (EnMS) requirements.</li>
-	<li>Develop life cycle criteria for specific types of procurement activities if you do not have them already.</li>
-	<li>Develop and communicate specifications for the purchase of energy supply and ensuring the energy performance of procured equipment and services.</li>
-	<li>Determine if any specifications for the purchase of energy supplies are applicable to ensure the energy performance of equipment and services purchased.</li>
+	<li>Para compras relacionadas con usos significativos de energ&iacute;a (SEUs), identifique claramente los requerimientos relacionados con el rendimiento energ&eacute;tico. Comunique estos requerimientos a los proveedores y / o proveedores de servicios e inf&oacute;rmeles que el rendimiento energ&eacute;tico es parte de los criterios de evaluaci&oacute;n.</li>
+	<li>Eval&uacute;e los procesos de adquisici&oacute;n actuales de su organizaci&oacute;n para productos que pueden afectar significativamente el rendimiento energ&eacute;tico.</li>
+	<li>Determine y tome las medidas necesarias para ajustar los procesos de adquisici&oacute;n existentes para cumplir con los requisitos del sistema de gesti&oacute;n de energ&iacute;a (EnMS).</li>
+	<li>Desarrolle criterios de ciclo de vida para tipos espec&iacute;ficos de actividades de adquisici&oacute;n si a&uacute;n no los tiene.</li>
+	<li>Desarrolle y comunique especificaciones para la compra de suministro de energ&iacute;a y asegure que los equipos y servicios adquiridos tengan el nivel adecuado de rendimiento energ&eacute;tico.</li>
+	<li>Determine si las especificaciones para la compra de suministros de energ&iacute;a son aplicables para garantizar el rendimiento energ&eacute;tico de los equipos y servicios adquiridos.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>The purchase of energy-using products, equipment, and services can affect your organization&rsquo;s significant energy uses (SEUs) and energy performance. Your organization must establish a procurement process to ensure energy performance is considered when procurement is related to your organization&rsquo;s SEUs or when it can have a significant impact on energy performance. Your procurement activities need to support effective management of SEUs and the achievement of improved energy performance.</p>
+<p>La compra de productos, equipos y servicios que usan energ&iacute;a puede afectar los usos significativos de energ&iacute;a (SEUs) y el rendimiento energ&eacute;tico de su organizaci&oacute;n. Su organizaci&oacute;n debe establecer un proceso de adquisici&oacute;n para garantizar que se considere el rendimiento energ&eacute;tico cuando la adquisici&oacute;n est&eacute; relacionada con los SEUs de su organizaci&oacute;n o cuando pueda tener un impacto significativo en el rendimiento energ&eacute;tico. Sus actividades de adquisici&oacute;n deben respaldar una gesti&oacute;n eficaz de los SEUs y el logro de un mejor rendimiento energ&eacute;tico.</p>
 
-<p>You should evaluate energy performance over the planned or expected operating lifetime for any purchased items or services expected to have a significant impact on energy performance. Your organization must determine the evaluation criteria. These criteria look beyond your SEUs, so consider the bigger picture of how procurement impacts any item that substantially affects energy performance.</p>
+<p>Debe evaluar el rendimiento energ&eacute;tico durante la vida &uacute;til planeada o prevista para cualquier art&iacute;culo o servicio adquirido que se espera tenga un impacto significativo en el rendimiento energ&eacute;tico. Su organizaci&oacute;n debe determinar los criterios de evaluaci&oacute;n. Estos criterios van m&aacute;s all&aacute; de sus SEUs, as&iacute; que considere un panorama completo de la forma en que las adquisiciones impactan cualquier art&iacute;culo que afecte sustancialmente el rendimiento energ&eacute;tico.</p>
 
-<p>An important part of procurement in an EnMS involves ensuring the energy performance, over time, of procured equipment and services. If applicable, you must define and communicate those specifications to the appropriate personnel.</p>
+<p>Una parte importante de la adquisici&oacute;n en un EnMS implica asegurar el adecuado rendimiento energ&eacute;tico a largo plazo de los equipos y servicios adquiridos. Si corresponde, debe definir y comunicar esas especificaciones al personal apropiado.</p>
 
-<p>Another important part of procurement in an EnMS involves acquiring an adequate supply of energy with acceptable quality to maintain ongoing operations. Developing purchasing specifications for the types of energy used by your organization helps ensure the availability of a sufficient quantity of energy with acceptable quality and at a reasonable price.</p>
+<p>Otra parte importante de la adquisici&oacute;n en un EnMS consiste en adquirir un suministro adecuado de energ&iacute;a con calidad aceptable para mantener las operaciones en curso. El desarrollo de especificaciones de compra para los tipos de energ&iacute;a utilizados por su organizaci&oacute;n ayuda a garantizar la disponibilidad de una cantidad suficiente de energ&iacute;a con una calidad aceptable y a un precio razonable.</p>
 
-<p><em>This guidance is relevant to Section 8.3 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 8.3 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Inform suppliers of energy performance as an evaluation factor for SEU-related purchases)</p>
+<p>[Accordion](Informe a los proveedores que el rendimiento energ&eacute;tico es un factor de evaluaci&oacute;n para compras relacionadas con SEUs)</p>
 
-<p>You identified significant energy uses (SEUs) (Task 9 [task](Significant Energy Uses)) to focus your resources in the areas where you can achieve the most benefit. When an energy use is identified as significant, you should address a number of ISO 50001 requirements that apply specifically to SEUs, including those related to procurement.</p>
+<p>Usted identific&oacute; usos de energ&iacute;a significativos (SEUs) (Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a)) para concentrar sus recursos en las &aacute;reas donde puede obtener el mayor beneficio. Cuando un uso de energ&iacute;a se identifica como significativo, debe atender una serie de requerimientos de ISO 50001 que se aplican espec&iacute;ficamente a los SEUs, incluidos los relacionados con las adquisiciones de su organizaci&oacute;n.</p>
 
-<p>[Learn More](Purchases related to SEUs)</p>
+<p>[Learn More](Compras relacionadas con SEUs)</p>
 
-<p>Examples of purchases that could be related to SEUs include:</p>
+<p>Los ejemplos de compras que podr&iacute;an estar relacionadas con SEUs incluyen:</p>
 
 <ul>
-	<li>Repair parts</li>
-	<li>Add-on equipment</li>
-	<li>Replacement parts or equipment</li>
-	<li>Maintenance materials</li>
-	<li>Maintenance services</li>
-	<li>Operational and maintenance controls</li>
-	<li>Calibration services</li>
-	<li>Supplies</li>
-	<li>Input materials</li>
-	<li>Operator services</li>
-	<li>Engineering services</li>
-	<li>Consultants</li>
+	<li>Partes de reparaci&oacute;n</li>
+	<li>Equipo adicional</li>
+	<li>Partes de repuesto o equipos</li>
+	<li>Materiales de mantenimiento.</li>
+	<li>Servicios de mantenimiento</li>
+	<li>Controles operativos y de mantenimiento.</li>
+	<li>Servicios de calibraci&oacute;n</li>
+	<li>Suministros</li>
+	<li>Materiales de insumos</li>
+	<li>Servicios de operador</li>
+	<li>Servicios de Ingenier&iacute;a</li>
+	<li>Consultores</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>Your organization determines the role energy performance will play in the procurement selection process. For purchases related to an SEU, procurement specifications need to clearly identify any energy performance-related requirements. Communicate these requirements to suppliers and inform them that energy performance is part of the evaluation criteria. Energy performance does not have to be the sole or most heavily weighted criterion, but it is one of the factors you use to make the final purchase decision. Consider leveraging your existing supplier communication processes for this purpose, such as through purchase orders, supplier meetings, and supplier agreements.</p>
+<p>Su organizaci&oacute;n determina el papel que desempe&ntilde;ar&aacute; el rendimiento energ&eacute;tico en el proceso de selecci&oacute;n de adquisiciones. Para las compras relacionadas con un SEU, las especificaciones de adquisici&oacute;n deben identificar claramente cualquier requerimiento relacionado con el rendimiento energ&eacute;tico. Comunique estos requisitos a los proveedores e inf&oacute;rmeles que el rendimiento energ&eacute;tico es parte de los criterios de evaluaci&oacute;n. El rendimiento energ&eacute;tico no tiene que ser el &uacute;nico criterio o el m&aacute;s importante, pero es uno de los factores que utiliza para tomar la decisi&oacute;n final de compra. Considere aprovechar sus procesos existentes de comunicaci&oacute;n con proveedores para este prop&oacute;sito, adem&aacute;s de &oacute;rdenes de compra, reuniones de proveedores y acuerdos de proveedores.</p>
 
-<p>Purchased services that will impact an SEU must be identified and service providers informed that energy performance is part of the evaluation criteria for procuring their services. Competency in energy efficiency is a common evaluation factor in procuring energy-related services.</p>
+<p>Los servicios adquiridos que afectar&aacute;n a un SEU deben ser identificados y los proveedores de servicios deben saber que el rendimiento energ&eacute;tico es parte de los criterios de evaluaci&oacute;n para la adquisici&oacute;n de sus servicios. La competencia en materia de eficiencia energ&eacute;tica es un factor de evaluaci&oacute;n com&uacute;nmente usado en la adquisici&oacute;n de servicios relacionados con la energ&iacute;a.</p>
 
-<p>[Learn More](Evaluation factors relevant to service providers)</p>
+<p>[Learn More](Factores de evaluaci&oacute;n relevantes para proveedores de servicios)</p>
 
-<p>Evaluation factors related to service providers could include relevant:</p>
+<p>Los factores de evaluaci&oacute;n relacionados con los proveedores de servicios podr&iacute;an incluir:</p>
 
 <ul>
-	<li>Training</li>
-	<li>Certifications</li>
-	<li>Experience with similar energy uses</li>
-	<li>Skilled trades availability</li>
-	<li>Procurement practices for parts or materials</li>
-	<li>Client recommendations or reviews</li>
+	<li>Capacitaci&oacute;n</li>
+	<li>Certificaciones</li>
+	<li>Experiencia con usos similares de energ&iacute;a.</li>
+	<li>Disponibilidad de oficios calificados</li>
+	<li>Pr&aacute;cticas de adquisici&oacute;n de piezas o materiales.</li>
+	<li>Recomendaciones o comentarios de clientes</li>
 </ul>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Establish operating lifetime energy performance criteria for purchases expected to significantly affect energy performance)</p>
+<p>[Accordion](Establecer criterios de rendimiento energ&eacute;tico por ciclo de vida operativa para compras que se espera que afecten significativamente el rendimiento energ&eacute;tico)</p>
 
-<p>It is important that your organization makes the connection between procurement and its impact on energy performance. At a minimum, energy performance for your organization is determined by the following:</p>
+<p>Es importante que su organizaci&oacute;n establezca la conexi&oacute;n entre las adquisiciones y su impacto en el rendimiento energ&eacute;tico. Como m&iacute;nimo, el rendimiento energ&eacute;tico de su organizaci&oacute;n est&aacute; determinado por lo siguiente:</p>
 
 <ul>
-	<li>Energy performance of the significant energy uses</li>
-	<li>Significant energy uses relevant variables</li>
-	<li>Energy performance indicators (EnPIs)</li>
-	<li>Effectiveness in meeting energy objectives and targets through action plans</li>
-	<li>Actual versus expected energy consumption evaluation</li>
+	<li>Rendimiento energ&eacute;tico de los usos energ&eacute;ticos significativos.</li>
+	<li>La energ&iacute;a significativa utiliza variables relevantes.</li>
+	<li>Indicadores de rendimiento energ&eacute;tico (EnPIs)</li>
+	<li>Efectividad en el cumplimiento de los objetivos y metas energ&eacute;ticas a trav&eacute;s de planes de acci&oacute;n.</li>
+	<li>Evaluaci&oacute;n del consumo de energ&iacute;a real versus esperado</li>
 </ul>
 
-<p>If a purchase can affect one of more of these key characteristics, your organization must establish criteria for evaluating whether there is a significant impact on energy performance.</p>
+<p>Si una compra puede afectar una o m&aacute;s de estas caracter&iacute;sticas clave, su organizaci&oacute;n debe establecer criterios para evaluar si existe un impacto significativo en el rendimiento energ&eacute;tico.</p>
 
-<p>[Learn More](Evaluation criteria examples)</p>
+<p>[Learn More](Ejemplos de criterios de evaluaci&oacute;n)</p>
 
-<p>Some examples are as follows:</p>
-
-<ul>
-	<li><strong>Significant energy use:</strong> Assume that your lighting system has been determined to be an SEU. You may define a significant impact as the purchase of certain lighting items, the number of items, a cost level, or any purchase associated with lighting.</li>
-	<li><strong>Significant energy use relevant variables:</strong> A relevant variable for the lighting system SEU is the amount of daylight. If your organization has skylights and you are considering a new roof that would eliminate the skylights, the loss of daylight could result in a significant impact on the operation and energy consumption of the lighting system. A significant impact could be defined as a certain consumption increase or the potential for consumption increase.</li>
-	<li><strong>Effectiveness in meeting objectives and energy targets through action plans:</strong> The purchase of a service or piece of equipment could determine whether an energy target is reached for an energy improvement project. Failure to meet the target could be a significant impact on energy performance.</li>
-</ul>
-
-<p>[Learn More End]</p>
-
-<p>Brainstorm other factors that can have a major impact on energy performance, such as controls for SEUs, controls to sustain past energy improvement projects, and energy system maintenance activities.</p>
-
-<p>Significant impact on energy performance can be a specific hurdle or limit, or it can be an evaluation based on your organization&rsquo;s experience. Be mindful of using cost as a hurdle for determining significant impact, as it can be misleading. For example, buying a few light bulbs on a frequent basis can have a bigger impact on energy performance than replacing one large piece of machinery once over a long time span.</p>
-
-<p>Similarly, a significant impact on energy performance does not have to relate to large items or complex services. It can result from relatively inexpensive maintenance items.</p>
-
-<p>[Learn More](Example maintenance items that can significantly impact energy performance)</p>
-
-<p>Example maintenance items that can significantly impact energy performance include:</p>
+<p>Algunos ejemplos son los siguientes:</p>
 
 <ul>
-	<li>High efficiency air filters</li>
-	<li>Synthetic lubricants</li>
-	<li>Cogged v-belts</li>
-	<li>Low leakage couplings</li>
-	<li>Electronic condensate drain valves on compressed air systems</li>
+	<li><strong>Uso significativo de energ&iacute;a</strong>: suponga que se ha determinado que su sistema de iluminaci&oacute;n es un SEU. Puede definir un impacto significativo como la compra de ciertos art&iacute;culos de iluminaci&oacute;n, el n&uacute;mero de art&iacute;culos, un nivel de costo o cualquier compra asociada con la iluminaci&oacute;n.</li>
+	<li><strong>Variables relevantes para el uso significativo de energ&iacute;a</strong>: Una variable relevante para el sistema de iluminaci&oacute;n SEU es la cantidad de luz natural. Si su organizaci&oacute;n tiene tragaluces y est&aacute; considerando un nuevo techo que eliminar&iacute;a los tragaluces, la p&eacute;rdida de luz del d&iacute;a podr&iacute;a tener un impacto significativo en la operaci&oacute;n y el consumo de energ&iacute;a del sistema de iluminaci&oacute;n. Un impacto significativo podr&iacute;a definirse como un cierto aumento del consumo o el potencial de aumento del consumo.</li>
+	<li><strong>Efectividad en el cumplimiento de objetivos y metas energ&eacute;ticas a trav&eacute;s de planes de acci&oacute;n</strong>: la compra de un servicio o equipo podr&iacute;a determinar si se alcanza una meta energ&eacute;tica para un proyecto de mejora energ&eacute;tica. El incumplimiento del objetivo podr&iacute;a tener un impacto significativo en el rendimiento energ&eacute;tico.</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>If a purchase can have a significant impact on energy performance, your organization should evaluate the purchase and its energy performance over its planned or expected operating lifetime. Many tools can be used to calculate life cycle cost, and the best one for your organization will depend on the items purchased and their application, as well as the complexity of your accounting system.</p>
+<p>Analice otros factores que pueden tener un impacto importante en el rendimiento energ&eacute;tico, como los controles para los SEUs, los controles para apoyar proyectos anteriores de mejora energ&eacute;tica ​​y las actividades de mantenimiento del sistema energ&eacute;tico.</p>
 
-<p>To ensure that procurement actions support the EnMS, it is critical that procurement personnel be kept informed about the requirements of the EnMS, including the SEU and the types of items and services that can significantly affect your organization&rsquo;s energy performance. This information enables them to make appropriate procurement decisions. Procurement personnel must be familiar with the key characteristics of operations that determine energy performance, and mindful that energy performance and life cycle assessment may be part of the procurement decision. Once personnel are aware of their role within the EnMS, it is their responsibility to purchase items in a manner consistent with the EnMS&rsquo;s requirements.</p>
+<p>El impacto significativo en el rendimiento energ&eacute;tico puede ser un obst&aacute;culo o l&iacute;mite espec&iacute;fico, o puede ser una evaluaci&oacute;n basada en la experiencia de su organizaci&oacute;n. Tenga cuidado al considerar &uacute;nicamente el costo como obst&aacute;culo para determinar un impacto significativo, ya que este aspecto puede ser enga&ntilde;oso. Por ejemplo, comprar algunos focos con frecuencia puede tener un mayor impacto en el rendimiento energ&eacute;tico que reemplazar una gran pieza de maquinaria una vez durante un per&iacute;odo de tiempo prolongado.</p>
 
-<p>[Learn More](Life cycle tool resource list)</p>
+<p>Del mismo modo, un impacto significativo en el rendimiento energ&eacute;tico no tiene que estar relacionado con art&iacute;culos grandes o servicios complejos. Este impacto puede ser consecuencia de elementos de mantenimiento relativamente econ&oacute;micos.</p>
 
-<p>Below is a non-exhaustive list of sources for tools that will assist you in conducting a life cycle analysis:</p>
+<p>[Learn More](Ejemplos de art&iacute;culos de mantenimiento que pueden afectar significativamente el rendimiento energ&eacute;tico en su organizaci&oacute;n)</p>
 
-<p><strong>Building Life Cycle Cost Programs:</strong> The National Institute of Standards and Technology (NIST) developed the Building Life Cycle Cost (BLCC) Programs to provide computational support for the analysis of capital investments in buildings. They include BLCC, the Energy Escalation Rate Calculator, Handbook 135, and the Annual Supplement to Handbook 135.</p>
+<p>Los ejemplos de art&iacute;culos de mantenimiento que pueden afectar significativamente el rendimiento energ&eacute;tico incluyen:</p>
 
-<p><strong>Sustainable Facilities Tool:</strong> The General Services Administration (GSA) SFTool website provides resources to help site managers, purchasing agents, designers, and tenants make more sustainable decisions in their procurement, building management and operational practices.</p>
-
-<p><strong>Life Cycle Assessment Software, Tools and Databases</strong> - Links to a variety of life cycle assessment (LCA) software tools.</p>
+<ul>
+	<li>Filtros de aire de alta eficiencia.</li>
+	<li>Lubricantes sint&eacute;ticos</li>
+	<li>Correas en V con dientes (v-belts)</li>
+	<li>Acoplamientos de baja fuga</li>
+	<li>V&aacute;lvulas electr&oacute;nicas de drenaje de condensado en sistemas de aire comprimido.</li>
+</ul>
 
 <p>[Learn More End]</p>
 
-<p>Procurement in your organization may be handled by a corporate or headquarters function. To satisfy the ISO 50001 requirements you may need to work with the corporate procurement function to implement the necessary procurement processes.</p>
+<p>Si una compra puede tener un impacto significativo en el rendimiento energ&eacute;tico, su organizaci&oacute;n debe evaluar la compra y su rendimiento energ&eacute;tico durante su vida &uacute;til planeada o prevista. Se pueden usar muchas herramientas para calcular el costo del ciclo de vida, y la mejor para su organizaci&oacute;n depender&aacute; de los art&iacute;culos comprados y su aplicaci&oacute;n, as&iacute; como de la complejidad de su sistema de contabilidad.</p>
+
+<p>Para garantizar que las acciones de adquisici&oacute;n respalden el EnMS, es fundamental que el personal de adquisiciones se mantenga informado sobre los requisitos del EnMS, incluido el SEU y los tipos de elementos y servicios que pueden afectar significativamente el rendimiento energ&eacute;tico de su organizaci&oacute;n. Esta informaci&oacute;n les permite tomar decisiones de adquisici&oacute;n apropiadas. El personal de adquisiciones debe estar familiarizado con las caracter&iacute;sticas clave de las operaciones que determinan el desempe&ntilde;o energ&eacute;tico, y tener en cuenta que el desempe&ntilde;o energ&eacute;tico y la evaluaci&oacute;n del ciclo de vida pueden ser parte de la decisi&oacute;n de adquisici&oacute;n. Una vez que el personal es consciente de su papel dentro de EnMS, es su responsabilidad comprar art&iacute;culos de manera consistente con los requisitos del EnMS.</p>
+
+<p>[Learn More](Lista de herramientas para analizar el ciclo de vida)</p>
+
+<p>A continuaci&oacute;n, se presenta una lista no exhaustiva de herramientas que lo ayudar&aacute;n a realizar un an&aacute;lisis del ciclo de vida:</p>
+
+<p><strong>Programas de Costo del Ciclo de Vida del Edificio</strong>: El Instituto Nacional de Est&aacute;ndares y Tecnolog&iacute;a (NIST) desarroll&oacute; los programas de costo del ciclo de vida del edificio (BLCC) para proporcionar soporte computacional para el an&aacute;lisis de inversiones de capital en edificios. Estos programas incluyen BLCC, la Calculadora de Tasa de Escalamiento de Energ&iacute;a, el Manual 135 y el Suplemento Anual al Manual 135.</p>
+
+<p><strong>Herramienta de instalaciones sustentables</strong>: El sitio web SFTool de la Administraci&oacute;n de Servicios Generales (GSA) proporciona recursos para ayudar a los administradores de sitios, agentes de compras, dise&ntilde;adores e inquilinos a tomar decisiones m&aacute;s sustentables en sus compras, administraci&oacute;n de edificios y pr&aacute;cticas operativas.</p>
+
+<p><strong>Software, herramientas y bases de datos de evaluaci&oacute;n del ciclo de vida:</strong> Enlaces a una variedad de herramientas de software de evaluaci&oacute;n del ciclo de vida (LCA).</p>
+
+<p>[Learn More End]</p>
+
+<p>Las adquisiciones en su organizaci&oacute;n pueden ser manejadas por empleados desempe&ntilde;ando una funci&oacute;n corporativa o de la sede. Para satisfacer los requisitos de ISO 50001, es posible que deba trabajar con los empleados que desempe&ntilde;an la funci&oacute;n de compras corporativas para implementar los procesos necesarios de compras.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Define and communicate procurement specifications for purchases of energy supply and for ensuring the energy performance of procured products and services)</p>
+<p>[Accordion](Defina y comunique las especificaciones de adquisici&oacute;n para las compras de suministro de energ&iacute;a y para garantizar el rendimiento energ&eacute;tico de los productos y servicios adquiridos)</p>
 
-<p>You should define and communicate specifications for purchases of energy supply. The energy requirements for your organization may be adequately addressed by the local supplier(s), and perhaps you do not require special considerations. In this case, the supplier can typically provide the specifications for the energy you are being provided, or it may be specified in your contract, along with the rates.</p>
+<p>Debe definir y comunicar especificaciones para compras de suministro de energ&iacute;a. El proveedor o proveedores locales pueden atender adecuadamente los requerimientos de energ&iacute;a para su organizaci&oacute;n, y quiz&aacute;s no necesite consideraciones especiales. En este caso, el proveedor generalmente puede proporcionar las especificaciones para la energ&iacute;a que se le proporciona, o puede especificarse este aspecto en su contrato, junto con las tarifas.</p>
 
-<p>Your organization may have special needs, or there may be other considerations for selecting and purchasing the energy needed for your site. If your organization has unique energy supply requirements, you may have to develop the specifications necessary to meet your needs.</p>
+<p>Su organizaci&oacute;n puede tener necesidades especiales, o puede haber otras consideraciones para seleccionar y comprar la energ&iacute;a necesaria para su sitio. Si su organizaci&oacute;n tiene requisitos &uacute;nicos de suministro de energ&iacute;a, es posible que deba desarrollar las especificaciones necesarias para satisfacer sus necesidades.</p>
 
-<p>[Learn More](Factors affecting the development of specifications for purchasing various types of energy)</p>
+<p>[Learn More](Factores que afectan el desarrollo de especificaciones para la compra de varios tipos de energ&iacute;a)</p>
 
-<p><a name="_heading=h.30j0zll"></a>The development of energy supply purchasing specifications can depend on:</p>
+<p>El desarrollo de las especificaciones de compra de suministro de energ&iacute;a puede depender de:</p>
 
 <ul>
-	<li>Equipment requirements</li>
-	<li>Energy availability</li>
-	<li>Site location</li>
-	<li>Manufacturing process requirements</li>
-	<li>Environmental regulations</li>
-	<li>Other governmental regulations</li>
+	<li>Requerimientos del equipo</li>
+	<li>Disponibilidad de energ&iacute;a.</li>
+	<li>Ubicaci&oacute;n del sitio</li>
+	<li>Requerimientos del proceso de fabricaci&oacute;n.</li>
+	<li>Regulaciones ambientales</li>
+	<li>Otras regulaciones gubernamentales</li>
 </ul>
 
-<p>For example:</p>
+<p>Por ejemplo:</p>
 
-<p>Governmental regulations: Governmental regulations specify that a new site must use the local electrical utility provider if the site&rsquo;s connected load will be less than 900 kilovolts. Above 900 kilovolts, the organization can select their provider with a competitive bid process. The local supplier may allow few variations in the characteristics or rates of the energy supplied. If the load is large, competition may allow more flexibility in the energy specifications.</p>
+<p>Regulaciones gubernamentales: las regulaciones gubernamentales especifican que un sitio nuevo debe usar el proveedor local de servicios el&eacute;ctricos si la carga conectada del sitio ser&aacute; inferior a 900 kilovoltios. Por encima de 900 kilovoltios, la organizaci&oacute;n puede seleccionar su proveedor con un proceso competitivo de licitaci&oacute;n. El proveedor local puede permitir algunas variaciones en las caracter&iacute;sticas o tasas de la energ&iacute;a suministrada. Si la carga es grande, la competencia puede permitir una mayor flexibilidad en las especificaciones de energ&iacute;a.</p>
 
-<p>Manufacturing process requirements: A carpet manufacturer uses a direct-fired dryer. Because the carpet comes in contact with combustion products, a clean fuel like natural gas or propane is required. Fuel oil or solid fuels are not used, since contact between the finished product and combustion gases could result in contamination with soot or ash.</p>
+<p>Requisitos del proceso de fabricaci&oacute;n: un fabricante de alfombras utiliza una secadora de horno directo (direct-fired). Debido a que la alfombra entra en contacto con productos de combusti&oacute;n, se requiere un combustible limpio como el gas natural o el propano. No se utilizan combust&oacute;leos ni combustibles s&oacute;lidos, ya que el contacto entre el producto terminado y los gases de combusti&oacute;n podr&iacute;a generar contaminaci&oacute;n con holl&iacute;n o cenizas.</p>
 
 <p>[Learn More End]</p>
 
-<p>Specifications you may need to consider for your energy supply can include requirements related to quality, quantity, reliability, and cost.</p>
+<p>Las especificaciones que debe tener en cuenta para su suministro de energ&iacute;a pueden incluir requerimientos relacionados con aspectos de calidad, cantidad, confiabilidad y costo.</p>
 
-<p>[Learn More](Factors affecting energy supply specifications)</p>
+<p>[Learn More](Factores que afectan las especificaciones de suministro de energ&iacute;a)</p>
 
-<p>Examples of each of these factors (quality, quantity, reliability, and cost) include the following:</p>
+<p>Los ejemplos de cada uno de estos factores (calidad, cantidad, confiabilidad y costo) incluyen los siguientes:</p>
 
 <ul>
-	<li>Quality
-	<ul style="list-style-type:circle">
-		<li>Maximum moisture content in coal</li>
-		<li>Maximum sulfur content in fuel oil</li>
-		<li>Minimum Btu content in fuels</li>
-		<li>Acceptable voltage variation</li>
-		<li>Minimum power factor</li>
+	<li>&bull;Calidad
+	<ul style="list-style-type:disc">
+		<li>Contenido m&aacute;ximo de humedad en el carb&oacute;n.</li>
+		<li>Contenido m&aacute;ximo de azufre en el combust&oacute;leo</li>
+		<li>Contenido m&iacute;nimo de Btu en combustibles</li>
+		<li>Variaci&oacute;n de voltaje aceptable</li>
+		<li>Factor m&iacute;nimo de potencia</li>
 	</ul>
 	</li>
-	<li>Quantity
-	<ul style="list-style-type:circle">
-		<li>Amount</li>
-		<li>Delivery requirements</li>
+	<li>Cantidad
+	<ul style="list-style-type:disc">
+		<li>Cantidad</li>
+		<li>Requerimientos de suministro</li>
 	</ul>
 	</li>
-	<li>Reliability
-	<ul style="list-style-type:circle">
-		<li>Allowable quality variation</li>
-		<li>Allowable delivery variation</li>
-		<li>Interruptible acceptance</li>
+	<li>Confiabilidad
+	<ul style="list-style-type:disc">
+		<li>Variaci&oacute;n permitida de calidad</li>
+		<li>Variaci&oacute;n permitida de suministro</li>
+		<li>Aceptaci&oacute;n de intermitencia</li>
 	</ul>
 	</li>
-	<li>Cost
-	<ul style="list-style-type:circle">
-		<li>Cost per unit</li>
-		<li>Cost for non-interruption</li>
-		<li>Demand cost</li>
-		<li>Delivery cost</li>
+	<li>Costo
+	<ul style="list-style-type:disc">
+		<li>Costo por unidad</li>
+		<li>Costo por no interrupci&oacute;n</li>
+		<li>Costo de demanda</li>
+		<li>Costo de suministro</li>
 	</ul>
 	</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>To help you develop purchasing specifications for energy supply, you may want to use the optional Playbook worksheet. The Playbook worksheet will help you identify important energy supply parameters and formulate suitable purchasing specifications. Because purchasing specifications are dependent on the energy source, this resource includes separate tabs for electricity, natural gas, fuel oil, and solid fuels.</p>
+<p>Para ayudarle a desarrollar especificaciones de compra para el suministro de energ&iacute;a, es posible que desee utilizar la hoja opcional de trabajo Playbook. La hoja de trabajo de Playbook lo ayudar&aacute; a identificar par&aacute;metros importantes de suministro de energ&iacute;a y formular especificaciones de compra adecuadas. Debido a que las especificaciones de compra dependen de la fuente de energ&iacute;a, este recurso incluye secciones separadas para electricidad, gas natural, combust&oacute;leo y combustibles s&oacute;lidos.</p>
 
-<p>Document the energy supply specifications to ensure the energy source, delivery, price, invoicing, payment, and contracting requirements are known by potential vendors and satisfied by selective purchasing. Consult your procurement specialists for help with delivery, invoicing, and payment requirements, and legal analysts for assistance with contractual issues. Document the specifications for purchasing the different types of energy used by the organization. This can help ensure that initial and future energy supply will meet the necessary requirements. The optional Playbook worksheet can be used to help organize the information needed for purchasing of energy supply.</p>
+<p>Documente las especificaciones de suministro de energ&iacute;a para garantizar que los proveedores potenciales conozcan la fuente de energ&iacute;a, la entrega, el precio, la facturaci&oacute;n, el pago y los requisitos de contrataci&oacute;n y que estos requerimientos se satisfagan mediante compras selectivas. Consulte a sus especialistas en adquisiciones para obtener ayuda con los requerimientos de suministro, facturaci&oacute;n y pago, y analistas legales para asistencia con problemas contractuales. Documente las especificaciones para comprar los diferentes tipos de energ&iacute;a utilizados por la organizaci&oacute;n. Esto puede ayudar a garantizar que el suministro de energ&iacute;a inicial y futura cumpla con los requerimientos necesarios. La hoja de trabajo opcional Playbook se puede usar para ayudar a organizar la informaci&oacute;n necesaria para la compra de suministro de energ&iacute;a.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Document procurement)</p>
+<p>[Accordion](Documentaci&oacute;n de adquisiciones)</p>
 
-<p>Where applicable, your organization must define and document specifications needed to ensure the energy performance of equipment and services that have been purchased. First, identify the types of procured equipment and services where specifications are important for maintaining their energy performance. For those, consider possible specifications related to receiving inspections, equipment installation, preventive maintenance, operational controls, procurement of related supplies, etc. If specifications are needed, document them or incorporate them into training activities and ensure there are processes in place to communicate them to the appropriate personnel. If specifications are already in place for energy-using equipment and services, then check that the specifications are communicated to those who need to know them.</p>
+<p>Cuando corresponda, su organizaci&oacute;n debe definir y documentar las especificaciones necesarias para garantizar el rendimiento energ&eacute;tico de los equipos y servicios que se han comprado. Primero, identifique los tipos de equipos y servicios adquiridos en los casos en que las especificaciones son importantes para mantener su rendimiento energ&eacute;tico. Para estos casos, considere posibles especificaciones relacionadas con la recepci&oacute;n de inspecciones, instalaci&oacute;n de equipos, mantenimiento preventivo, controles operativos, adquisici&oacute;n de suministros relacionados, etc. Si se necesitan especificaciones, es necesario documentarlas y/o incorporarlas a las actividades de capacitaci&oacute;n y asegurarse de que existan procesos para comunicarlas al personal apropiado. Si ya existen especificaciones para equipos y servicios que usan energ&iacute;a, verifique que las especificaciones se comuniquen a quienes las necesiten.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Organizations with ISO 14001:2015 and/or ISO 9001:2015 systems have processes in place to both determine and communicate the requirements that need to be met in their procurement actions. When implementing ISO 50001:2018, the existing procurement processes should be evaluated and leveraged as appropriate as the potential starting point for meeting the procurement requirements of ISO 50001.</p>
+<p>Las organizaciones con sistemas ISO 14001: 2015 y / o ISO 9001: 2015 cuentan con procesos para determinar y comunicar los requerimientos que deben cumplirse en sus acciones de adquisici&oacute;n. Al implementar ISO 50001: 2018, los procesos de adquisici&oacute;n existentes deben evaluarse y aprovecharse seg&uacute;n corresponda como el posible punto de partida para cumplir con los requisitos de adquisici&oacute;n de ISO 50001.</p>
 
-<p>Consistent with a life cycle perspective, determination of environmental requirements for the procurement of products and services are part of an ISO 14001:2015 system. These processes for determining environmental requirements could be leveraged to help meet the ISO 50001 requirements for life cycle criteria in procurement actions that can significantly impact energy performance. ISO 9001:2015 systems provide processes for control of externally provided products and services that could provide another starting point for implementing ISO 50001 procurement requirements.</p>
+<p>De acuerdo con una perspectiva del ciclo de vida, la determinaci&oacute;n de los requerimientos ambientales para la adquisici&oacute;n de productos y servicios son parte de un sistema ISO 14001: 2015. Estos procesos para determinar los requisitos ambientales podr&iacute;an aprovecharse para ayudar a cumplir con los requerimientos de ISO 50001 para los criterios del ciclo de vida en las acciones de adquisici&oacute;n que pueden afectar significativamente el rendimiento energ&eacute;tico. Los sistemas ISO 9001: 2015 proporcionan procesos para el control de productos y servicios externos que podr&iacute;an proporcionar otro punto de partida para implementar los requerimientos de adquisici&oacute;n de ISO 50001.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 4.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> briefly mentions identifying internal roles, including those related to supply management. ISO 50001 has more specific requirements related to the role of procurement in energy performance, with guidance provided in this task.</p>
+<p>El paso 4.2 de las <em>Gu&iacute;as para Gesti&oacute;n de Energ&iacute;a de ENERGY STAR&reg;</em> menciona brevemente la identificaci&oacute;n de funciones internas, incluidas las relacionadas con la gesti&oacute;n del suministro. ISO 50001 tiene requerimientos m&aacute;s espec&iacute;ficos relacionados con el papel de las adquisiciones en el rendimiento energ&eacute;tico, con orientaci&oacute;n proporcionada en esta tarea.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

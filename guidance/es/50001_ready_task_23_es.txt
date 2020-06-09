@@ -7,183 +7,183 @@ Revisión de la Administración
 Tarea 23: La alta dirección revisa periódicamente el sistema de gestión de energía 50001 Ready y el rendimiento energético de nuestra organización para garantizar su idoneidad, adecuación y eficacia continuas.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Define the intervals at which top management will review the energy management system (EnMS) and energy performance.</li>
-	<li>Identify who must participate in the management review.</li>
-	<li>Compile the relevant data and information (inputs) needed for the management review and prepare this information for presentation.</li>
-	<li>Conduct management reviews that address all required inputs and outputs.</li>
-	<li>Implement the decisions and actions (outputs) of management reviews.</li>
-	<li>Determine if the EnMS continues to be suitable, adequate, effective, and aligned with your organization&rsquo;s strategic direction.</li>
-	<li>Maintain a record of the management reviews.</li>
+	<li>Defina los periodos de tiempo en los que la alta direcci&oacute;n revisar&aacute; el sistema de gesti&oacute;n de energ&iacute;a (EnMS) y el rendimiento energ&eacute;tico.</li>
+	<li>Identifique qui&eacute;n debe participar en la revisi&oacute;n administrativa.</li>
+	<li>Recopile los datos e informaci&oacute;n relevantes (insumos) necesarios para la revisi&oacute;n de la gerencia y prepare esta informaci&oacute;n para su presentaci&oacute;n.</li>
+	<li>Realice revisiones de la administraci&oacute;n que aborden todas los insumos y productos requeridos.</li>
+	<li>Implemente las decisiones y acciones (productos) de las revisiones de la gerencia.</li>
+	<li>Determine si el EnMS contin&uacute;a siendo id&oacute;neo, adecuado, efectivo y alineado con la direcci&oacute;n estrat&eacute;gica de su organizaci&oacute;n.</li>
+	<li>Mantenga un registro de las revisiones de la gerencia.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Management must periodically evaluate the ongoing suitability, adequacy, and effectiveness of the energy management system (EnMS), ensuring that it continues to be aligned with the strategic direction of the organization. Since the focus of an ISO 50001 EnMS is to improve energy management and energy performance, this review includes the following:</p>
+<p>La gerencia debe evaluar peri&oacute;dicamente la idoneidad, adecuaci&oacute;n y efectividad continuas del sistema de gesti&oacute;n de energ&iacute;a (EnMS), asegurando que contin&uacute;e alineado con la direcci&oacute;n estrat&eacute;gica de la organizaci&oacute;n. Dado que el enfoque de un ISO 50001 EnMS es mejorar la gesti&oacute;n de la energ&iacute;a y el rendimiento energ&eacute;tico, esta revisi&oacute;n incluye lo siguiente:</p>
 
 <ul>
-	<li>Analyzing data related to the EnMS and energy performance</li>
-	<li>Determining if appropriate actions are being taken</li>
-	<li>Making decisions on opportunities for improving or making changes to the EnMS</li>
+	<li>Analizar los datos relacionados con el EnMS y el rendimiento energ&eacute;tico.</li>
+	<li>Determinar si se est&aacute;n tomando las medidas apropiadas</li>
+	<li>Tomar decisiones sobre oportunidades para mejorar o hacer cambios en el EnMS</li>
 </ul>
 
-<p>This review and evaluation is the responsibility of top management and is conducted in the form of a management review. An effective management review process ensures the following:</p>
+<p>Esta revisi&oacute;n y evaluaci&oacute;n es responsabilidad de la alta direcci&oacute;n y se realiza en forma de una revisi&oacute;n de la gerencia. Un proceso eficaz de revisi&oacute;n de gesti&oacute;n garantiza lo siguiente:</p>
 
 <ul>
-	<li>Appropriate data and information is collected</li>
-	<li>The information is presented in a way that is meaningful to management and conducive to decision-making</li>
-	<li>Management makes decisions related to continual improvement opportunities for both energy performance and the EnMS</li>
-	<li>Actions required by the decisions are implemented</li>
+	<li>Se recopilan datos e informaci&oacute;n apropiados.</li>
+	<li>La informaci&oacute;n se presenta de una manera que sea significativa para la administraci&oacute;n y resulte propicia para la toma de decisiones.</li>
+	<li>La gerencia toma decisiones relacionadas con las oportunidades de mejora continua tanto para el rendimiento energ&eacute;tico como para el EnMS</li>
+	<li>Se implementan las acciones requeridas por las decisiones.</li>
 </ul>
 
-<p><em>This guidance is relevant to Section 9.3 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 9.3 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Plan the management review)</p>
+<p>[Accordion](Planifique la revisi&oacute;n de la administraci&oacute;n)</p>
 
-<p><strong>Frequency:</strong> Management reviews must be conducted at planned intervals; however, the frequency depends on your organization. When there are changes to your organization&rsquo;s energy situation, or a large number of action plans or capital projects under way related to the energy management system (EnMS), then additional management reviews may be needed. More frequent management reviews allow for quicker responses to issues and opportunities, while conducting a review annually serves as a review of the year. There is no prescribed or required frequency as long as the review is effective. Management review also does not have to be done as a single review; it can be a series of partial reviews. However, the partial reviews should result in a complete review of the entire EnMS over a specific period of time. Twelve months is the typical length of time within which the entire management system is reviewed.</p>
+<p><strong>Frecuencia:</strong> las revisiones de la gerencia deben realizarse en intervalos planeados; sin embargo, la frecuencia depende de su organizaci&oacute;n. Cuando hay cambios en la situaci&oacute;n energ&eacute;tica de su organizaci&oacute;n, o hay una gran cantidad de planes de acci&oacute;n o proyectos de capital en curso relacionados con el sistema de gesti&oacute;n de energ&iacute;a (EnMS), entonces pueden ser necesarias revisiones de gesti&oacute;n adicionales. Las revisiones administrativas m&aacute;s frecuentes permiten respuestas m&aacute;s r&aacute;pidas a problemas y oportunidades, mientras que la realizaci&oacute;n de una revisi&oacute;n anual sirve como una revisi&oacute;n de ese periodo. No hay una frecuencia prescrita o requerida, siempre que la revisi&oacute;n sea efectiva. La revisi&oacute;n de la gerencia tampoco tiene que hacerse como una revisi&oacute;n &uacute;nica; puede realizarse como una serie de revisiones parciales. Sin embargo, las revisiones parciales deber&iacute;an resultar en una revisi&oacute;n completa de todo el EnMS durante un per&iacute;odo espec&iacute;fico de tiempo. Doce meses es el per&iacute;odo de tiempo t&iacute;pico dentro del cual se revisa todo el sistema de gesti&oacute;n.</p>
 
-<p><strong>Means: </strong>The means for accomplishing a management review is determined by your organization and is dictated by its needs. For example, management reviews could be conducted in a face-to-face meeting or through teleconferences, email exchanges, electronic meetings, or other forms of electronic reviews. It is important that key information is communicated to top management for their use in making decisions and determining needed actions to ensure continual improvement of energy performance and the EnMS.</p>
+<p><strong>Medios</strong>: Los medios para llevar a cabo una revisi&oacute;n de la administraci&oacute;n se determinan por su organizaci&oacute;n y sus necesidades. Por ejemplo, las revisiones de la gerencia podr&iacute;an llevarse a cabo en una reuni&oacute;n presencial o a trav&eacute;s de teleconferencias, intercambios de correo electr&oacute;nico, reuniones electr&oacute;nicas u otras formas de revisiones electr&oacute;nicas. Es importante que la informaci&oacute;n clave se comunique a la alta direcci&oacute;n para su uso en la toma de decisiones y la determinaci&oacute;n de las acciones necesarias para garantizar la mejora continua del rendimiento energ&eacute;tico y el EnMS.</p>
 
-<p><strong>Participants:</strong> At a minimum, your organization&rsquo;s top management and a representative from the energy management team (most often, the leader of the team) participate in management review. Others may be invited to join, based on:</p>
+<p><strong>Participantes</strong>: como m&iacute;nimo, la alta gerencia de su organizaci&oacute;n y un representante del equipo de gesti&oacute;n de energ&iacute;a (con mayor frecuencia, el l&iacute;der del equipo) participan en la revisi&oacute;n de la administraci&oacute;n. Otros pueden ser invitados a unirse, en base a:</p>
 
 <ul>
-	<li>who needs the information.</li>
-	<li>who can take action.</li>
-	<li>who can provide the resources needed for any necessary actions.</li>
+	<li>qui&eacute;n necesita la informaci&oacute;n.</li>
+	<li>qui&eacute;n puede tomar medidas.</li>
+	<li>qui&eacute;n puede proporcionar los recursos necesarios para cualquier acci&oacute;n necesaria.</li>
 </ul>
 
-<p>One best practice to consider is that some organizations define a quorum that is required in order to conduct a management review, or specify a minimum attendance by certain positions or functions. If a quorum cannot be obtained or the required positions are not represented, the review is rescheduled or conducted through alternative means.</p>
+<p>Una pr&aacute;ctica recomendada a considerar es que algunas organizaciones definen un qu&oacute;rum que se requiere para llevar a cabo una revisi&oacute;n por parte de la gerencia o especifican una asistencia m&iacute;nima por parte de representantes de ciertos puestos o funciones. Si no se puede obtener un qu&oacute;rum o las posiciones requeridas no est&aacute;n representadas, la revisi&oacute;n se reprograma o se realiza a trav&eacute;s de medios alternativos.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Collect information)</p>
+<p>[Accordion](Recopilar informaci&oacute;n)</p>
 
-<p>Management review involves fact-based decision-making (outputs) related to continual improvement of the organization&rsquo;s EnMS and energy performance. These decisions are accomplished by analyzing specific information (inputs) about the system and its performance.</p>
+<p>La revisi&oacute;n de la administraci&oacute;n implica la toma de decisiones fundamentadas en hechos (resultados) relacionadas con la mejora continua del EnMS y el rendimiento energ&eacute;tico de la organizaci&oacute;n. Estas decisiones se logran mediante el an&aacute;lisis de informaci&oacute;n espec&iacute;fica (insumos) sobre el sistema y su rendimiento.</p>
 
-<p><strong>Responsibility:</strong> Although top management is responsible for ensuring the management review takes place, the energy management team is responsible for preparing the review and reporting to top management. As such, it is up to the energy management team to ensure that relevant information is gathered and provided to top management for their review. The energy management team may call on others who have been assigned responsibility for certain data or information to help compile the information needed. The optional Playbook worksheet can be used for this purpose. Make sure personnel are aware that they are responsible for providing the information in the format specified by the energy management team and that they agree to provide it on or before the due date.</p>
+<p><strong>Responsabilidad:</strong> Aunque la alta direcci&oacute;n es responsable de asegurar que la revisi&oacute;n de la administraci&oacute;n tenga lugar, el equipo de administraci&oacute;n de energ&iacute;a es responsable de preparar la revisi&oacute;n e informar a la alta direcci&oacute;n. Como tal, corresponde al equipo de gesti&oacute;n de energ&iacute;a garantizar que se recopile informaci&oacute;n relevante y se proporcione a la alta direcci&oacute;n para su revisi&oacute;n. El equipo de gesti&oacute;n de energ&iacute;a puede recurrir a otros empleados a quienes se les ha asignado la responsabilidad de ciertos datos o informaci&oacute;n para ayudar a recopilar la informaci&oacute;n necesaria. La hoja de trabajo de Playbook opcional se puede utilizar para este prop&oacute;sito. Aseg&uacute;rese de que el personal sepa que es responsable de proporcionar la informaci&oacute;n en el formato especificado por el equipo de administraci&oacute;n de energ&iacute;a y que acepta proporcionarla en la fecha limite o antes.</p>
 
-<p><strong>Information to be collected:</strong> The extent of the management review (i.e., full or partial) to be performed will dictate the data and other information to be collected. Outputs of the previous management review and activities that have occurred since the last management review are reviewed during each management review.</p>
+<p><strong>Informaci&oacute;n que se debe recopilar</strong>: el alcance de la revisi&oacute;n de la administraci&oacute;n (es decir, total o parcial) que se realizar&aacute; dictar&aacute; los datos y otra informaci&oacute;n que se recopilar&aacute;. Los resultados de la revisi&oacute;n administrativa anterior y las actividades que ocurrieron desde la &uacute;ltima revisi&oacute;n administrativa se revisan durante cada revisi&oacute;n administrativa.</p>
 
-<p>One way to determine the needed information is to start with the end in mind. That means looking at the types of decisions and actions that will result from the management review. Typical topics to be addressed include the following:</p>
+<p>Una forma de determinar la informaci&oacute;n necesaria es comenzar con el fin que se tiene en mente. Eso significa analizar los tipos de decisiones y acciones que resultar&aacute;n de la revisi&oacute;n de la administraci&oacute;n. Los temas t&iacute;picos a tratar incluyen los siguientes:</p>
 
 <ul>
-	<li>What opportunities are there for improvement of:
-	<ul style="list-style-type:circle">
-		<li>energy performance,</li>
-		<li>the EnMS, including its integration with current business processes,</li>
-		<li>competence, and</li>
-		<li>awareness and communication?</li>
+	<li>&iquest;Qu&eacute; oportunidades hay para mejorar:
+	<ul style="list-style-type:disc">
+		<li>rendimiento energ&eacute;tico,</li>
+		<li>el EnMS, incluyendo su integraci&oacute;n con los procesos actuales de negocios,</li>
+		<li>competencia, y</li>
+		<li>sensibilizaci&oacute;n y comunicaci&oacute;n?</li>
 	</ul>
 	</li>
-	<li>What strategic changes or modifications (e.g., a change to the energy policy) are needed, if any?</li>
-	<li>Do the current measures (e.g., energy performance indicators [EnPIs], energy baselines [EnBs]) provide the correct and meaningful information?</li>
-	<li>Is there a need to change, add, or delete any current improvement objective, energy target or action plan?</li>
-	<li>Are the allocations of resources for the EnMS sufficient and appropriate?</li>
-	<li>Is the EnMS suitable, adequate, and effective in achieving continual improvement and aligned with strategic business goals?</li>
+	<li>&iquest;Qu&eacute; cambios o modificaciones estrat&eacute;gicas (por ejemplo, un cambio en la pol&iacute;tica energ&eacute;tica) son necesarias, en caso dado?</li>
+	<li>&iquest;Las medidas actuales (por ejemplo, indicadores de rendimiento energ&eacute;tico [EnPIs], l&iacute;neas de base de energ&iacute;a [EnBs]) proporcionan la informaci&oacute;n correcta y significativa?</li>
+	<li>&iquest;Existe la necesidad de cambiar, agregar o eliminar alg&uacute;n objetivo de mejora actual, meta energ&eacute;tica o plan de acci&oacute;n?</li>
+	<li>&iquest;Son suficientes y apropiadas las asignaciones de recursos para el EnMS?</li>
+	<li>&iquest;El EnMS es id&oacute;neo, adecuado y efectivo para lograr la mejora continua y est&aacute; alineado con los objetivos estrat&eacute;gicos de la organizaci&oacute;n?</li>
 </ul>
 
-<p>Once the relevant topics and types of decisions that need to be made are understood, look at the information generated by the system and determine the data that will help management address these decisions and actions. In other words, the information needed for management review is generated by the systems and processes of the EnMS itself.</p>
+<p>Una vez que se entiendan los temas relevantes y los tipos de decisiones que deben tomarse, observe la informaci&oacute;n generada por el sistema y determine los datos que ayudar&aacute;n a la administraci&oacute;n a abordar estas decisiones y acciones. En otras palabras, la informaci&oacute;n necesaria para la revisi&oacute;n de la administraci&oacute;n es generada por los sistemas y procesos del propio EnMS.</p>
 
-<p>In the management review process, specific considerations related to the EnMS and specific inputs related to the organization&rsquo;s energy performance should be given. Considerations related to the EnMS should include the following:</p>
+<p>En el proceso de revisi&oacute;n de la administraci&oacute;n, se deben dar consideraciones espec&iacute;ficas relacionadas con el EnMS y los insumos espec&iacute;ficos relacionados con el rendimiento energ&eacute;tico de la organizaci&oacute;n. Las consideraciones relacionadas con el EnMS deben incluir lo siguiente:</p>
 
 <ul>
-	<li>Status of actions from prior management reviews</li>
-	<li>Changes in internal and external issues and associated risks and opportunities</li>
-	<li>EnMS performance, including trends in:
-	<ul style="list-style-type:circle">
-		<li>nonconformities and corrective actions</li>
-		<li>monitoring and measuring results</li>
-		<li>results of audits</li>
-		<li>results of evaluations of compliance</li>
+	<li>Estado de las acciones de revisiones administrativas anteriores.</li>
+	<li>Cambios en los problemas internos y externos y los riesgos y oportunidades correspondientes.</li>
+	<li>Rendimiento del EnMS, incluidas las tendencias en:
+	<ul style="list-style-type:disc">
+		<li>no conformidades y acciones correctivas</li>
+		<li>seguimiento y medici&oacute;n de resultados</li>
+		<li>resultados de auditor&iacute;as</li>
+		<li>resultados de evaluaciones de cumplimiento</li>
 	</ul>
 	</li>
-	<li>Opportunities for continual improvement, including for competence</li>
-	<li>Energy policy</li>
+	<li>Oportunidades para la mejora continua, incluida la competencia.</li>
+	<li>La pol&iacute;tica energ&eacute;tica</li>
 </ul>
 
-<p>The energy performance inputs to management review should include:</p>
+<p>Los insumos de rendimiento energ&eacute;tico para la revisi&oacute;n de la gesti&oacute;n deben incluir:</p>
 
 <ul>
-	<li><a name="_heading=h.1fob9te"></a>Extent to which objectives and energy targets have been achieved</li>
-	<li>Energy performance and energy performance improvement based on the results of monitoring and measurement, including the EnPI(s)</li>
-	<li>Action plans and their status</li>
+	<li>Grado en que se han alcanzado los objetivos y las metas energ&eacute;ticas.</li>
+	<li>Rendimiento energ&eacute;tico y mejora del rendimiento energ&eacute;tico en funci&oacute;n de los resultados del monitoreo y la medici&oacute;n, incluidos los EnPI (s)</li>
+	<li>Planes de acci&oacute;n y su estado.</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Prepare information for presentation)</p>
+<p>[Accordion](Prepare la informaci&oacute;n para su presentaci&oacute;n)</p>
 
-<p>In general, the responsible personnel should provide the energy management team with detailed data and information, along with a summary that is concise and represented graphically whenever possible. This facilitates top management&rsquo;s review and understanding of the information. The information should provide the big picture but be detailed enough to allow management to make fact-based decisions. The leader of the energy management team can have detailed data available as a backup in case it is needed during the review to answer questions.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Conduct the management review)</p>
-
-<p>Management review is the &ldquo;Act&rdquo; part of the Plan&ndash;Do&ndash;Check&ndash;Act continual improvement cycle. It is the responsibility of top management and is intended to be a dynamic activity focused on review and action. Remember that the purpose of management review is to ensure the ongoing suitability, adequacy, and effectiveness of the EnMS in terms of meeting requirements and generating the intended results. The EnMS also must be aligned with your organization&rsquo;s strategic direction, which is typically reflected in the organization&rsquo;s strategic goals.</p>
-
-<p>Based on their review of the organization&rsquo;s energy performance and the performance of the EnMS, top management decides what changes are needed and what actions should be taken in regards to continual improvement opportunities. These are required outputs of the management review. Decisions on whether to make changes to the EnMS must address:</p>
-
-<ul>
-	<li>The energy policy</li>
-	<li>EnPIs and EnBs</li>
-	<li>Objectives, energy targets, and action plans</li>
-	<li>Actions to be taken if the objectives, energy targets, and action plans are not achieved</li>
-	<li>Other elements of the EnMS</li>
-	<li>Resource allocations</li>
-</ul>
-
-<p>Although the energy policy statement is generally stable, there can be situations where the policy needs to be modified; for example, if management decides to make additional commitments in the policy for sustainability reasons or if the organization decides to integrate energy management with environmental management. Revisions to the energy policy also can result from changes in organizational leadership, ownership, or structure.</p>
-
-<p>Decisions on potential changes to EnPIs, EnBs, objectives, energy targets, and action plans are made in the context of management&rsquo;s review of the organization&rsquo;s energy performance. These elements are the engines for continual improvement.</p>
-
-<p>Resource allocations should be reviewed frequently and updated as needed, especially during the course of initial EnMS implementation. Often, there can be resource issues that need to be addressed that were not anticipated in planning for EnMS implementation.</p>
-
-<p>Decisions about continual improvement opportunities must address opportunities to improve the following:</p>
-
-<ul>
-	<li>Energy performance</li>
-	<li>Integration with business processes</li>
-	<li>Competence</li>
-	<li>Awareness and communication</li>
-</ul>
-
-<p>It is important that processes to identify continual improvement opportunities are not limited to energy performance. There should also be continual improvement of the EnMS, and this explicitly includes identifying opportunities to improve:</p>
-
-<ul>
-	<li>How the EnMS is incorporated into the organization&rsquo;s operations</li>
-	<li>The competence of personnel</li>
-	<li>The awareness of personnel</li>
-	<li>Communications to, from, and among personnel</li>
-</ul>
-
-<p>All these opportunities are related to both energy management and energy performance.</p>
+<p>En general, el personal responsable debe proporcionar al equipo de gesti&oacute;n de energ&iacute;a datos e informaci&oacute;n detallados, junto con un resumen conciso y representado gr&aacute;ficamente siempre que sea posible. Esto facilita la revisi&oacute;n de la alta direcci&oacute;n y la comprensi&oacute;n de la informaci&oacute;n. La informaci&oacute;n debe proporcionar un panorama general, pero debe ser lo suficientemente detallada como para permitir que la gerencia tome decisiones basadas en hechos. El l&iacute;der del equipo de administraci&oacute;n de energ&iacute;a puede tener datos detallados disponibles como respaldo, en caso de que sea necesario responder preguntas durante la revisi&oacute;n.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Retain records)</p>
+<p>[Accordion](Realizar la revisi&oacute;n de la Administraci&oacute;n)</p>
 
-<p>Records of management reviews must be retained. The format of the record is not prescribed, but the record should identify the following:</p>
+<p>La revisi&oacute;n de la administraci&oacute;n es la parte &quot;Actuar&quot; del ciclo de mejora continua Planificar-Hacer-Verificar-Actuar. Esta actividad es responsabilidad de la alta direcci&oacute;n y pretende ser una actividad din&aacute;mica centrada en la revisi&oacute;n y la acci&oacute;n. Recuerde que el prop&oacute;sito de la revisi&oacute;n de la administraci&oacute;n es garantizar la idoneidad, adecuaci&oacute;n y efectividad continuas del EnMS en t&eacute;rminos del cumplimiento con los requerimientos y la generaci&oacute;n de los resultados previstos. El EnMS tambi&eacute;n debe estar alineado con la direcci&oacute;n estrat&eacute;gica de su organizaci&oacute;n, la cual generalmente se refleja en los objetivos estrat&eacute;gicos de la organizaci&oacute;n.</p>
 
-<ul>
-	<li>Date of the management review</li>
-	<li>Names and positions of participants</li>
-	<li>Topics covered and information presented</li>
-	<li>Any decisions or actions to be taken</li>
-	<li>Any assignments made during the meeting</li>
-</ul>
-
-<p>Once all of the inputs of management review have been covered within a defined time period, the record of management review should include the decisions made by top management as to whether the EnMS continues to be suitable, adequate, and effective, and aligned with the organization&rsquo;s strategic direction. The following questions should be asked:</p>
+<p>Con base en su revisi&oacute;n del desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n y el desempe&ntilde;o del EnMS, la alta gerencia decide qu&eacute; cambios son necesarios y qu&eacute; acciones deben tomarse con respecto a las oportunidades de mejora continua. Estos son los resultados requeridos de la revisi&oacute;n de la administraci&oacute;n. Las decisiones sobre la posible necesidad de realizar cambios en el EnMS deben considerar:</p>
 
 <ul>
-	<li>Suitable: Is the EnMS still appropriate to the purpose of the organization, its culture, operations, and business systems?</li>
-	<li>Adequate: Is the EnMS capable of continuing to meet the 50001 Ready Navigator guidance and the other EnMS requirements established by the organization?</li>
-	<li>Effective: Is the EnMS achieving the intended planned results, including energy performance improvement and improvement in energy management?</li>
-	<li>Aligned: Does the EnMS reflect and contribute to the strategic business priorities of the organization?</li>
+	<li>La pol&iacute;tica energ&eacute;tica.</li>
+	<li>EnPIs y EnBs</li>
+	<li>Objetivos, metas energ&eacute;ticas y planes de acci&oacute;n.</li>
+	<li>Acciones a tomar si no se logran los objetivos, las metas de energ&iacute;a y los planes de acci&oacute;n.</li>
+	<li>Otros elementos del EnMS</li>
+	<li>Asignaciones de recursos.</li>
 </ul>
 
-<p>Top management should understand these expectations and what they mean. The decisions made on the suitability, adequacy, effectiveness, and alignment of the EnMS should be supported by the data and information covered in management review.</p>
+<p>Aunque la pol&iacute;tica energ&eacute;tica es generalmente estable, puede haber situaciones en las que la pol&iacute;tica necesita ser modificada; por ejemplo, si la gerencia decide hacer compromisos adicionales en la pol&iacute;tica por razones de sustentabilidad o si la organizaci&oacute;n decide integrar la gesti&oacute;n energ&eacute;tica con la gesti&oacute;n ambiental. Las revisiones de la pol&iacute;tica energ&eacute;tica tambi&eacute;n pueden ser el resultado de cambios en el liderazgo organizacional, la propiedad o la estructura.</p>
+
+<p>Las decisiones sobre posibles cambios en los EnPIs, las EnBs, objetivos, metas energ&eacute;ticas y planes de acci&oacute;n se toman en el contexto de la revisi&oacute;n del desempe&ntilde;o energ&eacute;tico de la organizaci&oacute;n por parte de la gerencia. Estos elementos son los motores para la mejora continua.</p>
+
+<p>Las asignaciones de recursos deben revisarse con frecuencia y actualizarse seg&uacute;n sea necesario, especialmente durante el curso de la implementaci&oacute;n inicial del EnMS. A menudo, puede haber problemas de recursos que deben abordarse que no se anticiparon en la planeaci&oacute;n de la implementaci&oacute;n del EnMS.</p>
+
+<p>Las decisiones sobre las oportunidades de mejora continua deben abordar las oportunidades para mejorar lo siguiente:</p>
+
+<ul>
+	<li>rendimiento energ&eacute;tico</li>
+	<li>Integraci&oacute;n con los procesos de negocio.</li>
+	<li>Competencia</li>
+	<li>Sensibilizaci&oacute;n y comunicaci&oacute;n.</li>
+</ul>
+
+<p>Es importante que los procesos para identificar oportunidades de mejora continua no se limiten al rendimiento energ&eacute;tico. Tambi&eacute;n deber&iacute;a haber una mejora continua del EnMS, y esto incluye expl&iacute;citamente la identificaci&oacute;n de oportunidades para mejorar lo siguiente:</p>
+
+<ul>
+	<li>C&oacute;mo se incorpora el EnMS en las operaciones de la organizaci&oacute;n</li>
+	<li>La competencia del personal.</li>
+	<li>La sensibilizaci&oacute;n del personal.</li>
+	<li>Procesos de comunicaci&oacute;n con el personal.</li>
+</ul>
+
+<p>Todas estas oportunidades est&aacute;n relacionadas tanto con la gesti&oacute;n energ&eacute;tica como con el rendimiento energ&eacute;tico.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Conservar registros)</p>
+
+<p>Se deben conservar los registros de las revisiones de la gerencia. No hay un formato de registro definido, pero el registro debe identificar lo siguiente:</p>
+
+<ul>
+	<li>Fecha de la revisi&oacute;n de la administraci&oacute;n.</li>
+	<li>Nombres y cargos de los participantes.</li>
+	<li>Temas cubiertos e informaci&oacute;n presentada.</li>
+	<li>Cualquier decisi&oacute;n o acci&oacute;n a tomar</li>
+	<li>Cualquier tarea realizada durante la reuni&oacute;n</li>
+</ul>
+
+<p>Una vez que se hayan cubierto todos los aportes de la revisi&oacute;n de la gerencia en un per&iacute;odo definido de tiempo, el registro de la revisi&oacute;n de la gerencia debe incluir las decisiones tomadas por la alta gerencia respecto a si el EnMS contin&uacute;a siendo id&oacute;neo, adecuado y efectivo, y est&aacute; alineado con la direcci&oacute;n estrat&eacute;gica de la organizaci&oacute;n. Deben hacerse las siguientes preguntas:</p>
+
+<ul>
+	<li>Id&oacute;neo: &iquest;El EnMS sigue siendo apropiado para el prop&oacute;sito de la organizaci&oacute;n, su cultura, operaciones y sistemas comerciales?</li>
+	<li>Adecuado: &iquest;El EnMS tiene la capacidad de continuar cumpliendo con la gu&iacute;a 50001 Ready Navigator y los dem&aacute;s requerimientos del EnMS establecidos por la organizaci&oacute;n?</li>
+	<li>Efectivo: &iquest;Est&aacute; el EnMS logrando los resultados previstos en la planeaci&oacute;n, incluida la mejora del rendimiento energ&eacute;tico y la mejora en la gesti&oacute;n de la energ&iacute;a?</li>
+	<li>Alineado: &iquest;El EnMS refleja y contribuye a las prioridades comerciales estrat&eacute;gicas de la organizaci&oacute;n?</li>
+</ul>
+
+<p>La alta gerencia debe comprender estas expectativas y lo que significan. Las decisiones tomadas sobre la idoneidad, adecuaci&oacute;n, efectividad y alineaci&oacute;n del EnMS deben estar respaldadas por los datos y la informaci&oacute;n cubiertos en la revisi&oacute;n de la administraci&oacute;n.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>A management review process implemented for ISO 9001:2015 or ISO 14001:2015 can be used for ISO 50001:2018, either as a stand-alone process or as an integrated one. At a minimum, top management for all three of these management systems performs the review to ensure the ongoing suitability, adequacy, and effectiveness of the management system. Required information (&ldquo;input&rdquo;) is gathered, collated, and prepared for review, although there are some differences between these standards in terms of the exact information needed. The information gathering and preparation processes can be the same for ISO 50001 as for ISO 9001 or ISO 14001, although different personnel would be involved, depending on the management system under review. That the outputs of management review are decisions and actions is something all three systems have in common, although there will be some differences in the topics addressed by those decisions and actions.</p>
+<p>Un proceso de revisión de gestión implementado para ISO 9001: 2015 o ISO 14001: 2015 se puede utilizar para ISO 50001: 2018, ya sea como un proceso independiente o integrado. Como mínimo, la alta dirección de estos tres sistemas de gestión realiza la revisión para garantizar la idoneidad, adecuación y eficacia continuas del sistema de gestión. La información requerida ("insumo") se recopila, organiza y prepara para su revisión, aunque existen algunas diferencias entre estos estándares en términos de la información exacta necesaria. Los procesos de recopilación y preparación de información pueden ser los mismos para ISO 50001 que para ISO 9001 o ISO 14001, aunque intervendría personal diferente, dependiendo del sistema de gestión bajo revisión. El hecho de que los resultados de la revisión de la administración son decisiones y acciones es algo que los tres sistemas tienen en común, aunque habrá algunas diferencias en los temas tratados por esas decisiones y acciones.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>This guidance is relevant to steps 5.2, 5.5, 6.0, 6.1, and 6.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management.</em> An EnMS management review has a formal structure that requires top management to ensure the suitability, adequacy, and effectiveness of the EnMS and continual improvement in energy performance. The EnMS management review process may capitalize on the ENERGY STAR strategies to gain management support (Step 5.2), conduct periodic reviews (Step 5.5), identify and perform corrective actions from reviews (Step 5.5), and evaluate progress and results from formal reviews (Step 6.0).</p>
+<p>Esta gu&iacute;a es relevante para los pasos 5.2, 5.5, 6.0, 6.1 y 6.2 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a </em>ENERGY STAR&reg;. Una revisi&oacute;n de la gesti&oacute;n de EnMS tiene una estructura formal que es requerida por la alta direcci&oacute;n para garantizar la idoneidad, adecuaci&oacute;n y eficacia del EnMS y la mejora continua en el rendimiento energ&eacute;tico. El proceso de revisi&oacute;n de la gesti&oacute;n de EnMS puede aprovechar las estrategias de ENERGY STAR para obtener apoyo de la gerencia (Paso 5.2), realizar revisiones peri&oacute;dicas (Paso 5.5), identificar y realizar acciones correctivas derivadas de las revisiones (Paso 5.5) y evaluar el progreso y los resultados de las revisiones formales (Paso 6.0).</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

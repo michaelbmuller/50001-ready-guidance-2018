@@ -7,108 +7,108 @@ Consideraciones sobre Consumo de Energía en Procesos de Diseño
 Tarea 18: Consideramos las oportunidades de mejora del rendimiento energético y los controles operativos al diseñar sitios, equipos, sistemas y procesos nuevos, modificados o renovados.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Identify the sites, equipment, systems, and processes that can have significant impact on energy performance.</li>
-	<li>Incorporate consideration of energy opportunities and operational controls in design projects.</li>
-	<li>Include results of energy performance considerations in specification, design, and procurement activities, where applicable.</li>
-	<li>Retain records of the results of design activities related to energy performance.</li>
+	<li>Identifique los sitios, equipos, sistemas y procesos que pueden tener un impacto significativo en el rendimiento energ&eacute;tico.</li>
+	<li>Incorpore la consideraci&oacute;n de oportunidades de ahorro energ&eacute;tico y controles operativos en proyectos de dise&ntilde;o.</li>
+	<li>Incluya los resultados de las consideraciones de rendimiento energ&eacute;tico en las actividades de especificaci&oacute;n, dise&ntilde;o y adquisiciones de la organizaci&oacute;n, cuando corresponda.</li>
+	<li>Conserve registros de los resultados de las actividades de dise&ntilde;o relacionadas con el rendimiento energ&eacute;tico.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>In ISO 50001, the design requirements are not associated with the design of products or services to be sold or offered as a service; they are applicable to the development of new, modified, and renovated sites, equipment, systems, and processes that can have a major impact on energy performance within the scope of the energy management system (EnMS). These requirements incorporate consideration of energy performance improvement opportunities and operational controls into design activities. This can provide the basis for more innovative and energy-efficient designs.</p>
+<p>En ISO 50001, los requerimientos de dise&ntilde;o no est&aacute;n asociados con el dise&ntilde;o de productos o servicios para ser vendidos u ofrecidos como un servicio; son aplicables al desarrollo de sitios, equipos, sistemas y procesos nuevos, modificados y renovados que pueden tener un impacto importante en el rendimiento energ&eacute;tico dentro del alcance del sistema de gesti&oacute;n de energ&iacute;a (EnMS). Estos requerimientos incorporan la consideraci&oacute;n de oportunidades de mejora del rendimiento energ&eacute;tico y controles operativos en las actividades de dise&ntilde;o. Esto puede proporcionar la base para dise&ntilde;os m&aacute;s innovadores y eficientes en t&eacute;rminos del consumo de energ&iacute;a.</p>
 
-<p><em>This guidance is relevant to Section 8.2 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 8.2 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Identify energy uses that have significant impact on energy performance)</p>
+<p>[Accordion](Identifique los usos de energ&iacute;a que tienen un impacto significativo en el rendimiento energ&eacute;tico)</p>
 
-<p>Any sites, equipment, systems, or processes that are within the scope of the EnMS that can or will significantly impact energy performance fall under the design requirements of ISO 50001. This means that energy performance improvement opportunities and operational controls must be considered when you design, renovate, or modify any sites, equipment, systems, and processes that can significantly impact your energy efficiency, energy use, and energy consumption.</p>
+<p>Todos los sitios, equipos, sistemas o procesos que est&aacute;n dentro del alcance del EnMS y que pueden afectar o afectar&aacute;n significativamente el rendimiento energ&eacute;tico forman parte de los requerimientos de dise&ntilde;o de ISO 50001. Esto significa que las oportunidades de mejora del rendimiento energ&eacute;tico y los controles operativos deben considerarse al dise&ntilde;ar, renovar o modificar sitios, equipos, sistemas y procesos que puedan afectar significativamente su eficiencia energ&eacute;tica, uso de energ&iacute;a y consumo de energ&iacute;a.</p>
 
-<p>Depending on project specifics, items that can significantly affect energy performance include sites, equipment, systems, or processes associated with:</p>
+<p>Dependiendo de los detalles del proyecto, los elementos que pueden afectar significativamente el rendimiento energ&eacute;tico incluyen sitios, equipos, sistemas o procesos asociados con:</p>
 
 <ul>
-	<li>Management and operation of significant energy uses</li>
-	<li>Achievement of energy objectives, targets, and action plans</li>
-	<li>Energy performance indicators (EnPIs)</li>
+	<li>Gesti&oacute;n y operaci&oacute;n de usos energ&eacute;ticos significativos.</li>
+	<li>Logro de objetivos, metas y planes de acci&oacute;n energ&eacute;ticos.</li>
+	<li>Indicadores de rendimiento energ&eacute;tico (EnPIs)</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Incorporate consideration of energy opportunities and operational control in design projects)</p>
+<p>[Accordion](Incorporar la consideraci&oacute;n de oportunidades de ahorro de energ&iacute;a y control operativo en proyectos de dise&ntilde;o)</p>
 
-<p>When designing new sites, equipment, systems, and processes, or renovating or modifying existing ones, think about how they can or will affect your organization&rsquo;s energy performance. Identify:</p>
-
-<ul>
-	<li>Potential energy performance improvements that can be considered for the design</li>
-	<li>Any operational controls that may be needed, including controls necessary to achieve energy performance improvement and minimize or appropriately manage the impacts of the design on your organization&rsquo;s energy performance</li>
-</ul>
-
-<p>Examples of design for energy performance improvement include the following:</p>
+<p>Al dise&ntilde;ar nuevos sitios, equipos, sistemas y procesos, o renovar o modificar los existentes, piense en c&oacute;mo pueden afectar o afectar&aacute;n el rendimiento energ&eacute;tico de su organizaci&oacute;n. Es necesario identificar lo siguiente:</p>
 
 <ul>
-	<li>Design lighting to automatically adjust according to the amount of daylight present. (equipment)</li>
-	<li>Design air conditioning systems to use a water-cooled central chiller instead of an air-cooled split system for cooling. (system)</li>
-	<li>Design the molding process such that hydraulic pumps only pump the volume needed instead of operating at full speed and pumping full volume. (processes)</li>
+	<li>Posibles mejoras en el rendimiento energ&eacute;tico que pueden considerarse para el dise&ntilde;o.</li>
+	<li>Cualquier control operativo que pueda ser necesario, incluidos los controles necesarios para lograr la mejora del rendimiento energ&eacute;tico y minimizar o administrar adecuadamente los impactos del dise&ntilde;o en el rendimiento energ&eacute;tico de su organizaci&oacute;n</li>
 </ul>
 
-<p>Some questions to ask when designing new, modified, or renovated sites, equipment, systems, and processes include:</p>
+<p>Los ejemplos de dise&ntilde;o para la mejora del rendimiento energ&eacute;tico incluyen los siguientes:</p>
 
 <ul>
-	<li>What characteristics of this item impact energy consumption (past, current, or future)?</li>
-	<li>Where and how can energy consumption be reduced?</li>
+	<li>Dise&ntilde;e la iluminaci&oacute;n para que se ajuste autom&aacute;ticamente seg&uacute;n la cantidad de luz del d&iacute;a presente. (equipo)</li>
+	<li>Dise&ntilde;e sistemas de aire acondicionado para utilizar un chiller central enfriado por agua en lugar de un sistema dividido enfriado por aire para el enfriamiento. (sistema)</li>
+	<li>Dise&ntilde;e el proceso de moldeo de manera que las bombas hidr&aacute;ulicas solo tengan que bombear el volumen necesario en lugar de operar a toda velocidad y tengan que bombear a toda capacidad. (procesos)</li>
 </ul>
 
-<p>When evaluating the opportunities for improving energy performance, consider the following:</p>
+<p>Algunas preguntas que pueden plantearse al dise&ntilde;ar sitios, equipos, sistemas y procesos nuevos, modificados o renovados incluyen:</p>
 
 <ul>
-	<li>How will the existing sites, equipment, systems, and processes be modified?</li>
-	<li>What specific items can be changed to improve energy efficiency and reduce energy consumption over time?</li>
-	<li>What is the right energy source for this application?</li>
-	<li>What are the technological options?</li>
-	<li>What operational controls are needed to achieve and sustain design intended energy performance?</li>
+	<li>&iquest;Qu&eacute; caracter&iacute;sticas de este elemento afectan el consumo de energ&iacute;a (pasado, actual o futuro)?</li>
+	<li>&iquest;D&oacute;nde y c&oacute;mo se puede reducir el consumo de energ&iacute;a?</li>
 </ul>
 
-<p>For energy-efficient designs to achieve their full potential, the design process should be coupled with proper operational controls. Since equipment controls can be bypassed or disabled, an operational control strategy should be combined with efficient design to ensure anticipated energy savings are achieved.</p>
+<p>Al evaluar las oportunidades para mejorar el rendimiento energ&eacute;tico, tenga en cuenta lo siguiente:</p>
 
-<p>The optional Playbook worksheet can be useful in identifying and evaluating energy performance improvement opportunities and operational controls in design activities.</p>
+<ul>
+	<li>&iquest;C&oacute;mo se modificar&aacute;n los sitios, equipos, sistemas y procesos existentes?</li>
+	<li>&iquest;Qu&eacute; elementos espec&iacute;ficos se pueden modificar para mejorar la eficiencia energ&eacute;tica y reducir el consumo de energ&iacute;a con el tiempo?</li>
+	<li>&iquest;Cu&aacute;l es la fuente de energ&iacute;a correcta para esta aplicaci&oacute;n?</li>
+	<li>&iquest;Cu&aacute;les son las opciones tecnol&oacute;gicas?</li>
+	<li>&iquest;Qu&eacute; controles operativos son necesarios para lograr y mantener el dise&ntilde;o del rendimiento energ&eacute;tico previsto?</li>
+</ul>
 
-<p>[Learn More](Example Misapplications of Energy-Efficient Technologies)</p>
+<p>Para que los dise&ntilde;os energ&eacute;ticamente eficientes alcancen su m&aacute;ximo potencial, el proceso de dise&ntilde;o debe combinarse con los controles operativos adecuados. Dado que los controles de los equipos se pueden pasar por alto o deshabilitar, se debe combinar una estrategia de control operativo con un dise&ntilde;o eficiente para asegurar el ahorro de energ&iacute;a anticipado.</p>
 
-<p>When designing or upgrading sites, equipment, systems, or processes that can significantly impact energy performance, it is important that close attention be paid to how new energy-efficient technology is specified, applied, and used to avoid misapplications. Installation of &ldquo;energy-efficient&rdquo; equipment does not ensure improved efficiency if the retrofit is not properly specified. And, no energy efficient technology will capture savings when installed or programmed incorrectly.</p>
+<p>La hoja de trabajo opcional de Playbook puede ser &uacute;til para identificar y evaluar las oportunidades de mejora del rendimiento energ&eacute;tico y los controles operativos en las actividades de dise&ntilde;o.</p>
 
-<p>As an example, consider energy efficient air conditioner induction motors. Premium efficiency motors are manufactured using high quality materials to reduce losses, and they consistently demonstrate efficiency improvements of 2 to 5 percent over standard motors. A downside of improved efficiency is that in most cases energy-efficient motors operate at higher speeds than standard motors. This presents a problem in centrifugal device applications such as pumps and fans because higher speed corresponds to higher energy consumption. When replacing standard motors with energy-efficient motors in centrifugal applications, ensure that the replacement motor has the same rated speed as the original, or increased energy consumption will result.</p>
+<p>[Learn More](Ejemplo de aplicaciones err&oacute;neas de tecnolog&iacute;as eficientes en consumo de energ&iacute;a)</p>
 
-<p>Another example related to improper installation of energy-efficient technology concerns air-side economizers. Air-side economizers are a common approach to energy savings in new or retrofit sites. The economizer is a set of outside air dampers that is controlled to bring in outside air when its temperature is below that of the return air. While this technology is a proven method to reduce cooling costs in buildings, a recent survey by the California Energy Commission found that almost 70 percent of the installed airside economizers were not functioning correctly and, consequently, not saving energy. Misapplications discovered included dampers not connected to actuators so they would not open, and improperly programmed controls that fail to open the dampers when the outside conditions are cool enough. These installation errors should be identified and corrected during construction.</p>
+<p>Al dise&ntilde;ar o actualizar sitios, equipos, sistemas o procesos que pueden afectar significativamente el rendimiento energ&eacute;tico, es importante que se preste especial atenci&oacute;n a la forma en que se especifica, aplica y utiliza la nueva tecnolog&iacute;a de eficiencia energ&eacute;tica para evitar aplicaciones incorrectas. La instalaci&oacute;n de equipos &quot;energ&eacute;ticamente eficientes&quot; no asegura una eficiencia mejorada si la modificaci&oacute;n no se especifica correctamente. Ninguna tecnolog&iacute;a de eficiencia energ&eacute;tica capturar&aacute; ahorros cuando se instale o programe incorrectamente.</p>
+
+<p>Como ejemplo, considere los motores de inducci&oacute;n de aire acondicionado con eficiencia energ&eacute;tica. Los motores de eficiencia premium se fabrican con materiales de alta calidad para reducir las p&eacute;rdidas, y demuestran consistentemente mejoras de eficiencia de 2 a 5 por ciento sobre los motores est&aacute;ndar. Una desventaja de la eficiencia mejorada es que, en la mayor&iacute;a de los casos, los motores energ&eacute;ticamente eficientes funcionan a velocidades m&aacute;s altas que los motores est&aacute;ndar. Esto presenta un problema en aplicaciones de dispositivos centr&iacute;fugos como bombas y ventiladores porque una mayor velocidad corresponde a un mayor consumo de energ&iacute;a. Al reemplazar motores est&aacute;ndar con motores de eficiencia energ&eacute;tica en aplicaciones centr&iacute;fugas, aseg&uacute;rese de que el motor de reemplazo tenga la misma velocidad nominal que el original, o se producir&aacute; un mayor consumo de energ&iacute;a.</p>
+
+<p>Otro ejemplo relacionado con la instalaci&oacute;n inadecuada de tecnolog&iacute;a de eficiencia energ&eacute;tica se refiere a los economizadores air-side. Los economizadores air-side son un m&eacute;todo com&uacute;nmente usado para el ahorro de energ&iacute;a en sitios nuevos o reconfigurados. El economizador es un conjunto de reguladores de aire exterior que se controla para introducir aire exterior cuando su temperatura es inferior a la del aire de retorno. Si bien esta tecnolog&iacute;a es un m&eacute;todo comprobado para reducir los costos de enfriamiento en los edificios, una encuesta reciente realizada por la Comisi&oacute;n de Energ&iacute;a de California encontr&oacute; que casi el 70 por ciento de los economizadores instalados en el aire no funcionaban correctamente y, en consecuencia, no ahorraban energ&iacute;a. Las aplicaciones err&oacute;neas descubiertas inclu&iacute;an reguladores no conectados a los actuadores para que no se abrieran, y controles programados incorrectamente que no activaron los reguladores cuando las condiciones exteriores eran lo suficientemente fr&iacute;as. Estos errores de instalaci&oacute;n deben identificarse y corregirse durante la construcci&oacute;n.</p>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Include energy performance considerations in specification, design, and procurement)</p>
+<p>[Accordion](Incluir consideraciones de rendimiento energ&eacute;tico en las actividades de especificaci&oacute;n, dise&ntilde;o y adquisici&oacute;n de sus proyectos)</p>
 
-<p>Once the questions above have been answered, take action to improve energy performance. The results of the energy performance considerations must be incorporated, where applicable, into the specification, design, and procurement activities related to the project. This should ensure that the decisions on energy efficiency related to the design are carried out. Incorporating results into procurement specifications and activities keeps the purchasing department involved, ensures their awareness of procurement requirements to support energy performance improvements, and provides the justification for any additional costs.</p>
+<p>Una vez que se hayan respondido las preguntas anteriores, tome medidas para mejorar el rendimiento energ&eacute;tico. Los resultados de las consideraciones de rendimiento energ&eacute;tico deben incorporarse, cuando corresponda, en las actividades de especificaci&oacute;n, dise&ntilde;o y adquisici&oacute;n relacionadas con el proyecto. Esto deber&iacute;a garantizar que las decisiones sobre eficiencia energ&eacute;tica relacionadas con el dise&ntilde;o se lleven a cabo. La incorporaci&oacute;n de resultados en las especificaciones y actividades de adquisiciones mantiene al departamento de compras involucrado, garantiza su conocimiento de los requisitos de adquisiciones para respaldar las mejoras de rendimiento energ&eacute;tico y proporciona la justificaci&oacute;n de cualquier costo adicional.</p>
 
-<p>When designing or upgrading sites, equipment, systems, or processes that can significantly impact energy performance, pay close attention to how new energy-efficient technology is specified, applied, and used in order to avoid misapplications. Installation of &ldquo;energy-efficient&rdquo; equipment does not ensure improved efficiency if the retrofit is not properly specified. Moreover, no energy-efficient technology will capture savings when installed or programmed incorrectly.</p>
+<p>Al dise&ntilde;ar o actualizar sitios, equipos, sistemas o procesos que pueden afectar significativamente el rendimiento energ&eacute;tico, preste mucha atenci&oacute;n a c&oacute;mo se especifica, aplica y utiliza la nueva tecnolog&iacute;a de eficiencia energ&eacute;tica para evitar aplicaciones incorrectas. La instalaci&oacute;n de equipos &quot;energ&eacute;ticamente eficientes&quot; no garantiza una eficiencia mejorada si la modificaci&oacute;n no se especifica correctamente. Adem&aacute;s, ninguna tecnolog&iacute;a de eficiencia energ&eacute;tica capturar&aacute; ahorros cuando se instale o programe incorrectamente.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Record results of design activities)</p>
+<p>[Accordion](Registro de resultados de actividades de dise&ntilde;o)</p>
 
-<p>Retain documented information on the results of design activities to show energy considerations were properly addressed. This can take a variety of forms, such as completed checklists, meeting minutes, design drawings, purchasing specifications, and project records.</p>
+<p>Conserve informaci&oacute;n documentada sobre los resultados de las actividades de dise&ntilde;o para mostrar que las consideraciones energ&eacute;ticas se atendieron adecuadamente. Esto puede tomar una variedad de formas, como listas de verificaci&oacute;n completadas, actas de reuniones, dibujos de dise&ntilde;o, especificaciones de compra y registros de proyectos.</p>
 
-<p>[Learn More](Energy Considerations in Design)</p>
+<p>[Learn More](Consideraciones de ahorro energ&eacute;tico en actividades de dise&ntilde;o)</p>
 
-<p>Recommendations for Energy Considerations in Design</p>
+<p>Recomendaciones para consideraciones de ahorro energ&eacute;tico en actividades de dise&ntilde;o:</p>
 
 <ul>
-	<li>Energy Consideration in Design is not intended to apply to products and services, but rather sites, equipment, and systems.</li>
-	<li>Sites, equipment, and systems to be improved through design should be associated with SEUs, EnPIs, and energy objectives and targets.</li>
-	<li>Proper implementation of design projects for energy performance improvement should include proper operational control.</li>
+	<li>La consideraci&oacute;n de ahorro de energ&iacute;a en el dise&ntilde;o no est&aacute; destinada a aplicarse a productos y servicios, sino a sitios, equipos y sistemas.</li>
+	<li>Los sitios, equipos y sistemas a mejorar a trav&eacute;s del dise&ntilde;o deben estar asociados con SEU, EnPI y objetivos y metas de energ&iacute;a.</li>
+	<li>La implementaci&oacute;n adecuada de proyectos de dise&ntilde;o para la mejora del rendimiento energ&eacute;tico debe incluir un control operativo adecuado.</li>
 </ul>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>For organizations with an ISO 9001:2015 quality management system and/or ISO 14001:2015 environmental management system, it is very important to note that the design requirements of ISO 50001:2018 do not apply to the design of products and services. However, the ISO 9001 processes for infrastructure; environment for the operation of processes; planning and control of changes; and, control of externally provided processes, products, and services could be leveraged (with some modifications) to help meet the design requirements of ISO 50001 as related to new, modified and renovated sites, equipment, systems, and processes. The ISO 14001:2015 processes for controlling planned changes might be a starting point for meeting the design requirements of ISO 50001.</p>
+<p>Para las organizaciones con un sistema de gestión de calidad ISO 9001: 2015 y / o un sistema de gestión ambiental ISO 14001: 2015, es muy importante tener en cuenta que los requerimientos de diseño de ISO 50001: 2018 no se aplican al diseño de productos y servicios. Sin embargo, los procesos ISO 9001 para infraestructura; entorno para la operación de procesos; planificación y control de cambios; y, el control de procesos, productos y servicios provistos externamente podría aprovecharse (con algunas modificaciones) para ayudar a cumplir con los requisitos de diseño de ISO 50001 en relación con sitios, equipos, sistemas y procesos nuevos, modificados y renovados. Los procesos ISO 14001: 2015 para controlar los cambios planificados podrían ser un punto de partida para cumplir con los requisitos de diseño de ISO 50001.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Steps 4.2 and 6.1 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> mentions design in the context of determining roles. An EnMS extends its methodology within design requirements for sites, equipment, systems, and processes. Records of results of energy performance considerations within the designs are also required.</p>
+<p>Los pasos 4.2 y 6.1 de las <em>Gu&iacute;as para la Gesti&oacute;n de Energ&iacute;a</em> ENERGY STAR&reg; mencionan el dise&ntilde;o en el contexto de la determinaci&oacute;n de roles. Un EnMS extiende su metodolog&iacute;a dentro de los requisitos de dise&ntilde;o para sitios, equipos, sistemas y procesos. Tambi&eacute;n se requieren registros de resultados de consideraciones de rendimiento energ&eacute;tico dentro de los dise&ntilde;os.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

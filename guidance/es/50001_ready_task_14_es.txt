@@ -7,105 +7,105 @@ Competencias y Capacitación
 Tarea 14: Aseguramos la competencia del personal cuyo trabajo afecta nuestro desempeño energético y nuestro sistema de gestión de energía. Evaluamos la efectividad de las acciones tomadas para adquirir competencias. Conservamos registros apropiados de competencias y capacitación.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Determine necessary competencies for personnel and evaluate their current competencies.</li>
-	<li>Identify any gaps in the competencies of personnel whose work affects energy performance and the energy management system (EnMS), and conduct training to address competency gaps.</li>
-	<li>Evaluate the effectiveness of the actions taken.</li>
-	<li>Retain records of competence and related actions.</li>
+	<li>Determine las competencias necesarias para el personal y eval&uacute;e sus competencias actuales.</li>
+	<li>Identifique cualquier brecha en las competencias del personal cuyo trabajo afecta el rendimiento energ&eacute;tico y el sistema de gesti&oacute;n de energ&iacute;a (EnMS), y realice capacitaciones para abordar las brechas de competencia.</li>
+	<li>Eval&uacute;e la efectividad de las acciones tomadas.</li>
+	<li>Conserve registros de competencia y acciones relacionadas.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Personnel performing work that affects your organization&rsquo;s energy performance and energy management system (EnMS) must have the competence to perform that work. Ensuring the competence of these personnel helps minimize potential negative impacts on energy management and energy performance. If there are any competency gaps among the relevant personnel, including on-site contractors or suppliers, then those gaps must be identified and actions taken to ensure that they are brought up to the level required to perform the job. The actions taken must be evaluated to ensure that they were effective, and appropriate records of competence must be retained.</p>
+<p>El personal que realiza trabajo que afecta el rendimiento energ&eacute;tico y el sistema de gesti&oacute;n de la energ&iacute;a (EnMS) de su organizaci&oacute;n debe ser competente para realizar ese trabajo. Garantizar la competencia de este personal ayuda a minimizar los posibles impactos negativos en la gesti&oacute;n y el rendimiento energ&eacute;tico. Si existen brechas de competencia entre el personal relevante, incluidos los contratistas o proveedores en el sitio, entonces esas brechas deben identificarse y deben tomarse medidas para garantizar que las competencias se lleven al nivel requerido para realizar el trabajo. Las acciones tomadas deben ser evaluadas para asegurar que sean efectivas, y deben conservarse los registros apropiados de competencia.</p>
 
-<p><em>This guidance is relevant to Section 7.2 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 7.2 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Identify personnel who affect your energy performance and the EnMS)</p>
+<p>[Accordion](Identifique al personal que influye en su rendimiento energ&eacute;tico y en el EnMS)</p>
 
-<p>Personnel working under your control whose work affects your organization&rsquo;s energy performance and energy management system (EnMS) must be competent to perform those tasks. These personnel can include salaried, hourly, part-time, and temporary employees, as well as on-site contractors, suppliers, and consultants.</p>
+<p>El personal que trabaja bajo su control cuyo trabajo afecta el rendimiento energ&eacute;tico y el sistema de gesti&oacute;n de energ&iacute;a (EnMS) de su organizaci&oacute;n debe ser competente para realizar esas tareas. Este personal puede incluir empleados asalariados, personal contratado por hora, a tiempo parcial y en forma temporal, as&iacute; como contratistas, proveedores y consultores en el sitio.</p>
 
-<p>In identifying persons who affect energy performance and the EnMS, at a minimum, attention should be given to the energy team and employees and on-site contractors whose work is associated with the following:</p>
+<p>Al identificar a las personas que afectan el rendimiento energ&eacute;tico y el EnMS, como m&iacute;nimo, se debe prestar atenci&oacute;n al equipo de energ&iacute;a y a los empleados y contratistas en el sitio cuyo trabajo est&aacute; asociado con lo siguiente:</p>
 
 <ul>
-	<li>Significant energy uses</li>
-	<li>Objectives, energy targets, and action plans</li>
-	<li>Energy performance indicators (EnPIs)</li>
-	<li>Actions to address risks and opportunities</li>
-	<li>Operation of energized equipment and systems</li>
-	<li>Maintenance (sites, equipment, systems, processes)</li>
-	<li>Design and installation of sites, equipment, systems and processes</li>
-	<li>Purchasing</li>
-	<li>Sustaining past energy performance improvements</li>
-	<li>Energy and related data collection and analysis</li>
+	<li>Usos significativos de energ&iacute;a.</li>
+	<li>Objetivos, metas energ&eacute;ticas y planes de acci&oacute;n.</li>
+	<li>Indicadores de rendimiento energ&eacute;tico (EnPIs)</li>
+	<li>Acciones para abordar riesgos y oportunidades.</li>
+	<li>Operaci&oacute;n de equipos y sistemas que consumen energ&iacute;a.</li>
+	<li>Mantenimiento (sitios, equipos, sistemas, procesos)</li>
+	<li>Dise&ntilde;o e instalaci&oacute;n de sitios, equipos, sistemas y procesos.</li>
+	<li>Compras</li>
+	<li>Mantenimiento de mejoras en el rendimiento energ&eacute;tico del pasado</li>
+	<li>Recopilaci&oacute;n y an&aacute;lisis de energ&iacute;a y datos relacionados</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Determine the necessary competencies and evaluate the current competencies for these personnel)</p>
+<p>[Accordion](Determine las competencias necesarias y eval&uacute;e las competencias actuales para el personal que influye en el rendimiento energ&eacute;tico)</p>
 
-<p>Competency is the ability to apply knowledge and skills for an individual to effectively perform the responsibilities their work requires. Competencies vary for different job positions and are defined on the basis of appropriate education, training, skills, or experience.</p>
-
-<ul>
-	<li><strong>Education:</strong> Knowledge generally acquired through a formal educational program such as a school, technical institute, or university.</li>
-	<li><strong>Training:</strong> Knowledge generally acquired through the teaching of vocational or practical skills and knowledge related to specific useful capabilities. Training typically involves successful completion of a training course or training program or on-the-job training. Examples include boiler operation, electrical system maintenance, or wastewater treatment.</li>
-	<li><strong>Skill:</strong> Talent or ability that can be learned or developed and is subsequently demonstrated. Examples include welding, painting, or software development.</li>
-	<li><strong>Experience:</strong> The accumulation of knowledge or skill that results from direct participation in events, activities, or tasks.</li>
-</ul>
-
-<p>Most organizations have information on the competencies required for various positions. Often, this information is maintained in the Human Resources, Training, or Environmental and Health and Safety (EHS) Departments. The challenge normally is to identify what documentation already exists and where it is located. For example, competency requirements for relevant personnel may be defined in job descriptions, position statements, on-the-job training checklists, contractor or supplier agreements, and the like.</p>
-
-<p>Some questions to consider include the following:</p>
+<p>La competencia es la capacidad de aplicar el conocimiento y las habilidades para que un individuo desempe&ntilde;e efectivamente las responsabilidades que requiere su trabajo. Las competencias var&iacute;an para diferentes puestos de trabajo y se definen sobre la base de la educaci&oacute;n, capacitaci&oacute;n, habilidades o experiencia apropiadas.</p>
 
 <ul>
-	<li>How does your organization currently determine what individual employees and contractors need to know or need to have in order to perform their specific jobs?</li>
-	<li>Who decides competency requirements? Who is involved in this process?</li>
-	<li>Is there documented information on this? If so, where is it located? Who controls that information?</li>
-	<li>Do these competency requirements include what energy-related information employees need to know?</li>
+	<li><strong>Educaci&oacute;n</strong>: conocimiento generalmente adquirido a trav&eacute;s de un programa educativo formal como una escuela, instituto t&eacute;cnico o universidad.</li>
+	<li><strong>Capacitaci&oacute;n</strong>: Conocimiento generalmente adquirido a trav&eacute;s de la ense&ntilde;anza de habilidades vocacionales o pr&aacute;cticas y conocimiento relacionado con capacidades &uacute;tiles espec&iacute;ficas. La capacitaci&oacute;n generalmente implica la finalizaci&oacute;n exitosa de un curso de capacitaci&oacute;n o programa de capacitaci&oacute;n o capacitaci&oacute;n en el trabajo. Los ejemplos incluyen la operaci&oacute;n de la caldera, el mantenimiento del sistema el&eacute;ctrico o el tratamiento de aguas residuales.</li>
+	<li><strong>Habilidad:</strong> Talento o habilidad que se puede aprender o desarrollar y que posteriormente se demuestra. Los ejemplos incluyen soldadura, pintura o desarrollo de software.</li>
+	<li><strong>Experiencia</strong>: la acumulaci&oacute;n de conocimiento o habilidad que resulta de la participaci&oacute;n directa en eventos, actividades o tareas.</li>
 </ul>
 
-<p>If your organization does not have this information for each position that affects energy performance and the EnMS, or the existing processes is highly informal, the optional Playbook worksheet can be useful for defining competency requirements. It can be completed for each individual working in a specific position. These resources can also be used simply to generate ideas on the types of information your organization may want to include in, for example, an online database for maintaining information on competency requirements for the positions that affect energy performance and the EnMS.</p>
+<p>La mayor&iacute;a de las organizaciones tienen informaci&oacute;n sobre las competencias requeridas para varios puestos. A menudo, esta informaci&oacute;n se mantiene en los departamentos de Recursos Humanos, Capacitaci&oacute;n o Medio Ambiente y Salud y Seguridad (EHS). Normalmente, el desaf&iacute;o consiste en identificar qu&eacute; documentaci&oacute;n ya existe y d&oacute;nde se encuentra. Por ejemplo, los requisitos de competencia para el personal relevante pueden definirse en descripciones de trabajo, declaraciones de posici&oacute;n, listas de verificaci&oacute;n de capacitaci&oacute;n en el trabajo, acuerdos con contratistas o proveedores, y similares.</p>
+
+<p>Algunas preguntas a considerar incluyen las siguientes:</p>
+
+<ul>
+	<li>&iquest;C&oacute;mo determina su organizaci&oacute;n actualmente lo que los empleados y contratistas individuales necesitan saber o necesitan tener para realizar sus trabajos espec&iacute;ficos?</li>
+	<li>&iquest;Qui&eacute;n decide los requisitos de competencia? &iquest;Qui&eacute;n est&aacute; involucrado en este proceso?</li>
+	<li>&iquest;Hay informaci&oacute;n documentada sobre esto? Si es as&iacute;, &iquest;d&oacute;nde se puede encontrar? &iquest;Qui&eacute;n controla esa informaci&oacute;n?</li>
+	<li>&iquest;Los requisitos de competencia incluyen la informaci&oacute;n relacionada con la energ&iacute;a que los empleados necesitan saber?</li>
+</ul>
+
+<p>Si su organizaci&oacute;n no tiene esta informaci&oacute;n para cada puesto que afecta el rendimiento energ&eacute;tico y el EnMS, o los procesos existentes son altamente informales, la hoja de trabajo opcional de Playbook puede ser &uacute;til para definir los requerimientos de competencia. Se puede completar para cada individuo que trabaja en una posici&oacute;n espec&iacute;fica. Estos recursos tambi&eacute;n se pueden usar simplemente para generar ideas sobre los tipos de informaci&oacute;n que su organizaci&oacute;n puede incluir, por ejemplo, en una base de datos en l&iacute;nea para mantener informaci&oacute;n sobre los requisitos de competencia para los puestos que afectan el rendimiento energ&eacute;tico y el EnMS.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Where there are competency gaps, take appropriate action)</p>
+<p>[Accordion](Cuando haya brechas de competencia, tome las medidas apropiadas)</p>
 
-<p>Ensuring competence involves determining whether there are any competency gaps among the relevant personnel. If so, then actions need to be taken to address those gaps. For employees, actions could include formal education, training, mentoring, coaching, self-study, professional development activities, and reassignment. For on-site contractors and suppliers, actions could include additional or modified contract provisions or terms of service, contractor/supplier orientation, or other training. In many circumstances, ensuring the competency of on-site contractors and suppliers is a contractual requirement.</p>
+<p>Asegurar la competencia implica determinar si hay brechas de competencia entre el personal relevante. Si es as&iacute;, entonces se deben tomar medidas para abordar esas brechas. Para los empleados, las acciones podr&iacute;an incluir educaci&oacute;n formal, capacitaci&oacute;n, tutor&iacute;a, entrenamiento, autoestudio, actividades de desarrollo profesional y reasignaci&oacute;n. Para los contratistas y proveedores en el sitio, las acciones podr&iacute;an incluir disposiciones contractuales adicionales o modificadas o t&eacute;rminos de servicio, orientaci&oacute;n del contratista / proveedor u otra capacitaci&oacute;n. En muchas circunstancias, garantizar la competencia de los contratistas y proveedores en el sitio es un requisito contractual.</p>
 
-<p>Training is a common method of addressing competency gaps, including those related to energy and energy management. Consider whether there are any new or modified competencies needed for specific groups or categories of employees and contractors, such as those performing work related to significant energy uses (SEUs). They need to be aware of and be able to follow correctly any of the following as they relate to their work responsibilities:</p>
+<p>La capacitaci&oacute;n es un m&eacute;todo com&uacute;n para abordar las brechas de competencia, incluidas las relacionadas con la energ&iacute;a y la gesti&oacute;n de la energ&iacute;a. Considere si se necesitan competencias nuevas o modificadas para grupos o categor&iacute;as espec&iacute;ficas de empleados y contratistas, como los que realizan trabajos relacionados con usos significativos de energ&iacute;a (SEUs). Estos empleados y contratistas deben tener en cuenta y poder seguir correctamente cualquiera de los siguientes aspectos en relaci&oacute;n con sus responsabilidades laborales:</p>
 
 <ul>
-	<li>Operational and maintenance controls and criteria associated with the SEUs (see Task 17 [task](Operational Controls))</li>
-	<li>Monitoring, measuring, and analysis requirements related to the operation of SEUs (see Task 20 [task](Monitoring and Measurement of the EnMS), Task 21 [task](Monitoring and Measurement of Energy Performance Improvement), and Task 9 [task](Significant Energy Uses))</li>
-	<li>Energy performance evaluations of procured products, services, and equipment that affect the SEUs (see Task 19 [task](Energy Considerations in Procurement))</li>
+	<li>Controles y criterios operativos y de mantenimiento asociados con los SEUs (consulte la Tarea 17 [tarea] (Controles Operativos))</li>
+	<li>Requisitos de monitoreo, medici&oacute;n y an&aacute;lisis relacionados con la operaci&oacute;n de SEU (consulte la Tarea 20 [tarea] (Monitoreo y Medici&oacute;n del EnMS), la Tarea 21 [tarea] (Monitoreo y Medici&oacute;n de la Mejora del Rendimiento Energ&eacute;tico) y la Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a))</li>
+	<li>Evaluaciones de rendimiento energ&eacute;tico de productos, servicios y equipos adquiridos que afectan los SEUs (consulte la Tarea 19 [tarea] (Consideraciones sobre Energ&iacute;a en las Adquisiciones))</li>
 </ul>
 
-<p>Other groups of employees and contractors for which additional competencies related to the EnMS may be needed can include internal auditors and personnel with responsibilities related to data collection, analysis, and evaluation.</p>
+<p>Otros grupos de empleados y contratistas para los que pueden necesitarse competencias adicionales relacionadas con el EnMS pueden incluir auditores internos y personal con responsabilidades relacionadas con la recopilaci&oacute;n, an&aacute;lisis y evaluaci&oacute;n de datos.</p>
 
-<p>The optional Playbook worksheet can help you identify and plan EnMS-related training such as ISO 50001 training for the energy team (Task 6 [task](Energy Team and Resources)), general energy awareness training for all personnel (including new employees and on-site contractors) (Task 15 [task](Awareness and Communication)), and internal auditor and lead auditor training (Task 22 [task](Internal Audit)).</p>
+<p>La hoja de trabajo opcional de Playbook puede ayudarle a identificar y planificar la capacitaci&oacute;n relacionada con el EnMS, como la capacitaci&oacute;n ISO 50001 para el equipo de energ&iacute;a (Tarea 6 [tarea] (Equipo y Recursos de Energ&iacute;a)), capacitaci&oacute;n general de conocimiento sobre temas de energ&iacute;a para todo el personal (incluidos los nuevos empleados y contratistas en el sitio) (Tarea 15 [tarea] (Sensibilizaci&oacute;n y Comunicaci&oacute;n)) y capacitaci&oacute;n de auditor interno y auditor l&iacute;der (Tarea 22 [tarea] (Auditor&iacute;a Interna)).</p>
 
-<p>Many larger organizations already have processes in place to evaluate personnel against the competency requirements for their position and to address any needs. Typically, the needs are used to develop a plan to bring the employee up to the desired level of competency. Such processes may be managed by Human Resources and/or EHS functions that need to ensure an annual refresher or other training related to EHS regulatory requirements. Establishing similar processes for the EnMS should leverage any existing training processes and resources.</p>
+<p>Muchas organizaciones m&aacute;s grandes ya cuentan con procesos para evaluar al personal con base en los requisitos de competencia para su puesto y para atender cualquier necesidad. Por lo general, las necesidades se utilizan para desarrollar un plan para llevar al empleado al nivel deseado de competencia. Dichos procesos pueden ser gestionados por Recursos Humanos y / o &aacute;reas de Medio Ambiente, Salud y Seguridad (EHS) que necesitan asegurar una capacitaci&oacute;n actualizada anual u otra capacitaci&oacute;n relacionada con los requerimientos regulatorios de EHS. El establecimiento de procesos similares para el EnMS deber&iacute;a aprovechar los procesos y recursos de capacitaci&oacute;n existentes.</p>
 
-<p>The optional Playbook worksheet can be used to record the evaluation of an individual&rsquo;s education, training, skills, or experience relative to the competency requirements, and to identify gaps.</p>
+<p>La hoja de trabajo opcional de Playbook se puede utilizar para registrar la evaluaci&oacute;n de la educaci&oacute;n, la capacitaci&oacute;n, las habilidades o la experiencia de un individuo en relaci&oacute;n con los requisitos de competencia, y para identificar brechas.</p>
 
-<p>The optional Playbook worksheet can be used to record the training plan, as well as the completion status. Once developed, the training plan usually is reviewed by the employee, supervisor, and/or training coordinator for relevance to the identified training need(s). An example training plan appears in the optional Playbook worksheet.</p>
+<p>La hoja de trabajo opcional de Playbook se puede usar para registrar el plan de capacitaci&oacute;n, as&iacute; como el estado de su finalizaci&oacute;n. Una vez desarrollado, el plan de capacitaci&oacute;n generalmente es revisado por el empleado, el supervisor y / o el coordinador de capacitaci&oacute;n para determinar la relevancia de las necesidades de capacitaci&oacute;n identificadas. Un ejemplo de plan de entrenamiento se incluye en la hoja de trabajo opcional Playbook.</p>
 
-<p>For organizations considering technical training on energy systems, the U.S Department of Energy&rsquo;s (DOE) Advanced Manufacturing Office (AMO) has created training programs focused on best system practices and AMO software tools. AMO courses offerings are available through instructor-led classes and workshops, and through self-paced interactive e-learning courses. To learn more, refer to the DOE website.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Evaluate the effectiveness of the actions taken)</p>
-
-<p>When actions are taken to fill any competency gaps of relevant personnel, it must be determined whether those actions achieved the intended results. How the actions taken are evaluated for effectiveness will vary, depending on the specific actions taken. For example, if the action taken was additional or remedial on-the-job training, effectiveness might be evaluated using supervisor observation and sign-off. For actions such as formal education or training courses, the achievement of a diploma or certificate could demonstrate effectiveness. Other approaches to effectiveness evaluation could be tests and quizzes or, particularly for gaps related to energy management, the use of the EnMS internal audit system. Regardless of the approach used, your organization will want to have confidence that those personnel have attained the desired level of competence.</p>
+<p>Para las organizaciones que consideran la capacitaci&oacute;n t&eacute;cnica en sistemas de energ&iacute;a, la Oficina de Manufactura Avanzada (AMO) del Departamento de Energ&iacute;a de EE. UU. (DOE) ha creado programas de capacitaci&oacute;n centrados en las mejores pr&aacute;cticas del sistema y las herramientas de software de AMO. Las ofertas de cursos de AMO est&aacute;n disponibles a trav&eacute;s de clases y talleres dirigidos por un instructor, y a trav&eacute;s de cursos interactivos de aprendizaje electr&oacute;nico que puede tomar a su propio ritmo. Para obtener m&aacute;s informaci&oacute;n, consulte el sitio web del DOE.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Retain appropriate records of competency)</p>
+<p>[Accordion](Eval&uacute;e la efectividad de las acciones adoptadas)</p>
 
-<p>Retaining records of competency demonstrates that personnel whose work affects energy performance and the EnMS have met your own organization&rsquo;s job requirements. Records of competency could be a variety of different types of documented information, such as resumes, transcripts, diplomas, certificates, completed on-the-job training or other types of completed competency checklists, completed attendance or sign-in sheets, the results of the second party audits of contractors and suppliers, and the like. Be sure this information is controlled under the requirements of Task 16 [task](Documenting the EnMS).</p>
+<p>Cuando se toman medidas para cerrar las brechas de competencia del personal relevante, se debe determinar si esas acciones lograron los resultados previstos. La forma en que se eval&uacute;a la efectividad de las acciones tomadas variar&aacute;, dependiendo de las acciones espec&iacute;ficas que se adoptaron. Por ejemplo, si la acci&oacute;n tomada fue una capacitaci&oacute;n adicional o para mejorar desempe&ntilde;o en el trabajo, la efectividad podr&iacute;a evaluarse utilizando la observaci&oacute;n y la aprobaci&oacute;n del supervisor. Para acciones tales como educaci&oacute;n formal o cursos de capacitaci&oacute;n, el logro de un diploma o certificado podr&iacute;a demostrar efectividad. Otros enfoques para la evaluaci&oacute;n de la efectividad podr&iacute;an ser pruebas y cuestionarios o, particularmente para las brechas relacionadas con la gesti&oacute;n de la energ&iacute;a, el uso del sistema de auditor&iacute;a interna EnMS. Independientemente del enfoque utilizado, su organizaci&oacute;n querr&aacute; tener la confianza de que ese personal ha alcanzado el nivel deseado de competencia.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Conserve los registros apropiados de las competencias)</p>
+
+<p>La retenci&oacute;n de registros de las competencias demuestra que el personal cuyo trabajo afecta el rendimiento energ&eacute;tico y el EnMS ha cumplido con los requisitos laborales de su propia organizaci&oacute;n. Los registros de competencias pueden ser diferentes tipos de informaci&oacute;n documentada, como curr&iacute;culums, historiales acad&eacute;micos, diplomas, certificados, capacitaci&oacute;n completada en el trabajo u otros tipos de listas de verificaci&oacute;n de competencias completadas, comprobaci&oacute;n de asistencia a sesiones de capacitaci&oacute;n u hojas de registro, los resultados de auditor&iacute;as externas de contratistas y proveedores, y similares. Aseg&uacute;rese de que esta informaci&oacute;n est&eacute; controlada seg&uacute;n los requisitos de la Tarea 16 [tarea] (Documentar el EnMS).</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>ISO 50001:2018, ISO 14001:2015, and ISO 9001:2015 have common requirements to ensure the competence of personnel on the basis of appropriate education, training, or experience. An ISO 14001:2015 environmental management system focuses on the competency of personnel that affect the organization&rsquo;s environmental performance and environmental compliance obligations. An ISO 9001:2015 system focuses on personnel that affect the performance and effectiveness of the quality management system. The focus of an ISO 50001:2018 EnMS is on personnel whose work affects the organization&rsquo;s energy performance and EnMS. However, the processes used by the organization to ensure the competency of personnel can be the same for all three management systems, although the personnel and competencies involved in each may be different. In implementing ISO 50001, it is recommended that the processes used to address the competency requirements of ISO 14001 and/or ISO 9001 be applied to the EnMS. Also, the types of competency records maintained for the quality and/or environmental management system(s) would be similar to those needed for the EnMS.</p>
+<p>Las normas ISO 50001: 2018, ISO 14001: 2015 e ISO 9001: 2015 tienen requerimientos comunes para garantizar la competencia del personal sobre la base de una educaci&oacute;n, capacitaci&oacute;n o experiencia adecuada. Un sistema de gesti&oacute;n ambiental ISO 14001: 2015 se centra en la competencia del personal que afecta el desempe&ntilde;o ambiental de la organizaci&oacute;n y las obligaciones de cumplimiento ambiental. Un sistema ISO 9001: 2015 se enfoca en el personal que afecta el desempe&ntilde;o y la efectividad del sistema de gesti&oacute;n de calidad. El enfoque de un EnMS ISO 50001: 2018 est&aacute; en el personal cuyo trabajo afecta el desempe&ntilde;o energ&eacute;tico y el EnMS de la organizaci&oacute;n. Sin embargo, los procesos utilizados por la organizaci&oacute;n para garantizar la competencia del personal pueden ser los mismos para los tres sistemas de gesti&oacute;n, aunque el personal y las competencias involucradas en cada uno pueden ser diferentes. Al implementar ISO 50001, se recomienda que los procesos utilizados para abordar los requisitos de competencia de ISO 14001 y / o ISO 9001 se apliquen al EnMS. Adem&aacute;s, los tipos de registros de competencias mantenidos para los sistemas de gesti&oacute;n de calidad y / o ambiental ser&iacute;an similares a los necesarios para el EnMS.</p>
 
-<p>The types of actions that can be taken to address competency gaps, such as training, education, mentoring and the like, can be applied across all three management systems.</p>
+<p>Los tipos de acciones que se pueden tomar para abordar las brechas de competencia, como la capacitaci&oacute;n, la educaci&oacute;n, la tutor&iacute;a y similares, se pueden aplicar a los tres sistemas de gesti&oacute;n.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 5.3 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> discusses building capacity through training of staff. This 50001 Ready Navigator task guidance, focuses on competence of personnel who affect the energy performance and EnMS of the organization. The common types of training programs identified in the ENERGY STAR guidelines could be used to address competency gaps for specific personnel.</p>
+<p>El paso 5.3 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> ENERGY STAR&reg; analiza la creaci&oacute;n de capacidad a trav&eacute;s de la capacitaci&oacute;n del personal. Esta gu&iacute;a de tareas 50001 Ready Navigator se centra en la competencia del personal que afecta el rendimiento energ&eacute;tico y el EnMS de la organizaci&oacute;n. Los tipos comunes de programas de capacitaci&oacute;n identificados en las gu&iacute;as de ENERGY STAR podr&iacute;an usarse para abordar las brechas de competencia para personal espec&iacute;fico.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

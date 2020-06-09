@@ -7,232 +7,232 @@ Monitoreo y Medición de la Mejora de Rendimiento Energético
 Tarea 21: monitoreamos y medimos las características clave de los procesos que afectan nuestro desempeño energético. Definimos los métodos utilizados, la frecuencia del monitoreo y la medición, y cuándo se analizan y evalúan los resultados. Evaluamos nuestra mejora del rendimiento energético e investigamos y respondemos a desviaciones significativas en el rendimiento energético.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Determine what needs to be monitored and measured for energy performance, including the key characteristics of operations affecting energy performance. Use the data and information you generated in the energy review, energy data collection plan, analysis of significant energy uses (SEUs), your energy performance indicators (EnPIs), and energy baselines (EnBs).</li>
-	<li>For each datum/metric, define the method used for monitoring, measuring, analysis, and evaluation. Define how often and when the results are to be analyzed and evaluated.</li>
-	<li>Implement all needed monitoring, measurement, and analysis if not already in place from prior Navigator tasks.</li>
-	<li>Evaluate your organization&rsquo;s energy performance by comparing EnPI values to the corresponding EnB.</li>
-	<li>For each performance metric in the energy measurement plan, define the criteria or parameters for a significant deviation in energy performance.</li>
-	<li>Establish a process for investigating and responding to such deviations and for retaining records of the results.</li>
-	<li>Train the appropriate personnel on how to identify and respond to significant deviations in energy performance.</li>
-	<li>Record results from monitoring and measurement.</li>
+	<li>Determine qu&eacute; debe monitorearse y medirse para el rendimiento energ&eacute;tico, incluidas las caracter&iacute;sticas clave de las operaciones que afectan el rendimiento energ&eacute;tico. Use los datos y la informaci&oacute;n que gener&oacute; en la revisi&oacute;n de energ&iacute;a, el plan de recolecci&oacute;n de datos de energ&iacute;a, el an&aacute;lisis de los usos significativos de energ&iacute;a (SEUs), sus indicadores de rendimiento energ&eacute;tico (EnPIs) y las l&iacute;neas de base de energ&iacute;a (EnBs).</li>
+	<li>Para cada dato / m&eacute;trica, defina el m&eacute;todo utilizado para monitorear, medir, analizar y evaluar. Defina con qu&eacute; frecuencia y cu&aacute;ndo se analizar&aacute;n y evaluar&aacute;n los resultados.</li>
+	<li>Implemente todo el monitoreo, la medici&oacute;n y el an&aacute;lisis necesarios si a&uacute;n no se han implementado desde tareas anteriores de Navigator.</li>
+	<li>Eval&uacute;e el rendimiento energ&eacute;tico de su organizaci&oacute;n comparando los valores del EnPI con la EnB correspondiente.</li>
+	<li>Para cada m&eacute;trica de rendimiento en el plan de medici&oacute;n de energ&iacute;a, defina los criterios o par&aacute;metros para una desviaci&oacute;n significativa en el rendimiento energ&eacute;tico.</li>
+	<li>Establezca un proceso para investigar y responder a tales desviaciones y para conservar registros de los resultados.</li>
+	<li>Capacite al personal apropiado sobre la forma que se identificar&aacute; y responder&aacute; a las desviaciones significativas en el rendimiento energ&eacute;tico.</li>
+	<li>Registre los resultados del monitoreo y la medici&oacute;n.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Monitoring, measurement, analysis, and evaluation of performance metrics is the logical extension of the data analyses conducted for the energy review in [task](Energy Data Collection and Analysis). Effective decisions on energy management rely on the ongoing collection and analysis of energy and other data.</p>
+<p>El monitoreo, la medici&oacute;n, el an&aacute;lisis y la evaluaci&oacute;n de las m&eacute;tricas de rendimiento es la extensi&oacute;n l&oacute;gica de los an&aacute;lisis de datos realizados para la revisi&oacute;n energ&eacute;tica en la Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a). Las decisiones efectivas sobre la gesti&oacute;n de la energ&iacute;a dependen de la recopilaci&oacute;n y el an&aacute;lisis continuos de la energ&iacute;a y otros datos.</p>
 
-<p>Monitoring, measurement, analysis, and evaluation enable your organization to determine if:</p>
+<p>El monitoreo, la medici&oacute;n, el an&aacute;lisis y la evaluaci&oacute;n permiten a su organizaci&oacute;n determinar si:</p>
 
 <ul>
-	<li>significant energy uses are being appropriately managed,</li>
-	<li>current objectives and energy targets are being met,</li>
-	<li>EnPI and other energy performance trends are focused in the desired direction, and</li>
-	<li>energy performance improvement can be demonstrated.</li>
+	<li>los usos significativos de energ&iacute;a se est&aacute;n administrando adecuadamente,</li>
+	<li>se est&aacute;n cumpliendo los objetivos y las metas energ&eacute;ticas actuales.</li>
+	<li>Los EnPIs y otras tendencias de rendimiento energ&eacute;tico se encuentran en la direcci&oacute;n deseada, y</li>
+	<li>se puede demostrar la mejora del rendimiento energ&eacute;tico.</li>
 </ul>
 
-<p>Monitoring, measurement, analysis, and evaluation is applied to the &ldquo;key characteristics&rdquo; of the organization&rsquo;s operations that affect energy performance in order to assist organizations in making these determinations. These key characteristics include the effectiveness of the action plans and EnPIs, operation of SEUs, and actual versus expected consumption. The evaluation of energy performance improvement is determined by a comparison of the EnPI value(s) against the corresponding EnB(s)</p>
+<p>El monitoreo, la medici&oacute;n, el an&aacute;lisis y la evaluaci&oacute;n se aplican a las &quot;caracter&iacute;sticas clave&quot; de las operaciones de la organizaci&oacute;n que afectan el rendimiento energ&eacute;tico para ayudar a las organizaciones a tomar estas determinaciones. Estas caracter&iacute;sticas clave incluyen la efectividad de los planes de acci&oacute;n y los EnPIs, la operaci&oacute;n de los SEUs y el consumo real versus el esperado. La evaluaci&oacute;n de la mejora del rendimiento energ&eacute;tico se determina mediante una comparaci&oacute;n de los valores de los EnPIs con las EnBs correspondientes.</p>
 
-<p>The data specified in the energy data collection plan in Task 8 [task](Energy Data Collection and Analysis) are inputs to the monitoring, measurement, analysis, and evaluation of the key characteristics. They also are inputs to the monitoring and measurement of data needed for the energy review.</p>
+<p>Los datos especificados en el plan de recolecci&oacute;n de datos de energ&iacute;a en la Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a) son insumos para el monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n de las caracter&iacute;sticas clave. Tambi&eacute;n son insumos para el monitoreo y la medici&oacute;n de los datos necesarios para la revisi&oacute;n energ&eacute;tica.</p>
 
-<p>SEUs are an important focus of the energy management system (EnMS). Monitor the energy performance of your SEU(s), as small changes in their operation or deviations in procedures, equipment, or maintenance can significantly affect your organization&rsquo;s overall energy consumption.</p>
+<p>Los SEUs son un enfoque importante del sistema de gesti&oacute;n de energ&iacute;a (EnMS). Monitoree el rendimiento energ&eacute;tico de su (s) SEU (s), ya que peque&ntilde;os cambios en su operaci&oacute;n o desviaciones en los procedimientos, equipos o mantenimiento pueden afectar significativamente el consumo general de energ&iacute;a de su organizaci&oacute;n.</p>
 
-<p>Significant deviations in energy performance are defined by your organization. When a significant deviation occurs, your organization must investigate and provide an appropriate response and record the results of the response. The data you collect by monitoring and measuring the key characteristics of operations that determine energy performance is used to identify significant deviations. Your organization determines what will be considered a significant deviation but, in general, it is a departure from a level of energy performance that is acceptable, defined, or expected.</p>
+<p>Su organizaci&oacute;n define importantes desviaciones en el rendimiento energ&eacute;tico. Cuando ocurre una desviaci&oacute;n significativa, su organizaci&oacute;n debe investigar y proporcionar una respuesta apropiada y registrar los resultados de la respuesta. Los datos que recopila monitoreando y midiendo las caracter&iacute;sticas clave de las operaciones que determinan el rendimiento energ&eacute;tico se utilizan para identificar desviaciones significativas. Su organizaci&oacute;n determina lo que se considerar&aacute; una desviaci&oacute;n significativa, pero, en general, es una desviaci&oacute;n con relaci&oacute;n a un nivel de rendimiento energ&eacute;tico que es aceptable, definido o esperado.</p>
 
-<p><em>This guidance is relevant to Section 9.1.1 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 9.1.1 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Determine and implement what needs to be monitored and measured for energy performance)</p>
+<p>[Accordion](Determine e implemente lo que necesita ser monitoreado y medido para el rendimiento energ&eacute;tico)</p>
 
-<p>A foundational requirement of ISO 50001 is to demonstrate energy performance and energy performance improvement. Doing so will help you understand that you are establishing an infrastructure of &ldquo;data connections&rdquo; between the processes of the energy review, EnPIs, EnBs, objectives, energy targets, action plans, energy data collection plan and the monitoring, measurement, analysis, and evaluation activities of the EnMS. You have been working on these data connections and been evaluating energy performance and energy performance improvement as you have worked through the previous Navigator tasks. Up to this point you have completed the following:</p>
+<p>Un requerimiento fundamental de ISO 50001 es demostrar el rendimiento energ&eacute;tico y la mejora del rendimiento energ&eacute;tico. Hacerlo le ayudar&aacute; a comprender que est&aacute; estableciendo una infraestructura de &quot;conexiones de datos&quot; entre los procesos de revisi&oacute;n de energ&iacute;a, EnPIs, EnBs, objetivos, metas de energ&iacute;a, planes de acci&oacute;n, plan de recolecci&oacute;n de datos de energ&iacute;a y el monitoreo, medici&oacute;n, an&aacute;lisis y actividades de evaluaci&oacute;n del EnMS. Usted ha estado trabajando en estas conexiones de datos y ha evaluado el rendimiento energ&eacute;tico y la mejora del rendimiento energ&eacute;tico a medida que trabaj&oacute; en las tareas anteriores de Navigator. Hasta este punto, ha completado lo siguiente:</p>
 
 <ul>
-	<li>In Task 8 [task](Energy Data Collection and Analysis), the collection and analysis of energy consumption by energy type and other data in the energy review determined your organization&rsquo;s energy performance and provided the basis for establishing the energy performance metrics (i.e., EnPIs, EnBs).</li>
-	<li>Also in Task 8 [task](Energy Data Collection and Analysis), you implemented an energy data collection plan and collected data, including relevant variables for SEUs, energy consumption, operational criteria for SEUs, static factors (if applicable), and data specified in action plans.</li>
-	<li>In Task 9 [task](Significant Energy Uses), you analyzed data to determine the SEUs, performed analyses to determine SEU relevant variables and SEU current energy performance, and implemented associated monitoring activities.</li>
-	<li>In Task 11 [task](Energy Performance Indicators and Baselines), you implemented monitoring and analysis of the EnPIs and EnBs.</li>
-	<li>In Task 12 [task](Objectives and Targets), you set and then implemented monitoring of the objectives and energy targets.</li>
-	<li>In Task 13 [task](Action Plans for Continual Improvement), you defined how the results of the action plans would be evaluated, including the energy performance improvement verification methods to be used.</li>
+	<li>En la Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a), la recopilaci&oacute;n y el an&aacute;lisis del consumo de energ&iacute;a por tipo de energ&iacute;a y otros datos en la revisi&oacute;n energ&eacute;tica determinaron el rendimiento energ&eacute;tico de su organizaci&oacute;n y proporcionaron la base para establecer las m&eacute;tricas de rendimiento energ&eacute;tico (es decir, EnPIs, EnBs).</li>
+	<li>Tambi&eacute;n en la Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a), usted implement&oacute; un plan de recopilaci&oacute;n de datos de energ&iacute;a y recolecto datos, incluidas las variables relevantes para los SEU, el consumo de energ&iacute;a, los criterios operativos para los SEU, los factores est&aacute;ticos (si corresponde) y los datos especificados en los planes de acci&oacute;n.</li>
+	<li>En la Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a), usted analiz&oacute; datos para determinar los SEU, realiz&oacute; an&aacute;lisis para determinar las variables relevantes de los SEU y el rendimiento energ&eacute;tico actual de los SEU e implement&oacute; actividades de monitoreo relacionadas.</li>
+	<li>En la Tarea 11 [tarea] (Indicadores de Rendimiento Energ&eacute;tico y L&iacute;neas de Base), usted implement&oacute; el monitoreo y an&aacute;lisis de los EnPIs y las EnBs.</li>
+	<li>En la Tarea 12 [tarea] (Objetivos y Metas), usted estableci&oacute; y luego implemento el monitoreo de los objetivos y metas de energ&iacute;a.</li>
+	<li>En la Tarea 13 [tarea] (Planes de Acci&oacute;n para la Mejora Continua), usted defini&oacute; c&oacute;mo se evaluar&iacute;an los resultados de los planes de acci&oacute;n, incluidos los m&eacute;todos de verificaci&oacute;n de mejora del rendimiento energ&eacute;tico que se utilizar&aacute;n.</li>
 </ul>
 
-<p>In this task, you can ensure that your processes for data collection, monitoring, measurement, analysis, and evaluation are properly established and implemented, and include all the relevant data and information, especially as related to the key characteristics of operations that affect energy performance (see Task 8 [task](Energy Data Collection and Analysis)). This is the data infrastructure needed to monitor energy performance and demonstrate energy performance improvement.</p>
+<p>En esta tarea, puede asegurarse de que sus procesos de recopilaci&oacute;n, monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n de datos se establezcan e implementen adecuadamente, e incluyan todos los datos e informaci&oacute;n relevantes, especialmente en relaci&oacute;n con las caracter&iacute;sticas clave de las operaciones que afectan el rendimiento energ&eacute;tico. (ver Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a)). Esta es la infraestructura de datos necesaria para controlar el rendimiento energ&eacute;tico y demostrar la mejora del rendimiento energ&eacute;tico.</p>
 
-<p>Your efforts in this task should include reviewing and pulling together what you developed in the tasks above as related to monitoring, measurement, analysis, and evaluation of energy performance.</p>
+<p>Sus esfuerzos en esta tarea deben incluir la revisi&oacute;n e integraci&oacute;n lo que desarroll&oacute; en las tareas anteriores en relaci&oacute;n con el monitoreo, la medici&oacute;n, el an&aacute;lisis y la evaluaci&oacute;n del rendimiento energ&eacute;tico.</p>
 
-<p>For energy performance, your organization must determine and implement the following:</p>
+<p>Para el rendimiento energ&eacute;tico, su organizaci&oacute;n debe determinar e implementar lo siguiente:</p>
 
 <ul>
-	<li>What needs to be monitored and measured</li>
-	<li>The methods you will use to ensure valid results from monitoring, measurement, analysis, and evaluation (as applicable)</li>
-	<li>How often the monitoring and measurement will be done</li>
-	<li>When the analysis and evaluation of results will be done</li>
+	<li>Lo que necesita ser monitoreado y medido</li>
+	<li>Los m&eacute;todos que usar&aacute; para asegurar resultados v&aacute;lidos del monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n (seg&uacute;n corresponda)</li>
+	<li>Con qu&eacute; frecuencia se realizar&aacute; el monitoreo y la medici&oacute;n.</li>
+	<li>Cu&aacute;ndo se realizar&aacute; el an&aacute;lisis y la evaluaci&oacute;n de los resultados.</li>
 </ul>
 
-<p>At a minimum, your organization must monitor and measure the key characteristics of operations that affect energy performance. The key characteristics include:</p>
+<p>Como m&iacute;nimo, su organizaci&oacute;n debe monitorear y medir las caracter&iacute;sticas clave de las operaciones que afectan el rendimiento energ&eacute;tico. Las caracter&iacute;sticas clave incluyen:</p>
 
 <ul>
-	<li>Effectiveness of the action plans in achieving objectives and energy targets</li>
+	<li>Efectividad de los planes de acci&oacute;n en el logro de objetivos y metas energ&eacute;ticas.</li>
 	<li>EnPIs</li>
-	<li>Operation of SEUs</li>
-	<li>Actual versus expected energy consumption</li>
+	<li>Operaci&oacute;n de los SEUs</li>
+	<li>Consumo de energ&iacute;a real versus esperado</li>
 </ul>
 
-<p>Some of the data needed to monitor these key characteristics already are being collected as part of your energy data collection plan (see Task 8 [task](Energy Data Collection and Analysis)). And, as indicated by the list of tasks you have completed, much of this information already has been determined, especially what needs to be monitored and measured and the methods of analysis that will be used (see Task 8 [task](Energy Data Collection and Analysis)).</p>
+<p>Algunos de los datos necesarios para monitorear estas caracter&iacute;sticas clave ya se est&aacute;n obteniendo como parte de su plan de recopilaci&oacute;n de datos de energ&iacute;a (consulte la Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a)). Y, como lo indica la lista de tareas que ha completado, gran parte de esta informaci&oacute;n ya se ha determinado, especialmente lo que necesita ser monitoreado y medido y los m&eacute;todos de an&aacute;lisis que se utilizar&aacute;n (ver Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de datos de Energ&iacute;a).</p>
 
-<p>Some organizations choose to add the following information into the energy data collection plan:</p>
+<p>Algunas organizaciones optan por agregar la siguiente informaci&oacute;n al plan de recolecci&oacute;n de datos de energ&iacute;a:</p>
 
 <ul>
-	<li>What is to be monitored and measured</li>
-	<li>How often it will be monitored and measured</li>
-	<li>Methods to be used for monitoring, measurement, analysis, and evaluation</li>
-	<li>When analysis and evaluation is to be done.</li>
+	<li>Qu&eacute; se debe monitorear y medir</li>
+	<li>Con qu&eacute; frecuencia ser&aacute; monitoreado y medido</li>
+	<li>M&eacute;todos que se utilizar&aacute;n para el monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n.</li>
+	<li>Cuando se va a realizar el an&aacute;lisis y la evaluaci&oacute;n.</li>
 </ul>
 
-<p>This information transforms this effort into a more comprehensive data collection and measurement plan. There is no specific required format; your organization decides how and in what format to capture this information.</p>
+<p>Esta informaci&oacute;n transforma este esfuerzo en un plan m&aacute;s completo de recolecci&oacute;n y medici&oacute;n de datos. No hay un formato espec&iacute;fico requerido; su organizaci&oacute;n decide c&oacute;mo y en qu&eacute; formato capturar esta informaci&oacute;n.</p>
 
-<p>[Learn More](Discussion of data that determine energy performance)</p>
+<p>[Learn More](Discusi&oacute;n sobre datos que determinan el rendimiento energ&eacute;tico)</p>
 
-<p>Discussion of monitoring and analyzing energy consumption for all energy types, along with further discussion of monitoring, measuring, analyzing, and evaluating the key characteristics of operations that determine energy performance, is provided below:</p>
+<p>A continuaci&oacute;n, se presenta una discusi&oacute;n sobre el monitoreo y el an&aacute;lisis del consumo de energ&iacute;a para todos los tipos de energ&iacute;a, junto con una discusi&oacute;n adicional sobre el monitoreo, la medici&oacute;n, el an&aacute;lisis y la evaluaci&oacute;n de las caracter&iacute;sticas clave de las operaciones que determinan el rendimiento energ&eacute;tico:</p>
 
-<p><strong>Energy consumption for all energy types:</strong> Energy types were identified, and past and present energy consumption data were initially collected and analyzed, as part of the energy review (see Task 8 [task](Energy Data Collection and Analysis)). This information was used to accomplish the following:</p>
+<p>Consumo de energ&iacute;a para todos los tipos de energ&iacute;a: se identificaron los tipos de energ&iacute;a, y los datos de consumo de energ&iacute;a pasados ​​y presentes se recopilaron y analizaron inicialmente, como parte de la revisi&oacute;n de energ&iacute;a (ver Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a)). Esta informaci&oacute;n se utiliz&oacute; para lograr lo siguiente:</p>
 
 <ul>
-	<li>Profile your organization&rsquo;s energy use and energy consumption</li>
-	<li>Determine your organization&rsquo;s significant energy uses</li>
-	<li>Identify and prioritize energy performance improvement opportunities</li>
-	<li>Develop energy performance indicators and baselines needed to evaluate energy performance</li>
+	<li>Establecer un perfil del uso y consumo de energ&iacute;a de su organizaci&oacute;n</li>
+	<li>Determinar los usos significativos de energ&iacute;a de su organizaci&oacute;n</li>
+	<li>Identificar y priorizar las oportunidades de mejora del rendimiento energ&eacute;tico.</li>
+	<li>Desarrollar indicadores de rendimiento energ&eacute;tico y l&iacute;neas de base necesarias para evaluar el rendimiento energ&eacute;tico.</li>
 </ul>
 
-<p>Energy consumption needs to be continually monitored, as it is a key component of energy performance evaluation, and using less energy is the goal of energy performance improvement. Present energy consumption is compared against past consumption. Various methods of data analysis were discussed in Task 8 [task](Energy Data Collection and Analysis). Energy consumption data should be:</p>
+<p>El consumo de energ&iacute;a debe monitorearse continuamente, ya que es un componente clave de la evaluaci&oacute;n del rendimiento energ&eacute;tico, y el uso de menos energ&iacute;a es el objetivo de la mejora del rendimiento energ&eacute;tico. El consumo actual de energ&iacute;a se compara con el consumo pasado. En la Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a) se discutieron varios m&eacute;todos de an&aacute;lisis de datos. Los datos de consumo de energ&iacute;a deben ser:</p>
 
 <ul>
-	<li>monitored and measured prior to any change being made (baseline).</li>
-	<li>monitored and measured after the change is implemented and compared with the baseline (or pre-implementation measurement).</li>
-	<li>representative of normal operating conditions.</li>
-	<li>reflective of consistency in factors that can affect energy performance, such as weather, occupancy, production, or hours of operation.</li>
+	<li>monitoreados y medidos antes de cualquier cambio realizado (l&iacute;nea de base).</li>
+	<li>monitoreados y medidos despu&eacute;s de implementar el cambio y comparados con la l&iacute;nea base (o medici&oacute;n previa a la implementaci&oacute;n).</li>
+	<li>representativos de las condiciones normales de funcionamiento.</li>
+	<li>representativos de la consistencia en los factores que pueden afectar el rendimiento energ&eacute;tico, como el clima, la ocupaci&oacute;n, la producci&oacute;n o las horas de operaci&oacute;n.</li>
 </ul>
 
-<p><strong>Effectiveness of actions plans in achieving the objectives and energy targets:</strong> In Task 13 [task](Action Plans for Continual Improvement), action plans to achieve the objectives and targets were developed. Action plans are monitored, measured, analyzed, and evaluated to ensure that the objectives and targets are being met effectively. Recall that the data specified in action plans are among the data to be collected under the energy data collection plan (see Task 8 [task](Energy Data Collection and Analysis)). Also, actual versus expected consumption is a key characteristic that must be monitored and measured. The expected energy consumption associated with an action plan that is implemented is compared to the actual results after the project is completed. This comparison tells you whether the energy savings you expected were actually achieved. The methods to perform this verification were defined in the action plan.</p>
+<p><strong>Efectividad de los planes de acci&oacute;n para lograr los objetivos y las metas energ&eacute;ticas</strong>: En la Tarea 13 [tarea] (Planes de Acci&oacute;n para la Mejora Continua), se desarrollaron planes de acci&oacute;n para lograr los objetivos y metas. Los planes de acci&oacute;n son monitoreados, medidos, analizados y evaluados para asegurar que los objetivos y metas se cumplan de manera efectiva. Recuerde que los datos especificados en los planes de acci&oacute;n se encuentran entre los datos que se recopilar&aacute;n en el plan de recopilaci&oacute;n de datos de energ&iacute;a (consulte la Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a)). Adem&aacute;s, el consumo de energ&iacute;a real versus el esperado es una caracter&iacute;stica clave que debe ser monitoreada y medida. El consumo de energ&iacute;a esperado asociado con un plan de acci&oacute;n que se implementa se compara con los resultados reales una vez que se completa el proyecto. Esta comparaci&oacute;n le indica si realmente se logr&oacute; el ahorro de energ&iacute;a que esperaba. Los m&eacute;todos para realizar esta verificaci&oacute;n se definieron en el plan de acci&oacute;n.</p>
 
-<p>Successful action plans are analyzed and evaluated for appropriate reproduction in other processes or areas. Projects where energy targets are not met are analyzed and evaluated to determine the reason(s) for the shortfall, and appropriate follow-up is planned and implemented. Action plans that are not generating the intended results (i.e., ineffective) are modified as needed. The following are indicators that action plans may not be effective:</p>
+<p>Los planes de acci&oacute;n exitosos se analizan y eval&uacute;an para su adecuada reproducci&oacute;n en otros procesos o &aacute;reas. Los proyectos en los que no se cumplen los objetivos energ&eacute;ticos se analizan y eval&uacute;an para determinar la fallas, y se planifica e implementa un seguimiento adecuado. Los planes de acci&oacute;n que no generan los resultados previstos (es decir, que resultan ineficaces) se modifican seg&uacute;n sea necesario. Los siguientes son indicadores de que los planes de acci&oacute;n pueden no ser efectivos:</p>
 
 <ul>
-	<li>Objectives&rsquo; not met</li>
-	<li>Energy targets not met</li>
-	<li>Unable to meet due dates</li>
-	<li>Personnel not available</li>
-	<li>Budget not sufficient/available</li>
-	<li>Inadequate technology</li>
-	<li>Change in priorities</li>
+	<li>Objetivos no alcanzados</li>
+	<li>Objetivos de energ&iacute;a no alcanzados</li>
+	<li>Incumplimiento con fechas para completar proyectos</li>
+	<li>Personal no disponible</li>
+	<li>Presupuesto no suficiente / disponible</li>
+	<li>Tecnolog&iacute;a inadecuada</li>
+	<li>Cambio de prioridades</li>
 </ul>
 
-<p><strong>EnPIs:</strong> Setting, monitoring, and analyzing EnPIs and EnBs was addressed in Task 11 [task](Energy Performance Indicators and Baselines) and Task 9 [task](Significant Energy Uses). Recall that under the energy data collection plan, relevant data being collected includes energy consumption related to the organization and SEUs, relevant variables for SEUs, and static factors (if applicable). These data, along with the relevant variables you determined significantly affect energy performance, helped you establish, monitor, and analyze EnPIs for the organization and your SEUs. To evaluate energy performance improvement, the EnPI values are compared against the corresponding EnB.</p>
+<p><strong>EnPIs</strong>: El establecimiento, monitoreo y an&aacute;lisis de los EnPIs y las EnBs se abordaron en la Tarea 11 [tarea] (Indicadores de Rendimiento Energ&eacute;tico y L&iacute;neas de Base) y la Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a). Recuerde que, seg&uacute;n el plan de recolecci&oacute;n de datos de energ&iacute;a, los datos relevantes que se recopilan incluyen el consumo de energ&iacute;a relacionado con la organizaci&oacute;n y los SEUs, las variables relevantes para los SEUs y los factores est&aacute;ticos (si corresponde). Estos datos, junto con las variables relevantes que determin&oacute; que afectan significativamente el rendimiento energ&eacute;tico, lo ayudaron a establecer, monitorear y analizar los EnPIs para la organizaci&oacute;n y sus SEUs. Para evaluar la mejora del rendimiento energ&eacute;tico, los valores de los EnPIs se comparan con la EnB correspondiente.</p>
 
-<p><strong>Operation of SEUs:</strong> Data on the SEU relevant variables, energy consumption of SEUs, and operational criteria for SEUs are being collected under the energy data collection plan. In Task 9 [task](Significant Energy Uses), you determined relevant variables and current SEU energy performance and implemented associated monitoring.</p>
+<p><strong>Operaci&oacute;n de los SEUs</strong>: los datos sobre las variables relevantes de los SEUs, el consumo de energ&iacute;a de los SEUs y los criterios operativos para los SEUs se recopilan bajo el plan de recolecci&oacute;n de datos de energ&iacute;a. En la Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a), usted determin&oacute; las variables relevantes y el rendimiento energ&eacute;tico actual del SEU e implement&oacute; el monitoreo correspondiente.</p>
 
-<p>Monitoring the energy performance of an SEU can involve measuring energy consumption, related operational and maintenance parameters, relevant variables associated with the SEU, or some combination of these. (Monitoring of EnPIs is discussed in Task 11 [task](Energy Performance Indicators and Baselines).</p>
+<p>El monitoreo del rendimiento energ&eacute;tico de un SEU puede implicar la medici&oacute;n del consumo de energ&iacute;a, los par&aacute;metros operativos y de mantenimiento correspondientes, las variables relevantes asociadas con el SEU o alguna combinaci&oacute;n de estos. (El monitoreo de los EnPIs se analiza en la Tarea 11 [tarea] (Indicadores de Rendimiento Energ&eacute;tico y L&iacute;neas de Base)</p>
 
-<p><strong>Actual versus expected energy consumption:</strong> Implementing energy opportunities is accomplished through action plans. Action plans should include estimates for energy performance improvement expected from the action plan&rsquo;s implementation. Analyze variances between the action plan&rsquo;s actual versus expected results and evaluate that information to identify elements that improve performance or identify problems to address. The results of this analysis should be recorded as feedback for the corrective action process, to improve future action plan implementation and energy performance improvements.</p>
+<p><strong>Consumo de energ&iacute;a real versus esperado</strong>: la implementaci&oacute;n de oportunidades de energ&iacute;a se logra a trav&eacute;s de planes de acci&oacute;n. Los planes de acci&oacute;n deben incluir estimaciones para la mejora del rendimiento energ&eacute;tico que se espera de la implementaci&oacute;n del plan de acci&oacute;n. Analice las variaciones entre los resultados reales frente a los esperados del plan de acci&oacute;n y eval&uacute;e esa informaci&oacute;n para identificar elementos que mejoren el rendimiento o identifiquen problemas a atender. Los resultados de este an&aacute;lisis deben registrarse como retroalimentaci&oacute;n para el proceso de acci&oacute;n correctiva, para mejorar la implementaci&oacute;n del plan de acci&oacute;n futuro y las mejoras en el rendimiento energ&eacute;tico.</p>
 
-<p>Future energy use and energy consumption was estimated as part of the energy review (see Task 8 [task](Energy Data Collection and Analysis)). Your organization decides for itself what period of time is considered to be &ldquo;future&rdquo; and monitors the assumptions (or criteria) that you used to make the estimates. Make sure you have a process to review and update those estimates as needed on a regular basis and in response to major changes to sites, equipment, systems, and processes.</p>
+<p>El uso futuro de energ&iacute;a y el consumo de energ&iacute;a se estimaron como parte de la revisi&oacute;n energ&eacute;tica (ver Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a)). Su organizaci&oacute;n decide por s&iacute; misma qu&eacute; per&iacute;odo de tiempo se considera &quot;futuro&quot; y supervisa los supuestos (o criterios) que utiliz&oacute; para hacer las estimaciones. Aseg&uacute;rese de tener un proceso para revisar y actualizar esas estimaciones seg&uacute;n sea necesario de manera regular y en respuesta a cambios importantes en los sitios, equipos, sistemas y procesos.</p>
 
 <p>[Learn More End]</p>
 
-<p>Once all the needed monitoring, measurement, analysis, and evaluation is determined, it must be fully implemented. The output of the monitoring, measurement, analysis, and evaluation is knowledge of your energy performance trends and calculations of energy performance improvement(s) achieved.</p>
+<p>Una vez que se determinan las necesidades totales del monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n, estas actividades deben implementarse completamente. El resultado del monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n es el conocimiento de las tendencias de rendimiento energ&eacute;tico y los c&aacute;lculos de las mejoras logradas en t&eacute;rminos de rendimiento energ&eacute;tico.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Set and implement criteria for significant deviations)</p>
+<p>[Accordion](Establecer e implementar criterios para definir desviaciones significativas)</p>
 
-<p>A deviation may be identified by a specific level of variation or can be evaluated by knowledgeable personnel to determine if it is significant and if action is required. Examples of methods for specifying significant deviations can include the following:</p>
+<p>Una desviaci&oacute;n puede ser identificada por un nivel espec&iacute;fico de variaci&oacute;n o puede ser evaluada por personal capacitado para determinar si es significativa y si se requiere acci&oacute;n. Los ejemplos de m&eacute;todos para especificar desviaciones significativas pueden incluir los siguientes:</p>
 
 <ul>
-	<li>Values outside of control limits</li>
-	<li>Percent variation in value</li>
-	<li>Trends identified</li>
-	<li>Specified variation in EnPIs</li>
-	<li>Specified variation in SEU performance</li>
-	<li>Level of variance between expected and actual performance</li>
-	<li>Change in equipment efficiency</li>
-	<li>Variation in specific relevant variable performance</li>
-	<li>Failure to meet objectives and energy targets</li>
-	<li>Failure to meet a specific performance level</li>
+	<li>Valores fuera de los l&iacute;mites de control.</li>
+	<li>Variaci&oacute;n porcentual en el valor</li>
+	<li>Tendencias identificadas</li>
+	<li>Variaci&oacute;n especificada en el EnPI</li>
+	<li>Variaci&oacute;n especificada en el rendimiento del SEU</li>
+	<li>Nivel de variaci&oacute;n entre el rendimiento esperado y el real.</li>
+	<li>Cambio en la eficiencia del equipo.</li>
+	<li>Variaci&oacute;n en el rendimiento variable relevante espec&iacute;fico</li>
+	<li>Incumplimiento de objetivos y metas energ&eacute;ticas.</li>
+	<li>Incumplimiento con un nivel de rendimiento espec&iacute;fico</li>
 </ul>
 
-<p>Once you determine the method(s) for identifying a deviation, you must determine the criteria you will use to evaluate if the deviation is significant. Your organization determines the method and criteria in accordance with what you deem acceptable or unacceptable relative to the impact on energy performance. A significant deviation can be an improvement or a decline in energy performance. An improvement in energy performance is a deviation (although generally desired), and you must investigate if it is deemed significant.</p>
+<p>Una vez que determine los m&eacute;todos para identificar una desviaci&oacute;n, debe determinar los criterios que utilizar&aacute; para evaluar si la desviaci&oacute;n es significativa. Su organizaci&oacute;n determina el m&eacute;todo y los criterios de acuerdo con lo que considere aceptable o inaceptable en relaci&oacute;n con el impacto en el rendimiento energ&eacute;tico. Una desviaci&oacute;n significativa puede ser una mejora o una disminuci&oacute;n en el rendimiento energ&eacute;tico. Una mejora en el rendimiento energ&eacute;tico es una desviaci&oacute;n (aunque generalmente se desea), y debe investigar si se considera significativa.</p>
 
-<p>[Learn More](Significant deviation example)</p>
+<p>[Learn More](Ejemplo de desviaci&oacute;n significativa)</p>
 
-<p>Your organization may decide that if electricity consumption for the current month increases by more than 10 percent over the previous month, that will be considered a significant deviation. To be more proactive about improving energy performance, you may decide to set a 5 percent or more increase as the deviation to be considered significant.</p>
+<p>Su organizaci&oacute;n puede decidir que si se considera una desviaci&oacute;n significativa un escenario en el que el consumo de electricidad para el mes actual aumente en m&aacute;s del 10 por ciento respecto al mes anterior. Para ser m&aacute;s proactivo sobre la mejora del rendimiento energ&eacute;tico, puede decidir establecer un aumento del 5 por ciento o m&aacute;s como la desviaci&oacute;n que se considera significativa.</p>
 
-<p>Alternatively, the criteria could be <em>any change</em> in consumption of 5 percent or more comparing the current month to the previous month will be considered a significant deviation. In this case, a 5 percent or more improvement would require that your company investigate the deviation and respond.</p>
+<p>Alternativamente, el criterio podr&iacute;a ser que cualquier cambio en el consumo del 5 por ciento o m&aacute;s comparando el mes actual con el mes anterior, se considerar&aacute; una desviaci&oacute;n significativa. En este caso, una mejora del 5 por ciento o m&aacute;s requerir&iacute;a que su empresa investigue la desviaci&oacute;n y haga seguimiento.</p>
 
 <p>[Learn More End]</p>
 
-<p>Consider documenting the criteria for significant deviations within the energy data collection plan (see Task 8 [task](Energy Data Collection and Analysis)).</p>
+<p>Considere documentar los criterios para las desviaciones significativas dentro del plan de recolecci&oacute;n de datos de energ&iacute;a (ver Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a)).</p>
 
-<p>Significant deviations are also related to operational and maintenance controls, as discussed in Task 17 [task](Operational Controls). The methods for identifying significant deviations relative to operational and maintenance controls would be similar to the process for key characteristics discussed here. Operational and maintenance criteria could be a factor in the determination of significant deviations, and Task 17 [task](Operational Controls) lists significant deviations that could be the result of operational or maintenance issues.</p>
+<p>Las desviaciones significativas tambi&eacute;n est&aacute;n relacionadas con los controles operativos y de mantenimiento, como se discuti&oacute; en la Tarea 17 [tarea] (Controles Operativos). Los m&eacute;todos para identificar desviaciones significativas en relaci&oacute;n con los controles operativos y de mantenimiento ser&iacute;an similares al proceso para las caracter&iacute;sticas clave que se analizan aqu&iacute;. Los criterios operativos y de mantenimiento podr&iacute;an ser un factor en la determinaci&oacute;n de desviaciones significativas, y la Tarea 17 [tarea] (Controles Operativos) enumera las desviaciones significativas que podr&iacute;an ser resultado de problemas operativos o de mantenimiento.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Develop and implement investigation process)</p>
+<p>[Accordion](Desarrollar e implementar el proceso de investigaci&oacute;n)</p>
 
-<p>Once you have set the criteria for determining a significant deviation for each of the key characteristics that are measured and monitored, you must investigate and respond if the deviation occurs. Many organizations use the corrective action process to address significant deviations, which is a best practice (not a requirement).</p>
+<p>Una vez que haya establecido los criterios para determinar una desviaci&oacute;n significativa para cada una de las caracter&iacute;sticas clave que se miden y monitorean, debe investigar y responder si se produce la desviaci&oacute;n. Muchas organizaciones utilizan el proceso de acciones correctivas para abordar las desviaciones significativas, lo cual es una mejor pr&aacute;ctica (no un requerimiento).</p>
 
-<p>A well-developed and implemented corrective action process can be an effective tool for investigating significant deviations. However, the ISO 50001 standard only requires that you investigate and respond to significant deviations. It does not require that they be addressed by your corrective action process.</p>
+<p>Un proceso de acci&oacute;n correctiva bien desarrollado e implementado puede ser una herramienta efectiva para investigar desviaciones significativas. Sin embargo, el est&aacute;ndar ISO 50001 solo requiere que investigue y responda a las desviaciones significativas. No requiere que estas desviaciones sean atendidas por su proceso de acci&oacute;n correctiva.</p>
 
-<p>The investigation addresses normal operation, as well as evaluation of energy use and consumption expected as the result of process changes or implementation of improvement opportunities.</p>
+<p>La investigaci&oacute;n aborda el funcionamiento normal, as&iacute; como la evaluaci&oacute;n del uso y consumo de energ&iacute;a esperado como resultado de los cambios en el proceso o la implementaci&oacute;n de oportunidades de mejora.</p>
 
-<p>[Learn More](Example investigation)</p>
+<p>[Learn More](Ejemplo de investigaci&oacute;n)</p>
 
-<p>As an example:</p>
+<p>Como ejemplo:</p>
 
-<p>You may decide that improvements achieved as the result of planned activities will not be considered significant deviations if the actual results are in line with pre-project estimates. On the other hand, if there is a difference of 5 percent or more between the actual and estimated results, you may decide this is a significant deviation. If the results were better by 5 percent or more, this would require an investigation into why the results were better than the estimates.</p>
+<p>Puede decidir que las mejoras logradas como resultado de las actividades planificadas no se considerar&aacute;n desviaciones significativas si los resultados reales est&aacute;n en l&iacute;nea con las estimaciones previas al proyecto. Por otro lado, si hay una diferencia del 5 por ciento o m&aacute;s entre los resultados reales y estimados, puede decidir que se trata de una desviaci&oacute;n significativa. Si los resultados fueran mejores en un 5 por ciento o m&aacute;s, esto requerir&iacute;a una investigaci&oacute;n de las causas por las que los resultados fueron mejores que las estimaciones iniciales.</p>
 
-<p>Significant deviations that result in improved energy performance can be analyzed for actions to be replicated in other energy systems.</p>
+<p>Las desviaciones significativas que dan como resultado un rendimiento energ&eacute;tico mejorado puede analizarse para detectar acciones que se replicar&aacute;n en otros sistemas de energ&iacute;a.</p>
 
 <p>[Learn More End]</p>
 
-<p>You must develop a response as a result of the investigation. Your response will likely be some type of action that is required to alleviate a significant deviation that results in declining energy performance or reproducing the conditions in other areas if performance is improved. However, note that a decision not to respond can be a legitimate response. This can occur if the significant deviation, for example:</p>
+<p>Debe desarrollar una respuesta como resultado de la investigaci&oacute;n. Es probable que su respuesta sea alg&uacute;n tipo de acci&oacute;n que se requiera para aliviar una desviaci&oacute;n significativa que resulte en una disminuci&oacute;n del rendimiento energ&eacute;tico o en la reproducci&oacute;n de las condiciones en otras &aacute;reas si el rendimiento mejora. Sin embargo, tenga en cuenta que una decisi&oacute;n de no responder puede ser una respuesta leg&iacute;tima. Esto puede ocurrir si la desviaci&oacute;n significativa, por ejemplo:</p>
 
 <ul>
-	<li>is a one-time occurrence.</li>
-	<li>is the result of an improvement that will persist.</li>
-	<li>is the result of process changes.</li>
-	<li>is the result of a simple mathematical error.</li>
-	<li>is too expensive to fix.</li>
-	<li>requires currently unavailable technology.</li>
+	<li>es una situaci&oacute;n que ocurre una sola vez.</li>
+	<li>es el resultado de una mejora que persistir&aacute;.</li>
+	<li>es el resultado de cambios en el proceso.</li>
+	<li>es el resultado de un simple error matem&aacute;tico.</li>
+	<li>es demasiado costosa de arreglar.</li>
+	<li>requiere tecnolog&iacute;a actualmente no disponible.</li>
 </ul>
 
-<p>You must record the results of the investigation and the response(s). If your corrective action process is used to investigate significant deviations, then the record requirements would already be addressed (ISO 50001 requires records of the nature of nonconformities, the actions taken and the results of corrective actions). Otherwise, decide on how the results of the investigation and the response will be recorded and retained</p>
+<p>Debe registrar los resultados de la investigaci&oacute;n y las respuestas. Si su proceso de acci&oacute;n correctiva se utiliza para investigar desviaciones significativas, entonces los requerimientos de registro ya se habr&iacute;an abordado (ISO 50001 requiere registros de la naturaleza de las no conformidades, las acciones tomadas y los resultados de las acciones correctivas). De lo contrario, decida c&oacute;mo se registrar&aacute;n y conservaran los resultados de la investigaci&oacute;n y la respuesta correspondiente.</p>
 
-<p>[Learn More](Items to consider recording)</p>
+<p>[Learn More](Elementos que puede registrar)</p>
 
-<p>There are no specific record requirements for investigations of significant deviations beyond records of the investigation results and the response taken; however, items to consider recording include the following:</p>
+<p>No existen requerimientos de registro espec&iacute;ficos para las investigaciones de desviaciones significativas m&aacute;s all&aacute; de los registros de los resultados de la investigaci&oacute;n y la respuesta adoptada; sin embargo, los elementos a considerar para su registro incluyen los siguientes:</p>
 
 <ul>
-	<li>Responsibilities</li>
-	<li>Time frames</li>
-	<li>Activities undertaken</li>
-	<li>Resources consulted</li>
-	<li>Equipment/meters used</li>
-	<li>Analysis conducted and results</li>
-	<li>Response</li>
-	<li>Effectiveness of response</li>
+	<li>Responsabilidades</li>
+	<li>Periodos de tiempo</li>
+	<li>Actividades emprendidas</li>
+	<li>Recursos consultados</li>
+	<li>Equipos / medidores utilizados</li>
+	<li>An&aacute;lisis realizado y resultados.</li>
+	<li>Respuesta</li>
+	<li>Efectividad de la respuesta.</li>
 </ul>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Record results from monitoring and measurement)</p>
+<p>[Accordion](Registre los resultados del monitoreo y la medici&oacute;n)</p>
 
-<p>The results of the monitoring and measurement activities must be recorded and retained. This can be done in a variety of ways, including the use of spreadsheets, databases, log sheets, or other formats.</p>
+<p>Los resultados de las actividades de monitoreo y medici&oacute;n deben registrarse y conservarse. Esto se puede hacer de varias maneras, incluido el uso de hojas de c&aacute;lculo, bases de datos, hojas de registro u otros formatos.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>ISO 50001:2011, ISO 14001:2015, and ISO 9001:2015 all have requirements related to ensuring the competency of personnel on the basis of appropriate education, training, or experience. An ISO 14001:2015 environmental management system focuses on the competency of personnel that affect the organization&rsquo;s environmental performance and environmental compliance obligations. An ISO 9001:2015 system focuses on personnel that affect the performance and effectiveness of the quality management system. The focus of an ISO 50001:2011 EnMS is more specific, focusing on personnel whose work is related to the organization&rsquo;s identified significant energy uses. However, the processes used by the organization to ensure the competency of personnel can be the same for all three management systems, although the personnel involved in each may be different. In implementing ISO 50001, it is recommended that the processes used to address the competency requirements of ISO 14001 and/or ISO 9001 be applied to the EnMS. Also, the types of competency records maintained for the quality and/or environmental management system(s) would be similar to those needed for the EnMS</p>
+<p>ISO 50001: 2011, ISO 14001: 2015 e ISO 9001: 2015 tienen requerimientos relacionados con asegurar la competencia del personal sobre la base de una educaci&oacute;n, capacitaci&oacute;n o experiencia adecuada. Un sistema de gesti&oacute;n ambiental ISO 14001: 2015 se enfoca en la competencia del personal que afecta el desempe&ntilde;o ambiental de la organizaci&oacute;n y las obligaciones de cumplimiento ambiental. Un sistema ISO 9001: 2015 se enfoca en el personal que afecta el desempe&ntilde;o y la efectividad del sistema de gesti&oacute;n de calidad. El enfoque de un ISO 50001: 2011 EnMS es m&aacute;s espec&iacute;fico, centr&aacute;ndose en el personal cuyo trabajo est&aacute; relacionado con los usos significativos de energ&iacute;a identificados por la organizaci&oacute;n. Sin embargo, los procesos utilizados por la organizaci&oacute;n para garantizar la competencia del personal pueden ser los mismos para los tres sistemas de gesti&oacute;n, aunque el personal involucrado en cada uno puede ser diferente. Al implementar ISO 50001, se recomienda que los procesos utilizados para abordar los requisitos de competencia de ISO 14001 y / o ISO 9001 se apliquen al EnMS. Adem&aacute;s, los tipos de registros de competencia mantenidos para los sistemas de gesti&oacute;n de calidad y / o ambiental ser&iacute;an similares a los necesarios para el EnMS</p>
 
-<p>The processes used in an ISO 14001:2015 system to determine and address training needs related to environmental aspects and the environmental management system (EMS) could be applied to identify training needs related to the control of significant energy uses and operation of the ISO 50001:2011 EnMS. This is an area where the energy, environmental, and safety and health requirements related to training needs are frequently integrated, so a single process is used to address the training need requirements of all three management systems.</p>
+<p>Los procesos utilizados en un sistema ISO 14001: 2015 para determinar y atender las necesidades de capacitaci&oacute;n relacionadas con los aspectos ambientales y el sistema de gesti&oacute;n ambiental (EMS) podr&iacute;an aplicarse para identificar las necesidades de capacitaci&oacute;n relacionadas con el control de los usos significativos de la energ&iacute;a y la operaci&oacute;n de la ISO 50001: 2011 EnMS. Esta es un &aacute;rea donde los requisitos de energ&iacute;a, medio ambiente, seguridad y salud relacionados con las necesidades de capacitaci&oacute;n se integran con frecuencia, por lo que se utiliza un solo proceso para abordar los requisitos de necesidades de capacitaci&oacute;n de los tres sistemas de gesti&oacute;n.</p>
 
-<p>Processes used to determine competency needs in an ISO 9001:2015 quality management system (QMS) can be adapted for use in the EnMS, although the personnel involved may be different.</p>
+<p>Los procesos utilizados para determinar las necesidades de competencia en un sistema de gesti&oacute;n de calidad (SGC) ISO 9001: 2015 se pueden adaptar para su uso en el EnMS, aunque el personal involucrado puede ser diferente.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 5.3 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> discusses building capacity through training of staff. This 50001 Ready Navigator task guidance, which focuses on qualification and training of personnel related to the operation of the ISO 50001 EnMS and the identified significant energy uses, could help to strengthen your existing training efforts.</p>
+<p>El paso 5.3 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> ENERGY STAR&reg; analiza la creaci&oacute;n de capacidad mediante la capacitaci&oacute;n del personal. Esta gu&iacute;a de tareas 50001 Ready Navigator, la cual se enfoca en la calificaci&oacute;n y capacitaci&oacute;n del personal relacionado con la operaci&oacute;n del ISO 50001 EnMS y los usos significativos de energ&iacute;a identificados, podr&iacute;a ayudarlo a fortalecer sus esfuerzos existentes de capacitaci&oacute;n.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

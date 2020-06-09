@@ -7,261 +7,261 @@ Documentando el EnMS
 Tarea 16: Documentamos la información que determinamos es necesaria para garantizar la eficacia del sistema de gestión de energía y demostrar la mejora del rendimiento energético, así como lo sugerido por la guía del 50001 Ready Navigator. Contamos con procesos para crear, actualizar y controlar nuestra información documentada.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Ensure that your energy management system (EnMS) includes the documented information suggested by the guidance of the 50001 Ready Navigator for the processes implemented to this point. As you continue EnMS implementation, add the other required documented information.</li>
-	<li>Determine what additional documented information you need to ensure the effectiveness of the EnMS and to demonstrate energy performance improvement.</li>
-	<li>List your EnMS documents, assign document owners and document approvers, and define the relevant document controls. Make document owners responsible for conformance with the controls for the documented information to be maintained (i.e., documents).</li>
-	<li>List your EnMS records, assign record owners, and define the relevant record controls. Make record owners responsible for conformance with the controls for documented information to be retained (i.e., records).</li>
-	<li>If your organization has existing processes for controlling documents and records, customize them as necessary to meet the documentation needs for your EnMS. If your organization has an existing records policy, make sure that the controls implemented for EnMS records are consistent with the requirements of that policy.</li>
+	<li>Aseg&uacute;rese de que su sistema de gesti&oacute;n de energ&iacute;a (EnMS) incluya la informaci&oacute;n documentada sugerida por la gu&iacute;a del 50001 Ready Navigator para los procesos implementados hasta este punto. A medida que contin&uacute;a la implementaci&oacute;n del EnMS, agregue la informaci&oacute;n documentada adicional requerida.</li>
+	<li>Determine la informaci&oacute;n adicional documentada que se necesita para garantizar la efectividad del EnMS y demostrar la mejora del rendimiento energ&eacute;tico.</li>
+	<li>Haga una lista de sus documentos del EnMS, asigne a las personas que estar&aacute;n encargadas de los documentos, las que aprobaran los documentos, y defina los controles de documentos relevantes. Haga que los encargados de los documentos sean responsables de la conformidad con los controles para mantener la informaci&oacute;n documentada (es decir, documentos).</li>
+	<li>Haga una lista de sus registros del EnMS, asigne a los encargados de registros y defina los controles de registros relevantes. Haga que los encargados de los registros sean responsables de la conformidad con los controles para que se conserve la informaci&oacute;n documentada (es decir, los registros).</li>
+	<li>Si su organizaci&oacute;n tiene procesos existentes para controlar documentos y registros, personal&iacute;celos seg&uacute;n sea necesario para satisfacer las necesidades de documentaci&oacute;n para su EnMS. Si su organizaci&oacute;n tiene una pol&iacute;tica de registros existente, aseg&uacute;rese de que los controles implementados para los registros del EnMS sean consistentes con los requerimientos de esa pol&iacute;tica.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Documenting the energy management system (EnMS) not only helps your organization implement the EnMS and ensure its proper functioning over time, it also provides evidence of activities performed and results achieved. In ISO 50001, some documented information is explicitly required. Additional documented information for the EnMS is determined by your organization based on your own needs, including the need to ensure the effectiveness of the EnMS and the need to demonstrate energy performance improvement.</p>
+<p>Documentar el sistema de gesti&oacute;n de energ&iacute;a (EnMS) no solo ayuda a su organizaci&oacute;n a implementar el EnMS y garantizar su correcto funcionamiento a lo largo del tiempo, sino que tambi&eacute;n proporciona evidencia de las actividades realizadas y los resultados logrados. En ISO 50001, se requiere expl&iacute;citamente cierta informaci&oacute;n documentada. Su organizaci&oacute;n determina informaci&oacute;n adicional documentada para el EnMS en funci&oacute;n de sus propias necesidades, incluida la necesidad de garantizar la eficacia del EnMS y la necesidad de demostrar una mejora en el rendimiento energ&eacute;tico.</p>
 
-<p>The first part of this task involves understanding what is meant by the phrase &ldquo;documented information&rdquo; and ensuring that your EnMS includes the documented information explicitly required for the EnMS processes implemented to date. For the purposes of 50001 Ready you should consider what documents will help you make the best use of your EnMS. As you move forward with continued EnMS implementation, this resource can be used to help ensure that additional required documented information is included in your EnMS. The next part of this task requires the energy team to plan how your organization will determine what additional documented information is needed for your EnMS in order to demonstrate energy performance improvement and effectiveness of the EnMS.</p>
+<p>La primera parte de esta tarea implica comprender lo que significa la frase &quot;informaci&oacute;n documentada&quot; y garantizar que su EnMS incluya la informaci&oacute;n documentada que se requiere expl&iacute;citamente para los procesos de EnMS implementados hasta la fecha. Para los fines de la gu&iacute;a 50001 Ready, debe considerar qu&eacute; documentos lo ayudar&aacute;n a hacer el mejor uso de su EnMS. A medida que avanza con la implementaci&oacute;n continua del EnMS, este recurso se puede utilizar para ayudar a garantizar que la informaci&oacute;n documentada adicional requerida se incluya en su EnMS. La siguiente parte de esta tarea requiere que el equipo de energ&iacute;a planifique c&oacute;mo su organizaci&oacute;n determinar&aacute; la informaci&oacute;n adicional documentada que se necesita para su EnMS y para demostrar la mejora del rendimiento energ&eacute;tico y la efectividad del EnMS.</p>
 
-<p>An EnMS or energy manual is not required by ISO 50001, although it can be very useful, especially for top management, as a high-level roadmap to the requirements and processes of the EnMS. This task suggests that you consider developing a manual for your EnMS.</p>
+<p>ISO 50001 no requiere un manual para el uso de energ&iacute;a o para el EnMS, aunque puede ser muy &uacute;til, especialmente para la alta gerencia, como una hoja de ruta de alto nivel para los requerimientos y procesos del EnMS. En esta tarea se sugiere que considere desarrollar un manual para su EnMS.</p>
 
-<p>Documented information must be controlled. The requirements for creating, updating, and controlling documented information that is <em>maintained</em> and <em>retained</em> are covered by a common set of controls specified in ISO 50001. In this task, you will define and implement controls for documented information. Keeping the controls simple helps to make implementation easier and can reduce the level of resources required to maintain the controls over time.</p>
+<p>La informaci&oacute;n documentada debe ser controlada. Los requerimientos para crear, actualizar y controlar la informaci&oacute;n documentada que se <em>mantiene </em>y <em>conserva</em> est&aacute;n cubiertos por un conjunto com&uacute;n de controles especificados en ISO 50001. En esta tarea, usted definir&aacute; e implementar&aacute; controles para la informaci&oacute;n documentada. Mantener controles simples ayuda a facilitar la implementaci&oacute;n y puede reducir el nivel de recursos necesarios para mantener los controles a lo largo del tiempo.</p>
 
-<p><em>This guidance is relevant to Section 7.5 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 7.5 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Determine necessary EnMS documents)</p>
+<p>[Accordion](Determine los documentos necesarios del EnMS)</p>
 
-<p>While the 50001 Ready Navigator is guidance and does not contain explicit requirements in this section, the requirements of ISO 50001:2018 are presented for simplicity.</p>
+<p>Si bien el 50001 Ready Navigator es una gu&iacute;a y no contiene requerimientos expl&iacute;citos en esta secci&oacute;n, para efectos de simplificaci&oacute;n se presentan los requisitos de ISO 50001: 2018.</p>
 
-<p>Documented information includes both documents and records.</p>
+<p>La informaci&oacute;n documentada incluye tanto documentos como registros.</p>
 
 <ul>
-	<li>Documents provide information that guides action (e.g., behavior, activities, operations) or communicates expectations. They typically provide &ldquo;what,&rdquo; &ldquo;when,&rdquo; &ldquo;who,&rdquo; and often &ldquo;how&rdquo; information. They are used to state and implement current policies and commitments.</li>
-	<li>Records are &ldquo;snapshots in time&rdquo; that provide information on activities that were performed or results that were achieved. They are used to provide evidence of what has occurred.</li>
+	<li>Los documentos proporcionan informaci&oacute;n que gu&iacute;a la acci&oacute;n (por ejemplo, comportamiento, actividades, operaciones) o comunica expectativas. Por lo general, proporcionan informaci&oacute;n de &quot;qu&eacute;&quot;, &quot;cu&aacute;ndo&quot;, &quot;qui&eacute;n&quot; y, a menudo, &quot;c&oacute;mo&quot;. Se utilizan para establecer e implementar pol&iacute;ticas y compromisos actuales.</li>
+	<li>Los registros son &quot;fotos instant&aacute;neas en el tiempo&quot; que proporcionan informaci&oacute;n sobre las actividades que se realizaron o los resultados que se lograron. Se utilizan para proporcionar evidencia de lo ocurrido.</li>
 </ul>
 
-<p>These two types of documented information are distinguished within ISO 50001 by requirements for documented information to be <em>maintained</em> and records to be <em>retained</em>. Documents such as work instructions, blank forms, videos, online training modules, and the like, would be <em>maintained</em>; while records such as meeting minutes, internal audit findings, and historical energy consumption data would be <em>retained. </em></p>
+<p>Estos dos tipos de informaci&oacute;n documentada se distinguen dentro de ISO 50001 por los requerimientos para <em>mantener</em> la informaci&oacute;n documentada y <em>conservar</em> los registros. Se <em>mantendr&iacute;an</em> documentos como instrucciones de trabajo, formularios en blanco, videos, m&oacute;dulos de capacitaci&oacute;n en l&iacute;nea y similares; mientras que los registros como las actas de las reuniones, los resultados de la auditor&iacute;a interna y los datos hist&oacute;ricos de consumo de energ&iacute;a se <em>conservar&iacute;an</em>. La hoja de trabajo opcional de Playbook enumera la informaci&oacute;n documentada que ISO 50001 requiere expl&iacute;citamente que se mantenga y conserve.</p>
 
-<p>[Learn More](Generic examples documents)</p>
-
-<ul>
-	<li>Policies</li>
-	<li>System procedures</li>
-	<li>Operational procedures</li>
-	<li>Work instructions</li>
-	<li>Manuals</li>
-	<li>Blank forms</li>
-	<li>Plans and programs</li>
-	<li>Drawings and schematics</li>
-	<li>Standards and specifications</li>
-	<li>Videos and photographs</li>
-</ul>
-
-<p>[Learn More End]</p>
-
-<p>[Learn More](Generic examples records)</p>
+<p>[Learn More](Ejemplos generales de documentos)</p>
 
 <ul>
-	<li>Reports</li>
-	<li>Data analyses</li>
-	<li>Meeting minutes</li>
-	<li>Training certificates</li>
-	<li>Completed forms</li>
-	<li>Databases</li>
-	<li>Spreadsheets</li>
+	<li>Pol&iacute;ticas</li>
+	<li>Procedimientos del sistema</li>
+	<li>Procedimientos operacionales</li>
+	<li>Instrucciones de trabajo</li>
+	<li>Manuales</li>
+	<li>Formularios en blanco</li>
+	<li>Planes y programas.</li>
+	<li>Dibujos y esquemas.</li>
+	<li>Normas y especificaciones.</li>
+	<li>Videos y fotograf&iacute;as.</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>For this task, make sure that you have the documented information required for the processes of the EnMS that have been implemented so far. As you continue with EnMS implementation, the energy team should use this resource to ensure that the documented information required for other parts of the EnMS has been included in the system.</p>
+<p>[Learn More](Ejemplos generales de registros)</p>
+
+<ul>
+	<li>Informes</li>
+	<li>An&aacute;lisis de datos.</li>
+	<li>Actas de reuniones</li>
+	<li>Certificados de capacitaci&oacute;n</li>
+	<li>Formularios completados</li>
+	<li>Bases de datos</li>
+	<li>Hojas de c&aacute;lculo</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Para esta tarea, aseg&uacute;rese de tener la informaci&oacute;n documentada requerida para los procesos del EnMS que se han instrumentado hasta ahora. A medida que contin&uacute;a con la instrumentaci&oacute;n del EnMS, el equipo de energ&iacute;a debe usar este recurso para asegurarse de que la informaci&oacute;n documentada requerida para otras partes del EnMS se haya incluido en el sistema.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Determine the documented information needed by your organization for its EnMS)</p>
+<p>[Accordion](Determine la informaci&oacute;n documentada que necesita su organizaci&oacute;n para su EnMS)</p>
 
-<p>Your organization decides what additional documented information is required for the EnMS based on its own needs. This means that you have both <em>the flexibility and the responsibility</em> to determine what documented information is needed to ensure the effective implementation and operation of your EnMS and to demonstrate energy performance improvement.</p>
+<p>Su organizaci&oacute;n decide qu&eacute; informaci&oacute;n adicional documentada se requiere para el EnMS en funci&oacute;n de sus propias necesidades. Esto significa que tiene la flexibilidad y la responsabilidad de determinar qu&eacute; informaci&oacute;n documentada se necesita para garantizar la implementaci&oacute;n y operaci&oacute;n efectiva de su EnMS y demostrar la mejora del rendimiento energ&eacute;tico.</p>
 
-<p>There are a number of factors that can influence the extent of documentation included in the EnMS. Before looking at what those are, consider the value of the documented information.</p>
+<p>Hay una serie de factores que pueden influir en la cantidad de la documentaci&oacute;n incluida en el EnMS. Antes de ver cu&aacute;les son, considere el valor de la informaci&oacute;n documentada.</p>
 
-<p>[Learn More](What is the value of documented information?)</p>
+<p>[Learn More](&iquest;Cu&aacute;l es el valor de la informaci&oacute;n documentada?)</p>
 
-<p>Documented information can provide a number of benefits to an organization. For example, documents can provide guidance for existing employees or for employees who have taken on or assumed new roles or positions within the organization. Relevant documents can orient them to the processes, operations, and activities associated with specific job functions. Documents can communicate what the expectations are for performance of their responsibilities, as well as for others within that department or functional area.</p>
+<p>La informaci&oacute;n documentada puede proporcionar una serie de beneficios a una organizaci&oacute;n. Por ejemplo, los documentos pueden proporcionar orientaci&oacute;n para los empleados actuales o para los empleados que han tomado o asumido nuevos roles o puestos dentro de la organizaci&oacute;n. Los documentos relevantes pueden orientar a estos empleados a los procesos, operaciones y actividades asociadas con funciones de trabajo espec&iacute;ficas. Los documentos pueden comunicar cu&aacute;les son las expectativas para el desempe&ntilde;o de sus responsabilidades, as&iacute; como para otros empleados dentro de ese departamento o &aacute;rea funcional.</p>
 
-<p>Documents frequently serve to facilitate training, as they typically provide information to support and reinforce the learning and awareness that occurs in training. When properly implemented, documents enable tasks or activities to be performed consistently. They can also be useful for defining and communicating expectations and requirements to contractors and suppliers.</p>
+<p>Los documentos con frecuencia sirven para facilitar la capacitaci&oacute;n, ya que generalmente proporcionan informaci&oacute;n para apoyar y reforzar el aprendizaje y la concientizaci&oacute;n que se produce en la capacitaci&oacute;n. Cuando se implementan correctamente, los documentos permiten que las tareas o actividades se realicen de manera consistente. Tambi&eacute;n pueden ser &uacute;tiles para definir y comunicar expectativas y requisitos a contratistas y proveedores.</p>
 
-<p>Records related to activities performed are useful as evidence that the appropriate actions were taken. Also, since records are used to capture results achieved, they provide an excellent basis for data analysis, including a means of tracking energy performance and demonstrating energy performance improvement. They can also benefit the organization as a form of memory for the organization. Records of what was done in the past and the results achieved can be very useful when, for example, there is workforce turnover or attrition over time and that institutional memory is lost.</p>
+<p>Los registros relacionados con las actividades realizadas son &uacute;tiles como evidencia de que se tomaron las acciones apropiadas. Adem&aacute;s, dado que los registros se utilizan para capturar los resultados logrados, proporcionan una base excelente para el an&aacute;lisis de datos, incluido un medio para monitorear el rendimiento energ&eacute;tico y demostrar la mejora del rendimiento energ&eacute;tico. Tambi&eacute;n pueden beneficiar a la organizaci&oacute;n como una forma de memoria para la organizaci&oacute;n. Los registros de lo que se hizo en el pasado y los resultados logrados pueden ser muy &uacute;tiles cuando, por ejemplo, hay una rotaci&oacute;n o reducci&oacute;n de la fuerza laboral con el tiempo y se pierde la memoria institucional.</p>
 
 <p>[Learn More End]</p>
 
-<p>[Learn More](What general factors affect the extent of documentation within an organization?)</p>
+<p>[Learn More](&iquest;Qu&eacute; factores generales afectan la cantidad de documentaci&oacute;n relativa al sistema de gesti&oacute;n de energ&iacute;a dentro de una organizaci&oacute;n?)</p>
 
-<p>General factors affecting the extent of documentation within an organization include:</p>
+<p>Los factores generales que afectan la cantidad de la documentaci&oacute;n dentro de una organizaci&oacute;n incluyen:</p>
 
 <ul>
-	<li>Size of the organization</li>
-	<li>Types of activities (risk level)</li>
-	<li>Complexity of the processes and their interactions</li>
-	<li>Competence of personnel</li>
+	<li>Tama&ntilde;o de la organizaci&oacute;n.</li>
+	<li>Tipos de actividades (nivel de riesgo)</li>
+	<li>Complejidad de los procesos y sus interacciones.</li>
+	<li>Competencia del personal.</li>
 </ul>
 
-<p>The extent of documented information required for the EnMS will vary from one organization to another. Organizations with a large number of personnel tend to use documented information more extensively than smaller organizations. The types of activities, as well as the complexity of processes and their interactions, also influences the extent of documented information within an organization. Complex processes and high-risk activities tend to be more thoroughly documented, both in terms of documents and records, than simple processes or low-risk activities.</p>
+<p>La cantidad de la informaci&oacute;n documentada requerida para el EnMS variar&aacute; de una organizaci&oacute;n a otra. Las organizaciones con una gran cantidad de personal tienden a usar informaci&oacute;n documentada de manera m&aacute;s extensa que las organizaciones m&aacute;s peque&ntilde;as. Los tipos de actividades, as&iacute; como la complejidad de los procesos y sus interacciones, tambi&eacute;n influyen en la cantidad de la informaci&oacute;n documentada dentro de una organizaci&oacute;n. Los procesos complejos y las actividades de alto riesgo tienden a documentarse m&aacute;s a fondo, en t&eacute;rminos de documentos y registros, que los procesos simples o las actividades de bajo riesgo.</p>
 
-<p>Competence of personnel is another factor that influences decisions on the extent of documented information needed. In general, higher levels of competence among personnel can mean that fewer documents are needed. Consideration of the competence of personnel in deciding whether documents are needed should take into account the robustness of the organization&rsquo;s ongoing training systems. For most organizations, training and documentation are a balancing act&mdash;meaning that organizations with robust training systems tend to need fewer documents, while organizations with more limited training resources may need more documentation.</p>
-
-<p>[Learn More End]</p>
-
-<p>[Learn More](When do you decide what additional EnMS documentation is needed?)</p>
-
-<p>Making decisions on whether documentation is needed is an ongoing process during EnMS implementation. Use the energy team to review documented information already incorporated into the EnMS to date. Then, plan for how and when decisions related to documented information will be addressed as you continue to move forward with the development and implementation of your EnMS.</p>
-
-<p>With the appropriate allocation of additional training, awareness, and communication resources, an organization can &ldquo;establish&rdquo; and &ldquo;implement&rdquo; processes and procedures that are not documented. Organizations that make significant investments in ongoing workforce training are able to maintain a minimum number of documented procedures, work instructions, or other similar documents. In deciding whether to document a procedure or process that is not required to be documented, a key factor to consider is what resources are available for additional training if a procedure is not documented. Additional training can be completed to reduce the number of needed documents, but be sure to retain any records related to competency and actions to attain competency.</p>
+<p>La competencia del personal es otro factor que influye en las decisiones sobre la cantidad de la informaci&oacute;n documentada necesaria. En general, los niveles m&aacute;s altos de competencia entre el personal pueden significar que se necesitan menos documentos. La consideraci&oacute;n de la competencia del personal para decidir si se necesitan documentos debe tener en cuenta la solidez de los sistemas de capacitaci&oacute;n continua de la organizaci&oacute;n. Para la mayor&iacute;a de las organizaciones, la capacitaci&oacute;n y la documentaci&oacute;n son un acto de equilibrio, lo que significa que las organizaciones con sistemas de capacitaci&oacute;n s&oacute;lidos tienden a necesitar menos documentos, mientras que las organizaciones con recursos de capacitaci&oacute;n m&aacute;s limitados pueden necesitar m&aacute;s documentaci&oacute;n.</p>
 
 <p>[Learn More End]</p>
 
-<p>[Learn More](How do you decide what additional EnMS documentation is needed?)</p>
+<p>[Learn More](&iquest;Cu&aacute;ndo decide qu&eacute; documentaci&oacute;n adicional del EnMS se necesita?)</p>
 
-<p>Additional information is documented to ensure the effective implementation and maintenance of the EnMS and provide evidence of continual improvement in both the EnMS and energy performance.</p>
+<p>Tomar decisiones sobre la necesidad de documentaci&oacute;n es un proceso continuo durante la instrumentaci&oacute;n del EnMS. Trabaje con el equipo de energ&iacute;a para revisar la informaci&oacute;n documentada ya incorporada en el EnMS hasta la fecha. Luego, planifique c&oacute;mo y cu&aacute;ndo se abordar&aacute;n las decisiones relacionadas con la informaci&oacute;n documentada a medida que contin&uacute;e avanzando con el desarrollo y la implementaci&oacute;n de su EnMS.</p>
 
-<p>To help your organization determine the documents needed for its EnMS, beyond those that are required, establish &ldquo;rules of thumb&rdquo; or other criteria. Some of the factors influencing decisions on the number of documents already have been introduced (see above: <em>What general factors affect the extent of documented information within an organization?</em>). Other relevant factors could include legal requirements, customer requirements, or prior nonconformities. Examples of possible factors or criteria to help your organization determine needed documents are provided in the optional Playbook worksheet.</p>
-
-<p>When making decisions on documented information, don&rsquo;t overlook the potential to leverage existing procedures and other documents and records, modifying them to include the needs of the EnMS. This is a resource-effective approach to creating documented information for the EnMS without creating new documented information to be managed.</p>
+<p>Con la asignaci&oacute;n adecuada de recursos adicionales de capacitaci&oacute;n, sensibilizaci&oacute;n y comunicaci&oacute;n, una organizaci&oacute;n puede &quot;establecer&quot; e &quot;implementar&quot; procesos y procedimientos que no est&aacute;n documentados. Las organizaciones que realizan inversiones significativas en la capacitaci&oacute;n continua de la fuerza laboral pueden mantener una cantidad m&iacute;nima de procedimientos documentados, instrucciones de trabajo u otros documentos similares. Al decidir si documentar un procedimiento o proceso que no se requiere documentar, un factor clave a considerar son los recursos que est&aacute;n disponibles para capacitaci&oacute;n adicional si un procedimiento no est&aacute; documentado. Se puede completar una capacitaci&oacute;n adicional para reducir la cantidad de documentos necesarios, pero aseg&uacute;rese de conservar los registros relacionados con la competencia y las acciones para lograrla.</p>
 
 <p>[Learn More End]</p>
 
-<p>[Learn More](What are the success factors for documented information?)</p>
+<p>[Learn More](&iquest;C&oacute;mo decide qu&eacute; documentaci&oacute;n adicional del EnMS se necesita?)</p>
 
-<p>Success factors for EnMS documented information to be maintained include the following:</p>
+<p>Se documenta informaci&oacute;n adicional para garantizar la implementaci&oacute;n y el mantenimiento efectivos del EnMS y proporcionar evidencia de mejora continua tanto en el EnMS como en el rendimiento energ&eacute;tico.</p>
+
+<p>Para ayudar a su organizaci&oacute;n a determinar los documentos necesarios para su EnMS, m&aacute;s all&aacute; de los obligatorios, establezca &quot;reglas generales&quot; u otros criterios. Algunos de los factores que influyen en las decisiones sobre el n&uacute;mero de documentos ya se han mencionado (ver arriba: <em>&iquest;Qu&eacute; factores generales afectan el alcance de la informaci&oacute;n documentada dentro de una organizaci&oacute;n?</em>). Otros factores relevantes pueden incluir requisitos legales, requisitos del cliente o no-conformidades previas. En la hoja de trabajo opcional de Playbook se proporcionan ejemplos de posibles factores o criterios para ayudar a su organizaci&oacute;n a determinar los documentos necesarios.</p>
+
+<p>Al tomar decisiones sobre informaci&oacute;n documentada, no pase por alto el potencial de aprovechar los procedimientos existentes y otros documentos y registros, modific&aacute;ndolos para incluir las necesidades del EnMS. Esta practica representa un uso efectivo de los recursos para crear informaci&oacute;n documentada para el EnMS sin crear nueva informaci&oacute;n documentada para ser administrada.</p>
+
+<p>[Learn More End]</p>
+
+<p>[Learn More](&iquest;Cu&aacute;les son los factores de &eacute;xito relacionados con la informaci&oacute;n documentada?)</p>
+
+<p>Los factores de &eacute;xito para mantener la informaci&oacute;n documentada del EnMS son los siguientes:</p>
 
 <ul>
-	<li>Having EnMS documents that are either required or determined to be needed</li>
-	<li>Not over-documenting</li>
-	<li>Developing documents with input from users</li>
-	<li>Making document formats and media user-friendly</li>
-	<li>Clearly defining responsibilities and approval authorities</li>
-	<li>Updating documents as needed</li>
+	<li>Contar con documentos del EnMS que se requieren o se determina que son necesarios</li>
+	<li>Evitar documentaci&oacute;n excesiva</li>
+	<li>Elaborar documentos con aportes de los usuarios.</li>
+	<li>Hacer que los formatos de documentos y los medios sean f&aacute;ciles de usar</li>
+	<li>Definir claramente las responsabilidades y las autoridades de aprobaci&oacute;n.</li>
+	<li>Actualizar los documentos seg&uacute;n sea necesario</li>
 </ul>
 
-<p>Success factors for EnMS documented information to be retained include:</p>
+<p>Los factores de &eacute;xito para la informaci&oacute;n documentada de EnMS que se debe conservar incluyen:</p>
 
 <ul>
-	<li>Meeting basic EnMS requirements</li>
-	<li>Proving what you did and what the results were</li>
-	<li>Demonstrating achievement of energy performance improvement</li>
-	<li>Assigning &ldquo;record owners&rdquo;</li>
+	<li>Cumplir los requisitos b&aacute;sicos del EnMS</li>
+	<li>Probar lo que hizo y cu&aacute;les fueron los resultados.</li>
+	<li>Demostrar el logro de la mejora del rendimiento energ&eacute;tico.</li>
+	<li>Asignaci&oacute;n de &quot;encargados de registros&quot;</li>
 </ul>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Develop an energy manual (optional))</p>
+<p>[Accordion](Desarrollar un manual de energ&iacute;a (opcional))</p>
 
-<p>An energy manual is not required by the 50001 Ready Navigator or the ISO 50001 standard, but it is highly recommended because it can provide several benefits, including the following:</p>
-
-<ul>
-	<li>As a documented overview or summary of the EnMS that is approved by top management, the energy manual can serve as a tool to establish and communicate the energy management commitments of the organization.</li>
-	<li>The energy manual is useful to management, employees, and potentially other stakeholders as a &ldquo;roadmap&rdquo; to the EnMS, including information on the components of the system, how those components interact, and direction to the associated processes, procedures, and roles and responsibilities.</li>
-	<li>The energy manual is a convenient mechanism for documenting some of the information about the EnMS that must be documented, such as the scope and boundaries of the EnMS and the energy policy. This can enable the organization to avoid the creation of additional documents that then would have to be managed and controlled.</li>
-	<li>For smaller organizations, the energy manual can be a &ldquo;one-stop shop&rdquo; that contains all current documented information maintained for the EnMS.</li>
-	<li>For organizations that are implementing an EnMS, the energy manual can be a document that serves to translate the requirements of the 50001 Ready Navigator or ISO 50001 standard into the organization&rsquo;s own terminology.</li>
-</ul>
-
-<p>Although the terms used in the ISO 50001 standard can be changed into the organization&rsquo;s own terminology, the meaning of those terms (i.e., the definitions) cannot be changed. For example, an organization may refer to the &ldquo;energy review&rdquo; required by ISO 50001 as an &ldquo;energy profile&rdquo;; however, the definition of what is an energy profile should be the same as the definition of an energy review.</p>
-
-<p>Organizations that have already implemented continual improvement-based management systems (e.g., ISO 14001, ISO 9001, ISO 45001, etc.) can choose to integrate their energy manual into an existing environmental, quality, or other management system manual. This option allows an organization to avoid having to manage and train on multiple management system manuals, and can facilitate the integration of management systems for sustainability or other business purposes.</p>
-
-<p>[Learn More](The format, detail, and length of an energy manual)</p>
-
-<p>There is no required format for an energy manual. It can be in any media. The energy manual may be:</p>
+<p>El 50001 Ready Navigator o el est&aacute;ndar ISO 50001 no requieren un manual de energ&iacute;a, pero es muy recomendable porque puede proporcionar varios beneficios, incluidos los siguientes:</p>
 
 <ul>
-	<li>A stand-alone document, maintained separately from any EnMS procedures</li>
-	<li>A single document that includes other EnMS documented information maintained by the organization</li>
-	<li>Incorporated into another management system manual or other documents</li>
-	<li>An electronic-based hierarchical index or other electronic format, typically with hyperlinks to EnMS documents (such as plans, procedures, blank forms, etc.)</li>
-	<li>Any combination of the above</li>
+	<li>Como un resumen documentado del EnMS aprobado por la alta gerencia, el manual de energ&iacute;a puede servir como una herramienta para establecer y comunicar los compromisos de gesti&oacute;n de energ&iacute;a de la organizaci&oacute;n.</li>
+	<li>El manual de energ&iacute;a es &uacute;til para la administraci&oacute;n, los empleados y potencialmente otras partes interesadas como una &quot;hoja de ruta&quot; para el EnMS, incluida la informaci&oacute;n sobre los componentes del sistema, c&oacute;mo interact&uacute;an esos componentes y la direcci&oacute;n a los procesos, procedimientos, roles y responsabilidades correspondientes.</li>
+	<li>El manual de energ&iacute;a es un mecanismo conveniente para documentar parte de la informaci&oacute;n sobre el EnMS que debe documentarse, como el alcance y los l&iacute;mites del EnMS y la pol&iacute;tica energ&eacute;tica. Esto puede permitir a la organizaci&oacute;n evitar la creaci&oacute;n de documentos adicionales que luego tendr&iacute;an que ser administrados y controlados.</li>
+	<li>Para organizaciones m&aacute;s peque&ntilde;as, el manual de energ&iacute;a puede ser una &quot;ventanilla &uacute;nica&quot; que contiene toda la informaci&oacute;n documentada actual mantenida para el EnMS.</li>
+	<li>Para las organizaciones que est&aacute;n implementando un EnMS, el manual de energ&iacute;a puede ser un documento que sirve para traducir los requisitos del 50001 Ready Navigator o el est&aacute;ndar ISO 50001 en la terminolog&iacute;a de la organizaci&oacute;n.</li>
 </ul>
 
-<p>The energy manual&rsquo;s format and level of detail will vary according to the size and complexity of the organization and the needs and expectations of the organization and its interested parties.</p>
+<p>Aunque los t&eacute;rminos utilizados en el est&aacute;ndar ISO 50001 se pueden cambiar a la terminolog&iacute;a propia de la organizaci&oacute;n, el significado de esos t&eacute;rminos (es decir, las definiciones) no puede modificarse. Por ejemplo, una organizaci&oacute;n puede referirse a la &quot;revisi&oacute;n energ&eacute;tica&quot; requerida por ISO 50001 como un &quot;perfil energ&eacute;tico&quot;; sin embargo, la definici&oacute;n de qu&eacute; es un perfil de energ&iacute;a deber&iacute;a ser la misma que la definici&oacute;n de una revisi&oacute;n de energ&iacute;a.</p>
 
-<p><em>Less detail may be needed in some sections of the manual if details are provided in other types of EnMS documented information (e.g., documented procedures, blank forms, photographs, etc.). On the other hand, additional detail in some sections of the manual can help avoid development of additional and potentially unnecessary EnMS documents.</em></p>
+<p>Las organizaciones que ya han implementado sistemas de gesti&oacute;n basados ​​en la mejora continua (por ejemplo, ISO 14001, ISO 9001, ISO 45001, etc.) pueden optar por integrar su manual de energ&iacute;a en un manual de sistema de gesti&oacute;n ambiental, de calidad u otro. Esta opci&oacute;n permite que una organizaci&oacute;n evite tener que administrar y capacitarse en m&uacute;ltiples manuales de sistemas de administraci&oacute;n y puede facilitar la integraci&oacute;n de sistemas de administraci&oacute;n para la sustentabilidad u otros fines comerciales.</p>
 
-<p>As a general rule of thumb, a stand-alone energy manual is 5 to 15 pages in length. The language and terminology used in the energy manual should be understandable to users, not designed for auditors.</p>
+<p>[Learn More](El formato, los detalles y la extensi&oacute;n de un manual de energ&iacute;a)</p>
+
+<p>No hay un formato requerido para un manual de energ&iacute;a. Puede estar en cualquier forma o medio de comunicaci&oacute;n. El manual de energ&iacute;a puede ser:</p>
+
+<ul>
+	<li>Un documento independiente, mantenido por separado de cualquier procedimiento del EnMS</li>
+	<li>Un documento &uacute;nico que incluye otra informaci&oacute;n documentada del EnMS mantenida por la organizaci&oacute;n.</li>
+	<li>Un documento integrado a otro manual del sistema de gesti&oacute;n u otros documentos</li>
+	<li>Un &iacute;ndice jer&aacute;rquico electr&oacute;nico u otro formato electr&oacute;nico, generalmente con ligas a documentos del EnMS (como planes, procedimientos, formularios en blanco, etc.)</li>
+	<li>Cualquier combinaci&oacute;n de las opciones anteriores</li>
+</ul>
+
+<p>El formato y el nivel de detalle del manual de energ&iacute;a variar&aacute;n seg&uacute;n el tama&ntilde;o y la complejidad de la organizaci&oacute;n y las necesidades y expectativas de la organizaci&oacute;n y sus partes interesadas.</p>
+
+<p><em>Es posible que se necesiten menos detalles en algunas secciones del manual si se proporcionan detalles en otros tipos de informaci&oacute;n documentada del EnMS (por ejemplo, procedimientos documentados, formularios en blanco, fotograf&iacute;as, etc.). Por otro lado, detalles adicionales en algunas secciones del manual pueden ayudar a evitar la elaboraci&oacute;n de documentos relativos al EnMS adicionales y potencialmente innecesarios.</em></p>
+
+<p>Como regla general, un manual de energ&iacute;a independiente tiene una extensi&oacute;n de 5 a 15 p&aacute;ginas. El lenguaje y la terminolog&iacute;a utilizados en el manual de energ&iacute;a deben ser comprensibles para los usuarios, no dise&ntilde;ados para auditores.</p>
 
 <p>[Learn More End]</p>
 
-<p>Like other EnMS documents, the energy manual must be controlled. Top management is usually the designated approver(s) of the energy manual.</p>
+<p>Al igual que otros documentos de EnMS, el manual de energ&iacute;a debe ser controlado. Por lo general la alta gerencia es la instancia designada para aprobar el manual de energ&iacute;a.</p>
 
-<p>Including the energy policy within an energy manual can be a means to demonstrate approval of the energy policy by top management.</p>
+<p>Incluir la pol&iacute;tica energ&eacute;tica en un manual de energ&iacute;a puede ser un medio para demostrar la aprobaci&oacute;n de la pol&iacute;tica energ&eacute;tica por parte de la alta direcci&oacute;n.</p>
 
-<p>[Learn More](Items to consider including in an energy manual)</p>
-
-<ul>
-	<li>The scope and boundaries of the organization&rsquo;s EnMS</li>
-	<li>A description of the processes of the EnMS and their interaction</li>
-</ul>
-
-<p>A common approach to providing an overview or roadmap of the EnMS involves brief descriptions of each of the processes involved in the Plan-Do-Check-Act continual improvement cycle. More detailed information on those processes could be available in other EnMS documented information maintained by the organization or embedded within the organization&rsquo;s training and communications.</p>
-
-<p>An overview or roadmap of the processes that comprise the EnMS is often represented graphically, rather than by text. Most frequently, a graphic representation of the Plan-Do-Check-Act continual improvement cycle identifies the organization&rsquo;s specific processes for planning, supporting, operating, evaluating, and continually improving the EnMS. Graphics are also used to represent how energy applies within the defined scope and boundaries of the organization&rsquo;s EnMS. Such graphics can be a process map or other visual representation of the types of energy consumed by the organization.</p>
-
-<p>Although an organization may start its energy manual with a simple listing of the topics covered by the 50001 Ready Navigator, organizations implementing an ISO 50001 EnMS for third-party certification should avoid copying verbatim the content of each clause of the ISO 50001 standard as the description of the EnMS. Such an approach is typically frowned on by certification bodies.</p>
+<p>[Learn More](Elementos que puede considerar incluir en un manual de energ&iacute;a)</p>
 
 <ul>
-	<li>EnMS documented information or reference to it</li>
+	<li>El alcance y los l&iacute;mites del EnMS de la organizaci&oacute;n.</li>
+	<li>Una descripci&oacute;n de los procesos del EnMS y su interacci&oacute;n.</li>
 </ul>
 
-<p>Smaller organizations may want to include within the energy manual the documented information they are maintaining for their EnMS. This provides a one-stop source for all of the documented information maintained for the organization&rsquo;s EnMS, although it can present some challenges for control of the various documents included in the manual.</p>
+<p>Un m&eacute;todo com&uacute;n para proporcionar una visi&oacute;n general o hoja de ruta del EnMS implica la realizaci&oacute;n de descripciones breves de cada uno de los procesos involucrados en el ciclo de mejora continua Planificar-Hacer-Verificar-Actuar. Informaci&oacute;n m&aacute;s detallada sobre esos procesos podr&iacute;a encontrarse en otra informaci&oacute;n documentada del EnMS mantenida por la organizaci&oacute;n o integrada en la capacitaci&oacute;n y las comunicaciones de la organizaci&oacute;n.</p>
 
-<p>Many organizations decide to maintain and control the energy manual as a single document and only include within it references to related EnMS documented information. These references may be embedded in each section, listed at the end of each section, or listed on a documented information reference table that appears as the last page of the manual. One of the advantages of using a documented information reference table is that it is easily updated when necessary and avoids the need to review and locate references to other EnMS documents within each section of the manual.</p>
+<p>Una descripci&oacute;n general o una hoja de ruta de los procesos que comprenden el EnMS a menudo se representa gr&aacute;ficamente, en lugar del uso de texto. Frecuentemente, una representaci&oacute;n gr&aacute;fica del ciclo de mejora continua Planear-Hacer-Verificar-Actuar identifica los procesos espec&iacute;ficos de la organizaci&oacute;n para planificar, apoyar, operar, evaluar y mejorar continuamente el EnMS. Las gr&aacute;ficas tambi&eacute;n se utilizan para representar c&oacute;mo se aplica la energ&iacute;a dentro del alcance y los l&iacute;mites definidos del EnMS de la organizaci&oacute;n. Tales gr&aacute;ficas pueden ser un mapa de proceso u otra representaci&oacute;n visual de los tipos de energ&iacute;a consumidos por la organizaci&oacute;n.</p>
 
-<p>For example:</p>
+<p>Aunque una organizaci&oacute;n puede iniciar la elaboraci&oacute;n de su manual de energ&iacute;a con una lista simple de los temas cubiertos por el 50001 Ready Navigator, las organizaciones que implementan un ISO 50001 EnMS para la certificaci&oacute;n de terceros deben evitar copiar literalmente el contenido de cada cl&aacute;usula del est&aacute;ndar ISO 50001 para describir el EnMS. Este m&eacute;todo generalmente est&aacute; mal visto por los organismos de certificaci&oacute;n.</p>
+
+<ul>
+	<li>Informaci&oacute;n documentada del EnMS o referencia a ella</li>
+</ul>
+
+<p>Las organizaciones m&aacute;s peque&ntilde;as pueden querer incluir en el manual de energ&iacute;a la informaci&oacute;n documentada que mantienen para su EnMS. Esto proporciona una fuente &uacute;nica para toda la informaci&oacute;n documentada mantenida para el EnMS de la organizaci&oacute;n, aunque puede presentar algunos desaf&iacute;os para el control de los diversos documentos incluidos en el manual.</p>
+
+<p>Muchas organizaciones deciden mantener y controlar el manual de energ&iacute;a como un documento &uacute;nico y solo incluyen dentro de &eacute;l referencias a informaci&oacute;n documentada relacionada con EnMS. Estas referencias pueden estar integradas en cada secci&oacute;n, enumeradas al final de cada secci&oacute;n, o en una tabla de referencia de informaci&oacute;n documentada que aparece como la &uacute;ltima p&aacute;gina del manual. Una de las ventajas de usar una tabla de referencia de informaci&oacute;n documentada es que se actualiza f&aacute;cilmente cuando es necesario y evita la necesidad de revisar y localizar referencias a otros documentos del EnMS dentro de cada secci&oacute;n del manual.</p>
+
+<p>Por ejemplo:</p>
 
 <table style="width:467.25pt">
 	<tbody>
 		<tr>
-			<td colspan="2" style="width:467.2pt">
-			<p><strong>Reference Table of Documented Information Maintained for the EnMS</strong></p>
+			<td colspan="2" style="width:467.25pt">
+			<p>Tabla de referencia de informaci&oacute;n documentada mantenida para el EnMS</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:175.6pt">
-			<p><strong>Topic</strong></p>
+			<p><strong>T&oacute;pico</strong></p>
 			</td>
-			<td style="width:4.05in">
-			<p><strong>Reference</strong></p>
+			<td style="width:291.65pt">
+			<p><strong>Referencia</strong></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:175.6pt">
-			<p>Planning</p>
+			<p>Planeaci&oacute;n</p>
 			</td>
-			<td style="width:4.05in">
-			<p>EnP-01 Energy Review Process Steps</p>
+			<td style="width:291.65pt">
+			<p>EnP-01 Pasos del proceso de revisi&oacute;n energ&eacute;tica</p>
 
-			<p>EnD-02 Energy Legal and Other Requirements Matrix</p>
+			<p>EnD-02 Matriz de requerimientos legales, energ&eacute;ticos y de otro tipo.</p>
 
-			<p>EnP-03 EnPI Methodology</p>
+			<p>EnP-03 Metodolog&iacute;a EnPI</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:175.6pt">
 			<p>&hellip;</p>
 			</td>
-			<td style="width:4.05in">
+			<td style="width:291.65pt">
 			<p>&hellip;</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:175.6pt">
-			<p>Internal Audits</p>
+			<p>Auditorias Internas</p>
 			</td>
-			<td style="width:4.05in">
-			<p>EnP-05 EnMS Internal Audit Procedure</p>
+			<td style="width:291.65pt">
+			<p>EnP-05 Procedimiento de Auditoria Interna del EnMS</p>
 
-			<p>EnF-03 Internal Audit Finding Form (blank)</p>
+			<p>EnF-03 Formato Interno de Resultados de Auditoria (en blanco)</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:175.6pt">
 			<p>&hellip;</p>
 			</td>
-			<td style="width:4.05in">
+			<td style="width:291.65pt">
 			<p>&hellip;</p>
 			</td>
 		</tr>
@@ -272,81 +272,67 @@ Tarea 16: Documentamos la información que determinamos es necesaria para garant
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Define and implement controls for creating, updating, and managing documented information for the EnMS)</p>
+<p>[Accordion](Defina e implemente controles para crear, actualizar y administrar informaci&oacute;n documentada para el EnMS)</p>
 
-<p>The processes for managing documents and records must address how documented information is created, updated, and controlled. This ensures that:</p>
-
-<ul>
-	<li>Current and correct information is available where needed</li>
-	<li>External information and obsolete information are managed properly</li>
-	<li>Evidence of activities performed and results achieved is retained</li>
-</ul>
-
-<p>Start by determining how your organization currently manages documented information, including both documents and records. If there are already formal processes in place, such as mandated document formats or a corporate records policy, you should follow those processes, making modifications as needed for the EnMS.</p>
-
-<p>The optional Playbook worksheet can help you assess whether your existing processes for creating, updating and controlling documented information cover the ISO 50001 requirements. If you do not have processes in place, this checklist can be used to identify the features that will need to be addressed as you develop your processes for creating, updating, and controlling EnMS documented information.</p>
-
-<p>Documented information that is <em>maintained</em> (i.e., documents) may be updated for a variety of reasons:</p>
+<p>Los procesos para administrar documentos y registros deben abordar c&oacute;mo se crea, actualiza y controla la informaci&oacute;n documentada. Esto asegura que:</p>
 
 <ul>
-	<li>Changes to business circumstances, sites, equipment, systems, or processes</li>
-	<li>Internal or external audit results (Task 22 [task](Internal Audit))</li>
-	<li>Corrective actions (Task 24 [task](Corrective Actions))</li>
-	<li>Management review (Task 23 [task](Management Review))</li>
-	<li>Periodic reviews conducted to ensure that the information is still relevant, accurate, and adequate</li>
-	<li>Revision of an external document, including legal and other requirements (Task 2 [task](People and Legal Requirements Affecting the EnMS))</li>
+	<li>La informaci&oacute;n actualizada y correcta est&aacute; disponible donde sea necesario</li>
+	<li>La informaci&oacute;n externa y la informaci&oacute;n obsoleta se administran adecuadamente.</li>
+	<li>Se conserva la evidencia de las actividades realizadas y los resultados obtenidos.</li>
 </ul>
 
-<p>As evidence of activities performed and results achieved, documented information that is <em>retained</em> (i.e., records) is not updated, but it can be corrected, if necessary.</p>
+<p>Comience por determinar c&oacute;mo su organizaci&oacute;n administra actualmente la informaci&oacute;n documentada, incluidos los documentos y los registros. Si ya existen procesos formales, como formatos de documentos obligatorios o una pol&iacute;tica de registros corporativos, debe seguir esos procesos y realizar las modificaciones necesarias para el EnMS.</p>
 
-<p>The following sections discuss the items that need to be addressed in your process for creating and updating documented information:</p>
+<p>La hoja de trabajo opcional de Playbook puede ayudarlo a evaluar si sus procesos existentes para crear, actualizar y controlar informaci&oacute;n documentada cubren los requerimientos de ISO 50001. Si no tiene procesos establecidos, esta lista de verificaci&oacute;n se puede utilizar para identificar las caracter&iacute;sticas que deber&aacute;n abordarse a medida que desarrolla sus procesos para crear, actualizar y controlar la informaci&oacute;n documentada del EnMS.</p>
 
-<p>[Learn More](Updating and creating documented information: Identification and description)</p>
+<p>La informaci&oacute;n documentada que se <em>mantiene</em> (es decir, documentos) puede actualizarse por una variedad de razones:</p>
 
-<p>When you look at documented information, you should be able to tell what it is and what activities it relates to. Your organization determines how the various types of documented information are identified. At a minimum, documented information to be maintained (documents) and retained (records) should be dated and have a title or subject indicator that accurately reflects its content. Often, document or reference numbers are applied as identifiers to documents.</p>
+<ul>
+	<li>Cambios en las circunstancias de negocios, sitios, equipos, sistemas o procesos.</li>
+	<li>Resultados de auditor&iacute;a interna o externa (Tarea 22 [tarea] (Auditor&iacute;a Interna))</li>
+	<li>Acciones correctivas (Tarea 24 [tarea] (Acciones Correctivas))</li>
+	<li>Revisi&oacute;n de gesti&oacute;n (Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n))</li>
+	<li>Se realizan revisiones peri&oacute;dicas para garantizar que la informaci&oacute;n sigue siendo relevante, precisa y adecuada.</li>
+	<li>Revisi&oacute;n de un documento externo, incluidos los requerimientos legales y otros requerimientos (Tarea 2 [tarea] (Personas y Requerimientos Legales que Afectan el EnMS))</li>
+</ul>
 
-<p>Taking account of any existing documentation control processes within your organization, you need to decide on and apply the specific features that will be used to identify the different types of documented information in your EnMS. Not all documented information needs to be identified in the same way. The table below provides an example of how one organization chose to identify its documents.</p>
+<p>Como evidencia de las actividades realizadas y los resultados alcanzados, la informaci&oacute;n documentada que se retiene (es decir, los registros) no se actualiza, pero se puede corregir, si es necesario.</p>
 
-<p>In this example, Organization A created a table to identify the different types of documented information in its EnMS. Then, for each type, the relevant identification controls were established. Title and date were applied to all types, while document numbers were applied only to the energy manual and the procedures and work instructions.</p>
+<p>Las siguientes secciones analizan los elementos que deben abordarse en su proceso para crear y actualizar informaci&oacute;n documentada:</p>
+
+<p>[Learn More](Actualizaci&oacute;n y creaci&oacute;n de informaci&oacute;n documentada: identificaci&oacute;n y descripci&oacute;n)</p>
+
+<p>Cuando revisa la informaci&oacute;n documentada, debe poder decir qu&eacute; es y con qu&eacute; actividades se relaciona. Su organizaci&oacute;n determina c&oacute;mo se identifican los distintos tipos de informaci&oacute;n documentada. Como m&iacute;nimo, la informaci&oacute;n documentada que se debe mantener (documentos) y conservar (registros) debe estar fechada y tener un t&iacute;tulo o indicador de tema que refleje con precisi&oacute;n su contenido. A menudo, los n&uacute;meros de documento o referencia se aplican como identificadores a los documentos.</p>
+
+<p>Teniendo en cuenta los procesos de control de documentaci&oacute;n existentes dentro de su organizaci&oacute;n, debe decidir y aplicar las caracter&iacute;sticas espec&iacute;ficas que se utilizar&aacute;n para identificar los diferentes tipos de informaci&oacute;n documentada en su EnMS. No toda la informaci&oacute;n documentada debe identificarse de la misma manera. La siguiente tabla proporciona un ejemplo de c&oacute;mo una organizaci&oacute;n eligi&oacute; identificar sus documentos.</p>
+
+<p>En este ejemplo, la Organizaci&oacute;n A cre&oacute; una tabla para identificar los diferentes tipos de informaci&oacute;n documentada en su EnMS. Luego, para cada tipo, se establecieron los controles de identificaci&oacute;n relevantes. El t&iacute;tulo y la fecha se aplicaron a todos los tipos, mientras que los n&uacute;meros de documento se aplicaron solo al manual de energ&iacute;a y los procedimientos e instrucciones de trabajo.</p>
 
 <table style="width:427.5pt">
 	<tbody>
 		<tr>
 			<td colspan="4" style="width:427.6pt">
-			<p><strong>Organization A &ndash; Identifiers for EnMS Documented Information</strong></p>
+			<p><strong>Organizaci&oacute;n A &ndash; Identificadores para Informaci&oacute;n Documentada del EnMS</strong></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:111.75pt">
-			<p><strong>Type</strong></p>
+			<p><strong>Tipo</strong></p>
 			</td>
 			<td style="width:171.75pt">
-			<p><strong>Document Reference Number</strong></p>
+			<p><strong>Numero de Referencia del Documento</strong></p>
 			</td>
 			<td style="width:27.7pt">
-			<p><strong>Title</strong></p>
+			<p><strong>Titulo</strong></p>
 			</td>
 			<td style="width:116.4pt">
-			<p><strong>Issue/Revision Date</strong></p>
+			<p><strong>Fecha Expedici&oacute;n/Revisi&oacute;n </strong></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:111.75pt">
-			<p>Energy Manual</p>
-			</td>
-			<td style="width:171.75pt">
-			<p><strong>&bull;</strong></p>
-			</td>
-			<td style="width:27.7pt">
-			<p><strong>&bull;</strong></p>
-			</td>
-			<td style="width:116.4pt">
-			<p><strong>&bull;</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:111.75pt">
-			<p>Procedures</p>
+			<p>Manual de Energ&iacute;a</p>
 			</td>
 			<td style="width:171.75pt">
 			<p><strong>&bull;</strong></p>
@@ -360,7 +346,7 @@ Tarea 16: Documentamos la información que determinamos es necesaria para garant
 		</tr>
 		<tr>
 			<td style="width:111.75pt">
-			<p>Work Instructions</p>
+			<p>Procedimientos</p>
 			</td>
 			<td style="width:171.75pt">
 			<p><strong>&bull;</strong></p>
@@ -374,7 +360,21 @@ Tarea 16: Documentamos la información que determinamos es necesaria para garant
 		</tr>
 		<tr>
 			<td style="width:111.75pt">
-			<p>Blank Forms</p>
+			<p>Instrucciones de Trabajo</p>
+			</td>
+			<td style="width:171.75pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:27.7pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+			<td style="width:116.4pt">
+			<p><strong>&bull;</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:111.75pt">
+			<p>Formas en Blanco</p>
 			</td>
 			<td style="width:171.75pt">&nbsp;</td>
 			<td style="width:27.7pt">
@@ -386,7 +386,7 @@ Tarea 16: Documentamos la información que determinamos es necesaria para garant
 		</tr>
 		<tr>
 			<td style="width:111.75pt">
-			<p>Plans and Programs</p>
+			<p>Planes y Programas</p>
 			</td>
 			<td style="width:171.75pt">&nbsp;</td>
 			<td style="width:27.7pt">
@@ -398,7 +398,7 @@ Tarea 16: Documentamos la información que determinamos es necesaria para garant
 		</tr>
 		<tr>
 			<td style="width:111.75pt">
-			<p>External Documents</p>
+			<p>Documentos Externos</p>
 			</td>
 			<td style="width:171.75pt">&nbsp;</td>
 			<td style="width:27.7pt">
@@ -410,7 +410,7 @@ Tarea 16: Documentamos la información que determinamos es necesaria para garant
 		</tr>
 		<tr>
 			<td style="width:111.75pt">
-			<p>Training Videos</p>
+			<p>Videos de Capacitaci&oacute;n</p>
 			</td>
 			<td style="width:171.75pt">&nbsp;</td>
 			<td style="width:27.7pt">
@@ -422,7 +422,7 @@ Tarea 16: Documentamos la información que determinamos es necesaria para garant
 		</tr>
 		<tr>
 			<td style="width:111.75pt">
-			<p>Records</p>
+			<p>Registros</p>
 			</td>
 			<td style="width:171.75pt">&nbsp;</td>
 			<td style="width:27.7pt">
@@ -431,7 +431,7 @@ Tarea 16: Documentamos la información que determinamos es necesaria para garant
 			<td style="width:116.4pt">
 			<p><strong>&bull;</strong></p>
 
-			<p>(date completed)</p>
+			<p>(Fecha de cierre)</p>
 			</td>
 		</tr>
 	</tbody>
@@ -439,90 +439,90 @@ Tarea 16: Documentamos la información que determinamos es necesaria para garant
 
 <p>[Learn More End]</p>
 
-<p>[Learn More](Creating and updating documented information: Format and media)</p>
+<p>[Learn More](Creaci&oacute;n y actualizaci&oacute;n de informaci&oacute;n documentada: formato y medios)</p>
 
-<p>In creating and updating documented information, are there any required formats for your organization, such as language (e.g., English, English and Spanish, Vietnamese, Braille), the use of graphics (e.g., flowcharts, photographs), or specific templates or software versions? What types of media are acceptable for documented information (e.g., paper, electronic)? Any requirements for the use of specific formats or media would be those imposed by your own organization. There are none specifically required by ISO 50001.</p>
-
-<p>[Learn More End]</p>
-
-<p>[Learn More](Creating and updating documented information: Review and approval)</p>
-
-<p>The purpose of appropriate review and approval is to ensure that the documented information is suitable (for its intended purpose) and adequate (provides the needed information). Determine who is authorized to review and approve documents for suitability and adequacy, the process for review and approval, and the record of approval. Review and approval of documents helps ensure that the information is relevant, current, and correct.</p>
-
-<p>Unlike documents, individual records are not reviewed and approved for suitability and adequacy. However, in the initial creation (or designation) of the different types of records to be retained for the EnMS, review and approval ensures that the record type is suitable and adequate for capturing that specific relevant data or information.</p>
-
-<p>Not all documented information should be approved by the same positions. It should be approved by those responsible for the policies, decisions, or actions described. Avoid having too many approval levels, as this can complicate the document control system and hamper its efficiency.</p>
-
-<p>Some organizations still use hand signatures as evidence of approval, but many others now manage their documentation electronically. A typical process is to upload an electronic document into a workflow that sends the document to each person responsible for approval. Upon receipt of the document, the person indicates approval or rejection. If rejected, the workflow sends the document back to the owner to resolve the issue. If approved, the document is electronically distributed to the appropriate locations.</p>
+<p>Al crear y actualizar la informaci&oacute;n documentada, &iquest;existen formatos requeridos para su organizaci&oacute;n, como el idioma (por ejemplo, ingl&eacute;s, ingl&eacute;s y espa&ntilde;ol, vietnamita, braille), el uso de gr&aacute;ficos (por ejemplo, diagramas de flujo, fotograf&iacute;as) o formatos o versiones de software espec&iacute;ficos? &iquest;Qu&eacute; tipos de medios son aceptables para la informaci&oacute;n documentada (por ejemplo, impresos, electr&oacute;nicos)? Cualquier requerimiento para el uso de formatos o medios espec&iacute;ficos ser&iacute;an establecidos por su propia organizaci&oacute;n. No hay ninguno espec&iacute;ficamente requerido por ISO 50001.</p>
 
 <p>[Learn More End]</p>
 
-<p>In addition to ensuring appropriate identification, format, media, and review and approval when creating and updating documented information, there must be controls implemented to ensure that documented information is available and suitable at locations where it is needed. It also must be adequately protected.</p>
+<p>[Learn More](Creaci&oacute;n y actualizaci&oacute;n de informaci&oacute;n documentada: revisi&oacute;n y aprobaci&oacute;n)</p>
 
-<p>[Learn More](Control of documented information: Availability and protection)</p>
+<p>El prop&oacute;sito de una revisi&oacute;n y aprobaci&oacute;n apropiadas es asegurar que la informaci&oacute;n documentada sea adecuada (que cumpla con su prop&oacute;sito previsto) y adecuada (que proporcione la informaci&oacute;n necesaria). Determine qui&eacute;n est&aacute; autorizado para revisar y aprobar documentos de idoneidad y adecuaci&oacute;n, el proceso de revisi&oacute;n y aprobaci&oacute;n y el registro de aprobaci&oacute;n. La revisi&oacute;n y aprobaci&oacute;n de documentos ayuda a garantizar que la informaci&oacute;n sea relevante, actualizada y correcta.</p>
 
-<p>More and more organizations are using electronically documented information, but if your organization uses paper copies, they must be available at points of use and protected from unintended or improper use by removal of documented information that is obsolete.</p>
+<p>A diferencia de los documentos, los registros individuales no se revisan y aprueban para determinar su idoneidad. Sin embargo, en la creaci&oacute;n inicial (o designaci&oacute;n) de los diferentes tipos de registros que se conservar&aacute;n para el EnMS, la revisi&oacute;n y aprobaci&oacute;n aseguran que el tipo de registro sea id&oacute;neo y adecuado para capturar esa informaci&oacute;n o datos relevantes espec&iacute;ficos.</p>
 
-<p>For organizations using electronic documents, ensuring that the proper information is available where it is needed is typically a matter of authorizing the appropriate personnel to have computer access to it. It is necessary to know who is authorized to have access to each piece of documented information and to make it available where it is needed. Removal from points of use (e.g., when a document becomes obsolete or a record has been dispositioned for disposal) would mean making the documented information unavailable or inaccessible through the computer.</p>
+<p>No toda la informaci&oacute;n documentada debe ser aprobada por los mismos empleados. Debe ser aprobada por los responsables de las pol&iacute;ticas, decisiones o acciones descritas. Evite tener demasiados niveles de aprobaci&oacute;n, ya que esto puede complicar el sistema de control de documentos y dificultar su eficiencia.</p>
 
-<p>Organizations using print documents will need to identify and control a specific number of copies, which are then physically located at the appropriate points of use. In these circumstances, removal of obsolete hardcopy documents and records from points of use involve physically removing them from the specific areas where they are located. Information must be in place to ensure that document locations are known.</p>
-
-<p>The protections needed for documented information (other than for protection from improper or unintended use) can vary by organization. Protecting documented information from loss of confidentiality generally relies on its availability only to authorized personnel and prohibitions from printing or copying. Protection from loss of integrity can be straightforward with respect to electronic documented information which can be locked and passcode protected, if needed. Regularly scheduled electronic backup of documented information is also a form of protection. For printed (hardcopy) documented information, conditions on use (e.g., no handwriting allowed on printed documents, use of plastic covers) can help prevent loss of integrity, as can secure storage.</p>
+<p>Algunas organizaciones todav&iacute;a usan firmas manuales como evidencia de aprobaci&oacute;n, pero muchas otras ahora manejan su documentaci&oacute;n electr&oacute;nicamente. Un proceso t&iacute;pico es cargar un documento electr&oacute;nico en un flujo de trabajo que env&iacute;a el documento a cada persona responsable de la aprobaci&oacute;n. Al recibir el documento, la persona indica aprobaci&oacute;n o rechazo. Si se rechaza, el flujo de trabajo devuelve el documento al encargado para resolver el problema. Si se aprueba, el documento se distribuye electr&oacute;nicamente a los lugares apropiados.</p>
 
 <p>[Learn More End]</p>
 
-<p>Additional controls for documented information address the following activities, as applicable:</p>
+<p>Adem&aacute;s de garantizar la identificaci&oacute;n, el formato, los medios y la revisi&oacute;n y aprobaci&oacute;n apropiados al crear y actualizar la informaci&oacute;n documentada, deben implementarse controles para garantizar que la informaci&oacute;n documentada est&eacute; disponible y sea adecuada en los lugares donde se necesita. Tambi&eacute;n debe estar adecuadamente protegida.</p>
+
+<p>[Learn More](Control de informaci&oacute;n documentada: disponibilidad y protecci&oacute;n)</p>
+
+<p>Cada vez m&aacute;s organizaciones est&aacute;n utilizando informaci&oacute;n documentada electr&oacute;nicamente, pero si su organizaci&oacute;n usa copias en papel, deben estar disponibles en los puntos de uso y protegidas del uso equivocado o inapropiado mediante la eliminaci&oacute;n de informaci&oacute;n documentada que es obsoleta.</p>
+
+<p>Para las organizaciones que usan documentos electr&oacute;nicos, asegurarse de que la informaci&oacute;n adecuada est&eacute; disponible donde se necesita es, por lo general, una cuesti&oacute;n de autorizar al personal apropiado para que tenga acceso a la informaci&oacute;n en la computadora. Es necesario saber qui&eacute;n est&aacute; autorizado para tener acceso a cada informaci&oacute;n documentada y ponerla a disposici&oacute;n donde sea necesario. La eliminaci&oacute;n de los puntos de uso (por ejemplo, cuando un documento se vuelve obsoleto o se ha eliminado un registro para su eliminaci&oacute;n) significar&iacute;a hacer que la informaci&oacute;n documentada no est&eacute; disponible o sea inaccesible a trav&eacute;s de la computadora.</p>
+
+<p>Las organizaciones que usan documentos impresos deber&aacute;n identificar y controlar un n&uacute;mero espec&iacute;fico de copias, que luego se ubican f&iacute;sicamente en los puntos de uso apropiados. En estas circunstancias, la eliminaci&oacute;n de documentos y registros en papel obsoletos de los puntos de uso implica la eliminaci&oacute;n f&iacute;sica de ellos de las &aacute;reas espec&iacute;ficas donde se encuentran. Se debe contar con informaci&oacute;n para garantizar que se conozcan las ubicaciones de los documentos</p>
+
+<p>Las protecciones necesarias para la informaci&oacute;n documentada (que no sea la protecci&oacute;n contra el uso indebido o no deseado) pueden variar seg&uacute;n la organizaci&oacute;n. La protecci&oacute;n de la informaci&oacute;n documentada contra la p&eacute;rdida de confidencialidad generalmente depende de su disponibilidad solo para el personal autorizado y las prohibiciones para imprimir o copiar. La protecci&oacute;n contra la p&eacute;rdida de integridad puede ser sencilla con respecto a la informaci&oacute;n electr&oacute;nica documentada que se puede bloquear y proteger con contrase&ntilde;a, si es necesario. El respaldo electr&oacute;nico programado regularmente de la informaci&oacute;n documentada tambi&eacute;n es una forma de protecci&oacute;n. Para la informaci&oacute;n documentada en papel (impresa), las condiciones de uso (por ejemplo, no permitir la escritura a mano en documentos impresos, usar cubiertas de pl&aacute;stico) pueden ayudar a evitar la p&eacute;rdida de integridad, al igual que asegurar su almacenamiento.</p>
+
+<p>[Learn More End]</p>
+
+<p>Los controles adicionales para la informaci&oacute;n documentada abordan las siguientes actividades, seg&uacute;n corresponda:</p>
 
 <ul>
-	<li>Distribution, access, retrieval, and use</li>
-	<li>Storage and preservation</li>
-	<li>Control of changes</li>
-	<li>Retention and disposition</li>
+	<li>Distribuci&oacute;n, acceso, recuperaci&oacute;n y uso.</li>
+	<li>Almacenamiento y conservaci&oacute;n.</li>
+	<li>Control de cambios.</li>
+	<li>Retenci&oacute;n y disposici&oacute;n.</li>
 </ul>
 
-<p>Not all of these controls are applicable to all types of documented information. For example, documented information that is retained (i.e., records) do not generally need controls for distribution or changes. Records are evidence of what happened or what was achieved so they can only be corrected, not changed as in what is meant by version control. They are not typically distributed, but they are stored, preserved for legibility and for specified periods of time (i.e., retention times), and then dispositioned (e.g., destroyed, archived) when the retention time has expired.</p>
+<p>No todos estos controles son aplicables a todos los tipos de informaci&oacute;n documentada. Por ejemplo, la informaci&oacute;n documentada que se conserva (es decir, los registros) generalmente no necesita controles para su distribuci&oacute;n o cambios. Los registros son evidencia de lo que sucedi&oacute; o de lo que se logr&oacute;, por lo que solo pueden corregirse, no modificarse como se entiende por control de cambios. Por lo general, no se distribuyen, pero se almacenan, se conservan para que sean legibles durante per&iacute;odos de tiempo espec&iacute;ficos (es decir, tiempos de conservaci&oacute;n), y luego se eliminan (por ejemplo, son destruidos o archivados) cuando el tiempo de retenci&oacute;n ha expirado.</p>
 
-<p>Documented information that is maintained (i.e., documents) do not generally have controls for retention and disposition, unless they are retained for legal, regulatory, or potential liability reasons.</p>
+<p>La informaci&oacute;n documentada que se mantiene (es decir, documentos) generalmente no tiene controles de retenci&oacute;n y disposici&oacute;n, a menos que se conserven por razones legales, regulatorias o de potencial responsabilidad legal.</p>
 
-<p>When setting retention times for records (and for documents, as applicable), define a <em>minimum</em> retention time. Retention times may be different for different types of documented information. Organizational or company record retention policies, legal requirements, and business needs should be considered when setting retention times.</p>
+<p>Al establecer tiempos de conservaci&oacute;n para registros (y para documentos, seg&uacute;n corresponda), defina un tiempo de retenci&oacute;n m&iacute;nimo. Los tiempos de retenci&oacute;n pueden ser diferentes para diferentes tipos de informaci&oacute;n documentada. Las pol&iacute;ticas de retenci&oacute;n de registros organizacionales o de la compa&ntilde;&iacute;a, los requerimientos legales y las necesidades de negocios deben considerarse al establecer los tiempos de retenci&oacute;n.</p>
 
-<p>Control of changes (e.g., version control) applies to documents when they are updated; for example, to reflect current or new practice. Revision dates or revision levels (1, 2, 3 or A, B, C) are commonly used for version control. If you decide to identify for the user changes or updates made, consider using a &ldquo;Revision History Table&rdquo; at the end of a document to indicate a revision date and summarize the changes made. Other approaches include highlighting or underlining the revisions, or using training to identify and review the modifications.</p>
+<p>El control de los cambios (por ejemplo, control de versiones) se aplica a los documentos cuando se actualizan; por ejemplo, para reflejar la pr&aacute;ctica actual o nueva. Las fechas de revisi&oacute;n o los niveles de revisi&oacute;n (1, 2, 3 o A, B, C) se usan com&uacute;nmente para el control de versiones. Si decide identificar para el usuario los cambios o actualizaciones realizados, considere usar una &quot;Tabla de historial de revisiones&quot; al final de un documento para indicar una fecha de revisi&oacute;n y resumir los cambios realizados. Otros enfoques incluyen resaltar o subrayar las revisiones, o usar la capacitaci&oacute;n para identificar y revisar las modificaciones.</p>
 
-<p>Controls for access, retrieval, and use generally apply to both documents and records.</p>
+<p>Los controles de acceso, recuperaci&oacute;n y uso generalmente se aplican tanto a documentos como a registros.</p>
 
-<p>To implement these elements of documented information control, determine which controls apply to which types of documents and records and decide what those controls will be. One note of caution about preservation is that preservation includes legibility. In electronic documentation, legibility refers to the readability of the information. Sometimes organizations change software or operating systems and later discover they cannot read the files that were in the previous type of software</p>
+<p>Para implementar estos elementos de control de informaci&oacute;n documentada, determine qu&eacute; controles se aplican a qu&eacute; tipos de documentos y registros y decida cu&aacute;les ser&aacute;n esos controles. Una nota de precauci&oacute;n sobre la preservaci&oacute;n es que la preservaci&oacute;n incluye legibilidad. En la documentaci&oacute;n electr&oacute;nica, la legibilidad se refiere a la legibilidad de la informaci&oacute;n. A veces las organizaciones cambian de software o sistemas operativos y luego descubren que no pueden leer los archivos que estaban en el tipo de software que usaban anteriormente.</p>
 
-<p>[Learn More](Controls for documented information: &ndash; Assigning responsibilities)</p>
+<p>[Learn More](Controles para informaci&oacute;n documentada: - Asignaci&oacute;n de responsabilidades)</p>
 
-<p>Designated owners&mdash;The responsibility for documents and records should be assigned to an owner who ensures that relevant controls are applied to the various types of documented information in the EnMS. In the case of documented information to be maintained, document owners are also responsible for the content of the document; its suitability, periodic review and updating; and removal of obsolete versions.</p>
+<p>Encargados designados: la responsabilidad de los documentos y registros debe asignarse a un encargado que se asegure de que se apliquen los controles relevantes a los diversos tipos de informaci&oacute;n documentada en el EnMS. En el caso de que se mantenga la informaci&oacute;n documentada, los encargados del documento tambi&eacute;n son responsables del contenido del documento; su idoneidad, revisi&oacute;n peri&oacute;dica y actualizaci&oacute;n; y la eliminaci&oacute;n de versiones obsoletas.</p>
 
-<p>If your organization has the option of designating a Documents Coordinator/Manager as a central point of control for EnMS documented information, then responsibilities for the application of relevant controls can be moved from the document owners to the document coordinator. However, document owners always retain responsibility and accountability for the content, suitability, review, and updating of their assigned documents. The energy team typically assigns both document owners and document approvers and can serve as the central point of control for the distribution of documents to the locations (including electronic) where they are needed.</p>
+<p>Si su organizaci&oacute;n tiene la opci&oacute;n de designar un Coordinador / Gerente de Documentos como un punto central de control para la informaci&oacute;n documentada del EnMS, entonces las responsabilidades para la aplicaci&oacute;n de los controles relevantes se pueden trasladar de los encargados del documento al coordinador del documento. Sin embargo, los encargados de documentos siempre conservan la responsabilidad por el contenido, la idoneidad, la revisi&oacute;n y la actualizaci&oacute;n de sus documentos asignados. El equipo de energ&iacute;a generalmente asigna encargados de documentos y aprobadores de documentos y puede servir como el punto central de control para la distribuci&oacute;n de documentos a los lugares (incluidos los electr&oacute;nicos) donde se necesitan.</p>
 
-<p>Record owners also are typically assigned by the energy team. They are responsible and accountable for ensuring that their assigned records are generated, retained, and controlled as defined within the EnMS.</p>
+<p>Los encargados de registros tambi&eacute;n suelen ser asignados por el equipo de energ&iacute;a. Son responsables y responsables de garantizar que sus registros asignados se generen, retengan y controlen seg&uacute;n lo definido en el EnMS.</p>
 
-<p>The &ldquo;ownership&rdquo; approach to maintaining and retaining documented information clearly assigns associated responsibilities and ensures accountability for the management and control of the documented information in the EnMS. Once the controls for documented information are defined and the process for applying them is developed, assign the owners and ensure that the responsibilities and controls are communicated to the appropriate personnel. If this level of documented information control is new to the organization, consider training to supplement the communication.</p>
+<p>El m&eacute;todo de &quot;propiedad&quot; para mantener y retener informaci&oacute;n documentada asigna claramente las responsabilidades asociadas y garantiza la responsabilidad de la gesti&oacute;n y el control de la informaci&oacute;n documentada en el EnMS. Una vez que se definen los controles para la informaci&oacute;n documentada y se desarrolla el proceso para aplicarlos, asigne a los encargados (propietarios) y aseg&uacute;rese de que las responsabilidades y los controles se comuniquen al personal apropiado. Si este nivel de control de informaci&oacute;n documentado es nuevo para la organizaci&oacute;n, considere la capacitaci&oacute;n para complementar la comunicaci&oacute;n.</p>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>ISO 9001:2015, ISO 14001:2015, and ISO 50001:2018 have some similar requirements for documented information to be maintained. These include the following:</p>
+<p>Los est&aacute;ndares ISO 9001: 2015, ISO 14001: 2015 e ISO 50001: 2018 tienen algunos requisitos similares para mantener la informaci&oacute;n documentada. Estos incluyen lo siguiente:</p>
 
 <ul>
-	<li><strong>Scope and boundaries.</strong> The scope of the management system is also maintained as documented information in the ISO 14001:2015 and ISO 9001:2015 systems. If the organization is integrating its environmental and energy management systems, there can be a single scope statement that applies and is maintained as documented information.</li>
-	<li><strong>Policy statement.</strong> Like ISO 50001:2018, ISO 14001:2015 and ISO 9001:2015 require the policy to be maintained as documented information. If the organization has integrated its management systems, there can be a single documented policy statement that applies across the management systems.</li>
-	<li><strong>Internal audit process.</strong> Internal audits are a documented process under the definition, and the definition applies across ISO 9001:2015, ISO 14001:2015, and ISO 50001:2018.</li>
-	<li><strong>Documented information determined by the organization to be necessary for the effectiveness of the management system.</strong> Any process already in place for ISO 9001 or ISO 14001 to help the organization determine what documented information is needed (beyond that explicitly required by the standards) likely can be used to determine necessary documented information for the EnMS.</li>
+	<li><strong>Alcance y l&iacute;mites</strong>. El alcance del sistema de gesti&oacute;n tambi&eacute;n se mantiene como informaci&oacute;n documentada en los sistemas ISO 14001: 2015 e ISO 9001: 2015. Si la organizaci&oacute;n est&aacute; integrando sus sistemas de gesti&oacute;n ambiental y energ&eacute;tica, puede haber una declaraci&oacute;n de alcance &uacute;nico que se aplique y se mantenga como informaci&oacute;n documentada.</li>
+	<li><strong>Declaraci&oacute;n de pol&iacute;ticas</strong>. Al igual que ISO 50001: 2018, ISO 14001: 2015 e ISO 9001: 2015 requieren que las pol&iacute;ticas se mantengan como informaci&oacute;n documentada. Si la organizaci&oacute;n ha integrado sus sistemas de gesti&oacute;n, puede haber una sola declaraci&oacute;n de pol&iacute;ticas documentada que se aplique a todos los sistemas de gesti&oacute;n.</li>
+	<li><strong>Proceso de auditor&iacute;a interna</strong>. Las auditor&iacute;as internas son un proceso documentado bajo la definici&oacute;n, y la definici&oacute;n se aplica a trav&eacute;s de ISO 9001: 2015, ISO 14001: 2015 e ISO 50001: 2018.</li>
+	<li><strong>Informaci&oacute;n documentada que la organizaci&oacute;n determina como necesaria para la efectividad del sistema de gesti&oacute;n</strong>. Cualquier proceso ya establecido para ISO 9001 o ISO 14001 para ayudar a la organizaci&oacute;n a determinar qu&eacute; informaci&oacute;n documentada se necesita (m&aacute;s all&aacute; de lo requerido expl&iacute;citamente por las normas) probablemente pueda usarse para determinar la informaci&oacute;n documentada necesaria para el EnMS.</li>
 </ul>
 
-<p>ISO 9001, ISO 14001, and ISO 50001 does not require the development and use of a manual. However, many organizations that have implemented one of more of these standards have developed and use a management system manual to provide an overview of or &ldquo;roadmap&rdquo; to the processes of the management system and their interactions and to point to related documentation. A common approach is to integrate management system manuals for energy, environmental, safety and health, and sometimes quality.</p>
+<p>ISO 9001, ISO 14001 e ISO 50001 no requieren el desarrollo y uso de un manual. Sin embargo, muchas organizaciones que han implementado uno de estos est&aacute;ndares han desarrollado y utilizan un manual del sistema de gesti&oacute;n para proporcionar una visi&oacute;n general o &quot;hoja de ruta&quot; de los procesos del sistema de gesti&oacute;n y sus interacciones y para se&ntilde;alar la documentaci&oacute;n relacionada. Un enfoque com&uacute;n es integrar los manuales del sistema de gesti&oacute;n de la energ&iacute;a, el medio ambiente, la seguridad y la salud, y en ocasiones la calidad.</p>
 
-<p>The 2015 editions of ISO 9001 and ISO 14001, and ISO 50001:2018, have virtually identical requirements for control of documented information. The only difference is that ISO 9001 has an additional requirement that documented information retained as evidence of conformity (i.e., records) must be protected from unintended alterations. There is no reason that processes for controlling documented information in ISO 9001 and ISO 14001 systems could not be easily applied to control EnMS documented information. It would not be an efficient or effective use of resources to develop different processes for ISO 50001.</p>
+<p>Las ediciones de 2015 de ISO 9001 e ISO 14001 e ISO 50001: 2018, tienen requerimientos pr&aacute;cticamente id&eacute;nticos para el control de la informaci&oacute;n documentada. La &uacute;nica diferencia es que ISO 9001 tiene un requerimiento adicional de que la informaci&oacute;n documentada retenida como evidencia de conformidad (es decir, registros) debe protegerse de alteraciones no deseadas. No hay raz&oacute;n para que los procesos para controlar la informaci&oacute;n documentada en los sistemas ISO 9001 e ISO 14001 no puedan aplicarse f&aacute;cilmente para controlar la informaci&oacute;n documentada del EnMS. No ser&iacute;a un uso eficiente o efectivo de los recursos desarrollar diferentes procesos para ISO 50001.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>When implementing the EnMS program, the work performed and documented within the ENERGY STAR<sup>&reg;</sup> program should be included among the documented information required and needed to meet the requirements of ISO 50001.</p>
+<p>Al implementar el programa EnMS, el trabajo realizado y documentado dentro del programa ENERGY STAR&reg; debe incluirse entre la informaci&oacute;n documentada requerida y necesaria para cumplir con los requisitos de ISO 50001.</p>
 
-<p>The ENERGY STAR program does not require the development and implementation of an energy manual. While this is something that is also not required by ISO 50001, it is recommended. The benefits of developing an energy manual for your organization are described in this task.</p>
+<p>El programa ENERGY STAR no requiere el desarrollo e implementaci&oacute;n de un manual de energ&iacute;a. Si bien esto es algo que tampoco es requerido por ISO 50001, se recomienda. Los beneficios de desarrollar un manual de energ&iacute;a para su organizaci&oacute;n se describen en esta tarea.</p>
 
-<p>The ENERGY STAR program does not require processes for controlling EnMS documented information, something that is required by ISO 50001 and is covered in the guidance in this task.</p>
+<p>El programa ENERGY STAR no requiere procesos para controlar la informaci&oacute;n documentada de EnMS, algo que es requerido por ISO 50001 y est&aacute; cubierto en la gu&iacute;a en esta tarea.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

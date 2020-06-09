@@ -7,100 +7,100 @@ Objetivos y Metas
 Tarea 12: Establecemos objetivos y metas de rendimiento energético.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Develop and record your organization&rsquo;s objectives and energy targets.</li>
-	<li>Obtain top management&rsquo;s approval of the objectives and energy targets and communicate appropriately.</li>
-	<li>Communicate the energy objectives and energy targets appropriately to your organization</li>
+	<li>Desarrolle y registre los objetivos y las metas energ&eacute;ticas de su organizaci&oacute;n.</li>
+	<li>Obtenga la aprobaci&oacute;n de la alta direcci&oacute;n de los objetivos y metas de energ&iacute;a.</li>
+	<li>Comunique los objetivos energ&eacute;ticos y las metas energ&eacute;ticas de manera adecuada a su organizaci&oacute;n</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Objectives and energy targets are important outputs of the planning process. Objectives are specific outcomes that your organization sets for itself in order to meet its energy policy commitments. Objectives can be strategic, tactical, or operational. Energy targets are quantified objectives of energy performance improvement. The objectives and energy targets, along with their related action plans (see Task 13 [task](Action Plans for Continual Improvement)), are the driving force for continual improvement of your organization&rsquo;s energy performance and energy management system (EnMS).</p>
+<p>Los objetivos y las metas energ&eacute;ticas son productos importantes del proceso de planificaci&oacute;n. Los objetivos son resultados espec&iacute;ficos que su organizaci&oacute;n establece para cumplir con sus compromisos de pol&iacute;tica energ&eacute;tica. Los objetivos pueden ser estrat&eacute;gicos, t&aacute;cticos u operativos. Los objetivos energ&eacute;ticos son objetivos cuantificados de mejora del rendimiento energ&eacute;tico. Los objetivos y las metas de energ&iacute;a, junto con sus planes de acci&oacute;n relacionados (ver Tarea 13 [tarea] (Planes de Acci&oacute;n para la Mejora Continua)), son la fuerza impulsora para la mejora continua del rendimiento energ&eacute;tico y el sistema de gesti&oacute;n de energ&iacute;a (EnMS) de su organizaci&oacute;n.</p>
 
-<p><em>This guidance is relevant to sections 6.2.1 and 6.2.2 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para las secciones 6.2.1 y 6.2.2 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Gather and review appropriate inputs to establish objectives and energy targets)</p>
+<p>[Accordion](Re&uacute;na y revise los insumos apropiados para establecer objetivos y metas de energ&iacute;a)</p>
 
-<p>In ISO 50001, the term <em>objective</em> means &ldquo;results to be achieved.&rdquo; No specific results are mandated by the standard, and in turn objectives are established by you so long as they are consistent with the commitments documented in the energy policy. It is important to note that the definition of <em>objective</em> accommodates both quantitative and qualitative results. This means that objectives can relate to the continual improvement of the energy management system (EnMS), energy performance, or other business objectives. Objectives related to improvement of the EnMS are often qualitative, although it is preferable that the improvement be quantified in some way.</p>
+<p>En ISO 50001, el t&eacute;rmino objetivo significa &quot;resultados a alcanzar&quot;. La norma no exige resultados espec&iacute;ficos y, a su vez, usted establece los objetivos siempre que sean coherentes con los compromisos documentados en la pol&iacute;tica energ&eacute;tica. Es importante tener en cuenta que la definici&oacute;n de objetivo incluye tanto los resultados cuantitativos como los cualitativos. Esto significa que los objetivos pueden relacionarse con la mejora continua del sistema de gesti&oacute;n de energ&iacute;a (EnMS), el rendimiento energ&eacute;tico u otros objetivos comerciales. Los objetivos relacionados con la mejora del EnMS a menudo son cualitativos, aunque es preferible que la mejora se cuantifique de alguna manera.</p>
 
-<p>Energy targets are quantifiable objectives of energy performance improvement. Energy targets can be associated with other objectives, or they can be stand-alone results to be achieved.</p>
+<p>Los objetivos energ&eacute;ticos son objetivos cuantificables de mejora del rendimiento energ&eacute;tico. Los objetivos de energ&iacute;a se pueden asociar con otros objetivos, o pueden ser resultados independientes.</p>
 
-<p>An important first step in establishing objectives and setting energy targets is to get the right people together and provide them with the inputs needed to develop relevant objectives and energy targets. The energy team is a key participant in this activity, but involving other functions can be beneficial if they are not already represented on the energy team.</p>
+<p>Un primer paso importante para establecer objetivos y establecer metas energ&eacute;ticas es reunir a las personas adecuadas y proporcionarles los insumos necesarios para desarrollar objetivos y metas energ&eacute;ticas relevantes. El equipo de energ&iacute;a es un participante clave en esta actividad, pero involucrar a personal que realiza otras funciones puede ser ben&eacute;fico si a&uacute;n no est&aacute;n representados en el equipo de energ&iacute;a.</p>
 
-<p>[Learn More](Other functions to involve in developing objectives and energy targets)</p>
+<p>[Learn More](Personal que puede participar en el desarrollo de objetivos y metas de energ&iacute;a)</p>
 
-<p>For the purpose of establishing objectives and energy targets, a recommended best practice is to supplement the energy team, as appropriate, with the following:</p>
+<p>Con el fin de establecer objetivos y metas de energ&iacute;a, una mejor pr&aacute;ctica recomendada es complementar el equipo de energ&iacute;a, seg&uacute;n corresponda, con:</p>
 
 <ul>
-	<li>Individuals with energy expertise</li>
-	<li>Personnel in specialized functions, such as accounting or finance</li>
-	<li>Personnel familiar with operational or production equipment</li>
-	<li>Management familiar with organizational plans and goals</li>
-	<li>Suppliers or contractors that provide energy equipment or technical resources</li>
-	<li>Interested parties, such as customers</li>
+	<li>Individuos con conocimientos en temas de energ&iacute;a.</li>
+	<li>Personal en funciones especializadas, como contabilidad o finanzas.</li>
+	<li>Personal familiarizado con el equipo operativo o de producci&oacute;n.</li>
+	<li>Administradores familiarizados con los planes y objetivos de la organizaci&oacute;n.</li>
+	<li>Proveedores o contratistas que proporcionan equipos de energ&iacute;a o recursos t&eacute;cnicos.</li>
+	<li>Partes interesadas, como clientes</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>There are specific requirements that objectives and energy targets must meet. They must be consistent with the energy policy. This means that the objectives and energy targets are the mechanisms for putting the energy policy commitments into action. For example, an objective to reduce overall energy consumption by 2022, with an energy target to reduce natural gas consumption by 5 percent by the end of this fiscal year is intended to achieve energy performance improvement, one of the commitments made in the energy policy.</p>
+<p>Hay requisitos espec&iacute;ficos que los objetivos y las metas de energ&iacute;a deben cumplir. Deben ser consistentes con la pol&iacute;tica energ&eacute;tica. Esto significa que los objetivos y las metas energ&eacute;ticas son los mecanismos para poner en pr&aacute;ctica los compromisos de la pol&iacute;tica energ&eacute;tica. Por ejemplo, un objetivo para reducir el consumo general de energ&iacute;a para 2022, con una meta energ&eacute;tica para reducir el consumo de gas natural en un 5 por ciento para fines de este a&ntilde;o fiscal, busca lograr una mejora en el rendimiento energ&eacute;tico, uno de los compromisos asumidos en la pol&iacute;tica energ&eacute;tica.</p>
 
-<p>Objectives and energy targets must take into account applicable requirements and opportunities for energy performance improvement. Applicable requirements include the legal, voluntary, and other requirements of interested parties that you determined in Task 2 [task](People and Legal Requirements Affecting the EnMS). This means that you need to consider and meaningfully incorporate the potential energy improvement opportunities that you identified, prioritized, and can realistically achieve as part of the energy review in Task 10 [task](Improvement Opportunities)Your objectives and energy targets should focus on the requirements your organization has to meet and the potential energy projects identified as a high priority that can be achieved realistically.</p>
+<p>Los objetivos y las metas energ&eacute;ticas deben tener en cuenta los requerimientos y oportunidades aplicables para la mejora del rendimiento energ&eacute;tico. Los requerimientos aplicables incluyen los requisitos legales, voluntarios y otros requisitos de las partes interesadas que usted determin&oacute; en la Tarea 2 [tarea] (Personas y Requerimientos Legales que Afectan el EnMS). Esto significa que debe considerar e incorporar de manera significativa las oportunidades potenciales de mejora energ&eacute;tica que identific&oacute;, prioriz&oacute; y que puede lograr de manera realista como parte de la revisi&oacute;n energ&eacute;tica en la Tarea 10 [tarea] (Oportunidades de Mejora) Sus objetivos y metas de energ&iacute;a deben centrarse en requisitos que su organizaci&oacute;n debe cumplir y los proyectos potenciales de energ&iacute;a identificados como una alta prioridad que se pueden lograr de manera realista.</p>
 
-<p>Your objectives and energy targets should also consider the significant energy uses (Task 9 [task](Significant Energy Uses)) you have identified. The fact that significant energy uses (SEUs) must be considered in objectives and energy targets recognizes that not all SEUs may be candidates for improvement, in spite of the fact that they are major energy consumers. However, if there is an attractive improvement opportunity related to an SEU, you are encouraged to set an objective and/or energy target related to that improvement.</p>
+<p>Sus objetivos y metas de energ&iacute;a tambi&eacute;n deben considerar los usos de energ&iacute;a significativos (Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a) que ha identificado. El hecho de que los usos significativos de energ&iacute;a (SEUs) deben considerarse en los objetivos y metas energ&eacute;ticas reconoce que no todos los SEUs pueden ser candidatos para la mejora, a pesar del hecho de que son grandes consumidores de energ&iacute;a. Sin embargo, si hay una oportunidad de mejora atractiva relacionada con un SEU, se le recomienda establecer un objetivo y / o meta energ&eacute;tica relacionada con esa mejora.</p>
 
-<p>Other inputs that you may want to consider in the objectives and energy targets are the realities of your organization&rsquo;s business and financial situation, operating conditions, and constraints. The goal is to set objectives and energy targets that are achievable and compatible, and that align with your organization&rsquo;s strategic business plans and result in successful improvement of energy performance and the EnMS.</p>
+<p>Otros insumos que es posible que desee considerar en los objetivos y metas energ&eacute;ticas son las realidades de la situaci&oacute;n comercial y financiera de su organizaci&oacute;n, las condiciones operativas y las limitaciones. El objetivo es establecer objetivos y metas de energ&iacute;a que sean alcanzables y compatibles, y que se alineen con los planes estrat&eacute;gicos de negocios de su organizaci&oacute;n y resulten en una mejora exitosa del rendimiento energ&eacute;tico y del EnMS.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Examples of objectives and energy targets)</p>
+<p>[Accordion](Ejemplos de objetivos y metas energ&eacute;ticas)</p>
 
-<p>Objectives can be:</p>
+<p>Los objetivos pueden ser:</p>
 
 <ul>
-	<li>strategic, tactical or operational.</li>
-	<li>results to be achieved for multiple disciplines (e.g., achieve energy, environmental, and financial results).</li>
-	<li>applied at different levels (e.g., strategic, organization-wide, project or process specific).</li>
-	<li>expressed in different ways (e.g., aim, goal, purpose).</li>
+	<li>Estrat&eacute;gicos, t&aacute;cticos u operativos.</li>
+	<li>Resultados a alcanzar para m&uacute;ltiples disciplinas (por ejemplo, lograr resultados energ&eacute;ticos, ambientales y financieros).</li>
+	<li>Aplicados a diferentes niveles (por ejemplo, estrat&eacute;gicos, para toda la organizaci&oacute;n, espec&iacute;ficos para un proyecto o un proceso).</li>
+	<li>Expresados de diferentes maneras (por ejemplo, objeto, fin, prop&oacute;sito).</li>
 </ul>
 
-<p>An example of an objective related to energy performance improvement is: &ldquo;Reduce energy consumption 10 percent in five years from the 2019 baseline.&rdquo;</p>
+<p>Un ejemplo de objetivo relacionado con la mejora del rendimiento energ&eacute;tico es: &quot;Reducir el consumo de energ&iacute;a en un 10 por ciento en cinco a&ntilde;os a partir de la l&iacute;nea de base de 2019&quot;.</p>
 
-<p>An example of an objective related to improvement of the EnMS is: &ldquo;Improve energy-related communications to on-site suppliers and contractors by the end of FY2020.&rdquo;</p>
+<p>Un ejemplo de un objetivo relacionado con la mejora del EnMS es: &quot;Mejorar las comunicaciones relacionadas con la energ&iacute;a a los proveedores y contratistas en el sitio para fines del a&ntilde;o fiscal 2020&quot;.</p>
 
-<p>Energy targets are quantitative and may or may not be associated with objectives.</p>
+<p>Las metas energ&eacute;ticas son cuantitativas y pueden o no estar asociadas con objetivos.</p>
 
-<p>Examples of energy targets that may or may not be associated with the previous example of an objective related to energy performance improvement are:</p>
+<p>Los ejemplos de metas energ&eacute;ticas que pueden o no estar asociadas con el ejemplo anterior de un objetivo relacionado con la mejora del rendimiento energ&eacute;tico son:</p>
 
 <ul>
-	<li>&ldquo;Reduce electricity consumption 5 percent compared to a 2019 baseline by the third Quarter of 2021.&rdquo;</li>
-	<li>&ldquo;Reduce lighting system consumption 10 percent compared to a 2019 baseline by the end of FY 2020.&rdquo;</li>
+	<li>&quot;Reduzca el consumo de electricidad en un 5 por ciento en comparaci&oacute;n con la l&iacute;nea de base de 2019 para el tercer trimestre de 2021&quot;.</li>
+	<li>&quot;Reduzca el consumo del sistema de iluminaci&oacute;n en un 10 por ciento en comparaci&oacute;n con la l&iacute;nea de base de 2019 para fines del a&ntilde;o fiscal 2020&quot;.</li>
 </ul>
 
-<p>As part of taking into account energy performance improvement opportunities in objectives and energy targets (see &ldquo;Gather and review appropriate inputs&rdquo; above), you may find it necessary to closely evaluate the potential energy savings associated with a specific energy opportunity to determine an appropriate objective or energy target. Or, alternatively, an objective or energy target will drive the choice of which energy opportunities are implemented to achieve that objective and/or energy target.</p>
+<p>Como parte de tener en cuenta las oportunidades de mejora del rendimiento energ&eacute;tico en los objetivos y las metas energ&eacute;ticas (consulte &ldquo;Recopilaci&oacute;n y revisi&oacute;n de los insumos apropiados&rdquo; arriba), puede que sea necesario evaluar detalladamente los posibles ahorros de energ&iacute;a asociados con una oportunidad energ&eacute;tica espec&iacute;fica para determinar un objetivo o meta de energ&iacute;a apropiados. O, alternativamente, un objetivo o meta energ&eacute;tica impulsar&aacute; la elecci&oacute;n de qu&eacute; oportunidades energ&eacute;ticas se implementar&aacute;n para lograr ese objetivo y / o meta energ&eacute;tica.</p>
 
-<p>Objectives and energy targets must be monitored through an ongoing process of review. The extent to which objectives and energy targets have been achieved is reported to top management through the management review process (see Task 23 [task](Management Review)). Sometimes after the initial establishment of the objectives and energy targets, an organization discovers that the data or metrics needed to measure or monitor the objective and/or energy target needs to be revised.</p>
+<p>Los objetivos y las metas de energ&iacute;a deben ser monitoreados a trav&eacute;s de un proceso continuo de revisi&oacute;n. El grado en que se han alcanzado los objetivos y las metas energ&eacute;ticas se informa a la alta direcci&oacute;n a trav&eacute;s del proceso administrativo de revisi&oacute;n (consulte la Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n)). A veces, despu&eacute;s del establecimiento inicial de los objetivos y las metas energ&eacute;ticas, una organizaci&oacute;n descubre que los datos o las m&eacute;tricas necesarias para medir o monitorear el objetivo y / o la meta energ&eacute;tica deben revisarse.</p>
 
-<p>Documented information on the objectives and energy targets must be retained. The information retained may be in any format appropriate for your organization. The optional Playbook worksheet is one tool to recording objectives and energy targets and the required inputs.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Obtain management approval)</p>
-
-<p>Top management is responsible for ensuring that objectives and energy targets are established, for ensuring they align with the organization&rsquo;s strategic direction, and for providing the resources needed to achieve them.</p>
-
-<p>Present the objectives and energy targets to management for review and approval in a clear and understandable format. Sufficient information should be provided to justify the purpose of the objective(s) and energy target(s) and its relationship to the organization&rsquo;s business goals and energy policy commitments. Management approves the objectives and energy targets or provides direction for any needed changes.</p>
-
-<p>The optional Playbook worksheet provides a convenient way to communicate the proposed objectives and related targets to management. This helps inform management on the relevant inputs and identifies how the objectives and energy targets will be monitored.</p>
+<p>Se debe conservar informaci&oacute;n documentada sobre los objetivos y las metas energ&eacute;ticas. La informaci&oacute;n retenida puede conservarse en cualquier formato apropiado para su organizaci&oacute;n. La hoja de trabajo opcional de Playbook es una herramienta para registrar objetivos y metas de energ&iacute;a y los insumos requeridos.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Communicate the objectives and energy targets)</p>
+<p>[Accordion](Obtenga la aprobaci&oacute;n de la gerencia)</p>
 
-<p>Once the objectives and energy targets have been approved by top management, they are broadly communicated across the organization using the communication and training processes of the EnMS (see Task 15 [task](Awareness and Communication)). Start by communicating the objectives and energy targets back to the energy team and then, to all personnel who can affect them or have a role in achieving them. While some personnel may not have direct responsibility for achieving the objectives and energy targets, broad awareness of your organization&rsquo;s improvement efforts promotes a culture of energy efficiency and supports positive energy behavior.</p>
+<p>La alta direcci&oacute;n es responsable de garantizar que se establezcan los objetivos y las metas energ&eacute;ticas, de garantizar que sean consistentes con la direcci&oacute;n estrat&eacute;gica de la organizaci&oacute;n y de proporcionar los recursos necesarios para alcanzarlos.</p>
 
-<p>Employees and on-site contractors will need to be aware of how they contribute to achieving the objectives and energy targets, so ensure that this information is incorporated into your organization&rsquo;s EnMS Awareness Training (see Task 15 [task](Awareness and Communication)). Periodically update personnel on progress made towards achieving the objectives and energy targets, and celebrate success when they are achieved.</p>
+<p>Presente los objetivos y las metas de energ&iacute;a a la gerencia para su revisi&oacute;n y aprobaci&oacute;n en un formato claro y comprensible. Se debe proporcionar suficiente informaci&oacute;n para justificar el prop&oacute;sito del objetivo y las metas energ&eacute;ticas y su relaci&oacute;n con los objetivos comerciales y los compromisos de pol&iacute;tica energ&eacute;tica de la organizaci&oacute;n. La gerencia aprueba los objetivos y las metas de energ&iacute;a o proporciona orientaci&oacute;n para cualquier cambio necesario.</p>
+
+<p>La hoja de trabajo opcional de Playbook proporciona una forma conveniente de comunicar los objetivos propuestos y las metas relacionadas a la gerencia. Esto ayuda a informar a la gerencia sobre los insumos relevantes e identifica c&oacute;mo se monitorear&aacute;n los objetivos y las metas de energ&iacute;a.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Comunicar los objetivos y las metas energ&eacute;ticas)</p>
+
+<p>Una vez que los objetivos y las metas de energ&iacute;a han sido aprobados por la alta gerencia, se comunican ampliamente en toda la organizaci&oacute;n utilizando los procesos de comunicaci&oacute;n y capacitaci&oacute;n del EnMS (ver Tarea 15 [tarea] (Sensibilizaci&oacute;n y Comunicaci&oacute;n)). Comience por comunicar los objetivos y las metas de energ&iacute;a al equipo de energ&iacute;a y luego a todo el personal que pueda afectarlos o desempe&ntilde;ar un papel en su consecuci&oacute;n. Si bien es posible que parte del personal no tenga la responsabilidad directa de alcanzar los objetivos y las metas energ&eacute;ticas, un amplio conocimiento de los esfuerzos de mejora de su organizaci&oacute;n promueve una cultura de eficiencia energ&eacute;tica y respalda un comportamiento energ&eacute;tico positivo.</p>
+
+<p>Los empleados y los contratistas en el sitio deber&aacute;n ser conscientes de c&oacute;mo contribuyen al logro de los objetivos y las metas de energ&iacute;a, por lo tanto, aseg&uacute;rese de que esta informaci&oacute;n se incorpore a la Capacitaci&oacute;n de Concienciaci&oacute;n sobre el EnMS de su organizaci&oacute;n (consulte la Tarea 15 [tarea] (Sensibilizaci&oacute;n y Comunicaci&oacute;n)). Actualice peri&oacute;dicamente al personal sobre el progreso realizado hacia el logro de los objetivos y las metas de energ&iacute;a, y celebre el &eacute;xito cuando se logren.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Objectives and information on when the objectives will be completed is required by ISO 14001:2015 and ISO 9001:2015. The processes used to establish environmental and/or quality objectives may be suitable for setting objectives and energy targets for the ISO 50001:2018 system. Different personnel may be involved, but the overall objectives-setting process could be the same. Often, the setting of quality, environmental, safety and health, and energy objectives are part of the outcome of the organization&rsquo;s annual process for setting its overall business objectives. Note that unlike ISO 50001, ISO 14001 and ISO 9001 do not use the construct of &ldquo;targets.&rdquo; Also, ISO 50001:2018 contains additional requirements for objectives and energy targets that are not present in ISO 9001 or ISO 14001.</p>
+<p>Los estándares ISO 14001: 2015 e ISO 9001: 2015 requieren el desarrollo de objetivos e información sobre cuándo se completarán esos objetivos. Los procesos utilizados para establecer objetivos ambientales y / o de calidad pueden ser adecuados para establecer objetivos y metas de energía para el sistema ISO 50001: 2018. Puede estar involucrado personal diferente, pero el proceso general de establecimiento de objetivos podría ser el mismo. A menudo, el establecimiento de objetivos de calidad, medio ambiente, seguridad y salud y energía son parte del resultado del proceso anual de la organización para establecer sus objetivos comerciales generales. Tenga en cuenta que a diferencia de ISO 50001, las normas ISO 14001 e ISO 9001 no utilizan el concepto de "metas". Además, ISO 50001: 2018 contiene requerimientos adicionales para objetivos y metas de energía que no están presentes en ISO 9001 o ISO 14001.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Your organization may have already established objectives and energy performance improvement targets using guidance from step 3.3 and 4.1 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management.</em> This 50001 Ready Navigator task provides specific guidance to ensure your organization&rsquo;s objectives and energy targets meet the criteria specified in the ISO 50001 standard.</p>
+<p>Es posible que su organizaci&oacute;n ya haya establecido objetivos y metas de mejora del rendimiento energ&eacute;tico utilizando la orientaci&oacute;n de los pasos 3.3 y 4.1 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a </em>ENERGY STAR&reg;. Esta tarea 50001 Ready Navigator proporciona una orientaci&oacute;n espec&iacute;fica para garantizar que los objetivos y las metas de energ&iacute;a de su organizaci&oacute;n cumplan con los criterios especificados en la norma ISO 50001.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

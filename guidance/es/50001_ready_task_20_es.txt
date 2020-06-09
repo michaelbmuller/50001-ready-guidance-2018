@@ -7,112 +7,112 @@ Monitoreo y Medición del EnMS
 Tarea 20: Monitoreamos las tendencias en el desempeño del sistema de gestión de energía (EnMS) y evaluamos la efectividad del EnMS para lograr los efectos previstos y los resultados planeados. Se definen los métodos utilizados, la frecuencia del monitoreo y cuándo se analizan y evalúan los resultados.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Determine what data or information is needed to establish trends in energy management system (EnMS) performance, including trends in nonconformities, corrective actions, and results in monitoring and measurement, internal and external audits, and evaluations of compliance with applicable energy-related legal and other requirements.</li>
-	<li>Determine what data or information is needed to monitor, measure, analyze, and evaluate the results of the EnMS and its effectiveness as related to the intended outcomes of your EnMS and the strategic goals and priorities of your organization.</li>
-	<li>Determine the methods to be used, when the monitoring and measurement will be done, and when the results will be analyzed and evaluated.</li>
-	<li>Implement the monitoring and measurement analysis of EnMS performance and the evaluation of EnMS effectiveness.</li>
+	<li>Determine los datos o informaci&oacute;n que se necesitan para establecer tendencias en el rendimiento del sistema de gesti&oacute;n de energ&iacute;a (EnMS), incluidas las tendencias en no conformidades, acciones correctivas y resultados en el monitoreo y medici&oacute;n, auditor&iacute;as internas y externas, y evaluaciones de cumplimiento de requerimientos relacionados con energ&iacute;a de car&aacute;cter legal o de otro tipo.</li>
+	<li>Determine los datos o informaci&oacute;n que se necesitan para monitorear, medir, analizar y evaluar los resultados del EnMS y su efectividad en relaci&oacute;n con los resultados previstos de su EnMS y las metas y prioridades estrat&eacute;gicas de su organizaci&oacute;n.</li>
+	<li>Determine los m&eacute;todos que se utilizar&aacute;n, cu&aacute;ndo se realizar&aacute; el monitoreo y la medici&oacute;n, y cu&aacute;ndo se analizar&aacute;n y evaluar&aacute;n los resultados.</li>
+	<li>Implemente el an&aacute;lisis de monitoreo y medici&oacute;n del desempe&ntilde;o del EnMS y la evaluaci&oacute;n de la efectividad del EnMS.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Monitoring, measurement, analysis, and evaluation in the energy management system (EnMS) are not limited to energy performance and energy performance improvement (see Task 21 [task](Monitoring and Measurement of Energy Performance Improvement)). You also must monitor, measure, and analyze the performance of the EnMS and evaluate its effectiveness. We evaluate the effectiveness of the EnMS to ensure that it continues to promote, support, and sustain not just energy performance improvements, but the achievement of other intended outcomes and planned results. It also is intended to ensure that the resources allocated by top management for the EnMS are used effectively.</p>
+<p>El monitoreo, la medici&oacute;n, el an&aacute;lisis y la evaluaci&oacute;n en el sistema de gesti&oacute;n de energ&iacute;a (EnMS) no se limitan al rendimiento energ&eacute;tico y la mejora del rendimiento energ&eacute;tico (consulte la Tarea 21 [tarea] (Monitoreo y Medici&oacute;n de la Mejora del Rendimiento Energ&eacute;tico)). Tambi&eacute;n debe monitorear, medir y analizar el desempe&ntilde;o del EnMS y evaluar su efectividad. Evaluamos la efectividad del EnMS para garantizar que contin&uacute;e promoviendo, apoyando y manteniendo no solo las mejoras en el rendimiento energ&eacute;tico, sino tambi&eacute;n el logro de otros resultados deseados y planeados. La evaluaci&oacute;n tambi&eacute;n tiene la intenci&oacute;n de garantizar que los recursos asignados por la alta direcci&oacute;n para el EnMS se utilicen de manera efectiva.</p>
 
-<p>First, you determine what needs to be monitored and measured, and then you determine the methods you will use to ensure valid results. These methods are those needed for monitoring, measurement, analysis, and evaluation. Next, you determine when the monitoring and measurement will be done and when the results will be analyzed and evaluated.</p>
+<p>Primero, determine lo que necesita ser monitoreado y medido, y luego determine los m&eacute;todos que utilizar&aacute; para garantizar resultados v&aacute;lidos. Estos m&eacute;todos son los necesarios para el monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n. Luego, usted determina cu&aacute;ndo se realizar&aacute; el monitoreo y la medici&oacute;n y cu&aacute;ndo se analizar&aacute;n y evaluar&aacute;n los resultados.</p>
 
-<p><em>This guidance is relevant to Section 9.1.1 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 9.1.1 de la norma ISO 50001: 2018</em>.</p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Develop a plan to establish trends in EnMS performance)</p>
+<p>[Accordion](Desarrolle un plan para establecer tendencias en el desempe&ntilde;o del EnMS)</p>
 
-<p>The energy management system (EnMS) promotes, supports, and sustains not just energy performance improvement but the achievement of other intended outcomes of the EnMS. You need information to enable your organization to know whether the processes of the EnMS are effective in achieving other expected outcomes. These can be outcomes, in addition to energy performance improvement, that are expected by top management and that may have been identified in Task 1 [task](An EnMS and Your Organization). It is in this task that you start to establish the processes needed to determine the results of the management system and to connect them back to top management&rsquo;s expectations and the strategic direction and priorities of your organization. Examples of expectations and priorities could be related to cost savings, reduction of carbon dioxide emissions, reduced risks to security of energy supply, improved community relations, and other factors.</p>
+<p>El sistema de gesti&oacute;n de energ&iacute;a (EnMS) promueve, respalda y sustenta no s&oacute;lo la mejora del rendimiento energ&eacute;tico, sino tambi&eacute;n el logro de otros resultados previstos del EnMS. Se necesita informaci&oacute;n para lograr que su organizaci&oacute;n sepa si los procesos de EnMS son efectivos para lograr otros resultados esperados. Adem&aacute;s de la mejora del rendimiento energ&eacute;tico, puede haber resultados que la alta direcci&oacute;n espera y que pueden haberse identificado en la Tarea 1 [tarea] (Un EnMS y su Organizaci&oacute;n). Es en esta tarea que comienza a establecer los procesos necesarios para determinar los resultados del sistema de gesti&oacute;n y conectarlos de nuevo con las expectativas de la alta direcci&oacute;n y la direcci&oacute;n estrat&eacute;gica y las prioridades de su organizaci&oacute;n. Los ejemplos de expectativas y prioridades podr&iacute;an estar relacionados con el ahorro de costos, la reducci&oacute;n de las emisiones de di&oacute;xido de carbono, la reducci&oacute;n de los riesgos para la seguridad del suministro de energ&iacute;a, la mejora de las relaciones con la comunidad y otros factores.</p>
 
-<p>To evaluate the effectiveness of the EnMS, use the performance evaluation and improvement processes of the EnMS as outlined below:</p>
+<p>Para evaluar la efectividad del EnMS, utilice los procesos de evaluaci&oacute;n y mejora del desempe&ntilde;o del EnMS como se describe a continuaci&oacute;n:</p>
 
 <ul>
-	<li>Monitoring, measurement, and analysis (discussed in this task)</li>
-	<li>Evaluating compliance with the applicable energy-related legal and other requirements (see Task 2 [task](People and Legal Requirements Affecting the EnMS))</li>
-	<li>Performing internal audits to provide information on whether the EnMS is effectively implemented and maintained (see Task 22 [task](Internal Audit))</li>
-	<li>Management review of the EnMS&rsquo;s ongoing suitability, adequacy, effectiveness, and alignment with the strategic direction of the organization (see Task 23 [task](Management Review))</li>
-	<li>Finding and fixing nonconformities and problems in the management system (see Task 24 [task](Corrective Actions))</li>
+	<li>Monitoreo, medici&oacute;n y an&aacute;lisis (discutido en esta tarea)</li>
+	<li>Evaluaci&oacute;n del cumplimiento de los requerimientos legales relacionados con el uso de energ&iacute;a que correspondan y otros requerimientos (consulte la Tarea 2 [tarea] (Personas y Requerimientos legales que Afectan el EnMS))</li>
+	<li>Realizaci&oacute;n de auditor&iacute;as internas para proporcionar informaci&oacute;n para confirmar si el EnMS se implementa y mantiene de manera efectiva (consulte la Tarea 22 [tarea] (Auditor&iacute;a Interna))</li>
+	<li>Revisi&oacute;n de la administraci&oacute;n de la idoneidad, adecuaci&oacute;n, efectividad y alineaci&oacute;n continuas del EnMS con la direcci&oacute;n estrat&eacute;gica de la organizaci&oacute;n (ver Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n))</li>
+	<li>Detecci&oacute;n y correcci&oacute;n de no conformidades y problemas en el sistema de gesti&oacute;n (ver Tarea 24 [tarea] (Acciones Correctivas))</li>
 </ul>
 
-<p>It is possible that your organization may not have implemented the activities mentioned above from Tasks 20&ndash;24 yet. Building an EnMS requires a lateral approach because many of these processes are interrelated. Consequently, completion of each task or even each step within a given task, will not necessarily be sequential.</p>
+<p>Es posible que su organizaci&oacute;n a&uacute;n no haya implementado las actividades mencionadas anteriormente y que corresponden a las Tareas 20&ndash;24. El desarrollo de un EnMS requiere un enfoque lateral porque muchos de estos procesos est&aacute;n interrelacionados. En consecuencia, la finalizaci&oacute;n de cada tarea o incluso cada paso dentro de una tarea dada, no ser&aacute; necesariamente secuencial.</p>
 
-<p>To ensure that the processes for performance evaluation and improvement accurately inform the effectiveness of the energy management system, consider what elements will be monitored, measured, analyzed, and evaluated, in addition to how energy performance improvement will be achieved. The effectiveness of the EnMS is based on the extent to which it achieves planned results and outcomes. Management system results indicate whether the resources allocated to the EnMS by top management are being used effectively.</p>
+<p>Para garantizar que los procesos de evaluaci&oacute;n y mejora del rendimiento informen con precisi&oacute;n la efectividad del sistema de gesti&oacute;n de la energ&iacute;a, considere los elementos que ser&aacute;n monitoreados, medidos, analizados y evaluados, adem&aacute;s de la forma en que se lograr&aacute; la mejora del rendimiento energ&eacute;tico. La efectividad del EnMS se basa en la medida en que logra los efectos y resultados planeados. Los resultados del sistema de gesti&oacute;n indican si los recursos asignados al EnMS por la alta direcci&oacute;n se est&aacute;n utilizando de manera efectiva.</p>
 
-<p>The basic information on EnMS performance that must be developed for review by top management and evaluation of EnMS effectiveness consists of the following <em>trend</em> information on:</p>
+<p>La informaci&oacute;n b&aacute;sica sobre el desempe&ntilde;o del EnMS que debe ser desarrollada para su revisi&oacute;n por la alta gerencia y la evaluaci&oacute;n de la efectividad del EnMS consiste en la siguiente informaci&oacute;n de <em>tendencias</em> sobre:</p>
 
 <ul>
-	<li>Nonconformities</li>
-	<li>Corrective actions</li>
-	<li>Monitoring and measuring results</li>
-	<li>Results of EnMS internal audits</li>
-	<li>Results of EnMS external audits (if applicable)</li>
-	<li>Results of evaluations of compliance with applicable energy-related legal and other requirements</li>
+	<li>No conformidades</li>
+	<li>Acciones correctivas</li>
+	<li>Monitoreo y medici&oacute;n de resultados.</li>
+	<li>Resultados de las auditor&iacute;as internas del EnMS</li>
+	<li>Resultados de las auditor&iacute;as externas del EnMS (si corresponde)</li>
+	<li>Resultados de las evaluaciones del cumplimiento con los requerimientos legales relacionados con la energ&iacute;a que correspondan y otros requerimientos.</li>
 </ul>
 
-<p>In Task 2 [task](People and Legal Requirements Affecting the EnMS), you already determined what information would be developed to monitor trends in the results of compliance evaluations. These trends provide information on the performance of the EnMS. Like the other items listed above, they are required inputs to management review (see Task 23 [task](Management Review)).</p>
+<p>En la Tarea 2 [tarea] (Personas y Requerimientos Legales que Afectan el EnMS), usted ya determin&oacute; la informaci&oacute;n que es necesario desarrollar para monitorear las tendencias en los resultados de las evaluaciones de cumplimiento. Estas tendencias proporcionan informaci&oacute;n sobre el rendimiento del EnMS. Al igual que los otros elementos enumerados anteriormente, estas tendencias son insumos requeridos para la revisi&oacute;n de la administraci&oacute;n (consulte la Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n)).</p>
 
-<p>The optional Worksheet can be used to identify the compliance evaluation trend information, along with other data and metrics related to trends in EnMS performance that will be monitored, measured, and analyzed for management review and the evaluation of the EnMS effectiveness. In the optional Worksheet an example planning worksheet for monitoring, measurement, analysis, and evaluation of EnMS performance illustrates how this worksheet can be used.</p>
+<p>La hoja de trabajo opcional se puede utilizar para identificar la informaci&oacute;n de tendencias de evaluaci&oacute;n de cumplimiento, junto con otros datos y m&eacute;tricas relacionadas con las tendencias en el desempe&ntilde;o del EnMS, que se monitorear&aacute;n, medir&aacute;n y analizar&aacute;n para la revisi&oacute;n de la administraci&oacute;n y la evaluaci&oacute;n de la efectividad del EnMS. En la Hoja de Trabajo opcional, se puede encontrar un ejemplo de hoja de trabajo de planeaci&oacute;n para el monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n del desempe&ntilde;o del EnMS que ilustra como puede utilizarse este recurso.</p>
 
-<p>A &ldquo;trend&rdquo; generally refers to a direction in which something is developing or changing. In order to determine a direction, data or information is typically collected, monitored, measured, analyzed, and evaluated across time. Data that can be useful for monitoring, measuring, analyzing, and evaluating trends in nonconformities, corrective actions, internal and external audit results, and evaluations of compliance include:</p>
+<p>Una &quot;tendencia&quot; generalmente se refiere a una direcci&oacute;n en la que algo se est&aacute; desarrollando o cambiando. Para determinar una direcci&oacute;n, los datos o la informaci&oacute;n generalmente se recopilan, supervisan, miden, analizan y eval&uacute;an a lo largo del tiempo. Los datos que pueden ser &uacute;tiles para monitorear, medir, analizar y evaluar tendencias en no conformidades, acciones correctivas, resultados de auditor&iacute;as internas y externas y evaluaciones de cumplimiento incluyen:</p>
 
 <ul>
-	<li>Number or percentage identified by areas, departments, or functions where they occurred</li>
-	<li>Number or percentage identified by task of the 50001 Ready Navigator guidance</li>
+	<li>N&uacute;mero o porcentaje identificado por &aacute;reas, departamentos o posiciones donde ocurrieron</li>
+	<li>N&uacute;mero o porcentaje identificado por tarea de la gu&iacute;a 50001 Ready Navigator</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Data for measuring and monitoring EnMS performance)</p>
+<p>[Accordion](Datos para medir y monitorear el desempe&ntilde;o del EnMS)</p>
 
-<p>The types of trend information to be analyzed will be dictated by what aspects of the EnMS your organization decides is important to monitor and measure as related to expected outcomes, strategic goals, and priorities. If necessary, review the outcomes, strategic goals, and issues developed in Task 1 [task](An EnMS and Your Organization). Develop metrics for the EnMS that align with and support those outcomes, goals, and priorities. This task is an important opportunity to further integrate the EnMS with your organization&rsquo;s strategic direction. Obtain input from top management as appropriate.</p>
+<p>Los tipos de informaci&oacute;n de tendencias que se analizar&aacute;n depender&aacute;n de los aspectos del EnMS que su organizaci&oacute;n decida que es importante monitorear y medir en relaci&oacute;n con los resultados esperados, los objetivos estrat&eacute;gicos y las prioridades. Si es necesario, revise los resultados, los objetivos estrat&eacute;gicos y los problemas desarrollados en la Tarea 1 [tarea] (Un EnMS y su Organizaci&oacute;n). Desarrolle m&eacute;tricas para el EnMS que concuerden y respalden esos resultados, objetivos y prioridades. Esta tarea es una oportunidad importante para integrar a&uacute;n m&aacute;s el EnMS con la direcci&oacute;n estrat&eacute;gica de su organizaci&oacute;n. Obtenga aportes de la alta direcci&oacute;n seg&uacute;n corresponda.</p>
 
-<p>[Learn More](Examples of data useful in evaluating EnMS effectiveness)</p>
+<p>[Learn More](Ejemplos de datos &uacute;tiles para evaluar la eficacia de EnMS)</p>
 
-<p>Other examples of the types of data often helpful in developing trend information to evaluate EnMS effectiveness include, but are not limited to the following:</p>
+<p>Otros ejemplos de los tipos de datos que a menudo son &uacute;tiles para desarrollar informaci&oacute;n de tendencias para evaluar la eficacia de EnMS incluyen, entre otros, los siguientes:</p>
 
 <ul>
-	<li>Nonconformities
-	<ul style="list-style-type:circle">
-		<li>number or percentage of nonconformities by source of identification (e.g., internal audit, external audit, management review, corrective action, data analysis, employee observation, compliance evaluation)</li>
-		<li>number of nonconformities that recurred</li>
+	<li>No conformidades
+	<ul style="list-style-type:disc">
+		<li>N&uacute;mero o porcentaje de no conformidades por fuente de identificaci&oacute;n (por ejemplo, auditor&iacute;a interna, auditor&iacute;a externa, revisi&oacute;n de la gerencia, acci&oacute;n correctiva, an&aacute;lisis de datos, observaci&oacute;n de empleados, evaluaci&oacute;n de cumplimiento)</li>
+		<li>Cantidad de no conformidades que fueron recurrentes</li>
 	</ul>
 	</li>
-	<li>Corrective actions
-	<ul style="list-style-type:circle">
-		<li>number or percentage of corrective actions categorized by types of causes (preferably, root causes)</li>
-		<li>number or percentage of corrective actions requiring capital planning or capital expenditures</li>
-		<li>average cost of the solutions to corrective actions</li>
-		<li>number or percentage of corrective actions completed on time</li>
-		<li>average number of days between assignment and close-out</li>
-		<li>number or percentage of corrective actions failing the evaluation of effectiveness</li>
-		<li>monitoring and measuring results (depends on the specific intended outcomes of the EnMS and the organization&rsquo;s strategic goals and priorities)</li>
-		<li>energy costs by type</li>
-		<li>number of planned actions to address risks</li>
-		<li>number of planned actions that have resulted in the elimination of identified risks</li>
-		<li>status of planned actions to address risks and opportunities</li>
-		<li>number of investigations of significant deviations in energy performance</li>
-		<li>number of comments and suggestions received versus implemented</li>
-		<li>status of the external communication plan implementation</li>
-		<li>percentage of personnel completing annual energy awareness refresher training</li>
-		<li>number of design specifications incorporating energy efficiency requirements</li>
+	<li>Acciones correctivas
+	<ul style="list-style-type:disc">
+		<li>N&uacute;mero o porcentaje de acciones correctivas clasificadas por tipos de causas (preferiblemente, por origen de las causas)</li>
+		<li>N&uacute;mero o porcentaje de acciones correctivas que requieren planificaci&oacute;n para adquisici&oacute;n de capital o gastos de capital</li>
+		<li>Costo promedio de las soluciones a acciones correctivas</li>
+		<li>N&uacute;mero o porcentaje de acciones correctivas completadas a tiempo</li>
+		<li>Promedio de d&iacute;as entre la asignaci&oacute;n y el cierre de actividades</li>
+		<li>N&uacute;mero o porcentaje de acciones correctivas que fallan en la evaluaci&oacute;n de efectividad</li>
+		<li>Monitoreo y medici&oacute;n de resultados (depende de los resultados espec&iacute;ficos esperados de EnMS y de las metas y prioridades estrat&eacute;gicas de la organizaci&oacute;n)</li>
+		<li>Costos por tipo de energ&iacute;a</li>
+		<li>Cantidad de acciones planificadas para atender los riesgos</li>
+		<li>N&uacute;mero de acciones planificadas que han resultado en la eliminaci&oacute;n de riesgos identificados</li>
+		<li>Estado de las acciones planificadas para abordar riesgos y oportunidades</li>
+		<li>N&uacute;mero de investigaciones de desviaciones significativas en el rendimiento energ&eacute;tico</li>
+		<li>N&uacute;mero de comentarios y sugerencias recibidos y acciones implementadas en respuesta a los mismos</li>
+		<li>Estado de la implementaci&oacute;n del plan de comunicaci&oacute;n externa</li>
+		<li>Porcentaje de personal que completa la capacitaci&oacute;n anual de actualizaci&oacute;n de sensibilizaci&oacute;n energ&eacute;tica</li>
+		<li>N&uacute;mero de especificaciones de dise&ntilde;o que incorporan requerimientos de eficiencia energ&eacute;tica</li>
 	</ul>
 	</li>
-	<li>Internal and external audit results
-	<ul style="list-style-type:circle">
-		<li>number or percentage of nonconformities per audit categorized by significance (major/minor)</li>
-		<li>total number of concerns written up per audit</li>
-		<li>number or percentage of concerns categorized by task of the 50001 Ready Navigator or section of the ISO 50001 standard</li>
-		<li>total number of positive findings per audit</li>
-		<li>positive findings categorized by area, department, or function</li>
-		<li>percentage of internal audits conducted on schedule (i.e., not delayed or rescheduled)</li>
-		<li>frequency of changes made to annual internal audit schedule</li>
+	<li>Resultados de auditor&iacute;as internas y externas.
+	<ul style="list-style-type:disc">
+		<li>N&uacute;mero o porcentaje de no conformidades por auditor&iacute;a clasificadas por importancia (mayor / menor)</li>
+		<li>N&uacute;mero total de preocupaciones registradas por la auditor&iacute;a</li>
+		<li>N&uacute;mero o porcentaje de preocupaciones clasificadas por tarea del 50001 Ready Navigator o secci&oacute;n de la norma ISO 50001</li>
+		<li>N&uacute;mero total de hallazgos positivos por auditor&iacute;a</li>
+		<li>Hallazgos positivos clasificados por &aacute;rea, departamento o funci&oacute;n</li>
+		<li>Porcentaje de auditor&iacute;as internas realizadas seg&uacute;n lo programado (es decir, auditorias no retrasadas o reprogramadas)</li>
+		<li>Frecuencia de los cambios realizados en el calendario anual de auditor&iacute;a interna</li>
 	</ul>
 	</li>
-	<li>Results of compliance evaluations
-	<ul style="list-style-type:circle">
-		<li>findings categorized by applicable energy-related legal requirement</li>
-		<li>findings categorized by applicable other (i.e., voluntary, corporate mandated) energy-related requirement</li>
-		<li>actions taken categorized by type of action</li>
-		<li>actions taken categorized by cost of action</li>
+	<li>Resultados de las evaluaciones de cumplimiento.
+	<ul style="list-style-type:disc">
+		<li>Hallazgos clasificados por requerimiento legal relacionado con la energ&iacute;a que corresponda</li>
+		<li>Hallazgos clasificados por otro requerimiento relacionado con la energ&iacute;a que corresponda (es decir, requerimiento voluntario, requerimiento obligatorio establecido por la empresa)</li>
+		<li>Acciones tomadas clasificadas por tipo de acci&oacute;n</li>
+		<li>Acciones tomadas clasificadas por costo de acci&oacute;n</li>
 	</ul>
 	</li>
 </ul>
@@ -121,28 +121,28 @@ Tarea 20: Monitoreamos las tendencias en el desempeño del sistema de gestión d
 
 <p>[Learn More End]</p>
 
-<p>[Accordion](Determine methods to evaluate EnMS performance)</p>
+<p>[Accordion](Determine m&eacute;todos para evaluar el rendimiento del EnMS)</p>
 
-<p>You will want to establish what will be monitored and measured for EnMS performance, the methods to be used, when the monitoring and measuring will be done, and when the results will be analyzed and evaluated. Although there is no explicit requirement to maintain this as documented information, it can be helpful to capture it using the optional Worksheet or some other approach that suits your organization. In determining when monitoring and measurement will be done and when results will be analyzed and evaluated, give consideration to the timing of internal audits, compliance evaluations, strategic planning, and management reviews.</p>
+<p>Deber&aacute; establecer qu&eacute; se monitorear&aacute; y medir&aacute; para el rendimiento del EnMS, los m&eacute;todos que se utilizar&aacute;n, cu&aacute;ndo se realizar&aacute; el monitoreo y la medici&oacute;n, y cu&aacute;ndo se analizar&aacute;n y evaluar&aacute;n los resultados. Aunque no existe un requisito expl&iacute;cito para mantener esto como informaci&oacute;n documentada, puede ser &uacute;til capturarlo utilizando la Hoja de trabajo opcional o alg&uacute;n otro m&eacute;todo que se adapte a su organizaci&oacute;n. Al determinar cu&aacute;ndo se realizar&aacute; el monitoreo y la medici&oacute;n y cu&aacute;ndo se analizar&aacute;n y evaluar&aacute;n los resultados, considere la calendarizaci&oacute;n de las auditor&iacute;as internas, las evaluaciones de cumplimiento, la planificaci&oacute;n estrat&eacute;gica y las revisiones de la administraci&oacute;n.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Implement the monitoring, measurement, analysis, and evaluation)</p>
+<p>[Accordion](Implementar el monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n)</p>
 
-<p>The next step is to actually implement what you determined was needed for monitoring, measurement, analysis, and evaluation.</p>
+<p>El siguiente paso es implementar lo que usted determin&oacute; que era necesario para el monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n.</p>
 
-<p>(see Task 2 [task](People and Legal Requirements Affecting the EnMS)). Information that will be used to develop trends in the results of evaluations of compliance with legal and other requirements should have already been collected. If these compliance evaluations have not already been performed, they should be completed now. Once done, you can initiate the collection, monitoring, measurement, and analysis of the information needed to develop trend in the results. This should be implemented as an integral part of the compliance evaluation process.</p>
+<p>(Ver Tarea 2 [tarea] (Personas y Requerimientos Legales que Afectan el EnMS)). La informaci&oacute;n que se utilizar&aacute; para desarrollar tendencias en los resultados de las evaluaciones del cumplimiento de los requerimientos legales y de otro tipo ya deber&iacute;a haberse recopilado. Si estas evaluaciones de cumplimiento a&uacute;n no se han realizado, deben completarse ahora. Una vez hecho esto, puede iniciar la recopilaci&oacute;n, el monitoreo, la medici&oacute;n y el an&aacute;lisis de la informaci&oacute;n necesaria para desarrollar una tendencia en los resultados. Esto debe implementarse como parte integral del proceso de evaluaci&oacute;n de cumplimiento.</p>
 
-<p>As part of this task, you also should be able to implement the monitoring and measurement activities needed to analyze the results related to specific strategic goals and priorities and the achievement of specific intended outcomes. The monitoring, measurement, and analysis of data and other information for development and evaluation of trends in internal audit results can be implemented once internal audits are conducted as part of Task 22 [task](Internal Audit). Monitoring, measurement, and analysis of information needed to develop and evaluate trends in nonconformities and corrective actions can be implemented once nonconformities are identified and corrective actions are undertaken and completed as part of Task 24 [task](Corrective Actions). Again, the monitoring, measurement, analysis, and evaluation should be implemented as integral elements of these processes. And, the results of all monitoring and measurement activities must be retained as documented information.</p>
+<p>Como parte de esta tarea, tambi&eacute;n debe poder implementar las actividades de monitoreo y medici&oacute;n necesarias para analizar los resultados relacionados con objetivos y prioridades estrat&eacute;gicas espec&iacute;ficas y el logro de los resultados espec&iacute;ficos previstos. El monitoreo, la medici&oacute;n y el an&aacute;lisis de datos y otra informaci&oacute;n para el desarrollo y la evaluaci&oacute;n de tendencias en los resultados de la auditor&iacute;a interna se pueden implementar una vez que se realizan las auditor&iacute;as internas como parte de la Tarea 22 [tarea] (Auditor&iacute;a Interna). El monitoreo, la medici&oacute;n y el an&aacute;lisis de la informaci&oacute;n necesaria para desarrollar y evaluar las tendencias en las no conformidades y las acciones correctivas se pueden implementar una vez que se identifican las no conformidades y las acciones correctivas se llevan a cabo y se completan como parte de la Tarea 24 [tarea] (Acciones Correctivas). Se reitera que el monitoreo, la medici&oacute;n, el an&aacute;lisis y la evaluaci&oacute;n deben implementarse como elementos integrales de estos procesos. Los resultados de todas las actividades de monitoreo y medici&oacute;n deben conservarse como informaci&oacute;n documentada.</p>
 
-<p>Top management is responsible for ensuring the ongoing effectiveness of the EnMS. This is accomplished through the process of management review as part of Task 23 [task](Management Review). It is very important that the trends in EnMS performance and the analysis of EnMS results related to intended outcomes be presented to management in a format and at a level that facilitates their review and understanding of the information and enables them to make informed decisions on its effectiveness and on the effective use of resources.</p>
+<p>La alta gerencia es responsable de garantizar la efectividad continua del EnMS. Esto se logra mediante el proceso de revisi&oacute;n que realiza la administraci&oacute;n como parte de la Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n). Es muy importante que las tendencias en el desempe&ntilde;o del EnMS y el an&aacute;lisis de los resultados del EnMS relacionados con los resultados previstos se presenten a la gerencia en un formato y en un nivel que facilite la revisi&oacute;n y comprensi&oacute;n de la informaci&oacute;n y permita tomar decisiones informadas sobre su efectividad y sobre el uso efectivo de los recursos.</p>
 
-<p>In Task 21 [task](Monitoring and Measurement of Energy Performance Improvement), the monitoring and measurement needed to evaluate energy performance is addressed.</p>
+<p>En la Tarea 21 [tarea] (Monitoreo y Medici&oacute;n de la Mejora del Rendimiento Energ&eacute;tico), se aborda el monitoreo y la medici&oacute;n necesarios para evaluar el rendimiento energ&eacute;tico.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Both ISO 9001:2015 and ISO 14001:2015 requires that the organization determine what is to be monitored and measured, the methods to be used for valid results, when the monitoring and measurement will be done and when the results will be analyzed and evaluated. And, like ISO 50001:2018, both standards require evaluation of the effectiveness of the management system. So, although there will be differences between the standards in the specific data and metrics to be monitored, measured, analyzed, and evaluated, what needs to be defined and the monitoring, measurement, analysis, and evaluation processes used are at least similar, if not the same.</p>
+<p>Tanto el estándar ISO 9001: 2015 como el ISO 14001: 2015 requieren que la organización determine qué se debe monitorear y medir, los métodos que se utilizarán para obtener resultados válidos, cuándo se realizará el monitoreo y la medición y cuándo se analizarán y evaluarán los resultados. Y, al igual que ISO 50001: 2018, ambas normas requieren una evaluación de la efectividad del sistema de gestión. Por lo tanto, aunque habrá diferencias entre los estándares en los datos específicos y las métricas a monitorear, medir, analizar y evaluar, lo que debe definirse y los procesos de monitoreo, medición, análisis y evaluación utilizados son al menos similares, si no los mismos.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>The ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> addresses tracking and monitoring activities from an energy program perspective. Step 5.5 addresses a tracking system to monitor energy program activities. Step 6 discusses the value to energy managers of regular evaluation of the effectiveness of energy management initiatives. Step 6.1 identifies key steps in measuring results, including organizing reports and data from tracking and monitoring efforts. Step 6.2 discusses the advantages of reviewing the action plans and their effectiveness.</p>
+<p><em>Las Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> ENERGY STAR&reg; abordan las actividades de seguimiento y monitoreo desde la perspectiva de un programa de energ&iacute;a. El paso 5.5 aborda un sistema de seguimiento para monitorear las actividades del programa de energ&iacute;a. El paso 6 discute el valor para los administradores de energ&iacute;a de la evaluaci&oacute;n peri&oacute;dica de la efectividad de las iniciativas de gesti&oacute;n energ&eacute;tica. El paso 6.1 identifica los pasos clave para medir los resultados, incluida la organizaci&oacute;n de informes y datos de los esfuerzos de seguimiento y monitoreo. El paso 6.2 discute las ventajas de revisar los planes de acci&oacute;n y su efectividad.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

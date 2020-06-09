@@ -7,158 +7,158 @@ Acciones Correctivas
 Tarea 24: Identificamos las no conformidades y otros problemas en el sistema de administración de energía 50001 Ready y adoptamos las medidas correctivas apropiadas.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Develop and implement a process for taking corrective action at your organization.</li>
-	<li>Define roles, responsibilities, and authorities for the various steps in the corrective action process.</li>
-	<li>Train employees on the types of problems and nonconformities to be addressed through implementing the corrective action process.</li>
+	<li>Desarrolle e implemente un proceso para tomar medidas correctivas en su organizaci&oacute;n.</li>
+	<li>Defina roles, responsabilidades y atribuciones para los diversos pasos en el proceso de acci&oacute;n correctiva.</li>
+	<li>Capacite a los empleados sobre los tipos de problemas y no conformidades que se abordar&aacute;n mediante la implementaci&oacute;n del proceso de acciones correctivas.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>An energy management system (EnMS) needs processes for identifying and addressing problems, including nonconformities. A nonconformity generally is a situation where evidence indicates that:</p>
+<p>Un sistema de gesti&oacute;n de energ&iacute;a (EnMS) necesita procesos para identificar y abordar problemas, incluidas las no conformidades. Una no conformidad generalmente es una situaci&oacute;n en la que la evidencia indica que:</p>
 
 <ul>
-	<li>a requirement or the intent of ISO 50001 or your EnMS is not being met,</li>
-	<li>your organization is not doing what it said it would do,</li>
-	<li>the current processes in place are not effective, or</li>
-	<li>the intended energy performance improvement is not being achieved.</li>
+	<li>un requerimiento o el prop&oacute;sito de ISO 50001 o su EnMS no se cumple,</li>
+	<li>su organizaci&oacute;n no est&aacute; haciendo lo que dijo que har&iacute;a,</li>
+	<li>los procesos actuales en su organizaci&oacute;n no son efectivos, o</li>
+	<li>la mejora prevista del rendimiento energ&eacute;tico no se est&aacute; logrando.</li>
 </ul>
 
-<p>The processes involved here are correction and corrective action. <em>Correction</em> is action taken to eliminate a detected nonconformity. <em>Corrective action</em> is action taken to eliminate the cause of a detected nonconformity.</p>
+<p>Los procesos involucrados aqu&iacute; son correcci&oacute;n y acci&oacute;n correctiva. La <em>correcci&oacute;n </em>es una acci&oacute;n tomada para eliminar una no conformidad detectada. La <em>acci&oacute;n correctiva</em> es la acci&oacute;n tomada para eliminar la causa de una no conformidad detectada.</p>
 
-<p><em>This guidance is relevant to Section 10.2 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 10.2 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Develop the process for corrective action)</p>
+<p>[Accordion](Desarrollar el proceso para la acci&oacute;n correctiva)</p>
 
-<p>The corrective action process consists of the following elements:</p>
+<p>El proceso de acci&oacute;n correctiva consta de los siguientes elementos:</p>
 
 <ol>
-	<li>Control and correct the immediate situation.</li>
-	<li>Evaluate the impacts of the nonconformity.</li>
-	<li>Determine the cause of the nonconformity.</li>
-	<li>Act to eliminate the cause.</li>
-	<li>Review the effectiveness of the action taken.</li>
-	<li>Retain records.</li>
+	<li>Controlar y corregir la situaci&oacute;n inmediata.</li>
+	<li>Evaluar los impactos de la no conformidad.</li>
+	<li>Determinar la causa de la no conformidad.</li>
+	<li>Actuar para eliminar la causa.</li>
+	<li>Revisar la efectividad de la acci&oacute;n tomada.</li>
+	<li>Conservar registros.</li>
 </ol>
 
-<p>The process for corrective action that you develop for your organization needs to include all of these elements. Some organizations use specialized software or a corrective action form (usually electronic) to outline the steps in the process and capture the needed information.</p>
+<p>El proceso de acci&oacute;n correctiva que desarrolle para su organizaci&oacute;n debe incluir todos estos elementos. Algunas organizaciones usan software especializado o un formulario de acci&oacute;n correctiva (generalmente electr&oacute;nico) para describir los pasos del proceso y capturar la informaci&oacute;n necesaria.</p>
 
-<p>If your organization has an integrated management system, consider using, or at least &ldquo;harvesting&rdquo; from, processes already in place. Your organization may already have corrective action process as part of another management system, such as an ISO 9001 quality management system or an ISO 14001 environmental management system.</p>
+<p>Si su organizaci&oacute;n tiene un sistema de gesti&oacute;n integrado, considere utilizar, o al menos &quot;cosechar&quot; de los procesos que ya est&aacute;n implementados. Es posible que su organizaci&oacute;n ya tenga un proceso de acci&oacute;n correctiva como parte de otro sistema de gesti&oacute;n, como un sistema de gesti&oacute;n de calidad ISO 9001 o un sistema de gesti&oacute;n ambiental ISO 14001.</p>
 
-<p>[Learn More](Process for corrective action)</p>
+<p>[Learn More](Proceso para el desarrollo de acciones correctivas)</p>
 
-<p><strong>1. Control and correct the immediate situation and address the consequences</strong></p>
+<p><strong>1. Controlar y corregir la situaci&oacute;n inmediata y atender las consecuencias.</strong></p>
 
-<p>When a nonconformity is detected, the first step is, if applicable, to take appropriate action to control and correct the immediate situation. This is called <em>correction.</em> For example:</p>
+<p>Cuando se detecta una no conformidad, el primer paso es, si corresponde, tomar las medidas adecuadas para controlar y corregir la situaci&oacute;n inmediata. Esto se llama <em>correcci&oacute;n</em>. Por ejemplo:</p>
 
-<p>A site has a compressed air system which is a large consumer of energy. The site&rsquo;s procedure states that the operating pressure set point for the compressed air system shall be 105 psig. The site was found to be operating their compressor system at 115 psig. An example of correcting the current situation is to change the operating pressure back to 105 psig, but consider the effects on production before assuming the procedure is correct. The appropriate correction may be to change the procedure to state 115 psig.</p>
+<p>Un sitio tiene un sistema de aire comprimido que es un gran consumidor de energ&iacute;a. El procedimiento del sitio establece que el punto de ajuste de la presi&oacute;n de operaci&oacute;n para el sistema de aire comprimido ser&aacute; de 105 psig. Se descubri&oacute; que el sitio operaba su sistema de compresor a 115 psig. Un ejemplo de correcci&oacute;n de la situaci&oacute;n actual es cambiar la presi&oacute;n de operaci&oacute;n nuevamente a 105 psig, pero considere los efectos en la producci&oacute;n antes de asumir que el procedimiento es correcto. La correcci&oacute;n apropiada puede ser cambiar el procedimiento a 115 psig.</p>
 
-<p>Correction can also involve dealing with the immediate consequences of the nonconformity. In the example above, an appropriate correction would be to determine whether there were effects on production that needed to be addressed as a result of the higher operating pressure.</p>
+<p>La correcci&oacute;n tambi&eacute;n puede implicar lidiar con las consecuencias inmediatas de la no conformidad. En el ejemplo anterior, una correcci&oacute;n apropiada ser&iacute;a determinar si hubo efectos en la producci&oacute;n que deb&iacute;an atenderse como resultado de la mayor presi&oacute;n de operaci&oacute;n.</p>
 
-<p><strong>2. Evaluate the impact of the nonconformity</strong></p>
+<p><strong>2. Evaluar el impacto de la no conformidad</strong>.</p>
 
-<p>The next step is to review the nonconformity to determine its impact and the need for further action. Do similar nonconformities exist? Can similar nonconformities potentially occur?</p>
+<p>El siguiente paso es revisar la no conformidad para determinar su impacto y la necesidad de acciones adicionales. &iquest;Existen no conformidades similares? &iquest;Pueden ocurrir no conformidades similares?</p>
 
-<p>Consider whether the nonconformity impacts energy performance. This can involve looking at actual and potential effects on, for example:</p>
-
-<ul>
-	<li>Objectives, energy targets, and action plans</li>
-	<li>Significant energy uses (SEUs)</li>
-	<li>Energy performance indicators (EnPIs)</li>
-	<li>Energy efficiency of sites, equipment, systems, and processes</li>
-	<li>Existing or planned operational or maintenance controls</li>
-	<li>Other energy sources or energy uses within the organization</li>
-</ul>
-
-<p>Based on this and other information (i.e., cause analysis), a decision is made as to whether the nonconformity should be subject to further review and investigation. If so, the nonconformity can be entered formally into the organization&rsquo;s corrective action system.</p>
-
-<p><strong>3. Determine the cause of the nonconformity</strong></p>
-
-<p>Once entered into the system, the nonconformity is further reviewed to determine its cause. For example:</p>
-
-<p>In the compressed air system example above, determining the cause consists of considering how and why the operating pressure was changed. Although any type of problem-solving process can be used, it can be helpful to apply the &ldquo;Five Why&rdquo; concept to determine the cause of a nonconformity. In this case, you might ask the following:</p>
+<p>Considere si la no conformidad afecta el rendimiento energ&eacute;tico. Esto puede implicar observar los efectos reales y potenciales sobre aspectos como:</p>
 
 <ul>
-	<li>Question: Why was the operating pressure changed?
-	<ul style="list-style-type:circle">
-		<li>Answer: Because the operator thought it should be.</li>
+	<li>Objetivos, metas energ&eacute;ticas y planes de acci&oacute;n.</li>
+	<li>Usos significativos de energ&iacute;a (SEUs)</li>
+	<li>Indicadores de rendimiento energ&eacute;tico (EnPIs)</li>
+	<li>Eficiencia energ&eacute;tica de los sitios, equipos, sistemas y procesos.</li>
+	<li>Controles operativos o de mantenimiento existentes o planeados.</li>
+	<li>Otras fuentes de energ&iacute;a o usos energ&eacute;ticos dentro de la organizaci&oacute;n.</li>
+</ul>
+
+<p>En base a esta y otra informaci&oacute;n (es decir, an&aacute;lisis de causas), se toma una decisi&oacute;n sobre si la no conformidad debe estar sujeta a una revisi&oacute;n e investigaci&oacute;n adicionales. Si es as&iacute;, la no conformidad se puede ingresar formalmente en el sistema de acci&oacute;n correctiva de la organizaci&oacute;n.</p>
+
+<p><strong>3. Determinar la causa de la no conformidad</strong></p>
+
+<p>Una vez que se ingresa al sistema, la no conformidad se revisa para determinar su causa. Por ejemplo:</p>
+
+<p>En el ejemplo del sistema de aire comprimido anterior, la determinaci&oacute;n de la causa consiste en considerar c&oacute;mo y por qu&eacute; se modific&oacute; el nivel de presi&oacute;n de funcionamiento. Aunque se puede utilizar cualquier tipo de proceso de resoluci&oacute;n de problemas, puede ser &uacute;til aplicar el concepto &quot;Cinco Preguntas&quot; (Five Why) para determinar la causa de una no conformidad. En este caso, puede preguntar lo siguiente:</p>
+
+<ul>
+	<li>Pregunta: &iquest;Por qu&eacute; se cambi&oacute; la presi&oacute;n de operaci&oacute;n?
+	<ul style="list-style-type:disc">
+		<li>Respuesta: Porque el operador pens&oacute; que as&iacute; deber&iacute;a ser.</li>
 	</ul>
 	</li>
-	<li>Question: Why did the operator think it should be changed?
-	<ul style="list-style-type:circle">
-		<li>Answer: Because the operator was experiencing problems at 105 psig that were not experienced at 115 psig.</li>
+	<li>Pregunta: &iquest;Por qu&eacute; el operador pens&oacute; que deber&iacute;a cambiarse?
+	<ul style="list-style-type:disc">
+		<li>Respuesta: Porque el operador estaba experimentando problemas a 105 psig que no se experimentaron a 115 psig.</li>
 	</ul>
 	</li>
-	<li>Question: What problem was the operator experiencing?
-	<ul style="list-style-type:circle">
-		<li>Answer: A lack of sufficient pressure to actuate the press.</li>
+	<li>Pregunta: &iquest;Qu&eacute; problema estaba experimentando el operador?
+	<ul style="list-style-type:disc">
+		<li>Respuesta: Falta de presi&oacute;n suficiente para accionar la prensa.</li>
 	</ul>
 	</li>
-	<li>Question: What was the cause of the problem?
-	<ul style="list-style-type:circle">
-		<li>Answer: The pressure gauge was out of calibration and indicated incorrect pressures.</li>
+	<li>Pregunta: &iquest;Cu&aacute;l fue la causa del problema?
+	<ul style="list-style-type:disc">
+		<li>Respuesta: El man&oacute;metro no estaba calibrado e indic&oacute; presiones incorrectas.</li>
 	</ul>
 	</li>
-	<li>Question: Why was the pressure gauge out of calibration?
-	<ul style="list-style-type:circle">
-		<li>Answer: The calibration frequency was annual. The calibration history shows the gauge has been found to be out of calibration at each calibration for the past two years.</li>
+	<li>Pregunta: &iquest;Por qu&eacute; el man&oacute;metro no estaba calibrado?
+	<ul style="list-style-type:disc">
+		<li>Respuesta: La frecuencia de calibraci&oacute;n era anual. El historial de calibraci&oacute;n muestra que el medidor se ha encontrado fuera de calibraci&oacute;n en cada calibraci&oacute;n durante los &uacute;ltimos dos a&ntilde;os.</li>
 	</ul>
 	</li>
 </ul>
 
-<p><strong>4. Act to eliminate the cause</strong></p>
+<p><strong>4. Actuar para eliminar la causa de la no conformidad.</strong></p>
 
-<p>Next, you decide on and implement an appropriate course of action to eliminate the cause of the nonconformity so it does not recur or occur elsewhere.</p>
+<p>A continuaci&oacute;n, decida e implemente un curso de acci&oacute;n apropiado para eliminar la causa de la no conformidad para que no se repita ni ocurra en otro lugar.</p>
 
-<p>The actions taken to address a problem can sometimes result in the need to make other adjustments or changes to the EnMS. If changes to the EnMS are needed as part of or as a result of corrective action, they must be made. For example, if existing operational controls were modified as part of implementing a corrective action, then there may be a need to modify the associated EnMS documentation. The actions taken need to be appropriate to the extent of the problem and its effects. For example:</p>
+<p>Las acciones tomadas para atender un problema a veces pueden resultar en la necesidad de hacer otros ajustes o cambios en el EnMS. Si se necesitan cambios en el EnMS como parte de o como resultado de una acci&oacute;n correctiva, estos cambios deben realizarse. Por ejemplo, si los controles operativos existentes se modificaron como parte de la implementaci&oacute;n de una acci&oacute;n correctiva, entonces puede ser necesario modificar la documentaci&oacute;n correspondiente del EnMS. Las acciones tomadas deben ser apropiadas al alcance del problema y sus efectos. Por ejemplo:</p>
 
-<p>In the compressed air system example, one action to eliminate the cause would be to increase the calibration frequency of the pressure gauges.</p>
+<p>En el ejemplo del sistema de aire comprimido, una acci&oacute;n para eliminar la causa ser&iacute;a aumentar la frecuencia de calibraci&oacute;n de los man&oacute;metros.</p>
 
-<p>To ensure that the nonconformity does not occur elsewhere, appropriate action may be needed in another process, area, or site. A systemwide approach to problem identification and resolution such as this helps further a culture of continual improvement. For most organizations this approach results in fewer nonconformities and negative audit findings over time. As an example:</p>
+<p>Para garantizar que la no conformidad no ocurra en otro lugar, puede ser necesaria una acci&oacute;n apropiada en otro proceso, &aacute;rea o sitio. Un enfoque en todo el sistema para la identificaci&oacute;n y resoluci&oacute;n de problemas como este ayuda a promover una cultura de mejora continua. Para la mayor&iacute;a de las organizaciones, este m&eacute;todo da como resultado menos no conformidades y resultados de auditor&iacute;a negativos con el tiempo. Como ejemplo:</p>
 
-<p>In the example, you may decide that a look at the calibration frequency for all gauges is appropriate.</p>
+<p>En el ejemplo mencionado, puede decidir que es apropiado observar la frecuencia de calibraci&oacute;n para todos los medidores.</p>
 
-<p><strong>5. Review the effectiveness of the action taken</strong></p>
+<p><strong>5. Revisar la efectividad de la acci&oacute;n adoptada</strong></p>
 
-<p>After appropriate action is taken to eliminate the cause of the nonconformity, a review is performed to determine if the action taken was effective. In other words, did the action taken to eliminate the cause result in the nonconformity not occurring or recurring? In some situations, it may be necessary to let a reasonable interval of time pass after the solution is implemented before the review for effectiveness is performed. Sometimes a solution needs time to work before its effectiveness can be fully evaluated. Returning to the compressed air system example:</p>
+<p>Despu&eacute;s de tomar las medidas apropiadas para eliminar la causa de la no conformidad, se realiza una revisi&oacute;n para determinar si la medida tomada fue efectiva. En otras palabras, &iquest;la acci&oacute;n tomada para eliminar la causa result&oacute; en la no conformidad no ocurriendo o recurriendo? En algunas situaciones, puede ser necesario dejar pasar un periodo de tiempo razonable despu&eacute;s de que se implemente la soluci&oacute;n antes de que se realice la revisi&oacute;n de efectividad. A veces, una soluci&oacute;n necesita tiempo para funcionar antes de que su efectividad pueda evaluarse por completo. Volviendo al ejemplo del sistema de aire comprimido:</p>
 
-<p>The effectiveness review could consist of verifying that the calibration frequency was changed in the calibration system and then verify that the actual operating pressure is the same as that indicated in the procedure.</p>
+<p>La revisi&oacute;n de efectividad podr&iacute;a consistir en verificar que la frecuencia de calibraci&oacute;n se modific&oacute; en el sistema de calibraci&oacute;n y luego verificar que la presi&oacute;n de operaci&oacute;n real sea la misma que la indicada en el procedimiento.</p>
 
-<p>The review for effectiveness should be assigned to personnel who are independent from the area which was responsible for developing and implementing the corrective action. For corrective actions associated with audit findings, it is not unusual that the internal audit program manager or the internal auditor who found the nonconformity conducts the follow-up for effectiveness.</p>
+<p>La revisi&oacute;n de efectividad debe asignarse al personal que es independiente del &aacute;rea responsable de desarrollar e implementar la acci&oacute;n correctiva. Para las acciones correctivas asociadas con los resultados de la auditor&iacute;a, no es inusual que el gerente del programa de auditor&iacute;a interna o el auditor interno que descubri&oacute; la no conformidad realice el seguimiento para mayor efectividad.</p>
 
-<p><strong>6. Retain records</strong></p>
+<p><strong>6. Conservar registros</strong></p>
 
-<p>A corrective action preventive action request form along with a corrective action tracking log are commonly used to record and track the status of corrective and preventive actions. See the optional Playbook worksheet for a template of each.</p>
+<p>Un formulario de solicitud de acci&oacute;n preventiva de acciones correctivas, junto con un registro de seguimiento de acciones correctivas, se usan com&uacute;nmente para registrar y rastrear el estado de las acciones correctivas y preventivas. Consulte la hoja de trabajo opcional Playbook para obtener un formato para cada caso.</p>
 
-<p>A corrective action tracking log can be used to track actions to completion. As mentioned earlier, most corrective action systems are electronic, using either specialized software or internally developed spreadsheets. This provides the opportunity to easily capture additional information about each corrective action request that can be used to develop trend information on corrective actions. For example, recording how the nonconformity was identified (e.g., internal audit, management review, data analysis, observation) could be used to identify trends in the various problem identification processes of the organization. Assigning a code for the type of problem or nonconformity can help identify trends in the types of issues that are occurring most frequently. Tracking the timely completion of corrective actions can show trends in compliance with the mandated time frames.</p>
+<p>Se puede utilizar un registro de seguimiento de acciones correctivas para realizar un seguimiento de las acciones hasta su finalizaci&oacute;n. Como se mencion&oacute; anteriormente, la mayor&iacute;a de los sistemas de acci&oacute;n correctiva son electr&oacute;nicos y utilizan software especializado u hojas de c&aacute;lculo desarrolladas internamente. Esto brinda la oportunidad de capturar f&aacute;cilmente informaci&oacute;n adicional sobre cada solicitud de acci&oacute;n correctiva que se puede utilizar para desarrollar informaci&oacute;n de tendencias sobre acciones correctivas. Por ejemplo, registrar c&oacute;mo se identific&oacute; la no conformidad (auditor&iacute;a interna, revisi&oacute;n de la administraci&oacute;n, an&aacute;lisis de datos, observaci&oacute;n) podr&iacute;a usarse para identificar tendencias en los diversos procesos de identificaci&oacute;n de problemas de la organizaci&oacute;n. Asignar un c&oacute;digo para el tipo de problema o no conformidad puede ayudar a identificar tendencias en los tipos de problemas que ocurren con mayor frecuencia. El seguimiento de la finalizaci&oacute;n oportuna de las acciones correctivas puede mostrar tendencias en el cumplimiento de plazos obligatorios.</p>
 
-<p>In addition to retaining documented information on the nature of the nonconformities (i.e., what was the problem), the actions taken, and the results, attention should be given to what other information may be needed to develop and provide trend information on corrective actions as a required input for management review.</p>
+<p>Adem&aacute;s de conservar informaci&oacute;n documentada sobre la naturaleza de las no conformidades (es decir, cu&aacute;l fue el problema), las acciones tomadas y los resultados, se debe prestar atenci&oacute;n a qu&eacute; otro tipo de informaci&oacute;n puede ser necesario para desarrollar y proporcionar informaci&oacute;n de tendencias sobre acciones correctivas como un aporte requerido para la revisi&oacute;n de la gerencia.</p>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Define roles and responsibilities)</p>
+<p>[Accordion](Definir roles y responsabilidades)</p>
 
-<p>Overall responsibility for managing the corrective action system needs to be assigned. This could be the energy management team leader or other personnel associated with the organization&rsquo;s problem solving processes. However, responsibilities for conducting investigation and cause analysis and for taking action can be delegated as long as all required steps are followed and the appropriate records are retained.</p>
+<p>Se debe asignar la responsabilidad general de administrar el sistema de acciones correctivas. Esta asignaci&oacute;n podr&iacute;a darse al l&iacute;der del equipo de gesti&oacute;n de energ&iacute;a u otro personal relacionado con los procesos de resoluci&oacute;n de problemas de la organizaci&oacute;n. Sin embargo, las responsabilidades para realizar investigaciones y an&aacute;lisis de causas y para tomar medidas pueden delegarse siempre que se sigan todos los pasos requeridos y se conserven los registros apropiados.</p>
 
-<p>Most commonly, all employees are responsible for identifying actual and potential nonconformities in their work areas, for informing the appropriate supervisory personnel, and for making an immediate correction. Internal auditors are typically responsible for determining if nonconformities exist in the EnMS.</p>
+<p>Con mayor frecuencia, todos los empleados son responsables de identificar las no conformidades reales y potenciales en sus &aacute;reas de trabajo, informar al personal de supervisi&oacute;n apropiado y hacer una correcci&oacute;n inmediata. Los auditores internos generalmente son responsables de determinar si existen no conformidades en el EnMS.</p>
 
-<p>Corrective actions are usually assigned to the manager of the department or area where the problem exists. That manager may assign the corrective action for investigation and development of proposed actions to a specific individual or may assemble a team to address the problem. As mentioned earlier, the follow-up that evaluates the effectiveness of the action taken should be assigned to personnel who are independent from the area that was responsible for developing and implementing the corrective action.</p>
+<p>Las acciones correctivas generalmente se asignan al gerente del departamento o &aacute;rea donde existe el problema. Ese gerente puede asignar la acci&oacute;n correctiva para la investigaci&oacute;n y el desarrollo de las acciones propuestas a un individuo espec&iacute;fico o puede reunir un equipo para abordar el problema. Como se mencion&oacute; anteriormente, el seguimiento que eval&uacute;a la efectividad de la acci&oacute;n tomada debe asignarse al personal que es independiente del &aacute;rea responsable de desarrollar e implementar la acci&oacute;n correctiva.</p>
 
-<p>Typically, time frames are established for completion of the investigation and development of proposed action(s), and for implementation and the follow-up for effectiveness. A 30-day time frame is common. However, it can be a good idea to allow for time extensions where appropriate justifications can be provided. For example, a solution that calls for capital investment in new equipment can take more time for full implementation.</p>
+<p>Por lo general, se establecen plazos para completar la investigaci&oacute;n y el desarrollo de las acciones propuestas, y para la implementaci&oacute;n y el seguimiento para prop&oacute;sitos de efectividad. Un plazo de 30 d&iacute;as es com&uacute;n. Sin embargo, puede ser una buena idea permitir extensiones de tiempo cuando se puedan proporcionar las justificaciones apropiadas. Por ejemplo, una soluci&oacute;n que requiere una inversi&oacute;n de capital en nuevos equipos puede llevar m&aacute;s tiempo para una implementaci&oacute;n completa.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Implement the process for corrective action)</p>
+<p>[Accordion](Implementar el proceso para la acci&oacute;n correctiva)</p>
 
-<p>Like the other processes of the EnMS, implementation of the corrective action process involves putting the process into practice and ensuring that appropriate training is provided across the workforce. Training should include reviewing the steps to be followed, demonstrating the use of any required forms or software, and clearly communicating roles, responsibilities, and expectations.</p>
+<p>Al igual que los otros procesos del EnMS, la implementaci&oacute;n del proceso de acci&oacute;n correctiva implica poner en pr&aacute;ctica el proceso y garantizar que se brinde la capacitaci&oacute;n adecuada en toda la fuerza laboral. La capacitaci&oacute;n debe incluir la revisi&oacute;n de los pasos a seguir, demostrar el uso de cualquier formulario o software requerido, y comunicar claramente los roles, responsabilidades y expectativas.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>The requirements for corrective action in ISO 50001:2018, ISO 9001:2015, and ISO 14001:2015 are virtually identical. A fully functional corrective action process used for ISO 9001 and ISO 14001 will work for ISO 50001 with minimal modifications. In all three of these management systems, corrective actions must be appropriate to the effects of the nonconformities. ISO 14001 requires the corrective actions to be appropriate to the <em>significance</em> of the effects, including the environmental impacts.</p>
+<p>Los requisitos para la acci&oacute;n correctiva en ISO 50001: 2018, ISO 9001: 2015 e ISO 14001: 2015 son pr&aacute;cticamente id&eacute;nticos. Un proceso de acci&oacute;n correctiva completamente funcional utilizado para ISO 9001 e ISO 14001 funcionar&aacute; para ISO 50001 con modificaciones m&iacute;nimas. En los tres sistemas de gesti&oacute;n, las acciones correctivas deben ser apropiadas a los efectos de las no conformidades. ISO 14001 requiere que las acciones correctivas sean apropiadas a la importancia de los efectos, incluidos los impactos ambientales.</p>
 
-<p>All three standards require making changes if needed to the management system as a result of a corrective action. ISO 9001 additionally requires updating, if needed, the risks and opportunities determined in planning.</p>
+<p>Los tres est&aacute;ndares requieren hacer cambios si es necesario al sistema de gesti&oacute;n como resultado de una acci&oacute;n correctiva. ISO 9001 adem&aacute;s requiere actualizar, si es necesario, los riesgos y oportunidades determinados en la planificaci&oacute;n.</p>
 
-<p>The types of records retained on corrective actions taken and their results would be the same for ISO 50001 as they are for ISO 9001 and ISO 14001.</p>
+<p>Los tipos de registros que se conservan en las acciones correctivas tomadas y sus resultados ser&iacute;an los mismos para ISO 50001 que para ISO 9001 e ISO 14001.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>This guidance is relevant to Step 5.5 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management.</em> ISO 50001 requires that organizations address nonconformities (including those identified in EnMS internal audits) by taking corrective action, as applicable. If your organization has developed a tracking system as described in Step 5.5 of the ENERGY STAR <em>Guidelines for Energy Management,</em> this tracking system can be a good starting point for developing and implementing what is needed to meet the ISO 50001 requirements.</p>
+<p>Esta gu&iacute;a es relevante para el Paso 5.5 de las <em>Gu&iacute;as para la Gesti&oacute;n de Energ&iacute;a</em> ENERGY STAR&reg;. ISO 50001 requiere que las organizaciones aborden las no conformidades (incluidas las identificadas en las auditor&iacute;as internas del EnMS) mediante la adopci&oacute;n de medidas correctivas, seg&uacute;n corresponda. Si su organizaci&oacute;n ha desarrollado un sistema de seguimiento como se describe en el Paso 5.5 de las <em>Gu&iacute;as para la Gesti&oacute;n de Energ&iacute;a</em> ENERGY STAR, este sistema de seguimiento puede ser un buen punto de partida para desarrollar e implementar lo que se necesita para cumplir con los requisitos de ISO 50001.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

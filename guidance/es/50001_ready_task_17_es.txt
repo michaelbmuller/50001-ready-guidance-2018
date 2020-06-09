@@ -7,228 +7,228 @@ Controles Operativos
 Tarea 17: Planificamos y controlamos los procesos relacionados con nuestros usos significativos de energía (SEUs) y planes de acción, y establecemos criterios de operación y mantenimiento donde existen riesgos de desviaciones significativas en el rendimiento energético. Operamos los procesos relacionados con los SEUs y el plan de acción de acuerdo con los criterios establecidos y comunicamos los criterios al personal relevante. Controlamos los cambios planeados, junto con los procesos externos relacionados con los SEUs.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Create a significant energy use (SEU) operating criteria worksheet and operational controls checklist to determine and set the required criteria and controls for each significant energy use.</li>
-	<li>Ensure critical factors affecting energy performance are known and communicated to responsible personnel.</li>
-	<li>Ensure that the operational and maintenance control sections of your action plans have been completed and implemented.</li>
-	<li>Operate and maintain sites, equipment, systems, or processes associated with your SEUs to meet the determined criteria.</li>
-	<li>Establish processes to control planned changes affecting operational and maintenance criteria or controls.</li>
-	<li>Control outsourced SEUs or processes related to SEUs.</li>
+	<li>Elabore una hoja de trabajo de criterios operativos de uso significativo de energ&iacute;a (SEU) y una lista de verificaci&oacute;n de controles operativos para determinar y establecer los criterios y controles necesarios para cada uso significativo de energ&iacute;a.</li>
+	<li>Aseg&uacute;rese de que los factores cr&iacute;ticos que afectan el rendimiento energ&eacute;tico sean conocidos y comunicados al personal responsable.</li>
+	<li>Aseg&uacute;rese de que las secciones de control operativo y de mantenimiento de sus planes de acci&oacute;n se hayan completado e implementado.</li>
+	<li>Opere y mantenga sitios, equipos, sistemas o procesos asociados con sus SEUs para cumplir con los criterios determinados.</li>
+	<li>Establezca procesos para controlar los cambios planeados que afectan los criterios o controles operativos y de mantenimiento.</li>
+	<li>Controle SEUs subcontratados o procesos relacionados con los SEUs.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Operational and maintenance controls ensure that critical equipment, systems, processes, and sites are operated and maintained to achieve required output and efficient performance. Properly defined and implemented controls promote the efficient and uninterrupted functioning of critical equipment. Operational and maintenance controls also are relevant to the sites, equipment, systems, and processes associated with your action plans. This will help ensure their performance is efficient and within intended parameters while concurrently working to improve it.</p>
+<p>Los controles operativos y de mantenimiento aseguran que los equipos, sistemas, procesos y sitios cr&iacute;ticos se operen y mantengan para lograr la producci&oacute;n requerida y el rendimiento eficiente. Los controles adecuadamente definidos e implementados promueven el funcionamiento eficiente e ininterrumpido de los equipos de importancia critica. Los controles operativos y de mantenimiento tambi&eacute;n son relevantes para los sitios, equipos, sistemas y procesos relacionados con sus planes de acci&oacute;n. Esto ayudar&aacute; a garantizar que su rendimiento sea eficiente y dentro de los par&aacute;metros previstos mientras se trabaja simult&aacute;neamente para mejorarlo.</p>
 
-<p>Determining operational and maintenance controls involves the planning of activities to ensure critical factors affecting energy performance are known, used, and communicated to responsible personnel. Operational and maintenance controls must be planned and implemented for processes related to your significant energy uses (SEUs) and to implement action plans for achieving your objectives and energy targets (see Task 13 [task](Action Plans for Continual Improvement)).</p>
+<p>La determinaci&oacute;n de los controles operativos y de mantenimiento implica la planificaci&oacute;n de actividades para asegurar que los factores cr&iacute;ticos que afectan el rendimiento energ&eacute;tico se conozcan, utilicen y comuniquen al personal responsable. Los controles operativos y de mantenimiento deben planificarse e implementarse para los procesos relacionados con sus usos significativos de energ&iacute;a (SEUs) y para implementar planes de acci&oacute;n para lograr sus objetivos y metas de energ&iacute;a (consulte la Tarea 13 [tarea] (Planes de Acci&oacute;n para la Mejora Continua)).</p>
 
-<p>Operational and maintenance controls can take a variety of forms. They can include, for example, documented procedures and work instructions, physical controls, use of licensed or other qualified personnel, or combinations of these.</p>
+<p>Los controles operativos y de mantenimiento pueden adoptar una variedad de formas. Pueden incluir, por ejemplo, procedimientos e instrucciones de trabajo documentados, controles f&iacute;sicos, uso de personal con licencia u otro personal calificado, o combinaciones de estos.</p>
 
-<p><em>This guidance is relevant to Section 8.1 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 8.1 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Set operating and maintenance criteria)</p>
+<p>[Accordion](Establecer criterios de operaci&oacute;n y mantenimiento)</p>
 
-<p>Your organization should have effective operating and maintenance criteria in place for all your major sites, equipment, systems, and processes. Your major systems and significant energy uses (SEUs) have optimum running conditions and maintenance practices that maximize their operational efficiency and allow them to achieve their design service life.</p>
+<p>Su organizaci&oacute;n debe tener criterios de operaci&oacute;n y mantenimiento efectivos para todos sus sitios, equipos, sistemas y procesos principales. Sus principales sistemas y usos significativos de energ&iacute;a (SEUs) tienen condiciones de funcionamiento y pr&aacute;cticas de mantenimiento &oacute;ptimas que maximizan su eficiencia operativa y les permiten lograr su vida &uacute;til de dise&ntilde;o.</p>
 
-<p>Operating criteria are set points where the processes related to your SEUs and action plans operate most efficiently.</p>
+<p>Los criterios operativos son puntos de ajuste donde los procesos relacionados con sus SEUs y planes de acci&oacute;n operan de manera m&aacute;s eficiente.</p>
 
-<p>[Learn More](Example operating criteria)</p>
+<p>[Learn More](Ejemplo de criterios operativos)</p>
 
-<p>Example operating criteria include:</p>
+<p>Ejemplos de criterios operativos incluyen:</p>
 
 <ul>
-	<li>Occupancy timer settings</li>
-	<li>HVAC temperature settings</li>
-	<li>Air compressor operating pressure</li>
-	<li>Furnace and oven temperature set point</li>
-	<li>Steam boiler pressure</li>
-	<li>Freezer and cooler temperature set point</li>
-	<li>Water temperature generated by chillers</li>
-	<li>Line speeds</li>
+	<li>Configuraci&oacute;n del medidor de ocupaci&oacute;n</li>
+	<li>Ajustes de temperatura en sistema HVAC</li>
+	<li>Presi&oacute;n de funcionamiento del compresor de aire.</li>
+	<li>Punto de ajuste de temperatura del horno.</li>
+	<li>Presi&oacute;n de la caldera (boiler) de vapor.</li>
+	<li>Punto de ajuste de temperatura del congelador y el refrigerador.</li>
+	<li>Temperatura del agua generada por los enfriadores.</li>
+	<li>Velocidades de l&iacute;nea</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>Operating criteria are implemented through operational controls that work to ensure processes related to your SEUs and action plans are operated within identified criteria. Some examples of operational controls are:</p>
+<p>Los criterios operativos se implementan mediante controles operativos que funcionan para garantizar que los procesos relacionados con sus SEUs y los planes de acci&oacute;n se operen dentro de los criterios identificados. Algunos ejemplos de controles operativos son:</p>
 
 <ul>
-	<li>Physical limits</li>
-	<li>Mechanical and electrical controllers</li>
-	<li>Measuring equipment and indicators</li>
-	<li>Labeling and signage</li>
-	<li>Documented procedures</li>
-	<li>Operator competence and training</li>
+	<li>L&iacute;mites f&iacute;sicos</li>
+	<li>Controladores mec&aacute;nicos y el&eacute;ctricos.</li>
+	<li>Equipos de medici&oacute;n e indicadores.</li>
+	<li>Etiquetado y se&ntilde;alizaci&oacute;n.</li>
+	<li>Procedimientos documentados.</li>
+	<li>Competencia y capacitaci&oacute;n del operador.</li>
 </ul>
 
-<p>Your organization must also address maintenance criteria and associated controls. Examples of relevant maintenance practices can include:</p>
+<p>Su organizaci&oacute;n tambi&eacute;n debe abordar los criterios de mantenimiento y los controles relacionados. Los ejemplos de pr&aacute;cticas de mantenimiento relevantes pueden incluir:</p>
 
 <ul>
-	<li>Filter replacement</li>
-	<li>Lubrication</li>
-	<li>Tension adjustment</li>
-	<li>Leak repair</li>
-	<li>Cleaning</li>
-	<li>Fluid levels</li>
-	<li>Vibration analysis</li>
-	<li>Tuning</li>
+	<li>Reemplazo de filtro</li>
+	<li>Lubricaci&oacute;n</li>
+	<li>Ajuste de tensi&oacute;n</li>
+	<li>Reparaci&oacute;n de fugas</li>
+	<li>Limpieza</li>
+	<li>Niveles de fluidos</li>
+	<li>An&aacute;lisis de vibraciones.</li>
+	<li>Afinaci&oacute;n</li>
 </ul>
 
-<p>Many organizations use a preventive maintenance (PM) system, which can be a component of the maintenance criteria and controls for an energy management system (EnMS). A PM system is an organized approach for maintaining equipment and processes by conducting systematic inspections. These inspections detect and correct anomalies to prevent failure and/or maintain peak operating condition. Both operating and maintenance criteria and associated controls influence the performance and efficiency of energy-consuming equipment.</p>
+<p>Muchas organizaciones utilizan un sistema de mantenimiento preventivo (PM), que puede ser un componente de los criterios y controles de mantenimiento para un sistema de gesti&oacute;n de energ&iacute;a (EnMS). Un sistema de PM es un m&eacute;todo organizado para el mantenimiento de equipos y procesos mediante la realizaci&oacute;n de inspecciones sistem&aacute;ticas. Estas inspecciones detectan y corrigen anomal&iacute;as para evitar fallas y / o mantener las condiciones optimas de operaci&oacute;n. Los criterios de operaci&oacute;n y mantenimiento y los controles relacionados influyen en el rendimiento y la eficiencia de los equipos que consumen energ&iacute;a.</p>
 
-<p>The ISO 50001 standard requires that you develop operating and maintenance criterion for your SEUs and for the action plans you are implementing &ldquo;where their absence could lead to a significant deviation from intended energy performance.&rdquo; Significant deviations are discussed in Task 21 [task](Monitoring and Measurement of Energy Performance Improvement). Your organization must determine what controls are critical to avoid a significant deviation related to the operating and maintenance criteria of your SEUs and action plans. Examples of significant deviations that could be due to, at least partly, operational and maintenance control issues include:</p>
+<p>La norma ISO 50001 requiere que desarrolle criterios de operaci&oacute;n y mantenimiento para sus SEUs y para los planes de acci&oacute;n que est&aacute; implementando &quot;en los que su ausencia podr&iacute;a conducir a una desviaci&oacute;n significativa del rendimiento energ&eacute;tico previsto&quot;. Las desviaciones significativas se discuten en la Tarea 21 [tarea] (Monitoreo y Medici&oacute;n de la Mejora del Rendimiento Energ&eacute;tico). Su organizaci&oacute;n debe determinar qu&eacute; controles son cr&iacute;ticos para evitar una desviaci&oacute;n significativa relacionada con los criterios de operaci&oacute;n y mantenimiento de sus SEUs y planes de acci&oacute;n. Los ejemplos de desviaciones significativas que podr&iacute;an deberse, al menos en parte, a problemas de control operativo y de mantenimiento incluyen:</p>
 
 <ul>
-	<li>Equipment or systems running outside of control limits</li>
-	<li>Energy consumption variation</li>
-	<li>Change in efficiency</li>
-	<li>Increased maintenance requirements</li>
-	<li>Increased downtime</li>
-	<li>Additional equipment requirements</li>
-	<li>Longer run times</li>
-	<li>Need to change settings</li>
-	<li>Product quality issues (e.g., over- or under-cooked food)</li>
+	<li>Equipos o sistemas que funcionan fuera de los l&iacute;mites de control.</li>
+	<li>Variaci&oacute;n del consumo de energ&iacute;a</li>
+	<li>Cambio en la eficiencia.</li>
+	<li>Aumento de los requisitos de mantenimiento.</li>
+	<li>Mayor tiempo de inactividad</li>
+	<li>Requisitos adicionales de equipo</li>
+	<li>Tiempos de operaci&oacute;n m&aacute;s largos</li>
+	<li>Necesidad de cambiar la configuraci&oacute;n</li>
+	<li>Problemas de calidad del producto (p. ej., alimentos cocinados en exceso o de manera insuficiente)</li>
 </ul>
 
-<p>[Learn More](Sources to help identify operating and maintenance criteria)</p>
+<p>[Learn More](Fuentes para ayudar a identificar los criterios de operaci&oacute;n y mantenimiento)</p>
 
-<p>A variety of sources can be helpful in planning operating and maintenance criteria for your SEUs and other processes that can impact energy performance. These include:</p>
-
-<ul>
-	<li>Manufacturer&rsquo;s recommendation</li>
-	<li>Personnel who measure performance</li>
-	<li>Minimum process or system requirements</li>
-	<li>Service personnel suggested operating settings and maintenance intervals</li>
-	<li>Statistical process control</li>
-	<li>Benchmarking performance of similar equipment</li>
-	<li>Industry standards</li>
-</ul>
-
-<p>[Learn More End]</p>
-
-<p>Keep in mind that you likely have some operating and maintenance criteria already in place within your organization, especially as related to efficient equipment operation. Part of the process of determining operational and maintenance controls is to examine what is already there, and incorporate it into your EnMS as it relates to energy performance. You should take stock of what&rsquo;s in place and take a fresh look at what else is needed for controlling operations and maintenance activities for processes related to SEUs and action plans. The optional Playbook worksheet is one example of how you can organize and record information on operating and maintenance criteria.</p>
-
-<p>You may want to consider developing additional operating and maintenance criteria to address other factors related to energy performance, such as controls needed to sustain past energy performance improvements, and the maintenance of non-SEU energy systems.</p>
-
-<p>Operational and maintenance controls may also be physical devices (e.g., a building automation system [BAS], occupancy sensors for lights, air compressor sequence controllers), as well as the use of certified or other specialty qualified personnel (e.g., licensed electrician, licensed boiler operator, licensed waste treatment operator).</p>
-
-<p>[Learn More](Evaluation of operating and maintenance criteria)</p>
-
-<p>To evaluate the operating and maintenance criteria you might need, bring together the appropriate personnel and information described above and discuss the following:</p>
+<p>Una variedad de fuentes puede ser &uacute;til para planificar criterios de operaci&oacute;n y mantenimiento para sus SEUs y otros procesos que pueden afectar el rendimiento energ&eacute;tico. Estas fuentes incluyen:</p>
 
 <ul>
-	<li>What operating and maintenance criteria have been established for the SEUs?</li>
-	<li>What controls are needed to operate and maintain SEUs within appropriate criteria?</li>
-	<li>What are the operating and maintenance criteria that would indicate a significant deviation?</li>
-	<li>Are operational and maintenance controls in place?</li>
-	<li>Are the operational and maintenance controls effective in maintaining performance with the identified criteria?</li>
-	<li>Are other controls needed to maintain the SEU within identified operating and maintenance criteria?</li>
-	<li>Are other controls needed to detect or avoid a significant deviation?</li>
+	<li>Recomendaci&oacute;n del fabricante</li>
+	<li>Personal que mide el desempe&ntilde;o</li>
+	<li>Requisitos m&iacute;nimos de proceso o sistema</li>
+	<li>Configuraciones de operaci&oacute;n sugeridas por el personal de servicio y periodos de mantenimiento</li>
+	<li>Control estad&iacute;stico del proceso</li>
+	<li>Comparaci&oacute;n de rendimiento de equipos similares.</li>
+	<li>Est&aacute;ndares de la industria</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>Use the optional Playbook worksheet to help determine the required criteria and controls.</p>
+<p>Tenga en cuenta que es probable que ya tenga algunos criterios de operaci&oacute;n y mantenimiento dentro de su organizaci&oacute;n, especialmente en relaci&oacute;n con la operaci&oacute;n eficiente del equipo. Parte del proceso para determinar los controles operativos y de mantenimiento es examinar lo que ya existe e incorporarlo a su EnMS en relaci&oacute;n con el rendimiento energ&eacute;tico. Deber&iacute;a hacer un balance de los recursos con los que ya cuenta y volver a analizar qu&eacute; m&aacute;s se necesita para controlar las operaciones y las actividades de mantenimiento de los procesos relacionados con los SEUs y los planes de acci&oacute;n. La hoja de trabajo opcional de Playbook es un ejemplo de la forma en que puede organizar y registrar informaci&oacute;n sobre los criterios de operaci&oacute;n y mantenimiento.</p>
 
-<p>Once the appropriate operating and maintenance criteria are determined, they become the targeted operating and maintenance state.</p>
+<p>Es posible que desee considerar el desarrollo de criterios adicionales de operaci&oacute;n y mantenimiento para abordar otros factores relacionados con el rendimiento energ&eacute;tico, como los controles necesarios para mantener las mejoras anteriores en el rendimiento energ&eacute;tico y el mantenimiento de sistemas de energ&iacute;a que no representan un SEU.</p>
+
+<p>Los controles operativos y de mantenimiento tambi&eacute;n pueden ser dispositivos f&iacute;sicos (por ejemplo, un sistema automatizado para edificios [BAS], sensores de ocupaci&oacute;n para la iluminaci&oacute;n, controles de secuencia para compresores de aire), adem&aacute;s del uso de personal certificado o especialmente calificado (por ejemplo, electricista con licencia, operador de boiler con licencia, operador de tratamiento de desechos con licencia).</p>
+
+<p>[Learn More](Evaluaci&oacute;n de criterios de operaci&oacute;n y mantenimiento)</p>
+
+<p>Para evaluar los criterios de operaci&oacute;n y mantenimiento que pueda necesitar, re&uacute;na al personal apropiado e integre la informaci&oacute;n descrita anteriormente para analizar lo siguiente:</p>
+
+<ul>
+	<li>&iquest;Qu&eacute; criterios de operaci&oacute;n y mantenimiento se han establecido para los SEUs?</li>
+	<li>&iquest;Qu&eacute; controles son necesarios para operar y mantener los SEUs dentro de los criterios apropiados?</li>
+	<li>&iquest;Cu&aacute;les son los criterios de operaci&oacute;n y mantenimiento que indicar&iacute;an una desviaci&oacute;n significativa?</li>
+	<li>&iquest;Existen controles operativos y de mantenimiento en su organizaci&oacute;n?</li>
+	<li>&iquest;Son efectivos los controles operativos y de mantenimiento para mantener el rendimiento conforme a los criterios identificados?</li>
+	<li>&iquest;Se necesitan otros controles para mantener el SEU dentro de los criterios de operaci&oacute;n y mantenimiento identificados?</li>
+	<li>&iquest;Se necesitan otros controles para detectar o evitar una desviaci&oacute;n significativa?</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Use la hoja de trabajo de Playbook opcional para ayudar a determinar los criterios y controles necesarios.</p>
+
+<p>Una vez que se determinan los criterios de operaci&oacute;n y mantenimiento apropiados, se convierten en el estado deseado de operaci&oacute;n y mantenimiento.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Ensure major equipment, systems, processes, and sites are operated and maintained in accordance with criteria)</p>
+<p>[Accordion](Aseg&uacute;rese de que los principales equipos, sistemas, procesos y sitios se operen y mantengan de acuerdo con los criterios)</p>
 
-<p>Once the appropriate operational and maintenance controls and criteria are determined, you must operate and maintain the sites, equipment, systems, or processes associated with your SEUs and action plans so they meet the criteria. If the criteria and controls are new or have changed, you will have to communicate this information to appropriate personnel. If the controls are not functioning or are bypassed, you will have to implement inspections to confirm that the operational and maintenance controls are being implemented or maintained and the criteria are being met.</p>
+<p>Una vez que se determinan los controles y criterios operativos y de mantenimiento apropiados, debe operar y mantener los sitios, equipos, sistemas o procesos relacionados con sus SEUs y planes de acci&oacute;n para que cumplan con los criterios. Si los criterios y controles son nuevos o han cambiado, tendr&aacute; que comunicar esta informaci&oacute;n al personal apropiado. Si los controles no funcionan o se omiten, deber&aacute; realizar inspecciones para confirmar que los controles operativos y de mantenimiento se est&aacute;n implementando o manteniendo y se cumplen los criterios.</p>
 
-<p>[Learn More](Example of not operating equipment in accordance with criteria)</p>
+<p>[Learn More](Ejemplo de no operaci&oacute;n del equipo de acuerdo con los criterios)</p>
 
-<p>An example is the disabling of the speed control of a fan&rsquo;s variable frequency drive (VFD), which would cause the fan to operate at full speed constantly. The VFD would not be able to reduce the fan motor speed during periods when the fan is lightly loaded, and consequently the VFD would not achieve the expected energy performance improvement.</p>
-
-<p>[Learn More End]</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Communicate controls to personnel)</p>
-
-<p>For the sites, equipment, systems, and processes associated with your SEUs and action plans to be operated and maintained using the established controls, you must ensure they are communicated to the appropriate personnel. This includes on-site contractors or suppliers performing work associated with SEUs and action plans. Robust communication processes ensure that expectations with regard to performing and following the controls are known and understood by the appropriate personnel. You can provide the controls and criteria information through training, documentation, or other communication processes as appropriate, such as:</p>
-
-<ul>
-	<li>Shift or toolbox meetings</li>
-	<li>Demonstrations</li>
-	<li>E-mails</li>
-	<li>Staff meetings</li>
-	<li>Equipment markings</li>
-	<li>Supplier meetings</li>
-	<li>Contractor briefings</li>
-</ul>
-
-<p>For complicated processes, you may need to provide training supported by appropriate documentation. Personnel who are new to the organization, or personnel for processes that require a licensed operator or maintenance technician, should be included in such training. Training may also be a convenient form of informing large numbers of personnel about operation or maintenance activities. Training can involve:</p>
-
-<ul>
-	<li>On-the-job training</li>
-	<li>Shift training</li>
-	<li>Classroom training</li>
-	<li>Supplier training</li>
-	<li>Peer mentoring</li>
-	<li>On-line training</li>
-	<li>Training from certified bodies</li>
-	<li>Technical training</li>
-</ul>
-
-<p>[Learn More](Operational and maintenance control documented information)</p>
-
-<p>Your organization must retain documented information (i.e., records) (see Task 16 [task](Documenting the EnMS)) on operational and maintenance controls to the extent necessary to have confidence that the processes are operating properly and in accordance with the relevant criteria. These records could include, for example, completed log sheets, logbooks or checklists; data from automated control systems; testing or other types of reports; work orders; data analyses.</p>
-
-<p>Maintaining documented operational and maintenance controls (i.e., documents) is not an explicit ISO 50001 requirement, but it is a best practice. These documents can be an effective medium for communicating to or reminding appropriate personnel. You can update documents as required to ensure the information is relevant and accurate. Documents could include:</p>
-
-<ul>
-	<li>Work instructions</li>
-	<li>Equipment logbooks (blank)</li>
-	<li>Equipment operating procedures</li>
-	<li>Contractor/supplier handbooks</li>
-	<li>Instruction sheets</li>
-	<li>Checklists (blank)</li>
-	<li>Work area postings</li>
-	<li>Brochures</li>
-</ul>
+<p>Un ejemplo es la desactivaci&oacute;n del control de velocidad del variador de frecuencia (VFD) de un ventilador, lo que har&iacute;a que el ventilador funcionara a toda velocidad constantemente. El VFD no podr&iacute;a reducir la velocidad del motor del ventilador durante los per&iacute;odos en que el ventilador est&aacute; ligeramente cargado y, en consecuencia, el VFD no lograr&iacute;a la mejora esperada del rendimiento energ&eacute;tico.</p>
 
 <p>[Learn More End]</p>
 
-<p>Use the method(s) of communication most effective for your organization. What is important is that the operating and maintenance criteria are clear and accurate, and that you make appropriate employees and contractors aware of them.</p>
-
 <p>[Accordion End]</p>
 
-<p>[Accordion](Control planned changes and review unintended changes)</p>
+<p>[Accordion](Comunicar informaci&oacute;n sobre los controles al personal)</p>
 
-<p>To maintain ongoing efficient operation of processes associated with your SEUs and action plans, it is critical that operational and maintenance controls are not unintentionally modified, bypassed, or otherwise disrupted when changes are made that impact those processes. Such changes could be planned or unplanned.</p>
-
-<p>Identifying the potential and actual impacts of planned changes on your SEUs and action plans, and addressing them as appropriate, can be incorporated into your organization&rsquo;s change management process. In this way, the planned changes are controlled and undesired effects on the processes, and the operational and maintenance controls that support them, are avoided.</p>
-
-<p>When operational and maintenance controls are unintentionally affected by unplanned changes, you must review the consequences of those changes and take action to address any negative effects. This helps ensure that the processes associated with SEUs and action plans continue to operate as intended.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Control outsourced processes related to SEUs)</p>
-
-<p>Outsourcing is an arrangement where an external organization performs part of an organization&rsquo;s function or process. Although the external organization is outside the scope of the EnMS, the outsourced process or function is within the EnMS scope.</p>
-
-<p>SEUs or processes related to SEUs that are outsourced must be controlled. The extent of control will vary, depending on the specifics of the SEU and the related processes. For example, an outsourced process that is actually conducted onsite at your organization could be more directly under your control than an outsourced process that is not.</p>
-
-<p>Common forms of control for outsourced processes can include specific contract provisions or requirements for the following:</p>
+<p>Para los sitios, equipos, sistemas y procesos relacionados con sus SEUs y planes de acci&oacute;n para ser operados y mantenidos utilizando los controles establecidos, debe asegurarse de que se comuniquen al personal apropiado. Esto incluye contratistas en el sitio o proveedores que realizan trabajos relacionados con los SEUs y planes de acci&oacute;n. Procesos robustos de comunicaci&oacute;n aseguran que las expectativas con respecto al desempe&ntilde;o y seguimiento de los controles sean conocidas y entendidas por el personal apropiado. Puede proporcionar los controles e informaci&oacute;n de criterios a trav&eacute;s de capacitaci&oacute;n, documentaci&oacute;n u otros procesos de comunicaci&oacute;n seg&uacute;n corresponda, como:</p>
 
 <ul>
-	<li>Second-party audits or inspections</li>
-	<li>Qualifications or competencies</li>
-	<li>Operational controls, including technologies</li>
-	<li>Monitoring and measurement</li>
-	<li>Tests or analyses</li>
-	<li>Records to be available</li>
+	<li>Reuniones por turno o discusiones informales</li>
+	<li>Demostraciones</li>
+	<li>Correos electr&oacute;nicos</li>
+	<li>Reuniones de personal</li>
+	<li>Marcas de equipos</li>
+	<li>Reuniones de proveedores</li>
+	<li>Sesiones informativas para el contratista.</li>
+</ul>
+
+<p>Para procesos complicados, es posible que deba proporcionar capacitaci&oacute;n respaldada por documentaci&oacute;n adecuada. El personal que es nuevo en la organizaci&oacute;n, o el personal para los procesos que requieren un operador con licencia o un t&eacute;cnico de mantenimiento, debe incluirse en dicha capacitaci&oacute;n. La capacitaci&oacute;n tambi&eacute;n puede ser una forma conveniente de informar a un gran n&uacute;mero de personal sobre las actividades de operaci&oacute;n o mantenimiento. La capacitaci&oacute;n puede involucrar:</p>
+
+<ul>
+	<li>Capacitaci&oacute;n en el trabajo</li>
+	<li>Capacitaci&oacute;n por turnos</li>
+	<li>Capacitaci&oacute;n en el aula</li>
+	<li>Capacitaci&oacute;n de proveedores</li>
+	<li>Mentor&iacute;a de compa&ntilde;eros de trabajo</li>
+	<li>Capacitaci&oacute;n en l&iacute;nea</li>
+	<li>Capacitaci&oacute;n impartida por organismos certificados.</li>
+	<li>Capacitaci&oacute;n t&eacute;cnica</li>
+</ul>
+
+<p>[Learn More](Informaci&oacute;n documentada de control operativo y mantenimiento)</p>
+
+<p>Su organizaci&oacute;n debe conservar informaci&oacute;n documentada (es decir, registros) (consulte la Tarea 16 [tarea] (Documentar el EnMS)) sobre los controles operativos y de mantenimiento en la medida necesaria para tener la confianza de que los procesos est&aacute;n funcionando correctamente y de acuerdo con los criterios relevantes. Estos registros podr&iacute;an incluir, por ejemplo, hojas de registro, libros de registro o listas de verificaci&oacute;n completados; datos de sistemas de control automatizados; pruebas u otros tipos de informes; &oacute;rdenes de trabajo; an&aacute;lisis de datos.</p>
+
+<p>Mantener controles operativos y de mantenimiento documentados (es decir, documentos) no es un requisito expl&iacute;cito de ISO 50001, pero es una mejor pr&aacute;ctica. Estos documentos pueden ser un medio efectivo para comunicarse o recordar informaci&oacute;n al personal apropiado. Puede actualizar los documentos seg&uacute;n sea necesario para asegurar que la informaci&oacute;n sea relevante y precisa. Los documentos pueden incluir:</p>
+
+<ul>
+	<li>Instrucciones de trabajo</li>
+	<li>Cuadernos de bit&aacute;cora del equipo (en blanco)</li>
+	<li>Procedimientos operativos del equipo.</li>
+	<li>Manuales del contratista / proveedor</li>
+	<li>Hojas de instrucciones</li>
+	<li>Listas de verificaci&oacute;n (en blanco)</li>
+	<li>Anuncios colocados en el &aacute;rea de trabajo</li>
+	<li>Folletos</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>Use los m&eacute;todos de comunicaci&oacute;n m&aacute;s efectivos para su organizaci&oacute;n. Lo importante es que los criterios de operaci&oacute;n y mantenimiento sean claros y precisos, y que haga que los empleados y contratistas apropiados los conozcan.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Controle los cambios planificados y revise los cambios no deseados)</p>
+
+<p>Para mantener una operaci&oacute;n eficiente y continua de los procesos relacionados con sus SEUs y planes de acci&oacute;n, es fundamental que los controles operativos y de mantenimiento no se modifiquen, omitan o interrumpan involuntariamente cuando se realizan cambios que afectan esos procesos. Dichos cambios podr&iacute;an ser planificados o no planificados.</p>
+
+<p>Identificar los impactos potenciales y reales de los cambios planificados en sus SEUs y planes de acci&oacute;n, y atenderlos seg&uacute;n corresponda, puede incorporarse al proceso de gesti&oacute;n de cambios de su organizaci&oacute;n. De esta manera, los cambios planificados son controlados y tambi&eacute;n se evitan los efectos no deseados en los procesos -y los controles operativos y de mantenimiento que los respaldan.</p>
+
+<p>Cuando los controles operativos y de mantenimiento se ven afectados involuntariamente por cambios no planificados, debe revisar las consecuencias de esos cambios y tomar medidas para atender cualquier efecto negativo. Esto ayuda a garantizar que los procesos relacionados con los SEUs y los planes de acci&oacute;n contin&uacute;en funcionando seg&uacute;n lo previsto.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Control de procesos subcontratados relacionados con los SEUs)</p>
+
+<p>La subcontrataci&oacute;n es un acuerdo en el que una organizaci&oacute;n externa realiza parte de la funci&oacute;n o proceso de una organizaci&oacute;n. Aunque la organizaci&oacute;n externa est&aacute; fuera del alcance de EnMS, el proceso o la funci&oacute;n subcontratada est&aacute; dentro del alcance de EnMS.</p>
+
+<p>Los SEUs o procesos relacionados con los SEUs que se subcontratan deben controlarse. El alcance del control variar&aacute;, dependiendo de los detalles del SEU y los procesos relacionados. Por ejemplo, un proceso subcontratado que se realiza en el sitio en su organizaci&oacute;n podr&iacute;a estar m&aacute;s directamente bajo su control que un proceso subcontratado que no lo est&aacute;.</p>
+
+<p>Las formas comunes de control para los procesos subcontratados pueden incluir disposiciones contractuales espec&iacute;ficas o requerimientos para las siguientes actividades:</p>
+
+<ul>
+	<li>Auditor&iacute;as o inspecciones realizadas por terceros.</li>
+	<li>Calificaciones o competencias</li>
+	<li>Controles operativos, incluidas las tecnolog&iacute;as.</li>
+	<li>Monitoreo y medici&oacute;n.</li>
+	<li>Pruebas o an&aacute;lisis.</li>
+	<li>Registros disponibles.</li>
 </ul>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>ISO 14001:2015 and ISO 9001:2015 also have requirements for operational planning and control, although they may not be focused on specific energy uses. In implementing operational and maintenance controls for SEUs and action plans in ISO 50001:2018, it is not unusual for the organization to find that some of the operational controls already in place for an environmental or quality management system are relevant to the SEUs or processes related to action plans. It may be appropriate to leverage those existing controls, particularly if the controls are based on procedures, work instructions, and other documented information that must be followed in operating a specific process.</p>
+<p>Las normas ISO 14001: 2015 e ISO 9001: 2015 tambi&eacute;n tienen requisitos para la planificaci&oacute;n y el control operativo, aunque pueden no estar enfocados en usos espec&iacute;ficos de energ&iacute;a. Al implementar controles operativos y de mantenimiento para los SEUs y planes de acci&oacute;n en ISO 50001: 2018, no es inusual que la organizaci&oacute;n descubra que algunos de los controles operativos ya establecidos para un sistema de gesti&oacute;n ambiental o de calidad son relevantes para los SEUs o procesos relacionados a los planes de acci&oacute;n. Puede ser apropiado aprovechar esos controles existentes, particularmente si los controles se basan en procedimientos, instrucciones de trabajo y otra informaci&oacute;n documentada que debe seguirse al operar un proceso espec&iacute;fico.</p>
 
-<p>Organizations with ISO 14001:2015 and/or ISO 9001:2015 systems already have processes in place for internal and external communication, including the communication of relevant requirements to internal personnel and external providers. These same communication processes can be used to communicate operational controls to relevant internal and external personnel under ISO 50001:2018.</p>
+<p>Las organizaciones con sistemas ISO 14001: 2015 y / o ISO 9001: 2015 ya cuentan con procesos internos y externos de comunicaci&oacute;n, incluida la comunicaci&oacute;n de los requisitos relevantes para el personal interno y los proveedores externos. Estos mismos procesos de comunicaci&oacute;n se pueden usar para comunicar controles operativos al personal interno y externo relevante bajo ISO 50001: 2018.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>This guidance is relevant to steps 3.1, 3.3, 4.1, 4.2, and 5.3 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management.</em> In your EnMS program, operations and maintenance activities are identified and planned for your SEUs. This ensures that those operations and activities are carried out consistently. It is likely that your organization already has operational and maintenance controls in place that can meet these ISO 50001 requirements.</p>
+<p>Esta gu&iacute;a es relevante para los pasos 3.1, 3.3, 4.1, 4.2 y 5.3 de las <em>Gu&iacute;as para la Gesti&oacute;n de Energ&iacute;a</em> ENERGY STAR&reg;. En su programa EnMS, las actividades de operaci&oacute;n y mantenimiento se identifican y planifican para sus SEUs. Esto asegura que esas operaciones y actividades se realicen de manera consistente. Es probable que su organizaci&oacute;n ya tenga controles operativos y de mantenimiento establecidos que puedan cumplir con estos requisitos de ISO 50001.</p>
 
-<p>In addition, when implementing your EnMS, the operational and maintenance controls in place for your significant energy uses need to be communicated to employees and contractors who perform work related to those significant energy uses. You can leverage your existing training and communication processes for this purpose.</p>
+<p>Adem&aacute;s, al implementar su EnMS, los controles operativos y de mantenimiento establecidos para sus usos significativos de energ&iacute;a deben comunicarse a los empleados y contratistas que realizan trabajos relacionados con esos usos significativos de energ&iacute;a. Puede aprovechar sus procesos de capacitaci&oacute;n y comunicaci&oacute;n existentes para este prop&oacute;sito.</p>
 
-<p>Step 4.2 briefly discusses outsourcing parts of action plans and the need to determine which standards will be used to evaluate bids and incorporate metrics into contracts.</p>
+<p>El Paso 4.2 discute brevemente las partes de la subcontrataci&oacute;n de los planes de acci&oacute;n y la necesidad de determinar qu&eacute; est&aacute;ndares se utilizar&aacute;n para evaluar las propuestas de potenciales subcontratistas e incorporar m&eacute;tricas en los contratos.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

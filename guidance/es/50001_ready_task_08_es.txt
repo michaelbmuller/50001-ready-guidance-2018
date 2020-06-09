@@ -7,317 +7,308 @@ Recolección y Análisis de Datos de Energía
 Tarea 8: Identificamos nuestras fuentes de energía y usos de energía, tenemos un plan de recolección de datos y obtenemos datos variables relevantes relacionados con energía. Aseguramos la precisión y la repetitividad de las mediciones. Analizamos nuestros datos de consumo y consumo de energía.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Identify all energy sources that are consumed within the scope and boundaries.</li>
-	<li>Make a list of energy uses within the scope and boundaries.</li>
-	<li>Identify relevant variables that potentially affect the energy consumption of significant energy uses (SEUs), and would help create meaningful energy performance indicators (EnPIs) and energy baselines (EnBs). If seeking U.S. DOE 50001 Ready recognition identify relevant variables that potentially affect the energy consumption of the scope and boundaries of your 50001 Ready EnMS.</li>
-	<li>Develop and implement a data collection plan based upon the data needs, including the key characteristics of ISO 50001.</li>
-	<li>Ensure measurements and metering are conducted accurately and are repeatable</li>
-	<li>Determine appropriate analysis methods, and use them to understand and monitor energy use and energy consumption.</li>
+	<li>Identifique todas las fuentes de energ&iacute;a que se consumen dentro del alcance y los l&iacute;mites de su organizaci&oacute;n.</li>
+	<li>Haga una lista de usos de energ&iacute;a dentro del alcance y los l&iacute;mites.</li>
+	<li>Identifique las variables relevantes que potencialmente afectan el consumo de energ&iacute;a de los usos significativos de energ&iacute;a (SEU), y que ayudar&iacute;an a crear indicadores significativos de rendimiento energ&eacute;tico (EnPI) y l&iacute;neas de base de energ&iacute;a (EnB). Si busca el reconocimiento del Departamento de Energ&iacute;a de EUA (DOE) 50001 Ready, identifique las variables relevantes que potencialmente afectan el consumo de energ&iacute;a del alcance y los l&iacute;mites de su 50001 Ready EnMS.</li>
+	<li>Desarrolle e implemente un plan de recopilaci&oacute;n de datos basado en las necesidades de datos, incluidas las caracter&iacute;sticas clave de ISO 50001.</li>
+	<li>Aseg&uacute;rese de que las medidas que se usen y la medici&oacute;n se realicen con precisi&oacute;n y sean repetibles</li>
+	<li>Determine los m&eacute;todos de an&aacute;lisis apropiados y &uacute;selos para entender y monitorear el uso y el consumo de energ&iacute;a.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>The first step in the data collection process is to identify the energy sources used by your organization within the scope and boundaries of the energy management system (EnMS). To ensure that all energy sources are identified, this effort should include identification of the sites, equipment, systems, and processes associated with each energy source. Understanding the sources of energy used and how they are used sets the stage for determining, collecting, and analyzing the data needed to evaluate your organization&rsquo;s energy performance, and that will be useful when selecting significant energy uses in Task 9 [task](Significant Energy Uses).</p>
+<p>El primer paso en el proceso de recopilaci&oacute;n de datos es identificar las fuentes de energ&iacute;a utilizadas por su organizaci&oacute;n dentro del alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (EnMS). Para garantizar que se identifiquen todas las fuentes de energ&iacute;a, este esfuerzo debe incluir la identificaci&oacute;n de los sitios, equipos, sistemas y procesos asociados con cada fuente de energ&iacute;a. Comprender las fuentes de energ&iacute;a utilizadas y c&oacute;mo se utilizan establece el escenario para determinar, recopilar y analizar los datos necesarios para evaluar el rendimiento energ&eacute;tico de su organizaci&oacute;n, y eso ser&aacute; &uacute;til al seleccionar usos significativos de energ&iacute;a en la Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a).</p>
 
-<p>The next step in the data collection process is to identify your organization&rsquo;s data needs. ISO 50001 requires that certain data are included in the energy review, including: energy sources, analysis of past and present energy use and energy consumption, relevant variables, estimates of future energy use and consumption, and data detailing energy uses that have substantial levels of energy consumption. These data will be critical to selecting energy performance indicators (EnPIs), establishing baselines, and setting objectives and energy targets (Task 11 [task](Energy Performance Indicators and Baselines) and Task 12 [task](Objectives and Targets)).</p>
+<p>El siguiente paso en el proceso de recopilaci&oacute;n de datos es identificar las necesidades de datos de su organizaci&oacute;n. ISO 50001 requiere que se incluyan ciertos datos en la revisi&oacute;n energ&eacute;tica, que incluyen: fuentes de energ&iacute;a, an&aacute;lisis del uso y consumo de energ&iacute;a pasado y presente, variables relevantes, estimaciones del uso y consumo de energ&iacute;a en el futuro, y datos que detallan los usos de energ&iacute;a que tienen niveles sustanciales de consumo de energ&iacute;a. Estos datos ser&aacute;n cr&iacute;ticos para seleccionar indicadores de rendimiento energ&eacute;tico (EnPI), establecer l&iacute;neas de base y establecer objetivos y metas de energ&iacute;a (Tarea 11 [tarea] (Indicadores de Rendimiento Energ&eacute;tico y L&iacute;neas de Base) y Tarea 12 [tarea] (Objetivos y Metas)).</p>
 
-<p>Once your data needs have been defined, establish a data collection plan that details a process to ensure regular data collection and ensure the collected data are accurate and repeatable. Energy bills are one ready data source, but other data will be required to determine energy performance. Based on your identified energy data needs, your organization must develop a data collection process that includes assignment of responsibilities for data collection and handling (see Task 6 [task](Energy Team and Resources)).</p>
+<p>Una vez que se hayan definido sus necesidades de datos, establezca un plan de recopilaci&oacute;n de datos que detalle un proceso para garantizar una recopilaci&oacute;n regular de datos y que garantice que los datos recopilados sean precisos y repetibles. Las facturas de energ&iacute;a son una fuente disponible de datos, pero se necesitar&aacute;n otros datos para determinar el rendimiento energ&eacute;tico. Seg&uacute;n las necesidades identificadas de datos energ&eacute;ticos, su organizaci&oacute;n debe desarrollar un proceso de recopilaci&oacute;n de datos que incluya la asignaci&oacute;n de responsabilidades para la recopilaci&oacute;n y el manejo de datos (consulte la Tarea 6 [tarea] (Equipo y Recursos de Energ&iacute;a)).</p>
 
-<p>A 50001 Ready EnMS is data-driven and focused on measurable energy performance improvement. Analysis of energy use and energy consumption are critical not only to the energy planning processes of the EnMS, but also to measure the overall effectiveness of your EnMS. To analyze energy use and consumption data, you must identify or develop methods that are effective and suit your organization&rsquo;s needs.</p>
+<p>Un 50001 Ready EnMS se basa en datos y se enfoca en la mejora medible del rendimiento energ&eacute;tico. El an&aacute;lisis del uso y el consumo de energ&iacute;a es fundamental no s&oacute;lo para los procesos de planificaci&oacute;n energ&eacute;tica del EnMS, sino tambi&eacute;n para medir la efectividad general de su EnMS. Para analizar los datos de uso y consumo de energ&iacute;a, debe identificar o desarrollar m&eacute;todos que sean efectivos y se adapten a las necesidades de su organizaci&oacute;n.</p>
 
-<p><em>This guidance is relevant to sections 6.3, 6.6, and 9.1.1 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para las secciones 6.3, 6.6 y 9.1.1 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Identify current energy sources)</p>
+<p>[Accordion](Identifique las fuentes de energ&iacute;a actuales)</p>
 
-<p>The first step in completing this task is to identify and document your organization&rsquo;s current energy sources. Energy sources (called &ldquo;energy types&rdquo; in ISO 50001:2018) are the forms of energy that are consumed by your organization.</p>
+<p>El primer paso para completar esta tarea es identificar y documentar las fuentes de energ&iacute;a actuales de su organizaci&oacute;n. Las fuentes de energ&iacute;a (llamadas &quot;tipos de energ&iacute;a&quot; en ISO 50001: 2018) son las formas de energ&iacute;a que consume su organizaci&oacute;n.</p>
 
-<p>[Learn More](Examples of energy sources)</p>
+<p>[Learn More](Ejemplos de fuentes de energ&iacute;a)</p>
 
-<p>Some examples of energy sources include:</p>
+<p>Algunos ejemplos de fuentes de energ&iacute;a incluyen:</p>
 
 <ul>
-	<li>Electricity</li>
-	<li>Natural gas</li>
-	<li>Fuel oil</li>
+	<li>Electricidad</li>
+	<li>Gas natural</li>
+	<li>Gasolina</li>
 	<li>Diesel</li>
-	<li>Gasoline</li>
-	<li>Propane</li>
-	<li>Coal</li>
-	<li>Wind-based electricity</li>
-	<li>Geothermal</li>
-	<li>Biomass</li>
-	<li>Steam</li>
-	<li>Compressed air</li>
-	<li>Chilled water</li>
+	<li>Gasolina</li>
+	<li>Gas Propano</li>
+	<li>Carb&oacute;n</li>
+	<li>Electricidad e&oacute;lica</li>
+	<li>Geot&eacute;rmica</li>
+	<li>Biomasa</li>
+	<li>Steam- vapor</li>
+	<li>Aire comprimido</li>
+	<li>Agua fr&iacute;a</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>To help identify all energy sources consumed within the defined boundaries you will want to identify associated sites, equipment, systems, and processes. Use one or more of the following to help identify energy-using sites, equipment, systems, and processes, and to account for all energy sources:</p>
+<p>Para ayudar a identificar todas las fuentes de energ&iacute;a consumidas dentro de los l&iacute;mites definidos, querr&aacute; identificar los sitios, equipos, sistemas y procesos correspondientes. Use uno o m&aacute;s de los siguientes recursos para ayudar a identificar sitios, equipos, sistemas y procesos que usan energ&iacute;a, y para tener en cuenta todas las fuentes de energ&iacute;a:</p>
 
 <ul>
-	<li>Floor plans</li>
-	<li>Process flow charts</li>
-	<li>Site plan with equipment locations</li>
-	<li>Building schematics</li>
-	<li>Wiring diagrams</li>
-	<li>Utility diagrams</li>
-	<li>Equipment lists</li>
+	<li>Planos de planta</li>
+	<li>Diagramas de flujo del proceso</li>
+	<li>Plan de sitio con ubicaciones de equipos</li>
+	<li>Esquemas de construcci&oacute;n</li>
+	<li>Diagramas de cableado</li>
+	<li>Diagramas de compa&ntilde;&iacute;as de electricidad</li>
+	<li>Listas de equipos</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Identify energy uses)</p>
+<p>[Accordion](Identificar usos de energ&iacute;a)</p>
 
-<p>In ISO 50001 terminology, energy use is not the same as energy consumption. <em>Energy use</em> is defined as an &ldquo;application of energy.&rdquo; Examples include ventilation, heating, cooling, lighting, and transportation. Energy uses are associated with the sites, equipment, systems, and processes that consume energy.</p>
+<p>En la terminolog&iacute;a ISO 50001, el uso de energ&iacute;a no es lo mismo que el consumo de energ&iacute;a. El uso de energ&iacute;a se define como una &quot;aplicaci&oacute;n de energ&iacute;a&quot;. Los ejemplos incluyen ventilaci&oacute;n, calefacci&oacute;n, refrigeraci&oacute;n, iluminaci&oacute;n y transporte. Los usos de la energ&iacute;a est&aacute;n asociados con los sitios, equipos, sistemas y procesos que consumen energ&iacute;a.</p>
 
-<p>[Learn More](Examples of energy uses)</p>
+<p>[Learn More](Ejemplos de usos de energ&iacute;a)</p>
 
-<p>Some examples of these energy uses are:</p>
+<p>Algunos ejemplos de estos usos energ&eacute;ticos son:</p>
 
 <ul>
-	<li>Indoor lighting</li>
-	<li>Outdoor lighting</li>
-	<li>Space heating</li>
-	<li>Space cooling/air conditioning</li>
-	<li>Commercial/industrial hot water or steam boilers</li>
-	<li>Domestic type hot water heaters</li>
-	<li>Office equipment</li>
-	<li>Maintenance building</li>
-	<li>Boiler house</li>
-	<li>Main production building</li>
-	<li>Accounting office</li>
-	<li>Air compressors</li>
-	<li>Pumps</li>
-	<li>Ovens or process heating</li>
-	<li>Refrigeration systems</li>
-	<li>Conveyors/conveying systems</li>
-	<li>Fans and ventilation (not associated with space heating/cooling)</li>
-	<li>Cooling towers</li>
-	<li>Motors</li>
-	<li>Water chillers</li>
-	<li>Paint line</li>
-	<li>Assembly</li>
-	<li>Purchasing</li>
-	<li>Information technology</li>
+	<li>Iluminaci&oacute;n interior</li>
+	<li>Iluminaci&oacute;n exterior</li>
+	<li>Calefacci&oacute;n de espacios</li>
+	<li>Enfriamiento del espacio / aire acondicionado</li>
+	<li>Calderas comerciales / industriales de agua caliente o vapor.</li>
+	<li>Calentadores de agua de tipo dom&eacute;stico.</li>
+	<li>Equipo de oficina</li>
+	<li>Edificio de mantenimiento</li>
+	<li>Sala de calderas</li>
+	<li>Edificio de producci&oacute;n principal</li>
+	<li>Oficina de Contabilidad</li>
+	<li>Compresores de aire</li>
+	<li>Bombas</li>
+	<li>Hornos o procesos de calentamiento.</li>
+	<li>Sistemas de refrigeraci&oacute;n</li>
+	<li>Transportadores / sistemas de transporte</li>
+	<li>Ventiladores y ventilaci&oacute;n (no asociados con calefacci&oacute;n / refrigeraci&oacute;n de espacios)</li>
+	<li>Torres de enfriamiento</li>
+	<li>Motores</li>
+	<li>Enfriadores de agua</li>
+	<li>L&iacute;nea de pintura</li>
+	<li>Ensamblaje</li>
+	<li>Compras</li>
+	<li>Tecnolog&iacute;as de la informaci&oacute;n</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>Energy uses can be identified in any way that suits your organization. Earlier in this task you associated energy sources with their appropriate sites, equipment, systems, and processes to ensure all relevant sources were identified. Organize equipment, systems, and processes into logical groupings or categories (i.e., uses) that would best allow you to evaluate and improve energy performance.</p>
+<p>Los usos de la energ&iacute;a se pueden identificar de cualquier manera que se adapte a su organizaci&oacute;n. Anteriormente en esta tarea, usted asoci&oacute; las fuentes de energ&iacute;a con sus sitios, equipos, sistemas y procesos apropiados para garantizar que se identificaran todas las fuentes relevantes. Organice los equipos, los sistemas y los procesos en grupos o categor&iacute;as l&oacute;gicas (es decir, usos) que le permitan evaluar y mejorar el rendimiento energ&eacute;tico.</p>
 
-<p>[Learn More](Categories of energy use)</p>
+<p>[Learn More](Categor&iacute;as de uso de energ&iacute;a)</p>
 
-<p>Sometimes it is helpful to categorize energy uses. Some potential categories to consider (with examples in parentheses) are:</p>
+<p>A veces es &uacute;til clasificar los usos de la energ&iacute;a. Algunas categor&iacute;as potenciales a considerar (con ejemplos entre par&eacute;ntesis) son:</p>
 
 <ul>
-	<li>Processes (all the equipment associated with a printing process or a drying process)</li>
-	<li>Similar equipment (all air conditioners or all compressors)</li>
-	<li>Departments (computer lab or painting department)</li>
-	<li>Systems (lighting or compressed air)</li>
-	<li>Utility distribution (panel A or all 50 amp circuit breakers)</li>
-	<li>Specific equipment (a specific mainframe computer or boiler)</li>
-	<li>Sites (administration building or production shop)</li>
+	<li>Procesos (todo el equipo asociado con un proceso de impresi&oacute;n o un proceso de secado)</li>
+	<li>Equipos similares (todos los aires acondicionados o todos los compresores)</li>
+	<li>Departamentos (laboratorio de computaci&oacute;n o departamento de pintura)</li>
+	<li>Sistemas (iluminaci&oacute;n o aire comprimido)</li>
+	<li>Distribuci&oacute;n de servicios p&uacute;blicos (panel A o todos los interruptores de 50 amperios)</li>
+	<li>Equipo espec&iacute;fico (una computadora central o caldera espec&iacute;fica)</li>
+	<li>Sitios (edificio administrativo o taller de producci&oacute;n)</li>
 </ul>
 
-<p>Energy uses do not have to be collected into one specific category; a combination of different categories can be used. An example is that the computer lab, the printing process, the boiler, and the electricity used by the remainder of the site could each be identified as separate energy uses.</p>
+<p>Los usos de la energ&iacute;a no tienen que agruparse en una categor&iacute;a espec&iacute;fica; Se puede utilizar una combinaci&oacute;n de diferentes categor&iacute;as. Un ejemplo es que el laboratorio de computaci&oacute;n, el proceso de impresi&oacute;n, la caldera y la electricidad utilizada por el resto del sitio podr&iacute;an identificarse como usos de energ&iacute;a separados.</p>
 
 <p>[Learn More End]</p>
 
-<p>It is recommended that you make a list of energy uses identified in this task. This list can be used to review energy uses and ensure you are monitoring them appropriately. Additionally, as part of Task 9 [task](Significant Energy Uses) you will select individual energy uses to focus your energy performance improvement activities. Making a list now of identified energy uses will aid in the SEU selection process later.</p>
+<p>Se recomienda que haga una lista de los usos energ&eacute;ticos identificados en esta tarea. Esta lista se puede usar para revisar los usos de la energ&iacute;a y asegurarse de que los est&eacute; monitoreando adecuadamente. Adem&aacute;s, como parte de la Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a), seleccionar&aacute; los usos individuales de energ&iacute;a para enfocar sus actividades de mejora del rendimiento energ&eacute;tico. Hacer una lista ahora de los usos de energ&iacute;a identificados ayudar&aacute; en el proceso de selecci&oacute;n de SEU m&aacute;s adelante.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Identify relevant variables)</p>
+<p>[Accordion](Identificar variables relevantes)</p>
 
-<p>Relevant variables are quantifiable factors that routinely change and have a major impact on energy performance, including the operational performance. As part of ISO 50001:2018, energy consumption values for EnPIs, EnBs, and SEUs may need to be &ldquo;normalized&rdquo; for relevant variables. Consider potential EnPIs and SEUs and what factors might be relevant variables if the organization determines that the relevant variables significantly affect energy consumption. For commercial or institutional sites, occupancy and weather can often be variables affecting consumption. For industrial sites, production level is generally an additional variable that affects energy consumption. In addition to weather, occupancy, and production, consider the following: operating schedule, product mix, input materials, and season. Understanding the relationship between relevant variables and energy consumption is important in formulating how energy can be controlled and energy performance maximized.</p>
+<p>Las variables relevantes son factores cuantificables que cambian rutinariamente y tienen un impacto importante en el rendimiento energ&eacute;tico, incluido el rendimiento operativo. Como parte de ISO 50001: 2018, los valores de consumo de energ&iacute;a para EnPIs, EnBs y SEUs pueden necesitar ser &quot;normalizados&quot; para las variables relevantes. Considere los posibles EnPIs y SEUs y qu&eacute; factores podr&iacute;an ser variables relevantes si la organizaci&oacute;n determina que las variables relevantes afectan significativamente el consumo de energ&iacute;a. Para sitios comerciales o institucionales, la ocupaci&oacute;n y el clima a menudo pueden ser variables que afectan el consumo. Para los sitios industriales, el nivel de producci&oacute;n es generalmente una variable adicional que afecta el consumo de energ&iacute;a. Adem&aacute;s del clima, la ocupaci&oacute;n y la producci&oacute;n, considere lo siguiente: cronograma operativo, mezcla de productos, materiales de insumos y temporada del a&ntilde;o. Comprender la relaci&oacute;n entre las variables relevantes y el consumo de energ&iacute;a es importante para formular c&oacute;mo se puede controlar la energ&iacute;a y maximizar el rendimiento energ&eacute;tico.</p>
 
-<p>An easy way to verify the impact of specific variables is to collect relevant energy data and compare it to appropriate variable data to determine the relationship, if any, of the change in energy consumption coinciding with the change in the variable. One way to define the relationship is to graph the energy data over a defined time period and compare it to a graph of the variable data, such as average daily temperature, over the same period and determine if there are coincidental variations. Consistent variations between the two could indicate a valid relevant variable. Anomalies between the two may indicate other relevant variables that are also a factor. Statistical techniques or more sophisticated engineering calculations may be required for analysis of multiple variables.</p>
+<p>Una manera f&aacute;cil de verificar el impacto de variables espec&iacute;ficas es recolectar datos de energ&iacute;a relevantes y compararlos con datos de variables apropiadas para determinar la relaci&oacute;n, si la hay, del cambio en el consumo de energ&iacute;a que coincide con el cambio en la variable. Una forma de definir la relaci&oacute;n es representar gr&aacute;ficamente los datos de energ&iacute;a durante un per&iacute;odo de tiempo definido y compararlos con un gr&aacute;fico de datos variables, como la temperatura diaria promedio, durante el mismo per&iacute;odo y determinar si hay una correlaci&oacute;n entre las variaciones. Las variaciones consistentes entre los dos podr&iacute;an indicar una variable relevante v&aacute;lida. Las anomal&iacute;as entre los dos pueden indicar otras variables relevantes que tambi&eacute;n son un factor. Es posible que se requieran t&eacute;cnicas estad&iacute;sticas o c&aacute;lculos de ingenier&iacute;a m&aacute;s sofisticados para el an&aacute;lisis de m&uacute;ltiples variables.</p>
 
-<p>The EnPI Lite software can help you determine if variables significantly affect energy consumption per the 50001 Ready Measurement and Verification Protocol. This free online tool can also be used to determine energy performance improvement.</p>
+<p>El software EnPI Lite puede ayudarlo a determinar si las variables afectan significativamente el consumo de energ&iacute;a seg&uacute;n el Protocolo de Medici&oacute;n y Verificaci&oacute;n Ready 50001. Esta herramienta gratuita en l&iacute;nea tambi&eacute;n se puede utilizar para determinar la mejora del rendimiento energ&eacute;tico.</p>
 
-<p>Records of relevant variable data must be retained.</p>
+<p>Se deben conservar los registros de datos variables relevantes.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Identify data needs)</p>
+<p>[Accordion](Identifique las necesidades de datos)</p>
 
-<p>In addition to the data needed to measure and monitor energy consumption and relevant variables, you should identify data needs to satisfy the process of conducting an energy review, the &ldquo;key characteristics&rdquo; of operations affecting energy performance, and other needs of your organization.</p>
+<p>Adem&aacute;s de los datos necesarios para medir y monitorear el consumo de energ&iacute;a y las variables relevantes, debe identificar las necesidades de datos para satisfacer el proceso de llevar a cabo una revisi&oacute;n energ&eacute;tica, las &quot;caracter&iacute;sticas clave&quot; de las operaciones que afectan el rendimiento energ&eacute;tico y otras necesidades de su organizaci&oacute;n.</p>
 
-<p>[Learn More](Energy Review)</p>
+<p>[Learn More](Revisi&oacute;n energ&eacute;tica)</p>
 
-<p>The energy review is intended to profile your organization&rsquo;s energy situation and serve as a guide for collecting and analyzing the data needed to determine energy performance and identify improvement opportunities.</p>
+<p>El objetivo de la revisi&oacute;n energ&eacute;tica es crear un perfil de la situaci&oacute;n energ&eacute;tica de su organizaci&oacute;n y servir como gu&iacute;a para recopilar y analizar los datos necesarios para determinar el rendimiento energ&eacute;tico e identificar oportunidades de mejora.</p>
 
-<p>ISO 50001 requires that the following data and information be included in the energy review:</p>
+<p>ISO 50001 requiere que se incluyan los siguientes datos e informaci&oacute;n en la revisi&oacute;n energ&eacute;tica:</p>
 
 <ul>
-	<li>Energy sources</li>
-	<li>Analysis of past and present energy use and energy consumption</li>
-	<li>SEUs and their current performance</li>
-	<li>Relevant variables affecting the SEUs</li>
-	<li>Estimates of future energy use and energy consumption</li>
-	<li>Prioritized opportunities for improving energy performance</li>
+	<li>Fuentes de energ&iacute;a</li>
+	<li>An&aacute;lisis del uso y consumo de energ&iacute;a pasado y presente.</li>
+	<li>SEU y su desempe&ntilde;o actual</li>
+	<li>Variables relevantes que afectan a las SEU</li>
+	<li>Estimaciones del uso y consumo de energ&iacute;a en el futuro.</li>
+	<li>Oportunidades prioritarias para mejorar el rendimiento energ&eacute;tico.</li>
 </ul>
 
-<p>In addition to collecting and analyzing data to determine your organization&rsquo;s energy performance, the energy review provides the basis for establishing the metrics for energy performance measurement and opportunity identification. Use these data for the following purposes:</p>
+<p>Adem&aacute;s de recopilar y analizar datos para determinar el rendimiento energ&eacute;tico de su organizaci&oacute;n, la revisi&oacute;n energ&eacute;tica proporciona la base para establecer las m&eacute;tricas para la medici&oacute;n del rendimiento energ&eacute;tico y la identificaci&oacute;n de oportunidades. Utilice estos datos para los siguientes prop&oacute;sitos:</p>
 
 <ul>
-	<li>Selecting EnPIs</li>
-	<li>Establishing the energy baseline</li>
-	<li>Setting objectives and energy targets</li>
+	<li>Seleccionar los indicadores de rendimiento energ&eacute;tico (EnPIs)</li>
+	<li>Establecer la l&iacute;nea de base energ&eacute;tica.</li>
+	<li>Establecer objetivos y metas energ&eacute;ticas</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>[Learn More](Key Characteristics)</p>
+<p>[Learn More](Caracter&iacute;sticas clave)</p>
 
-<p>In addition to the data required for the energy review and those that your organization determines is needed, ISO 50001 requires that some specific data identified as &ldquo;key characteristics of operations affecting energy performance&rdquo; be collected in order to evaluate your organization&rsquo;s energy performance (see Task 21 [task](Monitoring and Measurement of Energy Performance Improvement)). These key characteristics include:</p>
+<p>Adem&aacute;s de los datos requeridos para la revisi&oacute;n energ&eacute;tica y los que su organizaci&oacute;n determine que son necesarios, ISO 50001 requiere que se recopilen algunos datos espec&iacute;ficos identificados como &quot;caracter&iacute;sticas clave de las operaciones que afectan el rendimiento energ&eacute;tico&quot; para evaluar el rendimiento energ&eacute;tico de su organizaci&oacute;n (ver Tarea 21 [tarea] (Monitoreo y Medici&oacute;n de la Mejora del Rendimiento Energ&eacute;tico). Estas caracter&iacute;sticas clave incluyen:</p>
 
 <ul>
-	<li>Energy consumption of SEUs and of the organization</li>
-	<li>Relevant variables for SEUs</li>
-	<li>Static factors, if applicable</li>
-	<li>Operational criteria of SEUs</li>
-	<li>Data related to action plans</li>
+	<li>Consumo de energ&iacute;a de SEU y de la organizaci&oacute;n.</li>
+	<li>Variables relevantes para el SEU</li>
+	<li>Factores est&aacute;ticos, si corresponde.</li>
+	<li>Criterios operacionales de los SEUs</li>
+	<li>Datos relacionados con los planes de acci&oacute;n.</li>
 </ul>
 
-<p>A resource such as the optional Playbook worksheet can be used to identify and record the key characteristics and their monitoring and measurement requirements for your organization as you work through the tasks below. The Playbook worksheet is provided to illustrate the types of information that can be captured in planning for monitoring, measurement, and analysis of the key characteristics.</p>
+<p>Se puede utilizar un recurso como la hoja de trabajo opcional Playbook para identificar y registrar las caracter&iacute;sticas clave y sus requisitos de monitoreo y medici&oacute;n para su organizaci&oacute;n a medida que trabaja en las tareas que se describen a continuaci&oacute;n. La hoja de trabajo Playbook se proporciona para ilustrar los tipos de informaci&oacute;n que se pueden capturar en la planificaci&oacute;n para el monitoreo, la medici&oacute;n y el an&aacute;lisis de las caracter&iacute;sticas clave.</p>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Identify data sources)</p>
+<p>[Accordion](Identificar fuentes de datos)</p>
 
-<p>It is important to know where to locate and how to acquire energy data. Requirements will vary depending on the data to be collected. Energy bills are generally readily available and easy to collect, but other data may require more effort. Metering may not exist for some energy management data, and it may be necessary to evaluate your metering availability and data collection process to determine the most advantageous method(s) to collect the required data. For energy sources that can be metered, there are generally four sources for energy data collection, and you can employ some combination of these:</p>
+<p>Es importante saber d&oacute;nde localizar y c&oacute;mo adquirir datos relacionados con el consumo de energ&iacute;a. Los requerimientos variar&aacute;n seg&uacute;n los datos que se recopilen. Las facturas de energ&iacute;a generalmente est&aacute;n disponibles y son f&aacute;ciles de obtener, pero otros datos pueden requerir m&aacute;s esfuerzo. Es posible que no exista medici&oacute;n para algunos datos de administraci&oacute;n de energ&iacute;a, y puede ser necesario evaluar su disponibilidad de medici&oacute;n y el proceso de recopilaci&oacute;n de datos para determinar los m&eacute;todos m&aacute;s ventajosos para recopilar los datos requeridos. Para las fuentes de energ&iacute;a que pueden medirse, generalmente hay cuatro fuentes para la recopilaci&oacute;n de datos de energ&iacute;a, y puede emplear alguna combinaci&oacute;n de estas:</p>
 
 <ul>
-	<li>Utility revenue meters and records</li>
-	<li>Purchase orders</li>
-	<li>Nameplate data</li>
-	<li>Portable meters</li>
-	<li>Submeters</li>
+	<li>Medidores y registros de ingresos de la compa&ntilde;&iacute;a de electricidad</li>
+	<li>Ordenes de compra</li>
+	<li>Informaci&oacute;n en placas de equipo</li>
+	<li>Medidores port&aacute;tiles</li>
+	<li>Submedidores</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Collecting Data)</p>
+<p>[Accordion](Recopilaci&oacute;n de datos)</p>
 
-<p>Once you have determined the data you need and want to collect and the potential collection mechanism, determine if a collection process is already in place and how you collect the information. If these data are not already collected, evaluate how they are being generated. Then determine if your organization has the means to collect the data. If not, consider acquiring additional metering equipment or devising an alternative form of performance analysis.</p>
+<p>Una vez que haya determinado los datos que necesita y desea recopilar y el posible mecanismo de recopilaci&oacute;n, determine si ya se ha implementado un proceso de recopilaci&oacute;n de datos y c&oacute;mo funciona. Si estos datos a&uacute;n no se han recopilado, eval&uacute;e c&oacute;mo se generan. Luego determine si su organizaci&oacute;n tiene los medios para recopilar los datos. De lo contrario, considere adquirir equipos de medici&oacute;n adicionales o idear una forma alternativa de an&aacute;lisis del rendimiento energ&eacute;tico.</p>
 
-<p>Develop a consistent and reliable process for acquiring and recording data. Define the steps to be followed to ensure timely acquisition of accurate energy management related data. The complete collection process includes:</p>
+<p>Desarrolle un proceso consistente y confiable para adquirir y registrar datos. Defina los pasos a seguir para garantizar la adquisici&oacute;n oportuna de datos precisos relacionados con la gesti&oacute;n de energ&iacute;a. El proceso completo de recolecci&oacute;n incluye:</p>
 
 <ul>
-	<li>Energy management data required</li>
-	<li>Data location</li>
-	<li>How the data are to be collected</li>
-	<li>Person (by position) or source keeping the data</li>
-	<li>Frequency of data collection</li>
-	<li>Data storage method and location</li>
-	<li>Method of analysis</li>
+	<li>Datos de gesti&oacute;n energ&eacute;tica requeridos.</li>
+	<li>Ubicaci&oacute;n de datos</li>
+	<li>C&oacute;mo se recopilar&aacute;n los datos</li>
+	<li>Persona (por posici&oacute;n) o fuente que mantiene los datos</li>
+	<li>Frecuencia de recopilaci&oacute;n de datos.</li>
+	<li>M&eacute;todo de almacenamiento de datos y ubicaci&oacute;n</li>
+	<li>M&eacute;todo de an&aacute;lisis.</li>
 </ul>
 
-<p>The process may include additional steps, but the above steps, at a minimum, are best practice. Your energy team typically oversees this process. The Playbook worksheet or a similar document can be helpful in establishing your data collection process.</p>
+<p>El proceso puede incluir pasos adicionales, pero los pasos anteriores, como m&iacute;nimo, son las mejores pr&aacute;cticas. Su equipo de energ&iacute;a generalmente supervisa este proceso. La hoja de trabajo de Playbook o un documento similar puede ser &uacute;til para establecer su proceso de recopilaci&oacute;n de datos.</p>
 
-<p>How often the data are collected depends on your organization&rsquo;s needs and requirements. The benefit of having a formal data collection process is that it will ensure you collect the appropriate data and record it at the necessary frequency.</p>
+<p>La frecuencia con la que se recopilan los datos depende de las necesidades y requerimientos de su organizaci&oacute;n. El beneficio de tener un proceso formal de recopilaci&oacute;n de datos es que garantizar&aacute; que recopile los datos apropiados y los registre con la frecuencia necesaria.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Define and implement an energy data collection plan)</p>
+<p>[Accordion](Definir e implementar un plan de recolecci&oacute;n de datos de energ&iacute;a)</p>
 
-<p>ISO 50001 requires a plan for collection of energy data. The energy data collection plan is developed to define, organize, and document monitoring and measurement activities. Each of the key characteristics of operations that affect energy performance listed above is evaluated to determine the appropriate attributes that should be measured or monitored so appropriate data can be collected for analysis.</p>
+<p>ISO 50001 requiere un plan para la recolecci&oacute;n de datos de consumo energ&eacute;tico. El plan de recolecci&oacute;n de datos de energ&iacute;a se desarrolla para definir, organizar y documentar las actividades de monitoreo y medici&oacute;n. Cada una de las caracter&iacute;sticas clave de las operaciones que afectan el rendimiento energ&eacute;tico enumeradas anteriormente se eval&uacute;a para determinar los atributos apropiados que se deben medir o monitorear para que se puedan recopilar datos apropiados para el an&aacute;lisis.</p>
 
-<p>The optional Playbook worksheet provides a guide to the details required to ensure adequate collection of data for determining energy performance. This form encompasses the relevant key characteristics.</p>
-
-<p>[Accordion End]</p>
-
-<p>[Accordion](Periodically review measurement needs)</p>
-
-<p>Periodically reviewing your organization&rsquo;s measurement needs ensures that as the key characteristics that affect energy performance change over time, any needed adjustments are made to the energy data collection plan. If there are adjustments, inform relevant personnel of the changes. A practical approach to periodic review of measurement needs and updating the data collection plan involves two elements:</p>
-
-<ul>
-	<li>Defining a minimum frequency (e.g., monthly, quarterly, semi-annually) for the review</li>
-	<li>Integrating the review as part of your organization&rsquo;s &ldquo;real-time&rdquo; change management processes (mainly communication)</li>
-</ul>
+<p>La hoja de trabajo opcional de Playbook proporciona una gu&iacute;a de los detalles necesarios para garantizar una recopilaci&oacute;n adecuada de datos para determinar el rendimiento energ&eacute;tico. Este formulario incluye las caracter&iacute;sticas clave relevantes.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Ensure accuracy and repeatability of measurements)</p>
+<p>[Accordion](Revise peri&oacute;dicamente las necesidades de medici&oacute;n)</p>
 
-<p>A calibration program provides the means to ensure monitoring and measuring equipment is properly maintained to provide accurate data. Basic components of a calibration program involve the following:</p>
+<p>La revisi&oacute;n peri&oacute;dica de las necesidades de medici&oacute;n de su organizaci&oacute;n garantiza que, a medida que las caracter&iacute;sticas clave que afectan el rendimiento energ&eacute;tico cambian con el tiempo, se realicen los ajustes necesarios en el plan de recolecci&oacute;n de datos de energ&iacute;a. Si hay ajustes, informe al personal relevante de los cambios. Un enfoque pr&aacute;ctico para la revisi&oacute;n peri&oacute;dica de las necesidades de medici&oacute;n y la actualizaci&oacute;n del plan de recolecci&oacute;n de datos involucra dos elementos:</p>
 
 <ul>
-	<li>Identifying the equipment to be calibrated &ndash; key characteristics</li>
-	<li>Specifying the method of calibration to be used &ndash; reference</li>
-	<li>Establishing calibration tolerance and frequency &ndash; deviation</li>
-	<li>Defining and assigning calibration responsibilities &ndash; multiple elements</li>
-	<li>Maintaining appropriate documentation &ndash; plan and records</li>
+	<li>Definir una frecuencia m&iacute;nima (por ejemplo, mensual, trimestral, semestral) para la revisi&oacute;n</li>
+	<li>Integrar la revisi&oacute;n como parte de los procesos de gesti&oacute;n de cambios &quot;en tiempo real&quot; de su organizaci&oacute;n (principalmente comunicaci&oacute;n)</li>
 </ul>
-
-<p>Smaller organizations can use simpler plans to assure measurements, monitoring, and metering are accurate and repeatable. Some available resources are located in the optional Playbook worksheet.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Determine data analysis method(s) and assign responsibilities)</p>
+<p>[Accordion](Asegure la precisi&oacute;n y la repetitividad de las mediciones)</p>
 
-<p>Your organization can analyze and track energy in many different ways, from simple in‑house spreadsheets to very sophisticated software and web-enabled applications. The DOE Energy Footprint Tool provides basic energy data analysis for your building or site.</p>
-
-<p>Finding an effective data analysis method is important for identifying energy uses with major energy consumption, as well as energy opportunities that lead to cost savings. It will show areas that are significant and deserve the most attention. It will also show trends and anomalies that help direct your energy management efforts. It can also help you identify billing errors and hidden costs within utility rate structures. It will help your energy team communicate the value of energy management to top management and get the resources needed to make the EnMS successful. One of the most important outcomes of this analysis is to find the largest energy consuming systems and equipment, which helps you determine your organization&rsquo;s significant energy uses Task 9 [task](Significant Energy Uses).</p>
-
-<p>The data analysis method(s) appropriate to your organization may depend on several factors:</p>
+<p>Un programa de calibraci&oacute;n proporciona los medios para garantizar que el equipo de monitoreo y medici&oacute;n se mantenga adecuadamente para proporcionar datos precisos. Los componentes b&aacute;sicos de un programa de calibraci&oacute;n incluyen lo siguiente:</p>
 
 <ul>
-	<li>Data availability</li>
-	<li>Desired output</li>
-	<li>Level of available competency for data analysis</li>
-	<li>Audience</li>
+	<li>Identificaci&oacute;n del equipo a calibrar: caracter&iacute;sticas clave</li>
+	<li>Especificar el m&eacute;todo de calibraci&oacute;n que se utilizar&aacute; - referencia</li>
+	<li>Establecimiento de tolerancia y frecuencia de calibraci&oacute;n - desviaci&oacute;n</li>
+	<li>Definici&oacute;n y asignaci&oacute;n de responsabilidades de calibraci&oacute;n: elementos m&uacute;ltiples</li>
+	<li>Mantener la documentaci&oacute;n adecuada: plan y registros.</li>
 </ul>
 
-<p>[Learn More](Factors impacting the choice of data analysis methods)</p>
+<p>Las organizaciones m&aacute;s peque&ntilde;as pueden usar planes m&aacute;s simples para asegurar que las mediciones, el monitoreo y el registro del consumo (metering) sean precisos y repetibles. Algunos recursos disponibles se encuentran en la hoja de trabajo opcional Playbook.</p>
 
-<p><strong>Desired output:</strong> What is the output you want to achieve from the analysis? Before determining the analysis method to be used, you should clearly understand the goal of the data analysis. The Task Overview for this task mentions several uses for the data, but you may also want to:</p>
+<p>[Accordion End]</p>
+
+<p>[Accordion](Determinar m&eacute;todo (s) de an&aacute;lisis de datos y asignar responsabilidades)</p>
+
+<p>Su organizaci&oacute;n puede analizar y rastrear el consumo de energ&iacute;a de muchas maneras diferentes, desde simples hojas de c&aacute;lculo internas hasta software muy sofisticado y aplicaciones habilitadas para la web. La herramienta DOE Energy Footprint Tool proporciona an&aacute;lisis b&aacute;sicos de datos de energ&iacute;a para su edificio o instalaci&oacute;n.</p>
+
+<p>Encontrar un m&eacute;todo de an&aacute;lisis de datos efectivo es importante para identificar los usos de energ&iacute;a con un gran consumo de energ&iacute;a, as&iacute; como las oportunidades de energ&iacute;a que conducen a ahorros de costos. Lo anterior mostrar&aacute; &aacute;reas que son significativas y merecen la mayor atenci&oacute;n. Tambi&eacute;n mostrar&aacute; tendencias y anomal&iacute;as que ayudan a enfocar sus esfuerzos de administraci&oacute;n de energ&iacute;a. Tambi&eacute;n puede ayudarlo a identificar errores de facturaci&oacute;n y costos ocultos dentro de las estructuras de tarifas de servicios p&uacute;blicos. Ayudar&aacute; a su equipo de energ&iacute;a a comunicar el valor de la administraci&oacute;n de energ&iacute;a a la alta gerencia y a obtener los recursos necesarios para que el EnMS sea exitoso. Uno de los resultados m&aacute;s importantes de este an&aacute;lisis es identificar los sistemas y equipos que consumen m&aacute;s energ&iacute;a, lo que le ayuda a determinar los usos significativos de energ&iacute;a de su organizaci&oacute;n. Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a).</p>
+
+<p>[Learn More](Factores que afectan la elecci&oacute;n de los m&eacute;todos de an&aacute;lisis de datos)</p>
+
+<p>Resultado deseado: &iquest;Cu&aacute;l es el resultado que desea obtener del an&aacute;lisis? Antes de determinar el m&eacute;todo de an&aacute;lisis que se utilizar&aacute;, debe comprender claramente el objetivo del an&aacute;lisis de datos. El Resumen de la Tarea para esta actividad menciona varios usos de los datos, pero tambi&eacute;n es posible que desee:</p>
 
 <ul>
-	<li>determine performance level.</li>
-	<li>monitor operations.</li>
-	<li>evaluate against a benchmark or like equipment or systems.</li>
-	<li>evaluate the result of maintenance or improvement activities.</li>
-	<li>validate the impact of relevant variables.</li>
+	<li>Determinar el nivel de rendimiento.</li>
+	<li>Supervisar las operaciones.</li>
+	<li>Evaluar en comparaci&oacute;n con un punto de referencia o equipos o sistemas similares.</li>
+	<li>Evaluar el resultado de las actividades de mantenimiento o mejora.</li>
+	<li>Validar el impacto de variables relevantes.</li>
 </ul>
 
-<p>Consider the output, audience, and level of available competence for data analysis available when you select a method for analyzing data. Many simple analysis methods can be very effective in analyzing data collected in the energy review and providing the desired results. Some of these are discussed below.</p>
+<p>Tenga en cuenta el resultado deseado, la audiencia y el nivel de capacidad disponible para el an&aacute;lisis de datos disponible cuando seleccione un m&eacute;todo para analizar datos. Muchos m&eacute;todos de an&aacute;lisis simples pueden ser muy efectivos para analizar los datos recopilados en la revisi&oacute;n energ&eacute;tica y proporcionar los resultados deseados. Algunos de &eacute;stos se discuten a continuaci&oacute;n.</p>
 
 <p>[Learn More End]</p>
 
-<p>Your organization is responsible for selecting one or more data analysis methods for the purpose of EnMS and energy performance improvement. Examples of common methods include trend analysis, benchmarking, graphing, Pareto analysis, energy balance, heat balance, utility analysis, financial analysis, and regression analysis. Choose the method or combination of methods that meets the specific goals of your organization. Consider learning from other organization&rsquo;s experience with data analysis to determine what will be most effective for you. Common forms of data analysis include the following:</p>
+<p>Su organizaci&oacute;n es responsable de seleccionar uno o m&aacute;s m&eacute;todos de an&aacute;lisis de datos con el fin de mejorar su EnMS y rendimiento energ&eacute;tico. Ejemplos de m&eacute;todos comunes incluyen an&aacute;lisis de tendencias, evaluaci&oacute;n comparativa, gr&aacute;ficos, an&aacute;lisis de Pareto, balance de energ&iacute;a, balance de calor, an&aacute;lisis de servicios p&uacute;blicos, an&aacute;lisis financiero y an&aacute;lisis de regresi&oacute;n. Elija el m&eacute;todo o la combinaci&oacute;n de m&eacute;todos que cumpla con los objetivos espec&iacute;ficos de su organizaci&oacute;n. Considere aprender de la experiencia de otras organizaciones con el an&aacute;lisis de datos para determinar qu&eacute; ser&aacute; m&aacute;s efectivo para usted. Las formas comunes de an&aacute;lisis de datos incluyen lo siguiente:</p>
 
 <ul>
-	<li>Trend analysis</li>
-	<li>Benchmarking</li>
-	<li>Graphs</li>
-	<li>Ranking</li>
-	<li>Pareto analysis</li>
-	<li>Energy balance</li>
-	<li>Heat balance</li>
-	<li>Utility analysis</li>
-	<li>Financial analysis</li>
-	<li>Regression analysis</li>
+	<li>An&aacute;lisis de tendencia</li>
+	<li>Evaluaci&oacute;n comparativa (Benchmarking)</li>
+	<li>Gr&aacute;ficos</li>
+	<li>Clasificaci&oacute;n</li>
+	<li>An&aacute;lisis de Pareto</li>
+	<li>Balance de energ&iacute;a</li>
+	<li>Balance de calor</li>
+	<li>An&aacute;lisis de los servicios de la compa&ntilde;&iacute;a el&eacute;ctrica</li>
+	<li>An&aacute;lisis financiero</li>
+	<li>An&aacute;lisis de regresi&oacute;n</li>
 </ul>
 
-<p>You will continue to regularly collect and update the data to monitor conditions in the EnMS so you can make changes as required. Organizational changes related to processes, equipment, occupancy, improvement projects, etc. may require adjustments to your EnPIs, baselines, SEUs, objectives and energy targets, or other parts of the EnMS. Continue to collect data to evaluate any required adjustments to energy metrics or energy performance.</p>
+<p>Usted continuar&aacute; recopilando y actualizando regularmente los datos para monitorear las condiciones en el EnMS para que pueda realizar los cambios seg&uacute;n sea necesario. Los cambios organizativos relacionados con procesos, equipos, ocupaci&oacute;n, proyectos de mejora, etc. pueden requerir ajustes en sus EnPI, l&iacute;neas de base, SEU, objetivos y metas de energ&iacute;a u otras partes del EnMS. Contin&uacute;e recopilando datos para evaluar los ajustes necesarios a las m&eacute;tricas de energ&iacute;a o al rendimiento energ&eacute;tico.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>In an ISO 50001:2018 EnMS, all energy sources and energy uses within the defined EnMS scope and boundaries must be included and recorded in the energy review. Organizations with ISO 14001:2015 environmental management systems (EMS) may be able to identify their energy sources and energy uses from their environmental aspects information. However, even if you start with the environmental aspects information, your team should reality-check the comprehensiveness of that information to ensure that all energy sources and energy uses have been identified for the EnMS. Since ISO 50001:2018 requires more extensive measurement and analysis of data than ISO 14001, it is recommended that the energy review be maintained separately from the environmental aspects information.</p>
+<p>En un EnMS ISO 50001: 2018, todas las fuentes de energía y usos de energía dentro del alcance y límites definidos del EnMS deben incluirse y registrarse en la revisión de energía. Las organizaciones con sistemas de gestión ambiental (EMS) ISO 14001: 2015 pueden identificar sus fuentes de energía y sus usos energéticos a partir de su información de aspectos ambientales. Sin embargo, incluso si comienza con la información de aspectos ambientales, su equipo debe verificar la integridad de esa información para asegurarse de que se hayan identificado todas las fuentes de energía y usos de energía para el EnMS. Dado que ISO 50001: 2018 requiere una medición y análisis de datos más extensos que ISO 14001, se recomienda que la revisión energética se mantenga por separado de la información de aspectos ambientales.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 2.1 and Appendix 3 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> each provide guidance on gathering and tracking data. The guidance in this part of the 50001 Ready Navigator provides information on the energy data and information required by ISO 50001, along with additional suggestions, tools, and details on how to best gather and track your data.</p>
+<p>El Paso 2.1 y el Ap&eacute;ndice 3 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> de ENERGY STAR&reg; proporcionan orientaci&oacute;n sobre la recopilaci&oacute;n y el rastreo de datos. La gu&iacute;a en esta parte del 50001 Ready Navigator proporciona informaci&oacute;n sobre los datos de consumo energ&eacute;tico y la informaci&oacute;n requerida por ISO 50001, junto con sugerencias adicionales, herramientas y detalles sobre c&oacute;mo reunir y rastrear mejor sus datos.</p>
 
-<p>As an ENERGY STAR user, you may likely already be analyzing your organization&rsquo;s past and present energy consumption, using tools like Portfolio Manager. Data analysis tips are discussed in steps 2.1, 2.2, 2.3, and 2.4 of the ENERGY STAR <em>Guidelines for Energy Management.</em> The 50001 Ready Navigator guidance in this step provides additional analysis tools and tips for your consideration.</p>
+<p>Como usuario de ENERGY STAR, es probable que ya est&eacute; analizando el consumo de energ&iacute;a pasado y presente de su organizaci&oacute;n, utilizando herramientas como Portfolio Manager. Los consejos para el an&aacute;lisis de datos se analizan en los pasos 2.1, 2.2, 2.3 y 2.4 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> de ENERGY STAR. La gu&iacute;a 50001 Ready Navigator en este paso proporciona herramientas de an&aacute;lisis adicionales y consejos para su consideraci&oacute;n.</p>
 
-<p>The ENERGY STAR <em>Guidelines for Energy Management</em> does not provide guidance on keeping a list of energy-using systems. Instead, it&rsquo;s left up to each organization to determine the appropriate level of detail when collecting data. ISO 50001 requires that the organization evaluate past and present energy uses and determine its SEUs. Note that SEUs may be different from the areas, sites, and equipment identified in the ENERGY STAR program.</p>
+<p>Las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> de ENERGY STAR no proporcionan orientaci&oacute;n sobre c&oacute;mo mantener una lista de los sistemas que utilizan energ&iacute;a. En cambio, corresponde a cada organizaci&oacute;n determinar el nivel de detalle apropiado al recopilar datos. ISO 50001 requiere que la organizaci&oacute;n eval&uacute;e los usos de energ&iacute;a pasados ​​y presentes y determine sus SEU. Tenga en cuenta que los SEU pueden ser diferentes de las &aacute;reas, sitios y equipos identificados en el programa ENERGY STAR.</p>
 
-<p>This guidance is relevant to steps 4.1, 4.2, and 5.5 of the ENERGY STAR <em>Guidelines for Energy Management.</em> To define and implement an energy measurement plan, expand on the technical steps contained in Step 4.1 of the ENERGY STAR guidelines by identifying key characteristics of your operations that determine energy performance and the associated monitoring and measurement requirements. This task contains guidance and several resources to help.</p>
+<p>Esta gu&iacute;a es relevante para los pasos 4.1, 4.2 y 5.5 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> ENERGY STAR. Para definir e implementar un plan de medici&oacute;n de energ&iacute;a, ampl&iacute;e los pasos t&eacute;cnicos contenidos en el Paso 4.1 de las gu&iacute;as de ENERGY STAR identificando las caracter&iacute;sticas clave de sus operaciones que determinan el rendimiento energ&eacute;tico y los requisitos de medici&oacute;n y monitoreo asociados. Esta tarea contiene orientaci&oacute;n y varios recursos para ayudar.</p>
 
-<p>Measurement needs may have been included when resources were identified in Step 4.2 of the ENERGY STAR guidelines. When implementing the EnMS, it will be necessary to ensure measurement needs are periodically reviewed. These reviews of measurement needs can be incorporated into the periodic reviews your organization already has in place according to the guidance in Step 5.5 of the ENERGY STAR guidelines.</p>
+<p>Las necesidades de medici&oacute;n pueden haberse incluido cuando se identificaron recursos en el Paso 4.2 de las gu&iacute;as de ENERGY STAR. Al implementar el EnMS, ser&aacute; necesario garantizar que las necesidades de medici&oacute;n se revisen peri&oacute;dicamente. Estas revisiones de las necesidades de medici&oacute;n se pueden incorporar en las revisiones peri&oacute;dicas que su organizaci&oacute;n ya tiene en vigencia de acuerdo con la gu&iacute;a del Paso 5.5 de las gu&iacute;as de ENERGY STAR.</p>
 
-<p>Monitoring and measurement systems for your EnMS will include calibration of the monitoring and measurement equipment to ensure data are accurate and repeatable, as well as maintaining associated records documentation and records.</p>
+<p>Los sistemas de monitoreo y medici&oacute;n para su EnMS incluir&aacute;n la calibraci&oacute;n del equipo de monitoreo y medici&oacute;n para asegurar que los datos sean precisos y repetibles, as&iacute; como el mantenimiento de la documentaci&oacute;n y los registros correspondientes.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

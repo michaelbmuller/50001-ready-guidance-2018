@@ -7,222 +7,225 @@ Auditoría Interna
 Tarea 22: Realizamos auditorías internas del sistema de gestión de energía 50001 Ready en periodos específicos e informamos los resultados a los miembros relevantes de la administración. Identificamos tendencias en los resultados de la auditoría interna para su consideración en la revisión realizada por la administración.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Appoint an energy management system (EnMS) internal audit program manager.</li>
-	<li>Develop a documented internal audit procedure that addresses the responsibilities, planning, and conducting of EnMS internal audits, as well as the reporting of audit results.</li>
-	<li>Identify personnel to serve as EnMS internal auditors and train them on 50001 Ready Navigator EnMS guidance (or optionally ISO 50001 requirements and/or internal auditing of ISO 50001 including auditing of energy performance improvement), and your internal audit procedure.</li>
-	<li>Conduct regularly scheduled EnMS internal audits to identify areas of success and areas in need of improvement.</li>
-	<li>Record the results of your organization&rsquo;s internal audits.</li>
-	<li>Ensure that internal audit results are reported to relevant management.</li>
+	<li>Nombre un administrador del programa de auditor&iacute;a interna del sistema de gesti&oacute;n de energ&iacute;a (EnMS).</li>
+	<li>Desarrolle un procedimiento documentado de auditor&iacute;a interna que aborde las responsabilidades, la planificaci&oacute;n y la realizaci&oacute;n de las auditor&iacute;as internas de EnMS, as&iacute; como el informe de los resultados de la auditor&iacute;a.</li>
+	<li>Identifique a integrantes del personal para que funjan como auditores internos del EnMS y capac&iacute;telos en la gu&iacute;a 50001 Ready Navigator EnMS (u opcionalmente los requisitos de ISO 50001 y / o la auditor&iacute;a interna de ISO 50001, incluida la auditor&iacute;a de la mejora de rendimiento energ&eacute;tico) y su procedimiento de auditor&iacute;a interna.</li>
+	<li>Realice auditor&iacute;as internas del EnMS programadas regularmente para identificar &aacute;reas de &eacute;xito y &aacute;reas que necesitan mejoras.</li>
+	<li>Registre los resultados de las auditor&iacute;as internas de su organizaci&oacute;n.</li>
+	<li>Aseg&uacute;rese de informar los resultados de la auditor&iacute;a interna a la gerencia relevante.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>An internal audit checks your energy performance and the implementation and effectiveness of your energy management system (EnMS). It is a systematic and independent process that must be documented. Internal auditors collect and objectively evaluate evidence to determine whether your organization is meeting the requirements of its EnMS and ISO 50001.</p>
+<p>Una auditor&iacute;a interna revisa su rendimiento energ&eacute;tico y la implementaci&oacute;n y efectividad de su sistema de gesti&oacute;n energ&eacute;tica (EnMS). Es un proceso sistem&aacute;tico e independiente que debe documentarse. Los auditores internos recopilan y eval&uacute;an objetivamente la evidencia para determinar si su organizaci&oacute;n cumple con los requisitos de su EnMS e ISO 50001.</p>
 
-<p>Management system audits are system-focused; they are very different from other types of audits with which you may be familiar, such as environmental compliance audits, safety audits, or financial audits. Hence, training in management system auditing is critical for internal auditors. Appropriate resources will be needed to ensure this training is provided, either in-house or by an external training provider.</p>
+<p>Las auditor&iacute;as del sistema de gesti&oacute;n se enfocan en el sistema; son muy diferentes de otros tipos de auditor&iacute;as con las que puede estar familiarizado, como auditor&iacute;as de cumplimiento ambiental, auditor&iacute;as de seguridad o auditor&iacute;as financieras. Por lo tanto, la capacitaci&oacute;n en auditor&iacute;a de sistemas de gesti&oacute;n es cr&iacute;tica para los auditores internos. Se necesitar&aacute;n los recursos apropiados para garantizar que esta capacitaci&oacute;n se brinde, ya sea internamente o por un proveedor de capacitaci&oacute;n externo.</p>
 
-<p>The leader or other member of the energy management team often has overall responsibility for the internal audit program, but some organizations assign a separate internal audit program manager.</p>
+<p>El l&iacute;der u otro miembro del equipo de administraci&oacute;n de energ&iacute;a a menudo tiene la responsabilidad general del programa de auditor&iacute;a interna, pero algunas organizaciones asignan un gerente de programa de auditor&iacute;a interna distinto.</p>
 
-<p>Searching for resources developed for other management system internal audits such as ISO 9001 and 14001 can be a great place to start. If your organization has an internal audit program in place for another management system (e.g., ISO 9001 quality, ISO 14001 environmental, ISO 45001 safety and health), leverage that existing process and the available in-house internal auditing expertise. If you do not already have an internal audit program in place, it is recommended that you attend an internal auditing or lead auditor training course to learn how to manage and conduct internal audits.</p>
+<p>La b&uacute;squeda de recursos desarrollados para otras auditor&iacute;as internas de sistemas de gesti&oacute;n como ISO 9001 y 14001 puede ser una excelente forma de comenzar. Si su organizaci&oacute;n cuenta con un programa de auditor&iacute;a interna para otro sistema de gesti&oacute;n (por ejemplo, calidad ISO 9001, ISO 14001 ambiental, seguridad y salud ISO 45001), aproveche ese proceso existente y la experiencia interna disponible en auditor&iacute;as internas. Si a&uacute;n no cuenta con un programa de auditor&iacute;a interna, se recomienda que asista a un curso de capacitaci&oacute;n en auditor&iacute;a interna o de auditor&iacute;a principal para aprender a administrar y realizar auditor&iacute;as internas.</p>
 
-<p>The results of internal audits, both positive and negative, must be recorded and communicated to the relevant management. These results are often recorded on an audit finding form, a corrective action form, and/or in an audit report. The report can be in any format, including a PowerPoint presentation. Regardless of the specific style and format used, the results should be communicated with two specific objectives in mind:</p>
+<p>Los resultados de las auditor&iacute;as internas, tanto positivos como negativos, deben registrarse y comunicarse a la direcci&oacute;n administrativa correspondiente. Estos resultados a menudo se registran en un formulario de b&uacute;squeda de auditor&iacute;a, un formulario de acci&oacute;n correctiva y / o en un informe de auditor&iacute;a. El informe puede estar en cualquier formato, incluida una presentaci&oacute;n de PowerPoint. Independientemente del estilo y formato espec&iacute;ficos utilizados, los resultados deben comunicarse con dos objetivos espec&iacute;ficos en mente:</p>
 
 <ol>
-	<li>providing objective evidence of effective implementation of the audit process, and</li>
-	<li>allowing for corrective actions to be addressed and for follow-up requirements to be established and initiated.</li>
+	<li>proporcionar evidencia objetiva de la implementaci&oacute;n efectiva del proceso de auditor&iacute;a, y</li>
+	<li>permitir que se aborden las acciones correctivas y que se establezcan e inicien los requerimientos para dar seguimiento.</li>
 </ol>
 
-<p><em>This guidance is relevant to Section 9.2 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 9.2 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Develop a documented internal audit procedure)</p>
+<p>[Accordion](Desarrolle un procedimiento documentado de auditor&iacute;a interna)</p>
 
-<p>You should document your internal audit program, including the following:</p>
+<p>Debe documentar su programa de auditor&iacute;a interna e incluir lo siguiente:</p>
 
 <ul>
-	<li>Purpose of the audit program</li>
-	<li>Auditor training requirements</li>
-	<li>Planning and scheduling audits</li>
-	<li>Criteria and scope for each audit</li>
-	<li>Process of selecting auditors</li>
-	<li>Conducting internal audits, including audit methods</li>
-	<li>Recording the audit results</li>
-	<li>Communicating the results to relevant management</li>
-	<li>Retaining records</li>
-	<li>Collecting and analyzing trend data on audit results</li>
+	<li>Prop&oacute;sito del programa de auditor&iacute;a.</li>
+	<li>Requisitos de capacitaci&oacute;n de auditores</li>
+	<li>Planificaci&oacute;n y programaci&oacute;n de auditor&iacute;as.</li>
+	<li>Criterios y alcance para cada auditor&iacute;a.</li>
+	<li>Proceso de selecci&oacute;n de auditores.</li>
+	<li>Realizaci&oacute;n de auditor&iacute;as internas, incluidos los m&eacute;todos de auditor&iacute;a.</li>
+	<li>Registrar los resultados de la auditor&iacute;a.</li>
+	<li>Comunicar los resultados a la gerencia relevante.</li>
+	<li>Conservar registros</li>
+	<li>Recopilar y analizar datos de tendencias sobre los resultados de la auditor&iacute;a.</li>
 </ul>
 
-<p>Make sure the program clearly identifies the roles and responsibilities of the personnel involved. Structuring the audit process around what needs to be done, when it needs to be done, who needs to do it, and what records will be retained helps to communicate clearly the expectations for the internal audit program.</p>
+<p>Aseg&uacute;rese de que el programa identifique claramente los roles y responsabilidades del personal involucrado. La estructuraci&oacute;n del proceso de auditor&iacute;a en torno a lo que debe hacerse, cu&aacute;ndo debe hacerse, qui&eacute;n debe hacerlo y qu&eacute; registros se conservar&aacute;n ayuda a comunicar con claridad las expectativas del programa de auditor&iacute;a interna.</p>
 
-<p>When deciding how the audit results will be recorded, be aware that trend data on audit results are a required input for management review. This may influence what fields would be included on a form used for recording the audit findings. For example, compilation of trend data would be facilitated if recorded findings indicated the relevant 50001 Ready Navigator task number and the department or area where the finding was located. That information could be used to look at trends in findings across the various parts of the 50001 Ready Navigator guidance and trends in findings across the various departments or functional areas.</p>
+<p>Cuando decida c&oacute;mo se registrar&aacute;n los resultados de la auditor&iacute;a, tenga en cuenta que los datos de tendencias sobre los resultados de la auditor&iacute;a son un insumo requerido para la revisi&oacute;n que realiza la administraci&oacute;n. Esto puede influir en los campos que se incluir&iacute;an en un formulario utilizado para registrar los resultados de la auditor&iacute;a. Por ejemplo, la compilaci&oacute;n de datos de tendencias se facilitar&iacute;a si los hallazgos registrados indicaran el n&uacute;mero de tarea de 50001 Ready Navigator relevante y el departamento o &aacute;rea donde se localiz&oacute; el hallazgo. Esa informaci&oacute;n podr&iacute;a usarse para ver las tendencias en los hallazgos en las diversas partes de la gu&iacute;a 50001 Ready Navigator y las tendencias en los hallazgos en los diversos departamentos o &aacute;reas funcionales.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Develop the audit schedule)</p>
+<p>[Accordion](Desarrollar el calendario de auditor&iacute;as)</p>
 
-<p>The frequency of internal audits must be defined; they are not surprise activities. The audit program manager (or other responsible personnel) prepares an energy management system (EnMS) internal audit schedule that:</p>
+<p>Se debe definir la frecuencia de las auditor&iacute;as internas; no son actividades sorpresivas. El gerente del programa de auditor&iacute;a (u otro personal responsable) prepara un cronograma de auditor&iacute;a interna del sistema de gesti&oacute;n de energ&iacute;a (EnMS) que:</p>
 
 <ul>
-	<li>addresses auditing both energy performance and the management system.</li>
-	<li>considers the importance of the processes concerned.</li>
-	<li>considers the results of previous audits.</li>
+	<li>aborda la auditor&iacute;a tanto del rendimiento energ&eacute;tico como del sistema de gesti&oacute;n.</li>
+	<li>considera la importancia de los procesos relacionados.</li>
+	<li>considera los resultados de auditor&iacute;as previas.</li>
 </ul>
 
-<p>In considering the importance of the processes concerned, attention typically is given to the areas and processes associated with the following:</p>
+<p>Al considerar la importancia de los procesos relacionados, normalmente se presta atenci&oacute;n a las &aacute;reas y procesos asociados con lo siguiente:</p>
 
 <ul>
-	<li>Significant energy uses (SEUs)</li>
-	<li>Objectives</li>
-	<li>Energy targets</li>
-	<li>Action plans</li>
-	<li>Operational and maintenance controls</li>
-	<li>Activities related to sustaining energy improvements over time</li>
+	<li>Usos significativos de energ&iacute;a (SEUs)</li>
+	<li>Objetivos</li>
+	<li>Metas energ&eacute;ticas</li>
+	<li>Plan de acci&oacute;n</li>
+	<li>Controles operativos y de mantenimiento.</li>
+	<li>Actividades relacionadas con el mantenimiento de mejoras energ&eacute;ticas a lo largo del tiempo.</li>
 </ul>
 
-<p>The internal audit schedule usually covers an annual period, but may be for shorter or longer periods. You may decide to conduct one internal audit per year that covers the entire EnMS. Or, you may decide to conduct a series of shorter audits that together cover all of the EnMS requirements within a defined period. Some organizations decide to conduct internal audits of energy performance separately from internal audits of the management system.</p>
+<p>El programa de auditor&iacute;a interna generalmente cubre un per&iacute;odo anual, pero puede ser por per&iacute;odos m&aacute;s cortos o m&aacute;s largos. Usted puede decidir realizar una auditor&iacute;a interna anual que cubra todo el EnMS. O bien, puede decidir realizar una serie de auditor&iacute;as parciales que en conjunto cubra todos los requisitos de EnMS dentro de un per&iacute;odo definido. Algunas organizaciones deciden realizar auditor&iacute;as internas del rendimiento energ&eacute;tico por separado de las auditor&iacute;as internas del sistema de gesti&oacute;n.</p>
 
-<p>Other reasons for modifying the audit schedule include:</p>
+<p>Otras razones para modificar el cronograma de auditor&iacute;a incluyen:</p>
 
 <ul>
-	<li>New management initiatives</li>
-	<li>Organizational changes</li>
-	<li>Customer issues or needs</li>
-	<li>Process changes</li>
-	<li>Energy performance indicators (EnPIs) not being met</li>
-	<li>New or revised energy objectives or targets</li>
+	<li>Nuevas iniciativas de la administraci&oacute;n.</li>
+	<li>Cambios en la organizaci&oacute;n</li>
+	<li>Problemas o necesidades del cliente</li>
+	<li>Cambios en el proceso.</li>
+	<li>Incumplimiento con indicadores de rendimiento energ&eacute;tico (EnPI)</li>
+	<li>Objetivos o metas energ&eacute;ticas nuevos o revisados</li>
 </ul>
 
-<p>The internal audit schedule may be in any format that meets your organization&rsquo;s needs. Often, the schedule identifies the processes, functions, and areas to be audited and the planned dates. Some audit schedules only indicate which EnMS processes and performance will be audited and when. In either case, ensure that:</p>
+<p>El cronograma de auditor&iacute;a interna puede tener cualquier formato que satisfaga las necesidades de su organizaci&oacute;n. A menudo, el cronograma identifica los procesos, funciones y &aacute;reas a auditar y las fechas planeadas. Algunos cronogramas de auditor&iacute;a solo indican qu&eacute; procesos y rendimiento de EnMS se auditar&aacute;n y cu&aacute;ndo. En cualquier caso, aseg&uacute;rese de que:</p>
 
 <ul>
-	<li>the importance of the processes is considered.</li>
-	<li>all EnMS processes (or optionally ISO 50001 requirements) are audited in all applicable functions or areas within a defined period of time.</li>
+	<li>Se considere la importancia de los procesos.</li>
+	<li>todos los procesos del EnMS (u opcionalmente los requisitos de ISO 50001) se auditan en todas las funciones o &aacute;reas que correspondan dentro de un per&iacute;odo de tiempo definido.</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Develop the audit plan)</p>
+<p>[Accordion](Desarrollar el plan de auditor&iacute;a)</p>
 
-<p>An internal audit plan or agenda is prepared for each internal audit. Typically, this plan is prepared by the internal audit program manager, a lead auditor, or audit team leader. It often includes the following basic information:</p>
+<p>Se prepara un plan o agenda para cada auditor&iacute;a interna. T&iacute;picamente, este plan es preparado por el gerente del programa de auditor&iacute;a interna, un auditor principal o el l&iacute;der del equipo de auditor&iacute;a. A menudo incluye la siguiente informaci&oacute;n b&aacute;sica:</p>
 
 <ul>
-	<li>Date(s) of the audit</li>
-	<li>Objectives of the audit</li>
-	<li>Scope of the audit</li>
-	<li>Requirements (criteria) to be audited</li>
-	<li>Processes and area(s) to be audited</li>
-	<li>Auditor(s) responsible for auditing each process and area</li>
-	<li>Timing</li>
+	<li>Fecha (s) de la auditor&iacute;a</li>
+	<li>Objetivos de la auditor&iacute;a.</li>
+	<li>Alcance de la auditor&iacute;a.</li>
+	<li>Requerimientos (criterios) para ser auditados</li>
+	<li>Procesos y &aacute;rea (s) a auditar</li>
+	<li>Auditor (es) responsables de auditar cada proceso y &aacute;rea</li>
+	<li>Periodo de tiempo para la realizaci&oacute;n de la auditoria</li>
 </ul>
 
-<p>[Learn More](Examples of common audit objectives and audited processes)</p>
+<p>[Learn More](Ejemplos de objetivos comunes de auditoria y procesos auditados)</p>
 
-<p>Examples of common audit objectives are to evaluate the following:</p>
+<p>Ejemplos de objetivos comunes de auditoria se relacionan con la evaluaci&oacute;n de lo siguiente:</p>
 
 <ul>
-	<li>Conformity with the guidance of the 50001 Ready Navigator and additional requirements of the EnMS by the organization</li>
-	<li>Conformity with the energy policy and the established objectives and energy targets</li>
-	<li>Implementation and effectiveness of the EnMS</li>
-	<li>Energy performance improvement</li>
+	<li>Conformidad con la gu&iacute;a del 50001 Ready Navigator y los requerimientos adicionales del EnMS por parte de la organizaci&oacute;n.</li>
+	<li>Conformidad con la pol&iacute;tica energ&eacute;tica y los objetivos y metas energ&eacute;ticas establecidos.</li>
+	<li>Implementaci&oacute;n y efectividad del EnMS</li>
+	<li>Mejora del rendimiento energ&eacute;tico.</li>
 </ul>
 
-<p>Examples of processes to be audited include, but are not limited to, those associated with the following:</p>
+<p>Los ejemplos de procesos a auditar incluyen, entre otros, los relacionados con lo siguiente:</p>
 
 <ul>
-	<li>Leadership and commitment</li>
-	<li>Context of the organization</li>
-	<li>Energy review</li>
-	<li>Significant energy uses</li>
-	<li>Actions to address risks and opportunities</li>
-	<li>Objectives</li>
-	<li>Energy targets and action plans</li>
-	<li>Communication and awareness</li>
-	<li>Operational and maintenance controls</li>
-	<li>Documented information</li>
-	<li>Design and procurement</li>
-	<li>Monitoring, measurement, analysis, and evaluation</li>
-	<li>Internal audits</li>
-	<li>Evaluation of compliance with legal and other requirements</li>
-	<li>Corrective action</li>
+	<li>Liderazgo y compromiso.</li>
+	<li>Contexto de la organizaci&oacute;n.</li>
+	<li>Revisi&oacute;n energ&eacute;tica</li>
+	<li>Usos significativos de energ&iacute;a.</li>
+	<li>Acciones para abordar riesgos y oportunidades.</li>
+	<li>Objetivos</li>
+	<li>Metas energ&eacute;ticas y planes de acci&oacute;n.</li>
+	<li>Comunicaci&oacute;n y sensibilizaci&oacute;n.</li>
+	<li>Controles operativos y de mantenimiento.</li>
+	<li>informaci&oacute;n documentada</li>
+	<li>Dise&ntilde;o y adquisici&oacute;n.</li>
+	<li>Monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n.</li>
+</ul>
+
+<ul>
+	<li>Auditor&iacute;as internas</li>
+	<li>Evaluaci&oacute;n del cumplimiento de los requisitos legales y de otro tipo.</li>
+	<li>Acci&oacute;n correctiva</li>
 </ul>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Select and train internal auditors)</p>
+<p>[Accordion](Seleccionar y capacitar auditores internos)</p>
 
-<p>Internal audits are conducted by personnel who have been trained in internal auditing of management systems. It is recommended that the internal audit training be focused specifically on the guidance of the 50001 Ready Navigator (or ISO 50001) due to the need to demonstrate energy performance improvement. The pool of internal auditors should have cross-functional representation. The audits can be conducted by a single auditor or by one or more teams. In either case, the person(s) conducting the internal audit needs to be objective and impartial, and does not audit his or her own work. Internal auditors are usually trained by experienced internal management system auditors or by an external training course provider.</p>
+<p>Las auditor&iacute;as internas son realizadas por personal capacitado en auditor&iacute;a interna de sistemas de gesti&oacute;n. Se recomienda que la capacitaci&oacute;n en auditor&iacute;a interna se centre espec&iacute;ficamente en la gu&iacute;a del 50001 Ready Navigator (o ISO 50001) debido a la necesidad de demostrar una mejora en el rendimiento energ&eacute;tico. El grupo de auditores internos debe tener una representaci&oacute;n inter-funcional. Las auditor&iacute;as pueden ser realizadas por un solo auditor o por uno o m&aacute;s equipos. En cualquier caso, la persona (s) que realiza la auditor&iacute;a interna debe ser objetiva e imparcial, y no auditar su propio trabajo. Los auditores internos generalmente son capacitados por auditores internos con experiencia en el sistema de gesti&oacute;n o por un proveedor externo de cursos de capacitaci&oacute;n.</p>
 
-<p>Auditor training typically consists of the following:</p>
+<p>La capacitaci&oacute;n de auditores generalmente consiste en lo siguiente:</p>
 
 <ul>
-	<li>Guidance of the 50001 Ready Navigator or requirements of ISO 50001</li>
-	<li>Objectives of the audit</li>
-	<li>How to develop and use a checklist</li>
-	<li>How to collect and assess objective evidence</li>
-	<li>How to document both positive and negative findings</li>
-	<li>How to report the audit results</li>
+	<li>Orientaci&oacute;n del 50001 Ready Navigator o requerimientos de ISO 50001</li>
+	<li>Objetivos de la auditor&iacute;a.</li>
+	<li>C&oacute;mo desarrollar y usar una lista de verificaci&oacute;n</li>
+	<li>C&oacute;mo recolectar y evaluar evidencia objetiva</li>
+	<li>C&oacute;mo documentar los resultados positivos y negativos.</li>
+	<li>C&oacute;mo informar los resultados de la auditor&iacute;a.</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Conduct internal audits)</p>
+<p>[Accordion](Realizar auditor&iacute;as internas)</p>
 
-<p>Internal audits identify both areas of success and areas in need of improvement. In conducting the audit, the internal auditors focus on determining if your organization is:</p>
-
-<ul>
-	<li>Doing what it says it will do</li>
-	<li>Conforming with its energy policy, objectives, and energy targets</li>
-	<li>Continually improving its EnMS</li>
-	<li>Achieving improvement in energy performance</li>
-</ul>
-
-<p>Both the selection of auditors and the method for conducting the audits need to demonstrate that the process is objective and impartial. Each auditor is expected to carry out his or her assigned responsibilities as set out in the audit plan.</p>
-
-<p>When conducting an internal audit, auditors collect objective evidence by:</p>
+<p>Las auditor&iacute;as internas identifican tanto &aacute;reas de &eacute;xito como &aacute;reas que necesitan mejoras. Al realizar la auditor&iacute;a, los auditores internos se centran en determinar si su organizaci&oacute;n:</p>
 
 <ul>
-	<li>interviewing personnel.</li>
-	<li>observing activities.</li>
-	<li>reviewing documents.</li>
-	<li>examining records and data.</li>
+	<li>Esta haciendo lo que dice que har&aacute;</li>
+	<li>Esta cumpliendo con su pol&iacute;tica energ&eacute;tica, objetivos y metas energ&eacute;ticas.</li>
+	<li>Esta mejorando continuamente su EnMS</li>
+	<li>Esta logrando una mejora en el rendimiento energ&eacute;tico.</li>
 </ul>
 
-<p>Audit checklists are often used to help organize and document the evidence and the audit findings. It is important that the details of the evidence and findings are captured (e.g., department, activity, shift, position title, what was said, what was observed, what documented information was reviewed, what requirement was not met, the relevant section of the 50001 Ready Navigator guidance). Nonconformities need to be reproducible for purposes of corrective action and positive findings need to be reproducible for potential application in other areas.</p>
+<p>Tanto la selecci&oacute;n de auditores como el m&eacute;todo para llevar a cabo las auditor&iacute;as deben demostrar que el proceso es objetivo e imparcial. Se espera que cada auditor lleve a cabo sus responsabilidades asignadas seg&uacute;n lo establecido en el plan de auditor&iacute;a.</p>
+
+<p>Al realizar una auditor&iacute;a interna, los auditores recopilan evidencia objetiva al:</p>
+
+<ul>
+	<li>entrevistar al personal.</li>
+	<li>realizar actividades de observaci&oacute;n.</li>
+	<li>revisar documentos.</li>
+	<li>examinar registros y datos.</li>
+</ul>
+
+<p>Las listas de verificaci&oacute;n de auditor&iacute;as a menudo se usan para ayudar a organizar y documentar la evidencia y los hallazgos de la auditor&iacute;a. Es importante que se capturen los detalles de la evidencia y los hallazgos (p. ej., departamento, actividad, turno, t&iacute;tulo del puesto, lo que se dijo, lo que se observ&oacute;, qu&eacute; informaci&oacute;n documentada se revis&oacute;, qu&eacute; requisito no se cumpli&oacute;, la secci&oacute;n relevante de la gu&iacute;a 50001 Ready Navigator). Las no conformidades deben ser reproducibles para prop&oacute;sitos de acci&oacute;n correctiva y los hallazgos positivos deben ser reproducibles para una posible aplicaci&oacute;n en otras &aacute;reas.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Report internal audit results to relevant management)</p>
+<p>[Accordion](Informe los resultados de la auditor&iacute;a interna a la gerencia relevante)</p>
 
-<p>Some organizations record internal audit findings on an audit finding form. Other organizations record negative findings directly onto a corrective action request form and list the positive findings within an audit report or other summary of the audit results.</p>
+<p>Algunas organizaciones registran los hallazgos de auditor&iacute;a interna en un formulario de hallazgos de auditor&iacute;a. Otras organizaciones registran los resultados negativos directamente en un formulario de solicitud de acci&oacute;n correctiva y enumeran los resultados positivos dentro de un informe de auditor&iacute;a u otro resumen de los resultados de la auditor&iacute;a.</p>
 
-<p>The reporting of internal audit results to relevant management should be timely. This can be done in a closing meeting conducted by the lead auditor at the conclusion of the audit with attendance by the management whose operations were audited. Another approach is simply to distribute an audit report and/or corrective action request to each relevant manager. Corrective action on negative findings should be taken in a timely manner.</p>
+<p>El informe de los resultados de la auditor&iacute;a interna a la gerencia relevante debe ser oportuno. Esto se puede hacer en una reuni&oacute;n de cierre conducida por el auditor principal al final de la auditor&iacute;a con la asistencia de la administraci&oacute;n cuyas operaciones fueron auditadas. Otro m&eacute;todo es simplemente distribuir un informe de auditor&iacute;a y / o una solicitud de acci&oacute;n correctiva a cada gerente relevante. La acci&oacute;n correctiva sobre los resultados negativos debe adoptarse de manera oportuna.</p>
 
-<p>Trends in internal audit results, but not necessarily the detailed audit findings themselves, are reported into management review as part of the information on the performance of the EnMS. At the end of each audit, it is recommended that the lead auditor or the internal audit program manager collate or map the results by ISO 50001 requirements and by the areas/departments audited. The audit results matrix located in the optional Playbook worksheet can be used for this purpose. It enables trends in the results such as which requirements are presenting the greatest challenges and where (based on the number and location of nonconformities) to be identified. An audit results matrix for each internal audit can be combined to provide a single comprehensive view of the trends in overall conformity to EnMS requirements.</p>
+<p>Las tendencias en los resultados de la auditor&iacute;a interna, pero no necesariamente los hallazgos detallados de la auditor&iacute;a en s&iacute;, se informan en la revisi&oacute;n de la administraci&oacute;n como parte de la informaci&oacute;n sobre el desempe&ntilde;o del EnMS. Al final de cada auditor&iacute;a, se recomienda que el auditor principal o el gerente del programa de auditor&iacute;a interna recopilen o mapeen los resultados seg&uacute;n los requisitos de ISO 50001 y por las &aacute;reas / departamentos auditados. La matriz de resultados de auditor&iacute;a ubicada en la hoja de trabajo opcional Playbook se puede utilizar para este prop&oacute;sito. Permite identificar tendencias en los resultados, como los requerimientos que presentan los mayores desaf&iacute;os y d&oacute;nde (seg&uacute;n el n&uacute;mero y la ubicaci&oacute;n de las no conformidades). Se puede combinar una matriz de resultados de auditor&iacute;a para cada auditor&iacute;a interna para proporcionar una visi&oacute;n integral &uacute;nica de las tendencias en conformidad general con los requerimientos de EnMS.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Retain records)</p>
+<p>[Accordion](Conservar registros)</p>
 
-<p>In addition to retaining documented information (in this case, records) on the results of audits, you should retain documented information that demonstrates the implementation of the audit program. Typically, the documented information that is retained includes:</p>
+<p>Adem&aacute;s de conservar informaci&oacute;n documentada (en este caso, registros) sobre los resultados de las auditor&iacute;as, debe retener informaci&oacute;n documentada que demuestre la implementaci&oacute;n del programa de auditor&iacute;a. T&iacute;picamente, la informaci&oacute;n documentada que se conserva incluye:</p>
 
 <ul>
-	<li>Audit schedule(s)</li>
-	<li>Audit plan(s) or agenda(s)</li>
-	<li>Auditor training records</li>
-	<li>Audit nonconformity reports</li>
-	<li>Positive findings</li>
-	<li>Completed corrective action records</li>
-	<li>Evidence that audit results have been reported to relevant management</li>
-	<li>Trend data on audit results</li>
+	<li>Calendario (s) de auditor&iacute;a</li>
+	<li>Plan (es) de auditor&iacute;a o agenda (s)</li>
+	<li>Registros de capacitaci&oacute;n de auditores</li>
+	<li>Auditor&iacute;a de informes de no conformidad.</li>
+	<li>Hallazgos positivos</li>
+	<li>Registros de acciones correctivas realizadas</li>
+	<li>Evidencia de que los resultados de la auditor&iacute;a han sido reportados a la gerencia relevante</li>
+	<li>Datos de tendencias sobre los resultados de la auditor&iacute;a.</li>
 </ul>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>There are very few differences between the structure and management of internal audit programs for ISO 50001:2018 and those required for ISO 9001:2015 and ISO 14001:2015. The ISO 9001 and ISO 14001 standards actually have a few more specific program requirements (e.g., taking into consideration changes affecting the organization) than those included in ISO 50001. Even if an organization chooses not to conduct integrated management system audits, the ISO 9001, ISO 14001, and ISO 50001 systems can share common procedures for internal audit planning, conducting, and reporting. Or, alternatively, if the systems are to be maintained separately, the structure and requirements of those existing ISO 9001 or ISO 14001 internal audit processes, procedures, methods, and responsibilities can be easily copied and adapted for an ISO 50001 EnMS.</p>
+<p>Existen muy pocas diferencias entre la estructura y la gesti&oacute;n de los programas de auditor&iacute;a interna para ISO 50001: 2018 y los requeridos para ISO 9001: 2015 e ISO 14001: 2015. Las normas ISO 9001 e ISO 14001 en realidad tienen algunos requerimientos de programa m&aacute;s espec&iacute;ficos (por ejemplo, tener en cuenta los cambios que afectan a la organizaci&oacute;n) que los incluidos en ISO 50001. Aun en el caso de que una organizaci&oacute;n elija no realizar auditor&iacute;as integradas del sistema de gesti&oacute;n, la ISO 9001, los sistemas ISO 14001 e ISO 50001 pueden compartir procedimientos comunes para la planificaci&oacute;n, realizaci&oacute;n y presentaci&oacute;n de informes de auditor&iacute;a interna. Alternativamente, si los sistemas se deben mantener por separado, la estructura y los requisitos de los procesos, procedimientos, m&eacute;todos y responsabilidades de auditor&iacute;a interna ISO 9001 o ISO 14001 existentes se pueden copiar y adaptar f&aacute;cilmente para un EnMS ISO 50001.</p>
 
-<p>The key difference in internal audit requirements between ISO 50001 and the ISO 9001 and ISO 14001 standards is related to the intent of an internal audit. In addition to ensuring conformance and effective implementation and maintenance of the management system, ISO 50001 internal audits are conducted to provide information on whether energy performance improvement can be demonstrated. One practical implication of this ISO 50001 requirement relates to the training and competency of the internal auditors. The pool of internal auditors for ISO 50001 must include personnel who are comfortable with, and preferably experienced with, evaluation of data and data analyses. These skills may already be included among the members of the existing internal auditor pool; for example, where internal auditors for ISO 9001 are experienced with evaluating quality data. In ISO 14001 systems, environmental performance must also be evaluated; however, this could be implemented only through the processes for monitoring, measurement, analysis, and evaluation, not through the internal audit process itself. Some adjustments to the skills of the internal auditors may be needed to effectively audit energy performance in an ISO 50001 system. Existing internal auditors for quality and environmental management systems would need training in the requirements of ISO 50001 and the energy topics addressed in that standard in order to conduct internal audits of the EnMS effectively.</p>
+<p>La diferencia clave en los requisitos de auditor&iacute;a interna entre las normas ISO 50001 e ISO 9001 e ISO 14001 est&aacute; relacionada con la intenci&oacute;n de una auditor&iacute;a interna. Adem&aacute;s de garantizar la conformidad y la implementaci&oacute;n y el mantenimiento efectivo del sistema de gesti&oacute;n, se realizan auditor&iacute;as internas ISO 50001 para proporcionar informaci&oacute;n sobre la posibilidad de demostrar la mejora del rendimiento energ&eacute;tico. Una implicaci&oacute;n pr&aacute;ctica de este requisito de ISO 50001 se relaciona con la capacitaci&oacute;n y competencia de los auditores internos. El grupo de auditores internos para ISO 50001 debe incluir personal que se sienta c&oacute;modo y preferiblemente tenga experiencia con la evaluaci&oacute;n y an&aacute;lisis de datos. Estas habilidades ya pueden estar incluidas entre los miembros del grupo de auditores internos existentes; por ejemplo, cuando los auditores internos de ISO 9001 tienen experiencia en la evaluaci&oacute;n de datos de calidad. En los sistemas ISO 14001, tambi&eacute;n se debe evaluar el desempe&ntilde;o ambiental; sin embargo, esto podr&iacute;a implementarse solo a trav&eacute;s de los procesos de monitoreo, medici&oacute;n, an&aacute;lisis y evaluaci&oacute;n, no a trav&eacute;s del proceso de auditor&iacute;a interna en s&iacute;. Es posible que se necesiten algunos ajustes en las habilidades de los auditores internos para auditar eficazmente el rendimiento energ&eacute;tico en un sistema ISO 50001. Los auditores internos existentes para los sistemas de gesti&oacute;n de calidad y medio ambiente necesitar&iacute;an capacitaci&oacute;n en los requisitos de ISO 50001 y los temas de energ&iacute;a tratados en esa norma para llevar a cabo auditor&iacute;as internas del EnMS de manera efectiva.</p>
 
-<p>Like ISO 9001:2015 and ISO 14001:2015, the updated version of ISO 50001 now requires reporting of internal audit results to &ldquo;relevant management.&rdquo; The change from &ldquo;top management&rdquo; in ISO 50001:2011 to &ldquo;relevant management&rdquo; in ISO 50001:2018 further aligns the internal audit requirements across these three standards.</p>
+<p>Al igual que ISO 9001: 2015 e ISO 14001: 2015, la versi&oacute;n actualizada de ISO 50001 ahora requiere el informe de los resultados de auditor&iacute;a interna a la &quot;gerencia relevante&quot;. El cambio de &quot;alta direcci&oacute;n&quot; en ISO 50001: 2011 a &quot;gerencia relevante&quot; en ISO 50001: 2018 alinea a&uacute;n m&aacute;s los requisitos de auditor&iacute;a interna en estas tres normas.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>This guidance is relevant to steps 5.1, 5.2, 5.5, 6.1, and 6.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management.</em> You can leverage and modify elements of these ENERGY STAR guidelines in developing an EnMS internal audit program, however additional work will be needed to meet ISO 50001 requirements for conducting EnMS internal audits based on documented internal audit procedures, schedules, and plans. The ENERGY STAR guidelines recommend creating a communications plan and raising awareness across the site. ISO 50001 specifically requires retaining records to demonstrate the implementation of the internal audit program, as well as records of the audit results. Audit results are communicated to the relevant management.</p>
+<p>Esta gu&iacute;a es relevante para los pasos 5.1, 5.2, 5.5, 6.1 y 6.2 de las <em>Gu&iacute;as para la Gesti&oacute;n de Energ&iacute;a</em> ENERGY STAR&reg;. Puede aprovechar y modificar elementos de estas gu&iacute;as de ENERGY STAR al desarrollar un programa de auditor&iacute;a interna de EnMS, sin embargo, se necesitar&aacute; trabajo adicional para cumplir con los requisitos de ISO 50001 para realizar auditor&iacute;as internas de EnMS basadas en procedimientos, cronogramas y planes de auditor&iacute;a interna documentados. Las gu&iacute;as de ENERGY STAR recomiendan crear un plan de comunicaciones y sensibilizar al personal en todo el sitio. ISO 50001 requiere espec&iacute;ficamente la conservaci&oacute;n de registros para demostrar la implementaci&oacute;n del programa de auditor&iacute;a interna, as&iacute; como los registros de los resultados de la auditor&iacute;a. Los resultados de la auditor&iacute;a se comunican a la gerencia relevante.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

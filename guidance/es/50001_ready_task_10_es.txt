@@ -7,169 +7,169 @@ Oportunidades de Mejora
 Tarea 10: Identificamos y priorizamos las oportunidades de mejora del rendimiento energético, y contamos con procesos para actualizarlas.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Develop and document a methodology and criteria for how your organization will identify, prioritize, and update energy performance improvement opportunities.</li>
-	<li>Apply the methodology and criteria you developed to identify, prioritize, and update energy performance improvement opportunities.</li>
-	<li>Update the list of prioritized improvement opportunities at specific intervals and when major changes in sites, equipment, systems, or energy-using processes take place.</li>
+	<li>Desarrolle y documente una metodolog&iacute;a y criterios sobre la forma en que su organizaci&oacute;n identificar&aacute;, priorizar&aacute; y actualizar&aacute; las oportunidades de mejora del rendimiento energ&eacute;tico.</li>
+	<li>Aplique la metodolog&iacute;a y los criterios que desarroll&oacute; para identificar, priorizar y actualizar las oportunidades de mejora del rendimiento energ&eacute;tico.</li>
+	<li>Actualice la lista de oportunidades de mejora priorizadas en intervalos espec&iacute;ficos de tiempo y cuando ocurran cambios importantes en los sitios, equipos, sistemas o procesos que utilizan energ&iacute;a.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Opportunities for energy performance improvement are a key component of the energy review. Energy performance improvement opportunities are identified by examining current practice and determining how it can be improved. This process can bring to light the potential for improved operating practices, equipment and system improvements, and advanced technologies that would benefit your organization.</p>
+<p>Las oportunidades para mejorar el rendimiento energ&eacute;tico son un componente clave de la revisi&oacute;n energ&eacute;tica. Las oportunidades de mejora del rendimiento energ&eacute;tico se identifican al examinar las pr&aacute;cticas actuales y determinar c&oacute;mo se pueden mejorar. Este proceso puede sacar a la luz el potencial de mejores pr&aacute;cticas operativas, mejoras de equipos y sistemas, y tecnolog&iacute;as avanzadas que beneficiar&iacute;an a su organizaci&oacute;n.</p>
 
-<p>Opportunities are prioritized in accordance with your organization&rsquo;s criteria to optimize the use of resources.</p>
+<p>Las oportunidades se priorizan de acuerdo con los criterios de su organizaci&oacute;n para optimizar el uso de los recursos.</p>
 
-<p><em>This guidance is relevant to Section 6.3 d) of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 6.3 d) de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Identify energy performance improvement opportunities.)</p>
+<p>[Accordion](Identifique oportunidades de mejora del rendimiento energ&eacute;tico).</p>
 
-<p>Identification of energy performance improvement opportunities is the responsibility of the energy team. Input from all employees, as well as from external resources, should be solicited and considered as appropriate.</p>
+<p>La identificaci&oacute;n de las oportunidades de mejora del rendimiento energ&eacute;tico es responsabilidad del equipo de energ&iacute;a. Los aportes de todos los empleados, as&iacute; como de los recursos e instancias externas, deben solicitarse y considerarse en la medida que se considere apropiado.</p>
 
-<p>[Learn More](Benefits from implementing energy performance improvement opportunities)</p>
+<p>[Learn More](Beneficios de implementar oportunidades de mejora del rendimiento energ&eacute;tico)</p>
 
 <ul>
-	<li>Reduced energy consumption</li>
-	<li>Decreased operating and energy costs</li>
-	<li>Improved operating efficiency</li>
-	<li>Environmental improvements</li>
+	<li>Reducci&oacute;n del consumo de energ&iacute;a.</li>
+	<li>Disminuci&oacute;n de los costos operativos y de energ&iacute;a.</li>
+	<li>Mejora de la Eficiencia operativa</li>
+	<li>Mejoras ambientales</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>One common method for identifying opportunities is an energy assessment. Energy assessments are an excellent method for collecting data for the energy review (see Task 8 [task](Energy Data Collection and Analysis)) and provide a vital source of information for energy management planning, including identification of energy improvement opportunities. Assessments yield a &ldquo;snapshot&rdquo; of your organization&rsquo;s current energy performance and offer a list of quantified improvement measures. Assessments can be conducted by the energy manager, members of the energy team or continual improvement teams (e.g., Kaizen teams), corporate energy specialists, external consultants, utility personnel, or university experts.</p>
+<p>Un m&eacute;todo com&uacute;n para identificar oportunidades de mejora de rendimiento energ&eacute;tico es una evaluaci&oacute;n energ&eacute;tica. Las evaluaciones de energ&iacute;a son un m&eacute;todo excelente para recopilar datos para la revisi&oacute;n energ&eacute;tica (consulte la Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a)) y proporcionan una fuente vital de informaci&oacute;n para la planificaci&oacute;n de la gesti&oacute;n energ&eacute;tica, incluida la identificaci&oacute;n de oportunidades de mejora energ&eacute;tica. Las evaluaciones producen una &quot;instant&aacute;nea&quot; del rendimiento energ&eacute;tico actual de su organizaci&oacute;n y ofrecen una lista de medidas de mejora cuantificadas. Las evaluaciones pueden ser realizadas por el administrador de energ&iacute;a, miembros del equipo de energ&iacute;a o equipos de mejora continua (por ejemplo, equipos Kaizen), especialistas en energ&iacute;a corporativos, consultores externos, personal de servicios p&uacute;blicos o expertos universitarios.</p>
 
-<p>[Learn More](Energy assessments)</p>
+<p>[Learn More](Evaluaciones de energ&iacute;a)</p>
 
-<p>The types of opportunities identified depend on the scope and intent of the assessment, but they may address energy purchasing improvements, better operating and maintenance practices, and renovation or replacement of existing energy equipment. Elements of an energy assessment include the following:</p>
+<p>Los tipos de oportunidades identificadas dependen del alcance y la intenci&oacute;n de la evaluaci&oacute;n, pero pueden abordar mejoras en la compra de energ&iacute;a, mejores pr&aacute;cticas de operaci&oacute;n y mantenimiento, y renovaci&oacute;n o reemplazo de equipos de energ&iacute;a existentes. Los elementos de una evaluaci&oacute;n energ&eacute;tica incluyen lo siguiente:</p>
 
 <ul>
-	<li>Determining the scope of an assessment, including buildings, systems, and utility metering</li>
-	<li>Reviewing any past energy-efficiency projects to help focus the scope of the assessment</li>
-	<li>Reviewing past assessments and determining additional or updated information requirements</li>
-	<li>Developing the energy assessment plan based on the identified scope</li>
-	<li>Conducting the assessment</li>
-	<li>Recording the findings of the assessment(s)</li>
+	<li>Determinar el alcance de una evaluaci&oacute;n, incluyendo edificios, sistemas y medici&oacute;n de servicios de electricidad.</li>
+	<li>Revisar proyectos anteriores de eficiencia energ&eacute;tica para ayudar a definir el alcance de la evaluaci&oacute;n</li>
+	<li>Revisar evaluaciones pasadas y determinar requerimientos de informaci&oacute;n adicionales o actualizados.</li>
+	<li>Desarrollar el plan de evaluaci&oacute;n energ&eacute;tica basado en el alcance identificado.</li>
+	<li>Realizaci&oacute;n de la evaluaci&oacute;n.</li>
+	<li>Registrar los resultados de la (s) evaluaci&oacute;n (es)</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>The U.S. Department of Energy&rsquo;s Advanced Manufacturing Office also provides a variety of resources for identifying energy savings opportunities in specific energy systems, including a variety of online system assessment tools. System analysis tools are available for compressed air systems, fans, motors, pumps, process heating systems, steam systems, and industrial buildings. The American Society of Mechanical Engineers (ASME) System Assessment standards also provide guidance on energy system assessments. ASME guidance is available on sites and specific energy systems related to both industrial and commercial organizations.</p>
+<p>La Oficina de Manufactura Avanzada del Departamento de Energ&iacute;a de EE. UU. tambi&eacute;n proporciona una variedad de recursos para identificar oportunidades de ahorro de energ&iacute;a en sistemas de energ&iacute;a espec&iacute;ficos, incluida una variedad de herramientas disponibles en l&iacute;nea para la evaluaci&oacute;n de sistemas. Las herramientas de an&aacute;lisis del sistema est&aacute;n disponibles para sistemas de aire comprimido, ventiladores, motores, bombas, sistemas de calefacci&oacute;n de proceso, sistemas de vapor y edificios industriales. Los est&aacute;ndares de evaluaci&oacute;n del sistema de la Sociedad Americana de Ingenieros Mec&aacute;nicos (ASME) tambi&eacute;n brindan orientaci&oacute;n sobre las evaluaciones del sistema de energ&iacute;a. La gu&iacute;a ASME est&aacute; disponible en sitios y sistemas de energ&iacute;a espec&iacute;ficos relacionados con organizaciones industriales y comerciales.</p>
 
-<p>Personnel working for or on behalf of your organization are generally useful in defining energy opportunities not discovered during an energy assessment. These personnel may be closely associated with energy equipment or processes and may uncover unique opportunities because of their experience. Using this type of asset offers the potential to discover unconventional improvements and engage personnel who otherwise may not be actively involved in energy management.</p>
+<p>El personal que trabaja para su organizaci&oacute;n (o a nombre de ella) generalmente es &uacute;til para definir las oportunidades energ&eacute;ticas que no se descubren durante una evaluaci&oacute;n energ&eacute;tica. Este personal puede estar estrechamente asociado con equipos o procesos de energ&iacute;a y puede descubrir oportunidades &uacute;nicas debido a su experiencia. El uso de este tipo de activos ofrece el potencial de descubrir mejoras no convencionales e involucrar al personal que de otro modo no estar&iacute;a participando activamente en la gesti&oacute;n de la energ&iacute;a.</p>
 
-<p>Energy assessments are very effective but can be expensive. Other approaches to defining energy performance improvement opportunities are described in the &ldquo;Learn More&rdquo; link directly below.</p>
+<p>Las evaluaciones de energ&iacute;a son muy efectivas, pero pueden ser costosas. Otras opciones para definir las oportunidades de mejora del rendimiento energ&eacute;tico se describen en el enlace &quot;M&aacute;s informaci&oacute;n&quot; que se encuentra directamente abajo.</p>
 
-<p>[Learn More](Other approaches to defining energy performance improvement opportunities)</p>
+<p>[Learn More](Otros enfoques para definir oportunidades de mejora del rendimiento energ&eacute;tico)</p>
 
-<p>The following sources can help to identify energy performance improvement opportunities:</p>
+<p>Las siguientes fuentes de informaci&oacute;n pueden ayudar a identificar oportunidades de mejora del rendimiento energ&eacute;tico:</p>
 
 <ul>
-	<li>Employee suggestions</li>
-	<li>Utility representatives</li>
-	<li>Service technicians</li>
-	<li>Commercial building standards</li>
-	<li>Industrial sector standards</li>
-	<li>Equipment standards</li>
-	<li>Government organizations</li>
-	<li>Equipment vendors</li>
+	<li>Sugerencias de empleados</li>
+	<li>Representantes de compa&ntilde;&iacute;as de servicio el&eacute;ctrico</li>
+	<li>T&eacute;cnicos de servicio</li>
+	<li>Normas para edificios comerciales</li>
+	<li>Normas del sector industrial.</li>
+	<li>Est&aacute;ndares del equipo</li>
+	<li>Organizaciones gubernamentales</li>
+	<li>Vendedores de equipos.</li>
 </ul>
 
-<p>The optional Playbook worksheet can be helpful in finding and using other methods to identify opportunities. It identifies several different methods for spotting opportunities, as well as suggested contact points and possible outcomes of applying the method.</p>
+<p>La hoja de trabajo opcional de Playbook puede ser &uacute;til para encontrar y utilizar otros m&eacute;todos para identificar oportunidades. Identifique varios m&eacute;todos diferentes para detectar oportunidades, as&iacute; como puntos de contacto sugeridos y posibles resultados de la aplicaci&oacute;n del m&eacute;todo.</p>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Establish criteria for prioritizing opportunities)</p>
+<p>[Accordion](Establecer criterios para priorizar oportunidades)</p>
 
-<p>The next step in energy planning is to prioritize the opportunities. The choice of prioritization method is up to the organization; however, it must be systematic and ongoing. It can be difficult and time-consuming for your organization to process every potential improvement idea; prioritizing them based on defined criteria helps you focus resources on the most practical opportunities.</p>
+<p>El siguiente paso en la planificaci&oacute;n energ&eacute;tica es priorizar las oportunidades. La elecci&oacute;n del m&eacute;todo de priorizaci&oacute;n depende de la organizaci&oacute;n; sin embargo, debe ser sistem&aacute;tico y continuo. Puede ser dif&iacute;cil y lento para su organizaci&oacute;n procesar cada idea de mejora potencial; priorizar las ideas seg&uacute;n criterios definidos lo ayuda a dirigir los recursos hacia las oportunidades m&aacute;s pr&aacute;cticas.</p>
 
-<p>The following activities will help you develop and apply criteria for prioritizing opportunities:</p>
+<p>Las siguientes actividades lo ayudar&aacute;n a desarrollar y aplicar criterios para priorizar oportunidades:</p>
 
 <ul>
-	<li>Get the right people together.</li>
-	<li>Review relevant organizational information.</li>
-	<li>Determine criteria.</li>
-	<li>Develop tools or techniques for applying criteria.</li>
-	<li>Apply criteria to prioritize opportunities.</li>
+	<li>Re&uacute;na a las personas adecuadas.</li>
+	<li>Revise la informaci&oacute;n organizacional relevante.</li>
+	<li>Determine criterios.</li>
+	<li>Desarrolle herramientas o t&eacute;cnicas para aplicar criterios.</li>
+	<li>Aplique criterios para priorizar oportunidades.</li>
 </ul>
 
-<p><strong>Get the right people together. </strong>Involve individuals from different functions and levels within your organization in developing the criteria for prioritizing your organization&rsquo;s opportunities. Different points of view will ensure consideration of a wide range of potential factors. If the energy team already has adequate representation from across the various functions and levels, then no additions to the team may be needed. On the other hand, this can be a time to involve other personnel who may bring specific knowledge or experience useful to the process of setting the criteria for prioritizing opportunities. This could include, for example, personnel knowledgeable about your organization&rsquo;s capital planning or project justification processes.</p>
+<p><strong>Re&uacute;na a las personas adecuadas</strong>. Involucre a personas de diferentes funciones y niveles dentro de su organizaci&oacute;n en el desarrollo de los criterios para priorizar las oportunidades de su organizaci&oacute;n. Diferentes puntos de vista asegurar&aacute;n la consideraci&oacute;n de una amplia gama de factores potenciales. Si el equipo de energ&iacute;a ya tiene una representaci&oacute;n adecuada de las diversas funciones y niveles, entonces no se necesitar&aacute;n adiciones al equipo. Por otro lado, este puede ser un momento para involucrar a otros integrantes del personal que pueden aportar conocimientos espec&iacute;ficos o experiencias &uacute;tiles para el proceso de establecer los criterios para priorizar las oportunidades. Esto podr&iacute;a incluir, por ejemplo, personal con conocimientos sobre los procesos de planificaci&oacute;n de adquisici&oacute;n de bienes de capital o de justificaci&oacute;n de proyectos de su organizaci&oacute;n.</p>
 
-<p><strong>Review relevant organizational information.</strong> The energy team should gather and review organizational information that may affect the criteria and the approach to be used in prioritizing opportunities. In addition, it may be helpful for the energy team to be aware of any existing risk assessment processes already in use by your organization, and a clear understanding of your organization&rsquo;s safety and environmental risk tolerance.</p>
+<p><strong>Revisar la informaci&oacute;n organizacional relevante</strong>. El equipo de energ&iacute;a debe reunir y revisar la informaci&oacute;n de la organizaci&oacute;n que pueda afectar los criterios y el enfoque que se utilizar&aacute; para priorizar las oportunidades. Adem&aacute;s, puede ser &uacute;til para el equipo de energ&iacute;a conocer los procesos de evaluaci&oacute;n de riesgos existentes que ya est&aacute;n en uso por parte de su organizaci&oacute;n, y comprender claramente la tolerancia a los riesgos ambientales y de seguridad de su organizaci&oacute;n.</p>
 
-<p>[Learn More](Relevant organizational information)</p>
+<p>[Learn More](informaci&oacute;n organizacional relevante)</p>
 
-<p>Relevant organizational information could include:</p>
-
-<ul>
-	<li>organizational business strategies.</li>
-	<li>current hurdles or financial requirements for proposed capital projects.</li>
-	<li>operations and maintenance (O&amp;M) projects.</li>
-	<li>other types of resource or funding requests.</li>
-	<li>production or market forecasts.</li>
-	<li>corporate requirements.</li>
-</ul>
-
-<p>[Learn More End]</p>
-
-<p><strong>Determine criteria. </strong>When selecting criteria, consider the organizational information you collected, and develop criteria that will address your organization&rsquo;s needs and requirements.</p>
-
-<p>[Learn More](Criteria examples)</p>
-
-<p>Examples of criteria include:</p>
+<p>La informaci&oacute;n organizacional relevante podr&iacute;a incluir:</p>
 
 <ul>
-	<li>estimated energy or cost savings.</li>
-	<li>cost of opportunity implementation.</li>
-	<li>return on investment, internal rate of return, net present value, and life cycle cost.</li>
-	<li>ease of opportunity implementation.</li>
-	<li>length of implementation period.</li>
-	<li>possible safety, health, and environmental issues.</li>
-	<li>maintenance impact.</li>
-	<li>production or operational impact.</li>
+	<li>Estrategias empresariales organizacionales.</li>
+	<li>Obst&aacute;culos actuales o requisitos financieros para proyectos de capital propuestos.</li>
+	<li>Proyectos de operaciones y mantenimiento (O&amp;M).</li>
+	<li>Otros tipos de recursos o solicitudes de financiamiento.</li>
+	<li>Pron&oacute;sticos de producci&oacute;n o mercado.</li>
+	<li>Requerimientos Corporativos.</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>You determine the type and number of criteria to be used. One or two criteria may be sufficient, or many may be required. You also determine whether scoring or rating scales for each criterion will be established and applied (e.g., a range of energy savings that are acceptable). If only one criterion is to be used, a simple go / no go limit may be adequate. Multiple criteria typically require a process for determining the relative importance of each criteria and how they will be evaluated (see the next activity).</p>
+<p><strong>Determinar criterios</strong>. Al seleccionar criterios, considere la informaci&oacute;n que recopil&oacute; de la organizaci&oacute;n y desarrolle criterios que aborden las necesidades y requisitos de su organizaci&oacute;n.</p>
 
-<p>Remember to maintain documented information on the criteria that will be used to prioritize the opportunities. This ensures the criteria are clearly understood and uniformly applied. The optional Playbook worksheet can give you some ideas on how criteria can be documented.</p>
+<p>[Learn More](Ejemplos de Criterios)</p>
 
-<p>[Accordion End]</p>
-
-<p>[Accordion](Apply criteria for prioritizing opportunities)</p>
-
-<p><strong>Develop tools or techniques for applying criteria.</strong> You now have developed criteria for prioritizing opportunities. This ensures that your organization&rsquo;s resources are focused on the most viable set of potential energy performance improvement projects. Developing tools or techniques to apply the criteria can make the process of prioritization easier.</p>
-
-<p>If your organization already has the tools to prioritize potential projects, it may make sense to use (or adapt) those same tools for prioritizing energy performance improvement opportunities.</p>
-
-<p>Typically, the criteria used to evaluate projects will have different levels of importance. If the criteria are not equally important, then the energy team should determine the relative weighting.</p>
-
-<p>As an example, within your organization, estimated cost savings may be more important than the ease of implementing the opportunity. In this case, cost savings might be weighted twice as heavily as the ease of implementation criteria.</p>
-
-<p><strong>Apply criteria to prioritize opportunities.</strong> Reorder the list of energy opportunities from highest to lowest priority. Use a &ldquo;reality check&rdquo; to evaluate the prioritized list; that is, ensure the list makes sense from perspectives that may not be directly reflected by the criteria, and that the opportunities seem to fall in line with the organization&rsquo;s expectations. If one or more of the opportunities appear to not make sense, it may be necessary to reevaluate the criteria or the weightings used for the criteria. Consider the following questions:</p>
+<p>Ejemplos de criterios incluyen:</p>
 
 <ul>
-	<li>Does the prioritized list make sense with regard to your organization&rsquo;s overall business objectives and plans?</li>
-	<li>Are there criteria that have not been considered that have skewed the prioritization?</li>
-	<li>Do the weights reflect your organization&rsquo;s priorities?</li>
-	<li>Are there any planned organizational or other changes that will affect the prioritized list?</li>
+	<li>Ahorro estimado de energ&iacute;a o costos.</li>
+	<li>Costo de implementaci&oacute;n de oportunidades.</li>
+	<li>Retorno de la inversi&oacute;n, tasa interna de retorno, valor presente neto y costo del ciclo de vida.</li>
+	<li>Facilidad de implementaci&oacute;n de oportunidades.</li>
+	<li>Duraci&oacute;n del per&iacute;odo de implementaci&oacute;n.</li>
+	<li>Posibles problemas de seguridad, salud y medio ambiente.</li>
+	<li>impacto en el mantenimiento.</li>
+	<li>Impacto en la producci&oacute;n u operaciones.</li>
 </ul>
 
-<p>As new energy opportunities are identified, ensure they are prioritized and included in the list.</p>
+<p>[Learn More End]</p>
+
+<p>Usted determina el tipo y la cantidad de criterios que se utilizar&aacute;n. Uno o dos criterios pueden ser suficientes, o muchos criterios pueden ser necesarios. Tambi&eacute;n usted determina si se establecer&aacute;n y aplicar&aacute;n escalas de puntuaci&oacute;n o calificaci&oacute;n para cada criterio (por ejemplo, un rango de ahorro de energ&iacute;a que sea aceptable). Si solo se va a utilizar un criterio, un l&iacute;mite simple de ir / no ir puede ser adecuado. Los criterios m&uacute;ltiples generalmente requieren un proceso para determinar la importancia relativa de cada criterio y c&oacute;mo se evaluar&aacute;n (vea la siguiente actividad).</p>
+
+<p>Recuerde mantener informaci&oacute;n documentada sobre los criterios que se utilizar&aacute;n para priorizar las oportunidades. Esto asegura que los criterios se entiendan claramente y se apliquen de manera uniforme. La hoja de trabajo opcional de Playbook puede darle algunas ideas sobre c&oacute;mo se pueden documentar los criterios.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Implement processes to update the prioritized energy opportunities)</p>
+<p>[Accordion](Aplicar criterios para priorizar oportunidades)</p>
 
-<p>As a component of the energy review, the prioritized opportunities for energy performance improvement must be updated at specific intervals and when major changes in sites, equipment, systems, or energy-using processes take place. The specific interval for the updating is defined by your organization. The interval chosen can be the same as that defined for the energy review as a whole, or as defined for other components of the energy review, or defined as an interval specific only to the updating of the energy opportunities. The minimum interval typically chosen by organizations is at least once a year.</p>
+<p><strong>Desarrollar herramientas o t&eacute;cnicas para aplicar criterios</strong>. Ahora ha desarrollado criterios para priorizar oportunidades. Esto garantiza que los recursos de su organizaci&oacute;n se centren en el conjunto m&aacute;s viable de proyectos potenciales de mejora del rendimiento energ&eacute;tico. El desarrollo de herramientas o t&eacute;cnicas para aplicar los criterios puede facilitar el proceso de priorizaci&oacute;n.</p>
 
-<p>Ensuring that energy opportunities are updated when major changes are made should be integrated with the updating of all components of the energy review in response to major changes in sites, equipment, systems, and energy-using processes. Such changes can present new opportunities for energy performance improvement, can negate some energy opportunities, or can affect the prioritization of the energy opportunities. The best approach for appropriate updating is to ensure that the relevant personnel (e.g., energy manager, energy team leader, one or more members of the energy team) are included in the planning for the types of major changes mentioned above. To be effective for the EnMS, change management processes must give attention to the effects of the changes on the energy situation of the organization, including the energy review and all its components.</p>
+<p>Si su organizaci&oacute;n ya tiene las herramientas para priorizar proyectos potenciales, puede tener sentido usar (o adaptar) esas mismas herramientas para priorizar las oportunidades de mejora del rendimiento energ&eacute;tico.</p>
+
+<p>Por lo general, los criterios utilizados para evaluar los proyectos tendr&aacute;n diferentes niveles de importancia. Si los criterios no son igualmente importantes, entonces el equipo de energ&iacute;a debe determinar la ponderaci&oacute;n relativa de cada uno.</p>
+
+<p>Como ejemplo, dentro de su organizaci&oacute;n, el ahorro estimado de costos puede ser m&aacute;s importante que la facilidad de implementar la oportunidad. En este caso, el ahorro de costos podr&iacute;a ser ponderado como dos veces m&aacute;s importante que la facilidad de los criterios de implementaci&oacute;n.</p>
+
+<p><strong>Aplicar criterios para priorizar oportunidades</strong>. Reordene la lista de oportunidades de energ&iacute;a de mayor a menor prioridad. Haga un ejercicio de &quot;poner los pies en la tierra&quot; para evaluar la lista priorizada; es decir, aseg&uacute;rese de que la lista tenga sentido desde perspectivas que pueden no estar directamente reflejadas por los criterios, y que las oportunidades parezcan estar en l&iacute;nea con las expectativas de la organizaci&oacute;n. Si una o m&aacute;s de las oportunidades parecen no tener sentido, puede ser necesario reevaluar los criterios o las ponderaciones utilizadas para los criterios. Considere las siguientes preguntas:</p>
+
+<ul>
+	<li>&iquest;Tiene sentido la lista priorizada con respecto a los objetivos y planes comerciales generales de su organizaci&oacute;n?</li>
+	<li>&iquest;Existen criterios que no se han considerado que hayan afectado el orden de la priorizaci&oacute;n?</li>
+	<li>&iquest;Las ponderaciones de importancia reflejan las prioridades de su organizaci&oacute;n?</li>
+	<li>&iquest;Se planean cambios organizativos o de otro tipo que afectar&aacute;n la lista de prioridades?</li>
+</ul>
+
+<p>A medida que se identifiquen nuevas oportunidades de energ&iacute;a, aseg&uacute;rese de que sean priorizadas e incluidas en la lista.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Implementar procesos para actualizar las oportunidades de energ&iacute;a priorizadas)</p>
+
+<p>Como componente de la revisi&oacute;n energ&eacute;tica, las oportunidades priorizadas para la mejora del rendimiento energ&eacute;tico deben actualizarse en periodos de tiempo espec&iacute;ficos y cuando se producen cambios importantes en los sitios, equipos, sistemas o procesos que utilizan energ&iacute;a. El periodo espec&iacute;fico para la actualizaci&oacute;n lo define su organizaci&oacute;n. El intervalo elegido puede ser el mismo que el definido para la revisi&oacute;n energ&eacute;tica en su conjunto, o como se defina para otros componentes de la revisi&oacute;n energ&eacute;tica, o definido como un intervalo espec&iacute;fico solo para la actualizaci&oacute;n de las oportunidades de energ&iacute;a. El intervalo m&iacute;nimo t&iacute;picamente elegido por las organizaciones es al menos una vez al a&ntilde;o.</p>
+
+<p>Asegurar que las oportunidades de mejora en el consumo de energ&iacute;a se actualicen cuando se realicen cambios importantes debe integrarse con la actualizaci&oacute;n de todos los componentes de la revisi&oacute;n energ&eacute;tica en respuesta a cambios importantes en los sitios, equipos, sistemas y procesos que utilizan energ&iacute;a. Tales cambios pueden presentar nuevas oportunidades para mejorar el rendimiento energ&eacute;tico, pueden cancelar algunas oportunidades de energ&iacute;a o pueden afectar la priorizaci&oacute;n de las oportunidades de energ&iacute;a. El mejor enfoque para una actualizaci&oacute;n adecuada es garantizar que el personal relevante (por ejemplo, el administrador de energ&iacute;a, el l&iacute;der del equipo de energ&iacute;a, uno o m&aacute;s miembros del equipo de energ&iacute;a) est&eacute;n incluidos en la planificaci&oacute;n de los tipos de cambios importantes mencionados anteriormente. Para ser efectivo para el EnMS, los procesos de gesti&oacute;n del cambio deben prestar atenci&oacute;n a los efectos de los cambios en la situaci&oacute;n energ&eacute;tica de la organizaci&oacute;n, incluida la revisi&oacute;n energ&eacute;tica y todos sus componentes.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Although not required, organizations with an ISO 14001:2015 environmental management system may have processes in place to capture and prioritize environmental performance improvement opportunities (i.e., potential environmental projects) as inputs to the setting of environmental objectives and the planning of actions to achieve them. Some of those opportunities could be energy related. Any processes in place to identify and prioritize those opportunities could be useful for energy opportunities as well under ISO 50001:2018.</p>
+<p>Aunque no es obligatorio, las organizaciones con un sistema de gestión ambiental ISO 14001: 2015 pueden tener procesos establecidos para capturar y priorizar las oportunidades de mejora del desempeño ambiental (es decir, proyectos ambientales potenciales) como insumos para el establecimiento de objetivos ambientales y la planificación de acciones para alcanzarlos. Algunas de esas oportunidades podrían estar relacionadas con la energía. Cualquier proceso implementado para identificar y priorizar esas oportunidades podría también ser útil para las oportunidades de energía bajo ISO 50001: 2018.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 2.5 and Step 3.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> provide guidance on identifying energy improvement opportunities such as conducting energy audits. The ENERGY STAR <em>Energy Treasure Hunt Guide</em> is another helpful ENERGY STAR resource that your organization may already be using to help identify low-cost/no-cost energy saving opportunities. The guidance contained in this task contains additional details, tools, and worksheets that can be helpful for identifying additional opportunities and prioritizing all opportunities</p>
+<p>Los pasos 2.5 y 3.2 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> de ENERGY STAR&reg; brindan orientaci&oacute;n sobre la identificaci&oacute;n de oportunidades de mejora energ&eacute;tica, como la realizaci&oacute;n de auditor&iacute;as energ&eacute;ticas. La Gu&iacute;a de B&uacute;squeda de Tesoros Energ&eacute;ticos de ENERGY STAR es otro recurso &uacute;til de ENERGY STAR que su organizaci&oacute;n ya puede estar utilizando para ayudar a identificar oportunidades de ahorro de energ&iacute;a de bajo costo / sin costo. La gu&iacute;a contenida en esta tarea contiene detalles adicionales, herramientas y hojas de trabajo que pueden ser &uacute;tiles para identificar oportunidades adicionales y priorizar todas las oportunidades.</p>
 
-<p>Step 3.2 of the ENERGY STAR <em>Guidelines for Energy Management</em> provides some tips on estimating potential for improvement, which include reviewing opportunities to reduce energy consumption.</p>
+<p>El paso 3.2 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a </em>ENERGY STAR proporciona algunos consejos para estimar el potencial de mejora, que incluyen la revisi&oacute;n de oportunidades para reducir el consumo de energ&iacute;a.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
