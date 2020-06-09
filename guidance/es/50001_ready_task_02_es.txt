@@ -7,189 +7,189 @@ Gente y Requerimientos Legales que afectan el Sistema de Gestión de Energía (E
 Tarea 2: Determinamos las partes interesadas y los requerimientos legales y de otro tipo relacionados con la energía relevantes para nuestro rendimiento energético y el sistema de gestión de energía. En periodos de tiempo definidos, revisamos estos requerimientos y evaluamos nuestro cumplimiento con ellos.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Identify and record the interested parties relevant to your organization&rsquo;s energy performance and energy management system (EnMS).</li>
-	<li>Determine the needs and expectations of these interested parties as they relate to your organization&rsquo;s EnMS.</li>
-	<li>Identify the applicable legal and other requirements related to energy.</li>
-	<li>Implement a process to periodically evaluate compliance with the identified requirements.</li>
+	<li>Identifique y registre las partes interesadas relevantes para el rendimiento energ&eacute;tico y el sistema de gesti&oacute;n de energ&iacute;a (EnMS) de su organizaci&oacute;n.</li>
+	<li>Determine las necesidades y expectativas de estas partes interesadas en relaci&oacute;n con el EnMS de su organizaci&oacute;n.</li>
+	<li>Identifique los requerimientos legales y otros requerimientos relacionados con la energ&iacute;a que correspondan.</li>
+	<li>Implemente un proceso para evaluar peri&oacute;dicamente el cumplimiento de los requerimientos identificados.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>The interested parties and their requirements relevant to your energy performance and energy management system (EnMS) are an extension of the external and internal context issues identified as part of Task 1 [task](An EnMS and Your Organization). This task involves identifying those interested parties, understanding their needs and expectations, and determining requirements your organization must follow that will be addressed in your EnMS.</p>
+<p>Las partes interesadas y sus requerimientos relevantes a su rendimiento energ&eacute;tico y sistema de gesti&oacute;n de energ&iacute;a (EnMS) son una extensi&oacute;n de los problemas de contexto externo e interno identificados como parte de la Tarea 1 [tarea] (Un EnMS y su Organizaci&oacute;n). Esta tarea implica identificar a las partes interesadas, comprender sus necesidades y expectativas, y determinar los requisitos que debe seguir su organizaci&oacute;n y que se abordar&aacute;n en su EnMS.</p>
 
-<p>An interested party is &ldquo;a person or organization that can affect, be affected by, or perceive itself to be affected by a decision or activity&rdquo; as related to your organization&rsquo;s energy performance and EnMS. An interested party that &ldquo;perceives&rdquo; itself to be affected by such decisions or activities must make this known to your organization.</p>
+<p>Una parte interesada es &quot;una persona u organizaci&oacute;n que puede afectar, verse afectada o percibirse afectada por una decisi&oacute;n o actividad&quot; en relaci&oacute;n con el rendimiento energ&eacute;tico de su organizaci&oacute;n y el EnMS. Una parte interesada que &quot;se perciba&quot; a s&iacute; misma como afectada por tales decisiones o actividades debe informarlo a su organizaci&oacute;n.</p>
 
-<p>Identifying, accessing, reviewing, and updating applicable energy-related legal and other requirements is a logical follow-on from determining interested parties&rsquo; requirements, and an important component of comprehensive energy management. These requirements must be addressed within your EnMS. Those that include mandates for specific energy data collection and reporting may need to be inputs into the energy review (see Task 8 [task](Energy Data Collection and Analysis)).</p>
+<p>Identificar, acceder, revisar y actualizar los requisitos legales relacionados con la energ&iacute;a que correspondan y otros requisitos representa un seguimiento l&oacute;gico de la determinaci&oacute;n de los requisitos de las partes interesadas y un componente importante de la gesti&oacute;n integral de la energ&iacute;a. Estos requisitos deben abordarse dentro de su EnMS. Los que incluyen mandatos para la recopilaci&oacute;n e informes de datos de energ&iacute;a espec&iacute;ficos pueden necesitar ser aportes a la revisi&oacute;n energ&eacute;tica (ver Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a)).</p>
 
-<p>Legal requirements are those embedded in law or otherwise imposed by a governmental entity or regulatory agency. You need to develop a complete picture of your organization&rsquo;s energy-related legal requirements so ongoing compliance with those requirements can be maintained.</p>
+<p>Los requerimientos legales son aquellos incluidos en la ley o impuestos por una entidad gubernamental o agencia reguladora. Debe desarrollar una imagen completa de los requerimientos legales relacionados con la energ&iacute;a de su organizaci&oacute;n para que se pueda mantener el cumplimiento continuo de esos requerimientos.</p>
 
-<p>In addition to legal requirements, there are a variety of &ldquo;other requirements&rdquo; related to energy that an organization may have adopted or is subject to (e.g., a corporate energy mandate) or may commit to voluntarily (e.g., U.S. Environmental Protection Agency ENERGY STAR<sup>&reg;</sup>). Your organization&rsquo;s processes for identifying, accessing, evaluating, and keeping abreast of applicable legal requirements must address these &ldquo;other requirements&rdquo; as well.</p>
+<p>Adem&aacute;s de los requerimientos legales, hay una variedad de &quot;otros requerimientos&quot; relacionados con la energ&iacute;a que una organizaci&oacute;n puede haber adoptado o que tiene que cumplir (por ejemplo, un mandato corporativo de energ&iacute;a) o puede comprometerse voluntariamente (por ejemplo, la Agencia de Protecci&oacute;n Ambiental de EE. UU. ENERGY STAR &reg;). Los procesos de su organizaci&oacute;n para identificar, acceder, evaluar y mantenerse al tanto de los requerimientos legales aplicables tambi&eacute;n deben abordar estos &quot;otros requerimientos&quot;.</p>
 
-<p>Personnel assigned responsibility for identifying and accessing the various energy-related legal and other requirements typically also have responsibility for evaluating and updating those requirements. Clearly defined and communicated roles, responsibilities, and authorities are critical for maintaining compliance.</p>
+<p>El personal asignado a la responsabilidad de identificar y acceder a los diversos requerimientos legales y de otro tipo relacionados con la energ&iacute;a generalmente tambi&eacute;n tiene la responsabilidad de evaluar y actualizar esos requerimientos. Las funciones, responsabilidades y autoridades claramente definidas y comunicadas son cr&iacute;ticas para mantener el cumplimiento.</p>
 
-<p>On a routine basis, you need to evaluate your organization&rsquo;s compliance with the legal and other requirements that apply to its energy use, energy consumption, and energy efficiency. The purpose of evaluating compliance is to ensure that your organization is meeting those requirements. When your organization is either not meeting or has the potential of not meeting the requirements, appropriate action is taken.</p>
+<p>De manera rutinaria, debe evaluar el cumplimiento de su organizaci&oacute;n con los requerimientos legales y de otro tipo que se aplican a su uso de energ&iacute;a, consumo de energ&iacute;a y eficiencia energ&eacute;tica. El prop&oacute;sito de evaluar el cumplimiento es garantizar que su organizaci&oacute;n cumpla con esos requerimientos. Cuando su organizaci&oacute;n no cumple o tiene el potencial de no cumplir con los requerimientos, se toman las medidas apropiadas.</p>
 
-<p><em>This guidance is relevant to sections 4.2 and 9.1.2 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para las secciones 4.2 y 9.1.2 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Determine the interested parties relevant to your energy performance and EnMS)</p>
+<p>[Accordion](Determine las partes interesadas relevantes para su rendimiento energ&eacute;tico y su EnMS)</p>
 
-<p>Identifying interested parties relevant to your energy performance and energy management system (EnMS) complements the strategic, high-level understanding of the organization&rsquo;s context determined in Task 1 [task](An EnMS and Your Organization).</p>
+<p>La identificaci&oacute;n de las partes interesadas relevantes para su rendimiento energ&eacute;tico y el sistema de gesti&oacute;n de energ&iacute;a (EnMS) complementa la comprensi&oacute;n estrat&eacute;gica de alto nivel del contexto de la organizaci&oacute;n determinada en la Tarea 1 [tarea] (Un EnMS y su Organizaci&oacute;n).</p>
 
-<p>Identifying interested parties and their requirements is best performed by leveraging the multiple organizational perspectives represented by the energy team (see Task 6 [task](Energy Team and Resources)). The energy team can help ensure that a comprehensive approach has been taken and that the interested parties identified are indeed relevant to your energy performance and EnMS. If an energy team is not yet established, an individual can complete this task, and the results can be reviewed when the energy team is formed or during an annual review of the EnMS.</p>
+<p>La identificaci&oacute;n de las partes interesadas y sus requisitos se realiza mejor aprovechando las m&uacute;ltiples perspectivas organizacionales representadas por el equipo de energ&iacute;a (ver Tarea 6 Tarea 6 [tarea] (Equipo de Energ&iacute;a y Recursos)). El equipo de energ&iacute;a puede ayudar a garantizar que se haya adoptado un enfoque integral y que las partes interesadas identificadas sean realmente relevantes para su rendimiento energ&eacute;tico y EnMS. Si a&uacute;n no se ha establecido un equipo de energ&iacute;a, un individuo puede completar esta tarea, y los resultados pueden revisarse cuando se forma el equipo de energ&iacute;a o durante una revisi&oacute;n anual del EnMS.</p>
 
-<p>An interested party is &ldquo;a person or organization that can affect, be affected by, or perceive itself to be affected by a decision or activity.&rdquo; In this case, we are concerned with decisions or activities as related to your organization&rsquo;s energy performance and EnMS. An interested party that &ldquo;perceives&rdquo; itself to be affected by such decisions or activities must make this known to your organization.</p>
+<p>Una parte interesada es &quot;una persona u organizaci&oacute;n que puede afectar, verse afectada o percibirse afectada por una decisi&oacute;n o actividad&quot;. En este caso, nos interesan las decisiones o actividades relacionadas con el rendimiento energ&eacute;tico y el EnMS de su organizaci&oacute;n. Una parte interesada que &quot;se perciba&quot; a s&iacute; misma como afectada por tales decisiones o actividades debe informarlo a su organizaci&oacute;n.</p>
 
-<p>Potential interested parties may include, but are not limited to:</p>
+<p>Las posibles partes interesadas pueden incluir, entre otras:</p>
 
 <ul>
-	<li>Government agencies or regulatory authorities (federal, state, local, tribal)</li>
-	<li>Local community groups</li>
-	<li>Neighbors</li>
-	<li>Customers</li>
-	<li>Suppliers and contractors</li>
-	<li>&ldquo;Corporate&rdquo; or parent organizations</li>
-	<li>Trade and professional associations</li>
-	<li>Non-governmental organizations</li>
+	<li>Agencias gubernamentales o autoridades reguladoras (federales, estatales, locales, tribales)</li>
+	<li>grupos de la comunidad local</li>
+	<li>Vecinos</li>
+	<li>Clientes</li>
+	<li>Proveedores y contratistas.</li>
+	<li>Organizaciones &quot;corporativas&quot; o matrices</li>
+	<li>Asociaciones comerciales y profesionales.</li>
+	<li>Organizaciones no gubernamentales</li>
 </ul>
 
-<p>It can be helpful to capture the information used to identify interested parties in a table or matrix, but there is no specific requirement that this information be maintained or retained as documented information.</p>
+<p>Puede ser &uacute;til capturar la informaci&oacute;n utilizada para identificar a las partes interesadas en una tabla o matriz, pero no existe un requisito espec&iacute;fico de que esta informaci&oacute;n se mantenga o conserve como informaci&oacute;n documentada.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Determine which interested parties&rsquo; needs and expectations are requirements you will address in your EnMS)</p>
+<p>[Accordion](Determine qu&eacute; necesidades y expectativas de las partes interesadas son requerimientos que atender&aacute; en su EnMS)</p>
 
-<p>Determining interested parties necessarily involves understanding what their needs and expectations are related to your organization&rsquo;s energy performance and EnMS.</p>
+<p>La determinaci&oacute;n de las partes interesadas implica necesariamente comprender cu&aacute;les son sus necesidades y expectativas relacionadas con el rendimiento energ&eacute;tico y el EnMS de su organizaci&oacute;n.</p>
 
-<p>Interested parties&rsquo; relevant needs and expectations can be requirements because they are mandatory, e.g., the interested party is a regulatory agency or &ldquo;corporate&rdquo; for your organization. Many of these expectations may be identified as applicable energy-related legal requirements. The second half of this task discusses identifying and documenting these requirements.</p>
+<p>Las necesidades y expectativas relevantes de las partes interesadas pueden ser requisitos porque son obligatorias. Por ejemplo, la parte interesada es una agencia reguladora o &quot;corporativa&quot; para su organizaci&oacute;n. Muchas de estas expectativas pueden identificarse como requisitos legales aplicables relacionados con la energ&iacute;a. La segunda mitad de esta tarea analiza la identificaci&oacute;n y documentaci&oacute;n de estos requisitos.</p>
 
-<p>Or, the needs and expectations can be requirements because your organization has voluntarily agreed to meet them, e.g., by following the local Chamber of Commerce&rsquo;s sustainability code of practice or ENERGY STAR practices. Needs and expectations that are neither mandatory under law or regulation nor voluntarily adopted by your organization are not requirements that need to be addressed in your EnMS, even if an interested party thinks they should be.</p>
+<p>O bien, las necesidades y expectativas pueden ser requisitos porque su organizaci&oacute;n ha aceptado cumplirlas voluntariamente, por ejemplo, siguiendo el c&oacute;digo de pr&aacute;cticas de sostenibilidad de la C&aacute;mara de Comercio local o las pr&aacute;cticas de ENERGY STAR. Las necesidades y expectativas que no son obligatorias seg&uacute;n la ley o la regulaci&oacute;n ni que su organizaci&oacute;n adopta voluntariamente no son requisitos que deben abordarse en su EnMS, incluso si una parte interesada cree que deber&iacute;an serlo.</p>
 
-<p>The Playbook worksheet can be used to capture and work through the interested parties&rsquo; needs and expectations and to determine which of those are or will be requirements to be included in your organization&rsquo;s EnMS.</p>
+<p>La hoja de trabajo de Playbook se puede usar para capturar y trabajar a trav&eacute;s de las necesidades y expectativas de las partes interesadas y para determinar cu&aacute;les son o ser&aacute;n requerimientos para ser incluidos en el EnMS de su organizaci&oacute;n.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Identify and access applicable energy-related legal requirements)</p>
+<p>[Accordion](Identifique y acceda a los requerimientos legales aplicables relacionados con la energ&iacute;a)</p>
 
-<p>This part of the task involves identifying and establishing access to the federal, state, and local legal and regulatory requirements that apply to your organization&rsquo;s energy use, energy consumption, and energy efficiency. Some of this information may have been developed as part of the determination of interested parties and their applicable requirements. For most organizations, this process is already in place for environmental regulatory compliance. In addition, be aware that a number of environmental regulations, particularly some of those regulating air emissions, can be relevant to both the organization&rsquo;s environmental impacts and its energy uses.</p>
+<p>Esta parte de la tarea implica identificar y establecer el acceso a los requisitos legales y reglamentarios federales, estatales y locales que se aplican al uso de energ&iacute;a, el consumo de energ&iacute;a y la eficiencia energ&eacute;tica de su organizaci&oacute;n. Parte de esta informaci&oacute;n puede haber sido desarrollada como parte de la determinaci&oacute;n de las partes interesadas y sus requisitos aplicables. Para la mayor&iacute;a de las organizaciones, este proceso ya est&aacute; implementado para el cumplimiento de la normativa ambiental. Adem&aacute;s, tenga en cuenta que una serie de regulaciones ambientales, en particular algunas de las que regulan las emisiones al aire, pueden ser relevantes tanto para los impactos ambientales de la organizaci&oacute;n como para sus usos energ&eacute;ticos.</p>
 
-<p>[Learn More](Examples)</p>
-
-<ul>
-	<li>An environmental regulatory permit may dictate a control that consumes energy but that is not in operation on a continual basis (e.g., an overflow pump for storm water discharge).</li>
-	<li>An environmental regulatory permit may specify a specific energy use (e.g., operation of a cyclone under an air permit).</li>
-	<li>A regulatory air permit may dictate that a site burns only a certain type of fuel.</li>
-</ul>
-
-<p>[Learn More End]</p>
-
-<p>Additional energy-related legal requirements could include local ordinances, zoning laws, or regulations or utility requirements. Building codes may include energy-efficiency requirements for new, modified, or renovated sites. The Playbook worksheet lists a variety of example requirements.</p>
-
-<p>To get started, gather information that answers the following questions:</p>
+<p>[Learn More](Ejemplos)</p>
 
 <ul>
-	<li>What is your organization&rsquo;s existing process for identifying the applicable legal requirements related to energy uses?</li>
-	<li>Who in your organization has information on the applicable legal and regulatory requirements related to your energy uses?</li>
-	<li>How is this information maintained? Is there a list of these applicable legal and regulatory requirements?</li>
-	<li>Who is responsible for ensuring access to the applicable laws and regulations and their requirements? How is this accomplished?</li>
-	<li>Who is responsible for keeping this information current?</li>
-</ul>
-
-<p>Once the answers to these questions are obtained, the energy team typically coordinates with the environmental staff and management to evaluate the existing process and make any needed changes, and then assigns responsibilities for identifying, evaluating, and updating those legal requirements. The environmental staff may continue to handle the process for environmental legal requirements that also apply to energy uses, while the energy team may handle specific legal requirements related only to energy.</p>
-
-<p>The Playbook worksheet can be used to list and track applicable legal and other requirements and other relevant information.</p>
-
-<p>For organizations that do not have an existing process and assigned responsibilities for identifying, evaluating, and updating applicable legal requirements, the starting point for this task is different. First, assign responsibility for these activities to specific personnel. In some cases, the organization may decide to hire external assistance in developing this part of its EnMS.</p>
-
-<p>[Learn More](Resources to help identify applicable legal requirements)</p>
-
-<p>A variety of resources are available to help an organization identify the legal requirements related to its energy efficiency, energy use and energy consumption. These include:</p>
-
-<ul>
-	<li>Commercial legal and regulatory updating services</li>
-	<li>Websites of federal, state, and local regulatory agencies</li>
-	<li>The Code of Federal Regulations (CFR)</li>
-	<li>Electronic newsletters</li>
-	<li>Trade periodicals</li>
-	<li>Trade associations</li>
-	<li>Training courses and informational seminars</li>
-	<li>Networking relationships with local agencies and officials</li>
-	<li>Attorneys and consultants</li>
+	<li>Un permiso regulatorio ambiental puede dictar un control que consume energ&iacute;a pero que no est&aacute; en funcionamiento de forma continua (por ejemplo, una bomba de desbordamiento para la descarga de aguas pluviales).</li>
+	<li>Un permiso reglamentario ambiental puede especificar un uso espec&iacute;fico de energ&iacute;a (por ejemplo, la operaci&oacute;n de un separador cicl&oacute;nico de part&iacute;culas de combusti&oacute;n bajo un permiso de calidad de aire).</li>
+	<li>Un permiso regulatorio de calidad de aire puede dictar que un sitio queme s&oacute;lo cierto tipo de combustible.</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>Ensure that the requirements of applicable laws and regulations are easily and readily accessible. Depending on the source of the legal requirement, access may be available through governmental or other websites, commercial or governmental databases, hardcopy or electronic subscriptions, etc.</p>
+<p>Los requerimientos legales adicionales relacionados con la energ&iacute;a podr&iacute;an incluir ordenanzas locales, leyes de zonificaci&oacute;n o regulaciones o requisitos de servicios p&uacute;blicos. Los c&oacute;digos de construcci&oacute;n pueden incluir requerimientos de eficiencia energ&eacute;tica para sitios nuevos, modificados o renovados. La hoja de trabajo de Playbook enumera una variedad de ejemplos de requerimientos.</p>
 
-<p>[Accordion End]</p>
-
-<p>[Accordion](Identify and access other applicable energy-related requirements)</p>
-
-<p>The basic process for identifying and accessing the voluntary programs or other energy-related requirements subscribed to by your organization is much the same as it is for legal requirements. Roles, responsibilities, and authorities are assigned, and sources for accessing the text of the applicable requirements are determined. Information on the voluntary commitments and &ldquo;other requirements&rdquo; that apply to your organization&rsquo;s energy uses is maintained and kept accessible. Often, this information is included in the list (or database or other compilation) of applicable legal requirements as a separate section or coded as a non-legal or voluntary requirement. Some of this information may have been identified and developed as part of the determination of interested parties and their applicable requirements.</p>
-
-<p>The Playbook worksheet can be used to list and keep up with the applicable other requirements and associated information.</p>
-
-<p>[Learn More](Examples of voluntary commitments and other requirements)</p>
-
-<p>Examples of voluntary commitments and other requirements related to an organization&rsquo;s energy uses include:</p>
+<p>Para comenzar, re&uacute;na informaci&oacute;n que responda las siguientes preguntas:</p>
 
 <ul>
-	<li>Voluntary standards (e.g., ISO 14001)</li>
-	<li>Certification programs (e.g., ISO, Trade Group)</li>
-	<li>Corporate energy requirements (e.g., energy conservation, energy performance reporting)</li>
-	<li>LEED certification (Existing Building &amp; Maintenance)</li>
-	<li>ENERGY STAR site (U.S. EPA)</li>
-	<li>State greenhouse gas (GHG) goals</li>
-	<li>State environmental or energy performance programs</li>
-	<li>Better Buildings, Better Plants (U.S. Department of Energy)</li>
-	<li>Superior Energy Performance program (U.S. Department of Energy)</li>
+	<li>&iquest;Cu&aacute;l es el proceso actual de su organizaci&oacute;n para identificar los requisitos legales aplicables relacionados con los usos de la energ&iacute;a?</li>
+	<li>&iquest;Qui&eacute;n en su organizaci&oacute;n tiene informaci&oacute;n sobre los requisitos legales y reglamentarios aplicables relacionados con sus usos de energ&iacute;a?</li>
+	<li>&iquest;C&oacute;mo se mantiene esta informaci&oacute;n? &iquest;Existe una lista de estos requisitos legales y reglamentarios aplicables?</li>
+	<li>&iquest;Qui&eacute;n es responsable de garantizar el acceso a las leyes y reglamentos aplicables y sus requisitos? &iquest;C&oacute;mo se logra esto?</li>
+	<li>&iquest;Qui&eacute;n es responsable de mantener actualizada esta informaci&oacute;n?</li>
+</ul>
+
+<p>Una vez que se obtienen las respuestas a estas preguntas, el equipo de energ&iacute;a generalmente se coordina con el personal ambiental y la administraci&oacute;n para evaluar el proceso existente y realizar los cambios necesarios, y luego asigna responsabilidades para identificar, evaluar y actualizar esos requisitos legales. El personal ambiental puede continuar manejando el proceso para los requisitos legales ambientales que tambi&eacute;n se aplican a los usos de la energ&iacute;a, mientras que el equipo de energ&iacute;a puede manejar los requisitos legales espec&iacute;ficos relacionados solo con la energ&iacute;a.</p>
+
+<p>La hoja de trabajo de Playbook se puede usar para enumerar y rastrear los requisitos legales, otros requisitos aplicables y otra informaci&oacute;n relevante.</p>
+
+<p>Para las organizaciones que no tienen un proceso existente y las responsabilidades asignadas para identificar, evaluar y actualizar los requisitos legales aplicables, el punto de partida para esta tarea es diferente. Primero, asigne la responsabilidad de estas actividades a personal espec&iacute;fico. En algunos casos, la organizaci&oacute;n puede decidir la contrataci&oacute;n de asistencia externa para desarrollar esta parte de su EnMS.</p>
+
+<p>[Learn More](Recursos para ayudar a identificar los requerimientos legales aplicables)</p>
+
+<p>Hay una variedad de recursos disponibles para ayudar a una organizaci&oacute;n a identificar los requisitos legales relacionados con su eficiencia energ&eacute;tica, uso de energ&iacute;a y consumo de energ&iacute;a. &Eacute;stas incluyen:</p>
+
+<ul>
+	<li>Servicios comerciales de actualizaci&oacute;n legal y regulatoria.</li>
+	<li>Sitios web de agencias reguladoras federales, estatales y locales.</li>
+	<li>El C&oacute;digo de Regulaciones Federales (CFR)</li>
+	<li>boletines electr&oacute;nicos</li>
+	<li>Publicaciones comerciales</li>
+	<li>Asociaciones comerciales</li>
+	<li>Cursos de capacitaci&oacute;n y seminarios informativos.</li>
+	<li>Relaciones de redes con agencias y funcionarios locales.</li>
+	<li>Abogados y consultores.</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>The process for identifying the applicable &ldquo;other energy-related requirements&rdquo; subscribed to by your organization involves clearly defined communication channels between management (who commit on behalf of the organization) and the energy team (or other personnel responsible for the organization&rsquo;s compliance with those requirements). Typically, the agency, non-governmental organization, trade association, or other organization responsible for the program or requirements will provide access to the program requirements and related resources.</p>
+<p>Aseg&uacute;rese de que los requerimientos de las leyes y reglamentos aplicables sean f&aacute;cilmente accesibles. Dependiendo de la fuente del requerimiento legal, el acceso puede estar disponible a trav&eacute;s de sitios web gubernamentales o de otro tipo, bases de datos comerciales o gubernamentales, suscripciones impresas o electr&oacute;nicas, etc.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Establish a process for evaluating and updating requirements)</p>
+<p>[Accordion](Identifique y acceda a otros requerimientos aplicables relacionados con la energ&iacute;a)</p>
 
-<p>Evaluating energy-related legal and other requirements, whether they are current, new, or changed, involves first a review of their applicability. Second, if they are determined to be applicable, it is necessary to evaluate what those current, new, or modified requirements mean for your organization&rsquo;s sites, equipment, systems, processes, and personnel. Once the evaluation is completed and those impacts are understood, the actions needed to comply with those requirements are implemented. This can include, for example, additional or modified training, operational controls, measuring and monitoring, calibration, and record-keeping.</p>
+<p>El proceso b&aacute;sico para identificar y acceder a los programas voluntarios u otros requisitos relacionados con la energ&iacute;a suscritos por su organizaci&oacute;n es muy similar a los requisitos legales. Se asignan roles, responsabilidades y autoridades, y se determinan las fuentes para acceder al texto de los requisitos aplicables. La informaci&oacute;n sobre los compromisos voluntarios y &quot;otros requisitos&quot; que se aplican a los usos energ&eacute;ticos de su organizaci&oacute;n se conserva y se mantiene accesible. A menudo, esta informaci&oacute;n se incluye en la lista (o base de datos u otra compilaci&oacute;n) de requisitos legales aplicables como una secci&oacute;n separada o codificada como un requisito no legal o voluntario. Parte de esta informaci&oacute;n puede haber sido identificada y desarrollada como parte de la determinaci&oacute;n de las partes interesadas y sus requisitos aplicables.</p>
 
-<p>The recommended approach for effectively managing this part of the EnMS is to incorporate both the evaluation and updating processes into your organization&rsquo;s change management processes. Keep in mind that it isn&rsquo;t just new or changed legal and other requirements that may trigger changes in your EnMS. Changes in your organization&rsquo;s activities, sites, equipment, systems, and processes (including those resulting from energy projects) can also trigger changes in the legal and other requirements that apply to your operations.</p>
+<p>La hoja de trabajo de Playbook se puede usar para enumerar y mantenerse al d&iacute;a con los otros requisitos aplicables y la informaci&oacute;n correspondiente.</p>
 
-<p>You need to set defined intervals for reviewing legal and other energy requirements. Some organizations set a minimum review schedule (e.g., quarterly, semi-annually) but will keep the information on legal requirements up to date on an ongoing basis. Monitoring for new or changed legal requirements sometimes can be accomplished using electronic newsletters or email update notifications from regulatory agencies or other sources. Reviews for updates to voluntary programs or other energy requirements subscribed to by your organization usually are conducted on an established frequency. It is good practice to retain evidence that the reviews have been conducted.</p>
+<p>[Learn More](Ejemplos de compromisos voluntarios y otros requerimientos)</p>
+
+<p>Los ejemplos de compromisos voluntarios y otros requisitos relacionados con los usos energ&eacute;ticos de una organizaci&oacute;n incluyen:</p>
+
+<ul>
+	<li>Normas voluntarias (p. Ej., ISO 14001)</li>
+	<li>Programas de certificaci&oacute;n (p. Ej., ISO, Trade Group)</li>
+	<li>Requisitos energ&eacute;ticos corporativos (p. Ej., Conservaci&oacute;n de energ&iacute;a, informes de rendimiento energ&eacute;tico)</li>
+	<li>Certificaci&oacute;n LEED (construcci&oacute;n y mantenimiento existentes)</li>
+	<li>Sitio ENERGY STAR (U.S.EPA)</li>
+	<li>Metas estatales de gases de efecto invernadero (GEI)</li>
+	<li>Programas estatales de desempe&ntilde;o ambiental o energ&eacute;tico</li>
+	<li>Mejores edificios, mejores plantas (Departamento de Energ&iacute;a de EE. UU.)</li>
+	<li>Programa de rendimiento energ&eacute;tico superior (Departamento de energ&iacute;a de EE. UU.)</li>
+</ul>
+
+<p>[Learn More End]</p>
+
+<p>El proceso para identificar los &quot;otros requerimientos relacionados con la energ&iacute;a&quot; aplicables suscritos por su organizaci&oacute;n implica canales de comunicaci&oacute;n claramente definidos entre la administraci&oacute;n (que se compromete en nombre de la organizaci&oacute;n) y el equipo de energ&iacute;a (u otro personal responsable del cumplimiento de la organizaci&oacute;n con esos requisitos) ) Por lo general, la agencia, organizaci&oacute;n no gubernamental, asociaci&oacute;n comercial u otra organizaci&oacute;n responsable del programa o los requisitos proporcionar&aacute;n acceso a los requisitos del programa y los recursos relacionados.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Conduct compliance evaluations)</p>
+<p>[Accordion](Establezca un proceso para evaluar y actualizar los requerimientos)</p>
 
-<p>Compliance with legal and other energy-related requirements subscribed to by your organization must be evaluated at planned intervals. There is no required frequency; you determine the appropriate interval for the evaluations. The planned intervals may be different for different sets of requirements. Although compiling and submitting required regulatory reports generally is not considered evaluation of compliance with legal requirements, decisions on the interval for conducting compliance evaluations typically consider the required timing for such reports. For simplicity you may consider conducting compliance evaluations at intervals that correspond with those established for the review of legal and other requirements.</p>
+<p>Evaluar los requerimientos legales y de otro tipo relacionados con la energ&iacute;a, ya sean actuales, nuevos o modificados, implica primero una revisi&oacute;n de su aplicabilidad. En segundo lugar, si se determina que son aplicables, es necesario evaluar qu&eacute; significan esos requerimientos actuales, nuevos o modificados para los sitios, equipos, sistemas, procesos y personal de su organizaci&oacute;n. Una vez que se completa la evaluaci&oacute;n y se comprenden esos impactos, se implementan las acciones necesarias para cumplir con esos requerimientos. Esto puede incluir, por ejemplo, capacitaci&oacute;n adicional o modificada, controles operativos, medici&oacute;n y monitoreo, calibraci&oacute;n y mantenimiento de registros.</p>
 
-<p>It is imperative that roles, responsibilities, and authorities for planning, conducting, and retaining the results of compliance evaluations are defined and communicated to the appropriate personnel. Depending on the type of energy-related legal and other requirements that apply, compliance evaluation responsibilities and authorities may be dispersed across multiple positions. For example, the environmental manager may have overall responsibility for evaluating compliance for legal requirements that involve both environmental and energy issues, while the energy manager or members of the energy team may be responsible for evaluating compliance with the energy requirements of the local community&rsquo;s sustainability program.</p>
+<p>El m&eacute;todo recomendado para administrar eficazmente esta parte del EnMS es incorporar tanto los procesos de evaluaci&oacute;n como de actualizaci&oacute;n en los procesos de gesti&oacute;n de cambios de su organizaci&oacute;n. Tenga en cuenta que no solo los requerimientos legales y otros requerimientos nuevos o modificados pueden provocar cambios en su EnMS. Los cambios en las actividades, sitios, equipos, sistemas y procesos de su organizaci&oacute;n (incluidos los resultantes de los proyectos de energ&iacute;a) tambi&eacute;n pueden provocar cambios en los requerimientos legales y de otro tipo que se aplican a sus operaciones.</p>
 
-<p>Your organization may already have processes in place for periodic auditing or evaluation of compliance. For example, such processes may be in place for environmental or safety and health regulatory requirements. Appropriately leveraging any existing processes can be a more efficient use of resources than starting from scratch.</p>
-
-<p>Consider either developing or obtaining checklist tools to assist in the compliance evaluation process. Checklists for auditing legal requirements (particularly for federal regulations) are often available either commercially or on the Internet. Customized checklists can be created by taking each requirement and developing questions that can be asked or evidence to be examined (e.g., records) to determine whether that requirement is being met. The Playbook worksheet can be a useful starting point for development of customized checklists.</p>
-
-<p>When evaluations of compliance determine that one or more requirements are not being met, corrective action is taken to eliminate the source of the problem. See Task 24 [task](Corrective Actions) for additional information on corrective action.</p>
+<p>Debe establecer periodos definidos para revisar los requerimientos legales y otros requerimientos de energ&iacute;a. Algunas organizaciones establecen un cronograma de revisi&oacute;n m&iacute;nimo (por ejemplo, trimestral, semestral) pero mantendr&aacute;n actualizada la informaci&oacute;n sobre los requerimientos legales de manera continua. La supervisi&oacute;n de requisitos legales nuevos o modificados a veces se puede lograr mediante boletines electr&oacute;nicos o notificaciones de actualizaci&oacute;n por correo electr&oacute;nico de agencias reguladoras u otras fuentes. Las revisiones de actualizaciones de programas voluntarios u otros requisitos de energ&iacute;a suscritos por su organizaci&oacute;n generalmente se realizan con una frecuencia establecida. Es una buena pr&aacute;ctica retener evidencia de que las revisiones se han llevado a cabo.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Ensure records of results and actions taken are retained)</p>
+<p>[Accordion](Realice evaluaciones de cumplimiento)</p>
 
-<p>The results of the compliance evaluations and any actions taken must be recorded and retained. How the results and actions are recorded, including the format and level of detail, is up to you. One approach is to prepare a high-level summary that indicates whether or not concerns or non-compliances were found and whether or not corrective actions to address them have been undertaken and completed.</p>
+<p>El cumplimiento de los requerimientos legales y otros requisitos relacionados con la energ&iacute;a suscritos por su organizaci&oacute;n debe evaluarse a intervalos planificados. No hay frecuencia requerida; Usted determina el intervalo apropiado para las evaluaciones. Los intervalos planificados pueden ser diferentes para diferentes conjuntos de requisitos. Aunque compilar y presentar los informes reglamentarios requeridos generalmente no se considera una evaluaci&oacute;n del cumplimiento de los requisitos legales, las decisiones sobre el intervalo para realizar evaluaciones de cumplimiento generalmente consideran el momento requerido para dichos informes. Para simplificar, puede considerar realizar evaluaciones de cumplimiento a intervalos que se correspondan con los establecidos para la revisi&oacute;n de los requisitos legales y de otro tipo.</p>
 
-<p>Trends on compliance evaluation results must be reviewed by top management as part of the management review process (see Task 23 [task](Management Review)). Trend information could include the number and types of non-compliances found over time across the various legal and other requirements. Trend information also could be developed based on the types of actions taken to address the results of the compliance evaluations. It is recommended that decisions be made on exactly which trends found in the compliance evaluation results will be reported to management review as part of the compliance evaluation implementation process and records retention of the results.</p>
+<p>Es imperativo que los roles, las responsabilidades y las atribuciones para planificar, realizar y retener los resultados de las evaluaciones de cumplimiento se definan y comuniquen al personal apropiado. Dependiendo del tipo de requisitos legales y de otro tipo relacionados con la energ&iacute;a que se apliquen, las responsabilidades y autoridades de evaluaci&oacute;n del cumplimiento pueden estar dispersas en m&uacute;ltiples posiciones. Por ejemplo, el administrador ambiental puede tener la responsabilidad general de evaluar el cumplimiento de los requisitos legales que involucran problemas ambientales y energ&eacute;ticos, mientras que el administrador de energ&iacute;a o los miembros del equipo de energ&iacute;a pueden ser responsables de evaluar el cumplimiento de los requisitos de energ&iacute;a del programa de sostenibilidad de la comunidad local.</p>
+
+<p>Es posible que su organizaci&oacute;n ya cuente con procesos para la auditor&iacute;a peri&oacute;dica o la evaluaci&oacute;n del cumplimiento. Por ejemplo, tales procesos pueden estar establecidos para requisitos reglamentarios ambientales o de seguridad y salud. Aprovechar adecuadamente los procesos existentes puede ser un uso m&aacute;s eficiente de los recursos que comenzar desde cero.</p>
+
+<p>Considere desarrollar u obtener herramientas de listas de verificaci&oacute;n para ayudar en el proceso de evaluaci&oacute;n de cumplimiento. Las listas de verificaci&oacute;n para auditar los requisitos legales (particularmente para las regulaciones federales) a menudo est&aacute;n disponibles comercialmente o en Internet. Se pueden crear listas de verificaci&oacute;n personalizadas tomando cada requisito y desarrollando preguntas que se pueden hacer o pruebas para examinar (por ejemplo, registros) para determinar si se cumple ese requisito. La hoja de trabajo de Playbook puede ser un punto de partida &uacute;til para el desarrollo de listas de verificaci&oacute;n personalizadas.</p>
+
+<p>Cuando las evaluaciones de cumplimiento determinan que uno o m&aacute;s requisitos no se est&aacute;n cumpliendo, se toman medidas correctivas para eliminar la fuente del problema. Consulte la Tarea 24 [tarea] (Acciones Correctivas) para obtener informaci&oacute;n adicional sobre las acciones correctivas.</p>
+
+<p>[Accordion End]</p>
+
+<p>[Accordion](Aseg&uacute;rese de mantener registros de resultados y acciones tomadas)</p>
+
+<p>Los resultados de las evaluaciones de cumplimiento y cualquier acci&oacute;n tomada deben registrarse y conservarse. La forma en que se registran los resultados y las acciones, incluido el formato y el nivel de detalle, depende de usted. Un enfoque consiste en preparar un resumen de alto nivel que indique si se encontraron o no inquietudes o incumplimientos y si se han emprendido y completado acciones correctivas para abordarlas.</p>
+
+<p>Las tendencias en los resultados de la evaluaci&oacute;n del cumplimiento deben ser revisadas por la alta gerencia como parte del proceso de revisi&oacute;n de la administraci&oacute;n (ver Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n)). La informaci&oacute;n de tendencias podr&iacute;a incluir el n&uacute;mero y los tipos de incumplimientos encontrados a lo largo del tiempo en los diversos requerimientos legales y de otro tipo. La informaci&oacute;n de tendencias tambi&eacute;n podr&iacute;a desarrollarse en funci&oacute;n de los tipos de acciones tomadas para abordar los resultados de las evaluaciones de cumplimiento. Se recomienda que se tomen decisiones sobre exactamente las tendencias encontradas en los resultados de la evaluaci&oacute;n de cumplimiento que se presentaran a revisi&oacute;n de la gerencia como parte del proceso de implementaci&oacute;n de la evaluaci&oacute;n de cumplimiento y la retenci&oacute;n de registros de los resultados.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>The ISO 14001:2015 processes for determining and accessing applicable legal and other requirements can be leveraged to meet similar requirements of ISO 50001:2018. Integrating energy-related legal and other requirements with environmental legal and other requirements is relatively straightforward, although the personnel assigned responsibilities for the energy requirements may be different than those assigned for environmental. If integration is not an option, then the existing processes used to identify and access environmental requirements can be duplicated for use by the 50001 Ready system.</p>
+<p>Los procesos ISO 14001: 2015 para determinar y acceder a los requerimientos legales y otros requisitos aplicables se pueden aprovechar para cumplir requisitos similares de ISO 50001: 2018. La integraci&oacute;n de los requisitos legales y otros requisitos relacionados con la energ&iacute;a con los requisitos legales y otros requisitos ambientales es relativamente sencilla, aunque el personal asignado a las responsabilidades de los requisitos de energ&iacute;a puede ser diferente de los asignados para el medio ambiente. Si la integraci&oacute;n no es una opci&oacute;n, los procesos existentes utilizados para identificar y acceder a los requisitos ambientales pueden duplicarse para su uso por el sistema 50001 Ready.</p>
 
-<p>The ISO 9001:2015 processes for identifying and meeting the applicable statutory and regulatory requirements are embedded in customer focus and determination of requirements for products and services. Since ISO 50001:2018 does not address energy requirements as part of customer, product, or service requirements, ISO 9001 may not provide the processes needed to fully meet the ISO 50001 requirements for legal and other requirements.</p>
+<p>Los procesos ISO 9001: 2015 para identificar y cumplir con los requerimientos legales y reglamentarios aplicables est&aacute;n integrados en el enfoque al cliente y la determinaci&oacute;n de los requisitos para productos y servicios. Dado que ISO 50001: 2018 no aborda los requisitos de energ&iacute;a como parte de los requisitos del cliente, producto o servicio, ISO 9001 puede no proporcionar los procesos necesarios para cumplir completamente con los requisitos de ISO 50001 para requisitos legales y otros requisitos.</p>
 
-<p>Processes used to evaluate and update environmental legal and other requirements under ISO 14001:2015 can be adapted and applied to evaluate and update energy-related legal and other requirements for ISO 50001:2018. Or, a single integrated process can be used to meet the requirements of both standards.</p>
+<p>Los procesos utilizados para evaluar y actualizar los requisitos legales y otros requisitos ambientales seg&uacute;n ISO 14001: 2015 se pueden adaptar y aplicar para evaluar y actualizar los requerimientos legales y otros requisitos relacionados con la energ&iacute;a para ISO 50001: 2018. O bien, se puede usar un solo proceso integrado para cumplir con los requisitos de ambos est&aacute;ndares.</p>
 
-<p>ISO 50001:2018 would not necessarily require any adaptations to a compliance evaluation processes maintained under ISO 14001:2015. The same process could be used for both systems separately or on an integrated basis. The differences would likely relate to the personnel assigned responsibility and authority for the compliance evaluation process and the specific legal and other requirements (called &ldquo;compliance obligations&rdquo; in ISO 14001) involved. One additional requirement in ISO 14001:2015 that is not present in ISO 50001:2018 relates to the organization maintaining knowledge and understanding of its compliance status. However, this requirement could be considered implicit in ISO 50001, as it is commonly expected that any organization would know its compliance status at any point in time.</p>
+<p>ISO 50001: 2018 no requerir&iacute;a necesariamente ninguna adaptaci&oacute;n a los procesos de evaluaci&oacute;n de cumplimiento mantenidos bajo ISO 14001: 2015. El mismo proceso podr&iacute;a usarse para ambos sistemas por separado o de forma integrada. Las diferencias probablemente estar&iacute;an relacionadas con el personal asignado a la responsabilidad y autoridad para el proceso de evaluaci&oacute;n de cumplimiento y los requisitos legales y otros requisitos espec&iacute;ficos (llamados &quot;obligaciones de cumplimiento&quot; en ISO 14001) involucrados. Un requisito adicional en ISO 14001: 2015 que no est&aacute; presente en ISO 50001: 2018 se relaciona con que la organizaci&oacute;n mantenga el conocimiento y la comprensi&oacute;n de su estado de cumplimiento. Sin embargo, este requisito podr&iacute;a considerarse impl&iacute;cito en ISO 50001, ya que com&uacute;nmente se espera que cualquier organizaci&oacute;n conozca su estado de cumplimiento en cualquier momento.</p>
 
-<p>Integrating energy-related compliance evaluations with environmental evaluations can be an effective use of resources. Such integration with an ISO 9001:2015 system would not be as straightforward, and usually results in separate processes. This is because in ISO 9001:2015 quality systems, statutory and regulatory requirements are part of the determination and review of the requirements for products and services, including customer requirements. They are almost exclusively product- or service-focused and are achieved through the controls and performance evaluation processes of the quality system.</p>
+<p>La integraci&oacute;n de las evaluaciones de cumplimiento relacionadas con la energ&iacute;a con las evaluaciones ambientales puede ser un uso efectivo de los recursos. Dicha integraci&oacute;n con un sistema ISO 9001: 2015 no ser&iacute;a tan sencillo, y generalmente resulta en procesos separados. Esto se debe a que en los sistemas de calidad ISO 9001: 2015, los requisitos legales y reglamentarios son parte de la determinaci&oacute;n y revisi&oacute;n de los requisitos para productos y servicios, incluidos los requisitos del cliente. Se centran casi exclusivamente en productos o servicios y se logran a trav&eacute;s de los controles y los procesos de evaluaci&oacute;n del desempe&ntilde;o del sistema de calidad.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>The ENERGY STAR <em>Guidelines for Energy Management</em> refers to communicating with stakeholders (i.e., interested parties) in steps 1.2, 2.2, 6.1, 5.2, 6.2, and 7.2. Additional references to stakeholders are concerned with the value organizations receive by gaining external recognition of their energy management program (see Step 7.2). The ENERGY STAR <em>Guidelines for Energy Management</em> does not refer to energy-related legal and voluntarily adopted other requirements.</p>
+<p>Las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a</em> de ENERGY STAR se refieren a la comunicaci&oacute;n con las partes interesadas (es decir, las partes interesadas) en los pasos 1.2, 2.2, 6.1, 5.2, 6.2 y 7.2. Las referencias adicionales a las partes interesadas est&aacute;n relacionadas con el valor que las organizaciones reciben al obtener un reconocimiento externo de su programa de gesti&oacute;n de energ&iacute;a (ver Paso 7.2). Las Directrices de ENERGY STAR para la gesti&oacute;n de la energ&iacute;a no se refieren a otros requisitos legales y adoptados voluntariamente relacionados con la energ&iacute;a.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

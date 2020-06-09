@@ -7,89 +7,89 @@ Alcance y Límites
 Tarea 3: Hemos documentado y aprobado el alcance y los límites de nuestro sistema de gestión de energía 50001 Ready.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Consider the strategic issues and requirements identified as part of Task 1 [task](An EnMS and Your Organization) to determine the scope and boundaries of the energy management system (EnMS).</li>
-	<li>Develop and document an EnMS Scope and Boundaries Statement.</li>
+	<li>Considere los problemas y requerimientos estrat&eacute;gicos identificados como parte de la Tarea 1 [tarea] (Un EnMS y su Organizaci&oacute;n) para determinar el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (EnMS).</li>
+	<li>Desarrolle y documente una Declaraci&oacute;n de Alcance y L&iacute;mites del EnMS.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>The scope and boundaries enable your organization to focus efforts and resources by defining what the EnMS includes. The scope identifies the set of activities that are included in the energy management system (EnMS), while the boundaries are the physical or organizational limits of the EnMS, commonly referred to as the &ldquo;fence line&rdquo; of your site. The boundaries do not have to be fixed in a physical space and could be established around a fleet of vehicles or other transportation equipment.</p>
+<p>El alcance y los l&iacute;mites permiten que su organizaci&oacute;n concentre esfuerzos y recursos al definir lo que incluye el EnMS. El alcance identifica el conjunto de actividades que se incluyen en el sistema de gesti&oacute;n de energ&iacute;a (EnMS), mientras que los l&iacute;mites son los l&iacute;mites f&iacute;sicos u organizativos del EnMS, com&uacute;nmente conocidos como la &quot;demarcaci&oacute;n&quot; de su sitio. Los l&iacute;mites no tienen que fijarse en un espacio f&iacute;sico y podr&iacute;an establecerse alrededor de una flota de veh&iacute;culos u otro equipo de transporte.</p>
 
-<p>In the 50001 Ready Navigator the term site is used and carries the same meaning as other terms that describe the physical definitions of a space such as facility, complex, location, and campus so long as there is a relative physical proximity to the assets that will be included within the EnMS.</p>
+<p>En el 50001 Ready Navigator, el t&eacute;rmino &ldquo;sitio&rdquo; se usa y tiene el mismo significado que otros t&eacute;rminos que describen las definiciones f&iacute;sicas de un espacio, como instalaciones, complejos, ubicaci&oacute;n y campus, siempre que haya una proximidad f&iacute;sica relativa a los activos que ser&aacute;n incluidos dentro del EnMS.</p>
 
-<p>When determining the scope and boundaries strategic issues and requirements determined as part of Task 1 [task](An EnMS and Your Organization) should be considered. In addition, you should ensure that your organization has the authority to control all energy uses within the scope and boundaries, and that no energy-using equipment or systems are excluded unless they are separately metered or a dependable calculation can be made. Once the scope and boundaries are defined, an organization cannot exclude any energy sources that cross or are within the defined boundaries of the EnMS.</p>
+<p>Al determinar el alcance y los l&iacute;mites, se deben considerar los problemas y requisitos estrat&eacute;gicos determinados como parte de la Tarea 1 [tarea] (Un ENMS y su Organizaci&oacute;n). Adem&aacute;s, debe asegurarse de que su organizaci&oacute;n tenga la autoridad para controlar todos los usos de energ&iacute;a dentro del alcance y los l&iacute;mites, y que no se excluyan los equipos o sistemas que usan energ&iacute;a a menos que se midan por separado o se pueda hacer un c&aacute;lculo confiable. Una vez que se definen el alcance y los l&iacute;mites, una organizaci&oacute;n no puede excluir ninguna fuente de energ&iacute;a que cruce o est&eacute; dentro de los l&iacute;mites definidos del EnMS.</p>
 
-<p>EnMS scope and boundaries could include any combination of physical structures: the building management operations of one or more commercial buildings at one or more specific locations; the manufacturing, warehousing, and distribution activities at a particular plant; or multiple sites of a corporation at multiple sites, to name just a few. In many cases, the scope and boundaries may only include one building or site. Top management must ensure the organization&rsquo;s scope and boundaries are established.</p>
+<p>El alcance y los l&iacute;mites de EnMS podr&iacute;an incluir cualquier combinaci&oacute;n de estructuras f&iacute;sicas: las operaciones de gesti&oacute;n de edificios de uno o m&aacute;s edificios comerciales en una o m&aacute;s ubicaciones espec&iacute;ficas; las actividades de fabricaci&oacute;n, almacenamiento y distribuci&oacute;n en una planta en particular; o m&uacute;ltiples sitios de una corporaci&oacute;n en m&uacute;ltiples sitios, por nombrar solo algunos. En muchos casos, el alcance y los l&iacute;mites solo pueden incluir un edificio o sitio. La alta direcci&oacute;n debe garantizar que se establezcan el alcance y los l&iacute;mites de la organizaci&oacute;n.</p>
 
-<p><em>This guidance is relevant to Section 4.3 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 4.3 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Scope and boundaries - Where to start)</p>
+<p>[Accordion](Alcance y l&iacute;mites - Por d&oacute;nde empezar)</p>
 
-<p>While the scope and boundaries of an energy management system (EnMS) are different concepts, they are highly related and iteration between the two concepts will yield the best results. You can choose to start by establishing either the scope or the boundaries first, and then establish the other. The guidance below will pose a set of questions that will help establish the scope and boundaries together, focusing on the scope first.</p>
+<p>Si bien el alcance y los l&iacute;mites de un sistema de gesti&oacute;n de energ&iacute;a (EnMS) son conceptos diferentes, est&aacute;n altamente relacionados y la iteraci&oacute;n entre los dos conceptos producir&aacute; los mejores resultados. Tiene la opci&oacute;n de iniciar este proceso mediante el establecimiento inicial del alcance o los l&iacute;mites. La siguiente gu&iacute;a plantear&aacute; un conjunto de preguntas que ayudar&aacute;n a establecer el alcance y los l&iacute;mites de manera conjunta, enfoc&aacute;ndose primero en el alcance.</p>
 
-<p>Before starting on this task, consider gathering some of the following resources within your organization. These can be useful in determining the scope and boundaries of the EnMS.</p>
+<p>Antes de comenzar esta tarea, considere reunir algunos de los siguientes recursos dentro de su organizaci&oacute;n. Estos pueden ser &uacute;tiles para determinar el alcance y los l&iacute;mites de EnMS.</p>
 
 <ul>
-	<li>Organization chart</li>
-	<li>Site map or site plan</li>
-	<li>Site photographs</li>
-	<li>List of on-site contractors and related operations</li>
-	<li>Site/building layout</li>
-	<li>Process layouts/maps</li>
-	<li>Process flow diagrams</li>
-	<li>Utilities drawings</li>
-	<li>Site/building energy consumption data</li>
-	<li>Equipment energy consumption data</li>
+	<li>Organigrama</li>
+	<li>Mapa del sitio o plan del sitio</li>
+	<li>Fotograf&iacute;as del sitio</li>
+	<li>Lista de contratistas en el sitio y operaciones relacionadas.</li>
+	<li>Dise&ntilde;o del sitio / edificio</li>
+	<li>Dise&ntilde;os de proceso / mapas</li>
+	<li>Diagramas de flujo del proceso.</li>
+	<li>Dibujos de compa&ntilde;&iacute;as el&eacute;ctricas</li>
+	<li>Datos de consumo de energ&iacute;a del sitio / edificio</li>
+	<li>Datos de consumo de energ&iacute;a del equipo.</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Scope: Identify the set of activities to be included in your EnMS)</p>
+<p>[Accordion](Alcance: Identifique el conjunto de actividades que se incluir&aacute;n en su EnMS)</p>
 
-<p>Consider these questions when defining the set of activities to be included or excluded in the scope of EnMS. These questions will also help inform your subsequent process to establish boundaries. The Playbook worksheet can be used to help you formulate the scope.</p>
+<p>Considere estas preguntas al definir el conjunto de actividades que se incluir&aacute;n o excluir&aacute;n en el alcance del EnMS. Estas preguntas tambi&eacute;n ayudar&aacute;n a informar su proceso posterior para establecer l&iacute;mites. La hoja de trabajo de Playbook se puede usar para ayudarle a formular el alcance.</p>
 
 <ul>
-	<li>Is there an area for which you do not have energy information?</li>
-	<li>Is there an area where you cannot obtain employee involvement or participation?</li>
-	<li>Are there areas that have a different management team or decision structure?</li>
-	<li>Do you have a building or location that you are not including?
+	<li>&iquest;Hay un &aacute;rea para la cual no tiene informaci&oacute;n sobre consumo energ&eacute;tico?</li>
+	<li>&iquest;Hay un &aacute;rea donde no puede lograr la participaci&oacute;n o participaci&oacute;n de los empleados?</li>
+	<li>&iquest;Hay &aacute;reas que tienen un equipo gerencial o estructura de decisi&oacute;n diferente?</li>
+	<li>&iquest;Tiene un edificio o ubicaci&oacute;n que no est&aacute; incluyendo?
 	<ul style="list-style-type:circle">
-		<li>Can you isolate the energy consumption of those locations?</li>
+		<li>&iquest;Puede aislar el consumo de energ&iacute;a de esos lugares?</li>
 	</ul>
 	</li>
-	<li>Do you have the authority to control your organization&rsquo;s energy efficiency, energy use and energy consumption?</li>
+	<li>&iquest;Tiene la autoridad para controlar la eficiencia energ&eacute;tica, el uso y el consumo de energ&iacute;a de su organizaci&oacute;n?</li>
 </ul>
 
-<p>Additionally, the EnMS scope should reflect the strategic internal and external issues and requirements that were identified as part of Task 1 [task](An EnMS and Your Organization).</p>
+<p>Adem&aacute;s, el alcance del EnMS debe reflejar los problemas y requerimientos estrat&eacute;gicos internos y externos que se identificaron como parte de la Tarea 1 [tarea] (Un EnMS y su Organizaci&oacute;n).</p>
 
 <ul>
-	<li>Do any of the identified internal or external issues have implications or consequences that need to be considered as related to the scope of the EnMS?</li>
-	<li>Do any of the interested parties&rsquo; requirements affect what is included or not included within the EnMS?</li>
+	<li>&iquest;Alguno de los problemas internos o externos identificados tiene implicaciones o consecuencias que deben considerarse como relacionadas con el alcance del EnMS?</li>
+	<li>&iquest;Alguno de los requerimientos de las partes interesadas afecta lo que est&aacute; incluido o no incluido en el EnMS?</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Boundaries: Define the physical or organizational limits of your EnMS)</p>
+<p>[Accordion](L&iacute;mites: Defina los l&iacute;mites f&iacute;sicos u organizativos de su EnMS)</p>
 
-<p>Now that you have considered the set of activities to be included in the scope of your EnMS, what are the physical implications of your decision? In many cases this could be as simple as the fence line of your site. How would they be translated into a statement of the boundaries of your EnMS?</p>
+<p>Ahora que ha considerado el conjunto de actividades que se incluir&aacute;n en el alcance de su EnMS, &iquest;cu&aacute;les son las implicaciones f&iacute;sicas de su decisi&oacute;n? En muchos casos, esto podr&iacute;a ser tan simple como la demarcaci&oacute;n de su sitio. &iquest;C&oacute;mo se expresar&iacute;an en una declaraci&oacute;n de los l&iacute;mites de su EnMS?</p>
 
-<p>Consider your answers to these questions when defining the boundaries of your EnMS. The Playbook worksheet can be used to help formulate the boundaries to be defined in the statement.</p>
+<p>Considere sus respuestas a estas preguntas cuando defina los l&iacute;mites de su EnMS. La hoja de trabajo de Playbook se puede usar para ayudar a formular los l&iacute;mites que se definir&aacute;n en la declaraci&oacute;n.</p>
 
 <ul>
-	<li>What are the physical or organizational limitations of the areas that are included?</li>
-	<li>What are the physical or organizational limitations of the areas that are not included?</li>
-	<li>How do the areas that are included and not included compare to the site map or site plan?</li>
-	<li>Do you have the authority to control your organization&rsquo;s energy use and energy consumption within the proposed boundaries?</li>
+	<li>&iquest;Cu&aacute;les son las limitaciones f&iacute;sicas u organizativas de las &aacute;reas que se incluyen?</li>
+	<li>&iquest;Cu&aacute;les son las limitaciones f&iacute;sicas u organizativas de las &aacute;reas que no est&aacute;n incluidas?</li>
+	<li>&iquest;C&oacute;mo se comparan las &aacute;reas incluidas y no incluidas con el mapa del sitio o el plan del sitio?</li>
+	<li>&iquest;Tiene la autoridad para controlar el uso y el consumo de energ&iacute;a de su organizaci&oacute;n dentro de los l&iacute;mites propuestos?</li>
 </ul>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Scope and boundaries statement)</p>
+<p>[Accordion](Alcance y declaraci&oacute;n de l&iacute;mites)</p>
 
-<p>The optional Playbook worksheet can be used to formalize a statement of scope and boundaries. The statement of the EnMS scope and boundaries can be a stand-alone document or included within an energy manual, which is not required, but which many organizations find useful as a &ldquo;road map&rdquo; to their EnMS. Top management is responsible for ensuring that a scope and boundaries statement has been established, so make sure to review the finalized document with them.</p>
+<p>La hoja de trabajo de Playbook opcional se puede utilizar para formalizar una declaraci&oacute;n de alcance y l&iacute;mites. La declaraci&oacute;n del alcance y los l&iacute;mites del EnMS puede ser un documento independiente o incluirse en un manual de energ&iacute;a, que no es obligatorio, pero que muchas organizaciones encuentran &uacute;til como un &quot;mapa de ruta&quot; para su EnMS. La alta gerencia es responsable de garantizar que se haya establecido una declaraci&oacute;n de alcance y l&iacute;mites, as&iacute; que aseg&uacute;rese de revisar el documento final con ellos.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>Organizations that conform to ISO 14001:2015 or ISO 9001:2015 have determined and documented the scope of these management systems. The same or a similar process can be used to define and document the scope and boundaries of the EnMS. Unlike ISO 14001 and ISO 9001, ISO 50001 makes top management responsible for ensuring that the EnMS scope and boundaries are established. Typically, it is drafted by the energy management team for top management review and approval. Once the scope and boundaries of the EnMS are defined, all energy types within the defined scope and boundaries must be included within the EnMS.</p>
+<p>Las organizaciones que cumplen con ISO 14001: 2015 o ISO 9001: 2015 han determinado y documentado el alcance de estos sistemas de gestión. Se puede utilizar el mismo proceso o uno similar para definir y documentar el alcance y los límites del EnMS. A diferencia de ISO 14001 e ISO 9001, ISO 50001 responsabiliza a la alta dirección de garantizar que se establezcan el alcance y los límites del EnMS. Por lo general, este documento se redacta por el equipo de gestión de energía para la revisión y aprobación de la alta dirección. Una vez que se definen el alcance y los límites del EnMS, todos los tipos de energía dentro del alcance y los límites definidos deben incluirse dentro del EnMS.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>The scope that was determined in Step 3.1 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> is not the same as the scope and boundaries of the EnMS. In the case of the ENERGY STAR guidelines, the scope is determined in respect to short-term or long-term performance goals at an organization-wide, site, or process/equipment level. The EnMS scope and boundaries define the activities and physical or organizational limits that are covered (i.e., included) in the EnMS, such as a building, plant, site, campus, site or corporation, or some component of these, and the activities and operations associated with them.</p>
+<p>El alcance que se determinó en el Paso 3.1 de las Directrices ENERGY STAR® para la Gestión de la Energía no es el mismo que el alcance y los límites del EnMS. En el caso de las pautas de ENERGY STAR, el alcance se determina con respecto a los objetivos de rendimiento a corto o largo plazo a nivel de toda la organización, sitio o proceso / equipo. El alcance y los límites del EnMS definen las actividades y los límites físicos u organizativos que están cubiertos (es decir, incluidos) en el EnMS, como un edificio, planta, sitio, campus, sitio o corporación, o algún componente de estos, y las actividades y operaciones asociadas con ellos.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.

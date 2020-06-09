@@ -7,252 +7,252 @@ Compromiso de la Administración
 Tarea 4: Nuestra alta dirección demuestra liderazgo y compromiso con la mejora continua del rendimiento energético y la efectividad del sistema 50001 Ready.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Optionally, identify business drivers and benefits applicable to your organization.</li>
-	<li>Optionally, prepare and deliver a briefing to top management on the identified business drivers and benefits, management roles and responsibilities, and how these responsibilities will be met.</li>
-	<li>Secure commitment from top management to continual improvement of energy performance and the development and use of a 50001 Ready system.</li>
-	<li>Brief top management on their energy management system (EnMS) leadership responsibilities.</li>
-	<li>Plan for how top management will meet their responsibilities.</li>
+	<li>Opcionalmente, identifique los factores que impulsan sus actividades comerciales y los beneficios aplicables a su organizaci&oacute;n.</li>
+	<li>Opcionalmente, realice una presentaci&oacute;n a la alta gerencia para informar sobre los factores que impulsan sus actividades comerciales y sus beneficios, las funciones y responsabilidades de la gerencia, y c&oacute;mo se cumplir&aacute;n estas responsabilidades.</li>
+	<li>Asegure el compromiso de la alta direcci&oacute;n con la mejora continua del rendimiento energ&eacute;tico y el desarrollo y uso de un sistema 50001 Ready.</li>
+	<li>Informe a la alta direcci&oacute;n sobre las responsabilidades de liderazgo relacionadas con su sistema de gesti&oacute;n de energ&iacute;a (EnMS).</li>
+	<li>Planifique c&oacute;mo la alta direcci&oacute;n cumplir&aacute; con sus responsabilidades.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>A critical key to the success of an energy management system (EnMS) is involvement and commitment by top management. This does not mean top management needs to be at energy team meetings and approve all decisions but they need to provide honest, constant, and visible commitment to the concept and implementation of the EnMS. In addition to providing the leadership needed to improve energy performance and the EnMS, top management must demonstrate that they perform the specific responsibilities assigned to them within the continual improvement framework of the EnMS. Not only does top management approve and authorize an EnMS, they are also responsible and accountable for ensuring its ongoing suitability, adequacy, and effectiveness.</p>
+<p>Una clave fundamental para el &eacute;xito de un sistema de gesti&oacute;n de energ&iacute;a (EnMS) es la participaci&oacute;n y el compromiso de la alta direcci&oacute;n. Esto no significa que la alta gerencia deba estar en las reuniones del equipo de energ&iacute;a y aprobar todas las decisiones, sino que deben proporcionar un compromiso honesto, constante y visible con el concepto y la implementaci&oacute;n del EnMS. Adem&aacute;s de proporcionar el liderazgo necesario para mejorar el rendimiento energ&eacute;tico y el EnMS, la alta direcci&oacute;n debe demostrar que cumplen con las responsabilidades espec&iacute;ficas que se les asignan dentro del marco de mejora continua del EnMS. La alta direcci&oacute;n no solo aprueba y autoriza un EnMS, sino que tambi&eacute;n es responsable de garantizar su idoneidad, adecuaci&oacute;n y efectividad continuas.</p>
 
-<p><em>This guidance is relevant to Section 5.1 of the ISO 50001:2018 standard.</em></p>
+<p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 5.1 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Identify EnMS benefits and business drivers)</p>
+<p>[Accordion](Identifique los beneficios de EnMS y los factores que impulsan sus actividades comerciales)</p>
 
-<p>Many organizations pursue energy efficiency and energy conservation, reduced environmental impacts, and sustainability initiatives because they are valued as the &ldquo;right thing to do.&rdquo; However, impacts to the bottom line and prospects for long-term viability are most often the determinants of proposed organizational initiatives, including those for energy management. The benefits of improved energy management and energy performance should be identified and communicated to top management in terms they understand. Consequently, making the business case is an important part of establishing an energy management system (EnMS).</p>
+<p>Muchas organizaciones persiguen la eficiencia energ&eacute;tica y la conservaci&oacute;n de la energ&iacute;a, la reducci&oacute;n de impactos ambientales y la creaci&oacute;n de iniciativas de sustentabilidad porque dichas acciones son valoradas como &quot;lo correcto&quot;. Sin embargo, los impactos en el resultado final y las perspectivas de viabilidad a largo plazo son con frecuencia los factores determinantes en el avance de las iniciativas organizativas propuestas, incluidas las de gesti&oacute;n de la energ&iacute;a. Los beneficios de la gesti&oacute;n energ&eacute;tica mejorada y el rendimiento energ&eacute;tico deben identificarse y comunicarse a la alta direcci&oacute;n en t&eacute;rminos que sean accesibles. En consecuencia, presentar argumentos que tengan sentido desde el punto de vista comercial es una parte importante del establecimiento de un sistema de gesti&oacute;n de energ&iacute;a (EnMS).</p>
 
-<p>As ISO 50001 gains traction in the global marketplace, implementation case studies and other analyses are reporting the benefits of this systematic approach to energy management. These benefits include:</p>
-
-<ul>
-	<li>Improved operational efficiencies</li>
-	<li>Decreased energy intensity</li>
-	<li>Energy data for informed evidence-based decision making</li>
-	<li>Support for organizational and cultural change</li>
-	<li>Drivers for organizational integration</li>
-	<li>Reduced environmental impacts</li>
-	<li>Competitive advantages over firms that neglect resource management</li>
-	<li>Visible demonstration of social responsibility</li>
-	<li>Positioning for carbon accounting and accountability</li>
-</ul>
-
-<p>Learn about the benefits that other organizations have experienced with their EnMS. Search the web for general examples and case studies, as well as those related specifically to your own industry.</p>
-
-<p>Consider the potential benefits of an EnMS within the context of your organization&rsquo;s priorities and needs. To build the business case you must connect the benefits of the EnMS with the business drivers of your organization because management will want to know how the EnMS and improved energy efficiency affect those drivers.</p>
-
-<p>Energy team members (see Task 6 [task](Energy Team and Resources)) should identify the business drivers relevant to your organization. Then work to ensure management understands the benefits by presenting information in terms that are important to them. If the energy team members have not been designated, then identify someone willing to champion the initiative and accept this responsibility.</p>
-
-<p>[Learn More](Social business drivers)</p>
-
-<p>Social pressures can be as daunting as financial and legal issues for an organization. An EnMS can help address social issues as well as provide evidence of an organization&rsquo;s efforts to do so. Many public concerns are related to environmental issues, but there are others that are important. Some of these may include:</p>
+<p>A medida que ISO 50001 gana fuerza en el mercado global, los estudios de caso de implementaci&oacute;n y otros an&aacute;lisis informan los beneficios de este enfoque sistem&aacute;tico para la gesti&oacute;n de la energ&iacute;a. Estos beneficios incluyen:</p>
 
 <ul>
-	<li>Climate change (e.g., emissions/carbon footprint/greenhouse gases)</li>
-	<li>Alternative energy (e.g., solar, wind, thermal, hydro, nuclear, biomass)</li>
-	<li>Natural resource depletion</li>
-	<li>Environmental stewardship</li>
-	<li>Energy conservation</li>
-	<li>Energy waste</li>
-	<li>Ethics, values, principles</li>
-	<li>Triple bottom line</li>
-	<li>Sustainability</li>
+	<li>Mejoramiento de Eficiencias operativas</li>
+	<li>Disminuci&oacute;n de la intensidad energ&eacute;tica.</li>
+	<li>Datos de energ&iacute;a para la toma de decisiones informada y basada en evidencia.</li>
+	<li>Apoyo al cambio organizacional y cultural.</li>
+	<li>Impulsores para la integraci&oacute;n organizacional.</li>
+	<li>Impactos ambientales reducidos</li>
+	<li>Ventajas competitivas sobre las empresas que descuidan la gesti&oacute;n de recursos.</li>
+	<li>Demostraci&oacute;n visible de responsabilidad social.</li>
+	<li>Posicionamiento para la contabilidad de carbono y la responsabilidad correspondiente.</li>
 </ul>
 
-<p>Pressures can be exerted by government entities, local communities, trade associations, environmental groups, and employees, just to name a few. An organization should identify the relevant issues and use their management system processes to minimize negative impacts and communicate the positive efforts being made to address them.</p>
+<p>Conozca los beneficios que otras organizaciones han experimentado con su EnMS. Busque en la web ejemplos generales y estudios de caso, as&iacute; como aquellos ejemplos relacionados espec&iacute;ficamente con su propia industria.</p>
+
+<p>Considere los beneficios potenciales de un EnMS dentro del contexto de las prioridades y necesidades de su organizaci&oacute;n. Para presentar la propuesta desde una perspectiva de negocios, debe conectar los beneficios de EnMS con los factores que impulsan las actividades de negocios de su organizaci&oacute;n porque la gerencia querr&aacute; saber c&oacute;mo el mejoramiento del EnMS y la eficiencia energ&eacute;tica afectan a esos factores.</p>
+
+<p>Los miembros del equipo de energ&iacute;a (consulte la Tarea 6 [tarea] (Equipo y Recursos de Energ&iacute;a)) deben identificar los factores que impulsan actividades comerciales relevantes para su organizaci&oacute;n. Posteriormente, trabaje para garantizar que la gerencia comprenda los beneficios presentando informaci&oacute;n en t&eacute;rminos que sean importantes para ellos. Si los miembros del equipo de energ&iacute;a no han sido designados, identifique a alguien dispuesto a aceptar la responsabilidad de defender la iniciativa.</p>
+
+<p>[Learn More](Impulsores sociales de negocios)</p>
+
+<p>Las presiones sociales pueden ser tan dif&iacute;ciles de enfrentar como las cuestiones financieras y legales para una organizaci&oacute;n. Un EnMS puede ayudar a abordar problemas sociales, as&iacute; como proporcionar evidencia de los esfuerzos que una organizaci&oacute;n realiza en este sentido. Muchas preocupaciones p&uacute;blicas est&aacute;n relacionadas con problemas ambientales, pero hay otras que son importantes. Algunas de estas pueden incluir:</p>
+
+<ul>
+	<li>Cambio clim&aacute;tico (por ejemplo, emisiones / huella de carbono / gases de efecto invernadero)</li>
+	<li>Energ&iacute;a alternativa (por ejemplo, solar, e&oacute;lica, t&eacute;rmica, hidr&aacute;ulica, nuclear, biomasa)</li>
+	<li>Agotamiento de los recursos naturales.</li>
+	<li>Cuidado del medio ambiente</li>
+	<li>Conservaci&oacute;n de energ&iacute;a</li>
+	<li>El derroche de energ&iacute;a</li>
+	<li>&Eacute;tica, valores, principios.</li>
+	<li>Triple resultado final</li>
+	<li>Sustentabilidad</li>
+</ul>
+
+<p>Las entidades gubernamentales, las comunidades locales, las asociaciones comerciales, los grupos ambientalistas y los empleados pueden ejercer presiones, solo por nombrar algunos actores. Una organizaci&oacute;n debe identificar los problemas relevantes y utilizar sus procesos del sistema de gesti&oacute;n para minimizar los impactos negativos y comunicar los esfuerzos positivos que se est&aacute;n realizando para abordarlos.</p>
 
 <p>[Learn More End]</p>
 
-<p>[Learn More](External business drivers)</p>
+<p>[Learn More](Impulsores comerciales externos)</p>
 
-<p>External drivers are typically outside the organization&rsquo;s control. There are many external groups or stakeholders that could have an interest in the organization&rsquo;s energy activities and help drive its direction. Their interest could be reflected through financial, legal, or social drivers. The external groups that have or can have an impact on the organization can be identified, and appropriate procedures and communication channels can be implemented to address the needs and interests of these groups relative to energy use and efficiency. An EnMS can help companies address these needs and interests.</p>
+<p>Los impulsores externos suelen estar fuera del control de la organizaci&oacute;n. Hay muchos grupos externos o actores relevantes que podr&iacute;an estar interesados ​​en las actividades energ&eacute;ticas de la organizaci&oacute;n y ayudar a impulsar su avance. Su inter&eacute;s podr&iacute;a reflejarse a trav&eacute;s de factores financieros, legales o sociales. Se pueden identificar los grupos externos que tienen o pueden tener un impacto en la organizaci&oacute;n, y se pueden implementar procedimientos y canales de comunicaci&oacute;n apropiados para abordar las necesidades e intereses de estos grupos en relaci&oacute;n con el uso y la eficiencia de la energ&iacute;a. Un EnMS puede ayudar a las empresas a abordar estas necesidades e intereses.</p>
 
-<p>Some of the influencing groups could be the following:</p>
+<p>Algunos de los grupos con capacidad de influencia podr&iacute;an ser los siguientes:</p>
 
-<p><strong>Stockholders</strong>: Obviously, stockholders are interested in the profitability of the organization and in measures that reduce costs. They are also interested in the business operating legally and addressing relevant social issues, and they expect to be provided a measure of assurance of the business&rsquo; long-term viability.</p>
+<p>Accionistas: Obviamente, los accionistas est&aacute;n interesados ​​en la rentabilidad de la organizaci&oacute;n y en las medidas que reducen los costos. Tambi&eacute;n est&aacute;n interesados ​​en que la empresa opere legalmente y aborde problemas sociales relevantes, y esperan que se les proporcione una medida de seguridad de la viabilidad a largo plazo de la empresa.</p>
 
-<p><strong>Lenders:</strong> Lenders want their money back with interest. An EnMS is a tool for the organization to address continual improvement, thereby improving profits and efficiencies and enhancing long-term existence.</p>
+<p>Prestamistas: los prestamistas quieren recuperar su dinero, con intereses. Un EnMS es una herramienta para que la organizaci&oacute;n aborde procesos de mejora continua, incrementando as&iacute; las ganancias y eficiencias, adem&aacute;s de mejorar las perspectivas de existencia a largo plazo.</p>
 
-<p><strong>Customers:</strong> Customers want the best return for their dollar. Reducing costs and improving efficiencies allow products and services to be offered at the lowest price with less waste, thus providing the best value to the customer and improving the organization&rsquo;s competitiveness. The continual improvement component of an EnMS can help an organization improve efficiencies and reduce costs.</p>
+<p>Clientes: Los clientes quieren el mejor rendimiento por su d&oacute;lar. La reducci&oacute;n de costos y la mejora de la eficiencia permiten ofrecer productos y servicios al precio m&aacute;s bajo con menos desperdicio, lo que proporciona el mejor valor para el cliente y mejora la competitividad de la organizaci&oacute;n. El componente de mejora continua de un EnMS puede ayudar a una organizaci&oacute;n a mejorar la eficiencia y reducir los costos.</p>
 
-<p><strong>Suppliers:</strong> An efficient supply chain is important to competitiveness. An important component of supplier selection and maintenance is a commitment to continual improvement, including energy efficiency. An EnMS can help with supplier selection. The presence of an EnMS would be one indication of a supplier&rsquo;s commitment to energy efficiency improvement.</p>
+<p>Proveedores: una cadena de suministro eficiente es importante para la competitividad. Un componente importante de la selecci&oacute;n y mantenimiento de proveedores es el compromiso con la mejora continua, incluida la eficiencia energ&eacute;tica. Un EnMS puede ayudar con la selecci&oacute;n de proveedores. La presencia de un EnMS ser&iacute;a una indicaci&oacute;n del compromiso de un proveedor con la mejora de la eficiencia energ&eacute;tica.</p>
 
-<p><strong>Public:</strong> The public in general, as well as many public groups, can be drivers for an organization&rsquo;s operation. Both can provide pressure relative to issues like emissions reduction, resource conservation, and alternative fuels. Public utilities can impose requirements that must be addressed. An EnMS can help an organization address these issues and provide evidence of its efforts. Examples of public interested parties are:</p>
+<p>P&uacute;blico: el p&uacute;blico en general, as&iacute; como muchos grupos p&uacute;blicos, pueden ser impulsores de la operaci&oacute;n de una organizaci&oacute;n. Ambos pueden aplicar presi&oacute;n en relaci&oacute;n con temas como la reducci&oacute;n de emisiones, la conservaci&oacute;n de recursos y los combustibles alternativos. Los servicios p&uacute;blicos pueden imponer requerimientos que deben abordarse. Un EnMS puede ayudar a una organizaci&oacute;n a abordar estos problemas y proporcionar evidencia de sus esfuerzos. Ejemplos de partes interesadas p&uacute;blicas son:</p>
 
 <ul>
-	<li>Neighbors</li>
-	<li>Community</li>
-	<li>Utilities</li>
-	<li>Schools</li>
-	<li>Environmental Groups</li>
-	<li>Trade Associations</li>
-	<li>Development organizations</li>
+	<li>Vecinos</li>
+	<li>Comunidad</li>
+	<li>Compa&ntilde;&iacute;as El&eacute;ctricas</li>
+	<li>Escuelas</li>
+	<li>Grupos ambientales</li>
+	<li>Asociaciones comerciales</li>
+	<li>Organizaciones de desarrollo</li>
 </ul>
 
-<p><strong>Government: </strong>An EnMS can help an organization address existing regulations and plan for future government regulations. It provides the system to help the organization identify and address relevant government codes and laws. Some examples of governmental interested parties are:</p>
+<p>Gobierno: Un EnMS puede ayudar a una organizaci&oacute;n a atender las regulaciones existentes y planificar respuestas ante futuras regulaciones gubernamentales. Proporciona el sistema para ayudar a la organizaci&oacute;n a identificar y abordar los c&oacute;digos y leyes gubernamentales relevantes. Algunos ejemplos de partes interesadas gubernamentales son:</p>
 
 <ul>
-	<li>U.S. Department of Energy</li>
-	<li>U.S. Environmental Protection Agency</li>
-	<li>Department of Natural Resources</li>
-	<li>Building code enforcement offices</li>
-	<li>The state energy office</li>
-	<li>International regulatory agencies</li>
+	<li>Departamento de Energ&iacute;a de EE. UU.</li>
+	<li>Agencia de Protecci&oacute;n Ambiental de los Estados Unidos</li>
+	<li>Departamento de Recursos Naturales</li>
+	<li>Oficinas encargadas de la aplicaci&oacute;n de c&oacute;digos de construcci&oacute;n</li>
+	<li>La oficina estatal de energ&iacute;a.</li>
+	<li>Agencias Reguladoras Internacionales</li>
 </ul>
 
 <p>[Learn More End]</p>
 
-<p>[Learn More](Internal business drivers)</p>
+<p>[Learn More](Impulsores comerciales internos)</p>
 
-<p>There are also internal business drivers that affect an organization&rsquo;s strategy and drive its business needs. Internal drivers are generally controlled by the organization and reflect the need of an internal stakeholder, but can be a response to an external driver. These drivers are identified to address internal needs and interests relative to energy use and efficiency.</p>
+<p>Tambi&eacute;n hay impulsores comerciales internos que afectan la estrategia de una organizaci&oacute;n e impulsan sus necesidades comerciales. Los impulsores internos generalmente son controlados por la organizaci&oacute;n y reflejan la necesidad de una parte interesada interna, pero pueden ser una respuesta a un impulsor externo. Estos impulsores se identifican para atender las necesidades e intereses internos relacionados con el uso y la eficiencia de la energ&iacute;a.</p>
 
-<p>Relevant internal drivers can include the following:</p>
+<p>Los impulsores internos relevantes pueden incluir lo siguiente:</p>
 
-<p><strong>Employee satisfaction:</strong> Employees want to do a good job and operate in a good working environment. Improving energy efficiency makes the process more efficient and can result in an improved operating environment by reducing heat, exhaust, and waste levels.</p>
+<p><strong>Satisfacci&oacute;n de los empleados</strong>: los empleados quieren hacer un buen trabajo y operar en un buen ambiente de trabajo. Mejorar la eficiencia energ&eacute;tica hace que el proceso sea m&aacute;s eficiente y puede mejorar el entorno operativo al reducir los niveles de calor, escape y desperdicios.</p>
 
-<p><strong>Productivity:</strong> As operations are improved and less energy is required, employees become more productive. Productivity is output over input; as output increases or input decreases, productivity is improved. An improved working environment promotes higher employee morale, increased output relative to input, and improved operational control. Examples of energy efficiency changes that can result in improved productivity include the following:</p>
+<p><strong>Productividad</strong>: a medida que se mejoran las operaciones y se requiere menos energ&iacute;a, los empleados se vuelven m&aacute;s productivos. La productividad es producci&oacute;n sobre insumos; A medida que la producci&oacute;n aumenta o los insumos disminuyen, la productividad mejora. Un ambiente de trabajo mejorado promueve una mayor moral de los empleados, una mayor producci&oacute;n en relaci&oacute;n con los insumos y un mejor control operativo. Entre los ejemplos de cambios en la eficiencia energ&eacute;tica que pueden resultar en una mejora de la productividad se incluyen los siguientes:</p>
 
 <ul>
-	<li>Efficient energy procurement practices</li>
-	<li>Improved capacity utilization</li>
-	<li>Process and equipment efficiency improvement</li>
-	<li>Fuel burning and utility equipment efficiency improvement</li>
-	<li>Combined heat and power</li>
-	<li>Waste heat recovery</li>
-	<li>Automated control systems</li>
-	<li>Monitoring equipment improvement</li>
-	<li>Reduced backup with better reliability</li>
-	<li>Improved employee environment</li>
+	<li>Pr&aacute;cticas eficientes de adquisici&oacute;n de energ&iacute;a.</li>
+	<li>Utilizaci&oacute;n de capacidad mejorada</li>
+	<li>Mejora de la eficiencia de procesos y equipos.</li>
+	<li>Mejora en el aprovechamiento de combustible y en la eficiencia de los equipos de servicio.</li>
+	<li>Calor y potencia combinados</li>
+	<li>Recuperaci&oacute;n de calor residual</li>
+	<li>Sistemas de control automatizados.</li>
+	<li>Monitoreo de la mejora del equipo.</li>
+	<li>Respaldo reducido con mayor confiabilidad</li>
+	<li>Mejora del entorno de los empleados.</li>
 </ul>
 
-<p><strong>Technology:</strong> Advanced technologies are typically more energy efficient and may improve a process or operation. In addition to improving efficiency, advanced technologies can also result in improved operational flexibility and better control.</p>
+<p><strong>Tecnolog&iacute;a</strong>: las tecnolog&iacute;as avanzadas suelen ser m&aacute;s eficientes energ&eacute;ticamente y pueden mejorar un proceso u operaci&oacute;n. Adem&aacute;s de mejorar la eficiencia, las tecnolog&iacute;as avanzadas tambi&eacute;n pueden dar como resultado una mayor flexibilidad operativa y un mejor control.</p>
 
-<p><strong>Maintenance:</strong> Regular maintenance is critical to maintaining equipment operating efficiency, which results in peak energy efficiency. It also promotes improved reliability, better schedule adherence, better utilization, and extended equipment life.</p>
+<p><strong>Mantenimiento</strong>: El mantenimiento regular es cr&iacute;tico para mantener la eficiencia operativa del equipo, lo que resulta en la m&aacute;xima eficiencia energ&eacute;tica. Tambi&eacute;n promueve una confiabilidad mejorada, un mejor cumplimiento del programa de trabajo, una mejor utilizaci&oacute;n y una mayor vida &uacute;til del equipo.</p>
 
-<p><strong>Organization development goals:</strong> Strategic goals by the organization to be the best, the first, the most efficient, the biggest producer, etc. drive the organization to include energy efficiency as a component of their management system. Financial, legal, and social drivers all play into organizational goals, and the role energy efficiency plays in addressing those drivers should be addressed.</p>
+<p><strong>Objetivos de desarrollo de la organizaci&oacute;n</strong>: los objetivos estrat&eacute;gicos de la organizaci&oacute;n para ser el mejor, el primero, el m&aacute;s eficiente, el mayor productor, etc. impulsan a la organizaci&oacute;n a incluir la eficiencia energ&eacute;tica como un componente de su sistema de gesti&oacute;n. Los impulsores financieros, legales y sociales juegan un papel en los objetivos de la organizaci&oacute;n, y se debe abordar el papel que juega la eficiencia energ&eacute;tica al atender esos impulsores.</p>
 
-<p>Identify the relevant internal drivers and determine how they interface with the organization&rsquo;s energy management and energy performance. Use this information to support the business case for EnMS implementation.</p>
+<p>Identifique los impulsores internos relevantes y determine c&oacute;mo interact&uacute;an con la gesti&oacute;n energ&eacute;tica y el rendimiento energ&eacute;tico de la organizaci&oacute;n. Use esta informaci&oacute;n para respaldar el argumento a favor de la implementaci&oacute;n de EnMS como un beneficio para su organizaci&oacute;n.</p>
 
 <p>[Learn More End]</p>
 
-<p>[Learn More](Key internal influencers)</p>
+<p>[Learn More](Actores Influyentes internos clave)</p>
 
-<p>As part of preparing the business case, consider identifying &ldquo;key internal influencers&rdquo; within your organization. Internal influencers are individuals who do or could have interest or influence on decisions related to energy. To gain support for the development and operation of the EnMS, it can be helpful to identify these individuals from among management and employees. Identify how energy is important to them and what would encourage their support and participation. Each may have a different motivation; for example:</p>
+<p>Como parte de la preparaci&oacute;n del argumento en favor del EnMS, considere identificar &quot;personas influyentes internas clave&quot; dentro de su organizaci&oacute;n. Los influencers internos son individuos que tienen o podr&iacute;an tener inter&eacute;s o influencia en las decisiones relacionadas con el uso de energ&iacute;a. Para obtener apoyo para el desarrollo y la operaci&oacute;n del EnMS, puede ser &uacute;til identificar a estas personas entre la gerencia y los empleados. Identifique c&oacute;mo la energ&iacute;a es importante para ellos y qu&eacute; alentar&iacute;a su apoyo y participaci&oacute;n. Cada uno puede tener una motivaci&oacute;n diferente; por ejemplo:</p>
 
 <ul>
-	<li>a Building Manager or Production Manager&rsquo;s primary focus may be energy availability.</li>
-	<li>a Purchasing Manager&rsquo;s primary focus may be energy cost.</li>
-	<li>a Maintenance Manager&rsquo;s primary focus may be energy quality and availability.</li>
-	<li>an Environmental Manager&rsquo;s primary focus may be environmental impacts, such as pollution, from energy consumption.</li>
+	<li>El enfoque principal de un Gerente de Edificio o un Gerente de Producci&oacute;n puede ser la disponibilidad de energ&iacute;a.</li>
+	<li>El enfoque principal de un Gerente de Compras puede ser el costo de la energ&iacute;a.</li>
+	<li>El enfoque principal de un Gerente de Mantenimiento puede ser la calidad y disponibilidad de energ&iacute;a.</li>
+	<li>El enfoque principal de un gerente ambiental puede ser el impacto ambiental (como la contaminaci&oacute;n) del consumo de energ&iacute;a.</li>
 </ul>
 
-<p>Ensure that the needs of the internal influencers related to energy use (i.e., application of energy) and energy consumption (i.e., quantity of energy applied) are understood and addressed within the business case. The Playbook worksheet illustrates how this information can be captured. A blank template is available in the Playbook worksheet for your optional use.</p>
+<p>Aseg&uacute;rese de que las necesidades de los influencers internos relacionados con el uso de energ&iacute;a (es decir, la aplicaci&oacute;n de energ&iacute;a) y el consumo de energ&iacute;a (es decir, la cantidad de energ&iacute;a aplicada) sean entendidos y considerados dentro del argumento a favor del EnMS como un elemento positivo para su organizaci&oacute;n. La hoja de trabajo de Playbook ilustra c&oacute;mo se puede capturar esta informaci&oacute;n. Un formato en blanco est&aacute; disponible en la hoja de trabajo de Playbook para su uso opcional.</p>
 
 <p>[Learn More End]</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Prepare a briefing for top management)</p>
+<p>[Accordion](Prepare una presentaci&oacute;n informativa para la gerencia)</p>
 
-<p>If management has not already committed to EnMS implementation, or if commitment is lacking, they will need to be convinced of the benefits so they can provide successful support.</p>
+<p>Si la administraci&oacute;n a&uacute;n no se ha comprometido con la implementaci&oacute;n de EnMS, o si no existe el compromiso, deber&aacute; convencer a los directivos de los beneficios para que puedan brindar un apoyo exitoso.</p>
 
-<p>Consider the following tips when preparing your briefing for top management:</p>
+<p>Tenga en cuenta los siguientes consejos cuando prepare su informe para la alta gerencia:</p>
 
 <ul>
-	<li><strong>The target audience is management.</strong> What drivers are important to them? Management is typically most interested in the return on investment, but there may be other important drivers. Focus on these, and make the presentation complete but brief. Management frequently just wants to hear the major facts. Have additional data available if more detail is requested, but if presentation timelines are provided, stick to them.</li>
-	<li><strong>Focus on what you are trying to convey.</strong> Present the background required to support the benefits of an EnMS, and don&rsquo;t mix in unrelated issues or ideas. Focus on the continual improvement-based nature of the management system and the direct impacts on the organization&rsquo;s well-being and improvement.</li>
-	<li><strong>Present the benefits in management&rsquo;s terms.</strong> Using the drivers already identified, present the benefits in terms of those drivers. Make sure management understands the benefits with respect to their key items of interest.</li>
-	<li><strong>Understand the desired objective.</strong> What is the expected result of this presentation? Provide information to encourage that result or offer suggestions.</li>
+	<li>El p&uacute;blico objetivo es la administraci&oacute;n. &iquest;Qu&eacute; factores son importantes para ellos? La administraci&oacute;n suele estar m&aacute;s interesada en el retorno de la inversi&oacute;n, pero puede haber otros aspectos importantes. Conc&eacute;ntrese en esto y aseg&uacute;rese que la presentaci&oacute;n sea completa pero breve. La administraci&oacute;n frecuentemente solo quiere escuchar los hechos m&aacute;s importantes. Tenga datos adicionales disponibles si se solicitan m&aacute;s detalles, pero si se proporciona un tiempo limite para realizar la presentaci&oacute;n, ap&eacute;guese al mismo.</li>
+	<li>Conc&eacute;ntrese en lo que est&aacute; tratando de transmitir. Presente los antecedentes necesarios para respaldar los beneficios de un EnMS, y no mezcle cuestiones o ideas no relacionadas. Conc&eacute;ntrese en la naturaleza del sistema de gesti&oacute;n basada en la mejora continua y los impactos directos en el bienestar y la mejora de la organizaci&oacute;n.</li>
+	<li>Presente los beneficios en t&eacute;rminos que tengan resonancia con la gerencia. Usando los factores de influencia ya identificados, presente los beneficios en t&eacute;rminos de esos factores. Aseg&uacute;rese de que la gerencia comprenda los beneficios en funci&oacute;n de los elementos que son de especial inter&eacute;s para ellos.</li>
+	<li>Comprender el objetivo deseado. &iquest;Cu&aacute;l es el resultado esperado de esta presentaci&oacute;n? Aseg&uacute;rese de proporcionar informaci&oacute;n para lograr ese resultado o bien ofrecer sugerencias.</li>
 </ul>
 
-<p>An elevator speech (a short summary) can be used to get a point across quickly and simply. It should take no longer than two minutes to present. Use the Playbook worksheet to focus on the essential information, and then expand it to the time available. Regardless of the amount of time available, be sure to cover the important points at the beginning. To ensure that management hears what you want to share, an old adage is appropriate: &ldquo;Tell them what you are going to tell them, then tell them, and then tell them what you told them.&rdquo;</p>
+<p>Se puede utilizar un discurso de ascensor (un breve resumen) para transmitir un punto en forma r&aacute;pida y sencilla. No debe tardar m&aacute;s de dos minutos para presentarlo. Use la hoja de trabajo de Playbook para centrarse en la informaci&oacute;n esencial y luego ampl&iacute;ela al tiempo disponible. Independientemente de la cantidad de tiempo disponible, aseg&uacute;rese de cubrir los puntos importantes al principio. Para asegurarse de que la gerencia escuche lo que quiere compartir, un viejo adagio es apropiado: &quot;D&iacute;gales lo que les va a decir, luego d&iacute;gales y luego d&iacute;gales lo que les dijo&quot;.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Deliver briefing to top management)</p>
+<p>[Accordion](Realizar presentaci&oacute;n a la alta direcci&oacute;n)</p>
 
-<p>Develop a briefing for top management using the organization&rsquo;s standard presentation tools or in another format that best displays the information.</p>
+<p>Desarrolle una sesi&oacute;n informativa para la alta gerencia utilizando las herramientas de presentaci&oacute;n est&aacute;ndar de la organizaci&oacute;n o en otro formato que muestre mejor la informaci&oacute;n.</p>
 
-<p>Stay within the time frame provided, and stick with the planned presentation. Be prepared to answer questions and provide more detail if requested.</p>
+<p>Mant&eacute;ngase dentro del limite de tiempo provisto y cumpla con la presentaci&oacute;n planeada. Est&eacute; preparado para responder preguntas y proporcionar m&aacute;s detalles si as&iacute; se solicita.</p>
 
-<p>Management may ask the following types of questions:</p>
+<p>La gerencia puede hacer los siguientes tipos de preguntas:</p>
 
 <ul>
-	<li>What do we currently spend each year on energy?</li>
-	<li>What are the estimated cost savings that potentially we could realize in one to two years?</li>
-	<li>What will be the time commitment by the energy management team?</li>
-	<li>What are the biggest challenges to implementing an ISO 50001 EnMS?</li>
-	<li>What will you need from us (top management) to make this program successful?</li>
+	<li>&iquest;Qu&eacute; gastamos actualmente cada a&ntilde;o en energ&iacute;a?</li>
+	<li>&iquest;Cu&aacute;les son los ahorros de costos estimados que potencialmente podr&iacute;amos obtener en uno o dos a&ntilde;os?</li>
+	<li>&iquest;Cu&aacute;l ser&aacute; el compromiso de tiempo del equipo de gesti&oacute;n de energ&iacute;a?</li>
+	<li>&iquest;Cu&aacute;les son los mayores desaf&iacute;os para implementar un EnMS ISO 50001?</li>
+	<li>&iquest;Qu&eacute; necesitar&aacute; de nosotros (la alta gerencia) para que este programa tenga &eacute;xito?</li>
 </ul>
 
-<p>The intent of the presentation is to briefly provide the information needed for management to make necessary decisions, and to provide additional details as required. If the topic begins to stray, put the presentation back on track by bringing the group&rsquo;s attention back to the presentation materials. The Playbook worksheet can help you stay on track. Adjust the agenda based on the time available.</p>
+<p>La intenci&oacute;n de la presentaci&oacute;n es proporcionar brevemente la informaci&oacute;n necesaria para que la gerencia tome las decisiones necesarias y proporcionar detalles adicionales seg&uacute;n sea necesario. Si el tema comienza a desviarse, vuelva a enfocarse en la presentaci&oacute;n llevando la atenci&oacute;n del grupo a los materiales de presentaci&oacute;n. La hoja de trabajo de Playbook puede ayudarlo a mantenerse apegado a la presentaci&oacute;n. Ajuste la agenda seg&uacute;n el tiempo disponible.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Secure management commitment)</p>
+<p>[Accordion](Asegure el compromiso de la administraci&oacute;n)</p>
 
-<p>Obtaining sincere top management support is a critical component of developing an energy management system that will be sustained. Consider the following questions:</p>
+<p>Obtener un apoyo sincero de la alta direcci&oacute;n es un componente cr&iacute;tico del desarrollo de un sistema de gesti&oacute;n de la energ&iacute;a que sea duradero. Considere las siguientes preguntas:</p>
 
 <ul>
-	<li>Is your top management on board?</li>
-	<li>Have they assigned the responsibilities and authorities to implement an EnMS?</li>
-	<li>Has top management approved and allocated the resources needed to successfully implement an EnMS?</li>
-	<li>Once the EnMS is implemented, are they committed to the actions and resources needed for operating and maintaining it for the long term?</li>
-	<li>Are they willing to continually improve energy management and energy performance as part of the organization&rsquo;s ongoing business strategy?</li>
+	<li>&iquest;Est&aacute; convencida su alta direcci&oacute;n de los beneficios de un EnMS?</li>
+	<li>&iquest;Ha asignado la gerencia responsabilidades y autoridades para implementar un EnMS?</li>
+	<li>&iquest;La alta direcci&oacute;n aprob&oacute; y asign&oacute; los recursos necesarios para implementar con &eacute;xito un EnMS?</li>
+	<li>Una vez que se implementa el EnMS, &iquest;est&aacute;n comprometidos con las acciones y los recursos necesarios para operarlo y mantenerlo a largo plazo?</li>
+	<li>&iquest;Est&aacute;n dispuestos a mejorar continuamente la gesti&oacute;n de la energ&iacute;a y el rendimiento energ&eacute;tico como parte de la estrategia comercial continua de la organizaci&oacute;n?</li>
 </ul>
 
-<p>Top management commitment needs to be followed by a clear understanding of their responsibilities and appropriate actions. Top management must demonstrate its leadership and commitment. When top management is active and visible in the EnMS, employees and others perceive the value and importance of energy management and energy performance improvement to the organization. For example, simple actions from top management such as adding energy topics to meeting agendas and sending email updates on energy performance help to keep the whole organization involved.</p>
+<p>El compromiso de la alta gerencia debe ser seguido por una comprensi&oacute;n clara de sus responsabilidades y acciones apropiadas. La alta direcci&oacute;n debe demostrar su liderazgo y compromiso. Cuando la alta direcci&oacute;n est&aacute; activa y visible en el EnMS, los empleados y otras personas perciben el valor y la importancia de la gesti&oacute;n energ&eacute;tica y la mejora del rendimiento energ&eacute;tico para la organizaci&oacute;n. Por ejemplo, las acciones simples de la alta direcci&oacute;n, como agregar temas de energ&iacute;a a las agendas de las reuniones y enviar actualizaciones por correo electr&oacute;nico sobre el rendimiento energ&eacute;tico, ayudan a mantener a toda la organizaci&oacute;n involucrada.</p>
 
-<p>[Learn More](Create a project plan)</p>
+<p>[Learn More](Crear un plan del proyecto)</p>
 
-<p>A project plan that outlines the actions, schedule, and resources necessary to implement the EnMS can help garner management support because it clearly defines expectations for the effort. Consider creating a project planning for EnMS implementation using the approach outlined in the Playbook worksheet.</p>
+<p>Un plan del proyecto que describe las acciones, el cronograma y los recursos necesarios para implementar el EnMS puede ayudar a obtener el apoyo de la gerencia porque define claramente las expectativas para el esfuerzo. Considere crear una planificaci&oacute;n de proyecto para la implementaci&oacute;n del EnMS utilizando el enfoque descrito en la hoja de trabajo de Playbook.</p>
 
 <p>[Learn More End]</p>
 
-<p>Top management must support the effort not just during initial EnMS implementation, but also after the system is implemented and operational. Management must take a number of actions that will demonstrate their commitment to continual improvement of energy performance and the EnMS. These actions are detailed below and in Task 3 [task](Scope and Boundaries), Task 5 [task](Energy Policy), Task 6 [task](Energy Team and Resources), and Task 15 [task](Awareness and Communication).</p>
+<p>La alta gerencia debe apoyar el esfuerzo no s&oacute;lo durante la implementaci&oacute;n inicial del EnMS, sino tambi&eacute;n despu&eacute;s de que el sistema se implemente y est&eacute; operando. La gerencia debe tomar una serie de acciones que demuestren su compromiso con la mejora continua del rendimiento energ&eacute;tico y el EnMS. Estas acciones se detallan a continuaci&oacute;n y en la Tarea 3 [tarea] (Alcance y L&iacute;mites), Tarea 5 [tarea] (Pol&iacute;tica Energ&eacute;tica), Tarea 6 [tarea] (Equipo y Recursos de Energ&iacute;a) y Tarea 15 [tarea] (Sensibilizaci&oacute;n y Comunicaci&oacute;n)</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Brief top management on their EnMS leadership responsibilities)</p>
+<p>[Accordion](Informe a la direcci&oacute;n superior sobre sus responsabilidades de liderazgo relativas al EnMS)</p>
 
-<p>Once top management is committed to implementing the EnMS, make sure they understand what actions they must take in order to demonstrate their commitment to continual improvement of both energy performance and the EnMS. Per the requirements of ISO 50001, top management can delegate responsibility for many, but not all, actions.</p>
+<p>Una vez que la alta direcci&oacute;n se compromete a implementar el EnMS, aseg&uacute;rese de que entiendan qu&eacute; acciones deben tomar para demostrar su compromiso con la mejora continua tanto del rendimiento energ&eacute;tico como del EnMS. Seg&uacute;n los requisitos de ISO 50001, la alta gerencia puede delegar la responsabilidad de muchas, pero no todas, las acciones.</p>
 
-<p>While the 50001 Ready Navigator does not follow the exact requirements of ISO 50001, below is a list of actions the ISO standards says top management must act on directly:</p>
-
-<ul>
-	<li><strong>Communicate</strong> that effective energy management and following the requirements of the EnMS are important.</li>
-	<li><strong>Promote</strong> continual improvement of the EnMS and continual energy performance improvement.</li>
-	<li><strong>Direct and support</strong> contributions by personnel to energy performance improvement and the effectiveness of the EnMS.</li>
-	<li><strong>Support</strong> other management in demonstrating their leadership in their areas of responsibility.</li>
-</ul>
-
-<p>In addition, top management can either perform themselves or delegate (ensure) <u>that</u>:</p>
+<p>Si bien el 50001 Ready Navigator no sigue exactamente los mismos requerimientos de ISO 50001, a continuaci&oacute;n, hay una lista de acciones que las normas ISO dicen que la alta direcci&oacute;n debe realizar directamente:</p>
 
 <ul>
-	<li>the scope and boundaries of the EnMS have been clearly defined.</li>
-	<li>the energy policy and objectives and the energy targets align with the organization&rsquo;s strategic direction.</li>
-	<li>requirements of the EnMS are integrated into the organization&rsquo;s business processes.</li>
-	<li>action plans have approval and are implemented.</li>
-	<li>needed EnMS resources are available.</li>
-	<li>the intended outcomes of the EnMS are achieved.</li>
-	<li>an energy management team is formed.</li>
-	<li>Energy performance indicators (EnPIs) appropriately represent energy performance.</li>
-	<li>there are processes to identify and address changes affecting the EnMS and energy performance.</li>
+	<li>Comunicar que la gesti&oacute;n eficaz de la energ&iacute;a y el cumplimiento de los requerimientos del EnMS son importantes.</li>
+	<li>Promover la mejora continua del EnMS y la mejora continua del rendimiento energ&eacute;tico.</li>
+	<li>Dirigir y apoyar contribuciones del personal a la mejora del rendimiento energ&eacute;tico y la efectividad del EnMS.</li>
+	<li>Apoyar a otros directivos para demostrar su liderazgo en sus &aacute;reas de responsabilidad.</li>
 </ul>
 
-<p>Briefing top management on their EnMS leadership and commitment responsibilities is typically done by the leader or members of the energy team. An effective approach can be to schedule the briefing as part of an existing management meeting. Alternatively, the briefing could be part of an ISO 50001 training event that includes top management.</p>
+<p>Adem&aacute;s, la alta direcci&oacute;n puede asegurarse por s&iacute; misma o a trav&eacute;s de delegar autoridad que se logre lo siguiente:</p>
+
+<ul>
+	<li>el alcance y los l&iacute;mites del EnMS se hayan definido claramente.</li>
+	<li>la pol&iacute;tica energ&eacute;tica y sus objetivos est&eacute;n alineados con la direcci&oacute;n estrat&eacute;gica de la organizaci&oacute;n.</li>
+	<li>los requisitos del EnMS est&eacute;n integrados en los procesos comerciales de la organizaci&oacute;n.</li>
+	<li>los planes de acci&oacute;n tengan aprobaci&oacute;n y se implementen.</li>
+	<li>los recursos necesarios de EnMS se encuentren disponibles.</li>
+	<li>Se logren los resultados previstos de EnMS.</li>
+	<li>Se forme un equipo de gesti&oacute;n energ&eacute;tica.</li>
+	<li>Los indicadores de rendimiento energ&eacute;tico (EnPIs) representen adecuadamente el rendimiento energ&eacute;tico.</li>
+	<li>Existan procesos para identificar y abordar los cambios que afectan el EnMS y el rendimiento energ&eacute;tico.</li>
+</ul>
+
+<p>El l&iacute;der o los miembros del equipo de energ&iacute;a suelen informar a la alta direcci&oacute;n sobre sus responsabilidades de liderazgo y compromiso con el EnMS. Un enfoque eficaz puede ser programar la sesi&oacute;n informativa como parte de una reuni&oacute;n regular de la gerencia. Alternativamente, la sesi&oacute;n informativa podr&iacute;a ser parte de un evento de capacitaci&oacute;n ISO 50001 que incluya a la alta gerencia.</p>
 
 <p>[Accordion End]</p>
 
-<p>[Accordion](Plan for how top management will meet their responsibilities)</p>
+<p>[Accordion](Planifique c&oacute;mo la alta direcci&oacute;n cumplir&aacute; con sus responsabilidades)</p>
 
-<p>One outcome of the briefing to top management should be a plan for how top management will meet their responsibilities during initial EnMS implementation. For example, in most initial EnMS implementations, the energy team develops proposed EnPIs and proposed objectives and energy targets. These are then reviewed and approved by top management before becoming a formal part of the EnMS. A project management best practice for the initial implementation is for project milestones to include submission of final work products (outputs) to top management for specific elements of the EnMS.</p>
+<p>Un resultado de la sesi&oacute;n informativa para la alta direcci&oacute;n deber&iacute;a ser un plan sobre c&oacute;mo la alta direcci&oacute;n cumplir&aacute; con sus responsabilidades durante la implementaci&oacute;n inicial de EnMS. Por ejemplo, en la mayor&iacute;a de las implementaciones iniciales de EnMS, el equipo de energ&iacute;a desarrolla los EnPI propuestos y los objetivos y objetivos energ&eacute;ticos propuestos. Posteriormente, estos son revisados ​​y aprobados por la alta gerencia antes de convertirse en una parte formal de EnMS. Una mejor pr&aacute;ctica de gesti&oacute;n de proyectos para la implementaci&oacute;n inicial es que los logros del proyecto incluyan la presentaci&oacute;n de productos de trabajo finales (productos) a la alta direcci&oacute;n para elementos espec&iacute;ficos del EnMS.</p>
 
-<p>After initial implementation, a number of top management&rsquo;s delegated responsibilities can be demonstrated through the management review process. (see Task 23 [task](Management Review)).</p>
+<p>Despu&eacute;s de la implementaci&oacute;n inicial, se pueden demostrar una serie de responsabilidades delegadas de la alta gerencia a trav&eacute;s del proceso de revisi&oacute;n de la administraci&oacute;n. (ver Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n)).</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------
-<p>ISO 9001:2015, ISO 14001:2015, and ISO 50001:2011 all specify the responsibilities for leadership and commitment by top management within the management system. There is considerable overlap between these three standards with respect to those responsibilities. ISO 50001 does include some additional management responsibilities that are unique, but they are consistent with the leadership requirements of ISO 14001 and ISO 9001.</p>
+<p>ISO 9001: 2015, ISO 14001: 2015 e ISO 50001: 2011 especifican las responsabilidades de liderazgo y compromiso de la alta dirección dentro del sistema de gestión. Hay una duplicidad considerable entre estos tres estándares con respecto a esas responsabilidades. ISO 50001 incluye algunas responsabilidades de gestión adicionales que son únicas, pero son consistentes con los requisitos de liderazgo de ISO 14001 e ISO 9001.</p>
 ----------ENERGY STAR EXPERIENCE TIPS----------
-<p>Step 5.2 of the ENERGY STAR<sup>&reg;</sup> <em>Guidelines for Energy Management</em> gives guidance on raising awareness across a number of key stakeholders, including top management. Step 1.1 of the ENERGY STAR guidelines also suggests that the Energy Director involve upper management as an &ldquo;executive ally.&rdquo; In ISO 50001, this suggestion is formalized by requiring that top management demonstrates its leadership and commitment to the EnMS and energy performance improvement, which includes understanding their specific roles and responsibilities and accepting accountability.</p>
+<p>El paso 5.2 de las <em>Gu&iacute;as para la Gesti&oacute;n de la Energ&iacute;a de </em>ENERGY STAR<em>&reg; </em>brinda orientaci&oacute;n sobre la sensibilizaci&oacute;n de una serie de actores claves, incluida la alta direcci&oacute;n. El paso 1.1 de las directrices de ENERGY STAR tambi&eacute;n sugiere que el Director de Energ&iacute;a involucre a la alta gerencia como un &quot;aliado ejecutivo&quot;. En ISO 50001, esta sugerencia se formaliza al exigir que la alta direcci&oacute;n demuestre su liderazgo y compromiso con el EnMS y la mejora del rendimiento energ&eacute;tico, lo cual incluye comprender sus funciones y responsabilidades espec&iacute;ficas y aceptar la responsabilidad.</p>
 ----------LICENSE----------
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
