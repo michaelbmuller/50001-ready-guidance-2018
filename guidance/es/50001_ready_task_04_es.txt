@@ -40,7 +40,7 @@ Tarea 4: Nuestra alta dirección demuestra liderazgo y compromiso con la mejora 
 
 <p>Considere los beneficios potenciales de un EnMS dentro del contexto de las prioridades y necesidades de su organizaci&oacute;n. Para presentar la propuesta desde una perspectiva de negocios, debe conectar los beneficios de EnMS con los factores que impulsan las actividades de negocios de su organizaci&oacute;n porque la gerencia querr&aacute; saber c&oacute;mo el mejoramiento del EnMS y la eficiencia energ&eacute;tica afectan a esos factores.</p>
 
-<p>Los miembros del equipo de energ&iacute;a (consulte la Tarea 6 [tarea] (Equipo y Recursos de Energ&iacute;a)) deben identificar los factores que impulsan actividades comerciales relevantes para su organizaci&oacute;n. Posteriormente, trabaje para garantizar que la gerencia comprenda los beneficios presentando informaci&oacute;n en t&eacute;rminos que sean importantes para ellos. Si los miembros del equipo de energ&iacute;a no han sido designados, identifique a alguien dispuesto a aceptar la responsabilidad de defender la iniciativa.</p>
+<p>Los miembros del equipo de energ&iacute;a (consulte la Tarea 6 [task](Energy Team and Resources)) deben identificar los factores que impulsan actividades comerciales relevantes para su organizaci&oacute;n. Posteriormente, trabaje para garantizar que la gerencia comprenda los beneficios presentando informaci&oacute;n en t&eacute;rminos que sean importantes para ellos. Si los miembros del equipo de energ&iacute;a no han sido designados, identifique a alguien dispuesto a aceptar la responsabilidad de defender la iniciativa.</p>
 
 <p>[Learn More](Impulsores sociales de negocios)</p>
 
@@ -208,7 +208,7 @@ Tarea 4: Nuestra alta dirección demuestra liderazgo y compromiso con la mejora 
 
 <p>[Learn More End]</p>
 
-<p>La alta gerencia debe apoyar el esfuerzo no s&oacute;lo durante la implementaci&oacute;n inicial del EnMS, sino tambi&eacute;n despu&eacute;s de que el sistema se implemente y est&eacute; operando. La gerencia debe tomar una serie de acciones que demuestren su compromiso con la mejora continua del rendimiento energ&eacute;tico y el EnMS. Estas acciones se detallan a continuaci&oacute;n y en la Tarea 3 [tarea] (Alcance y L&iacute;mites), Tarea 5 [tarea] (Pol&iacute;tica Energ&eacute;tica), Tarea 6 [tarea] (Equipo y Recursos de Energ&iacute;a) y Tarea 15 [tarea] (Sensibilizaci&oacute;n y Comunicaci&oacute;n)</p>
+<p>La alta gerencia debe apoyar el esfuerzo no s&oacute;lo durante la implementaci&oacute;n inicial del EnMS, sino tambi&eacute;n despu&eacute;s de que el sistema se implemente y est&eacute; operando. La gerencia debe tomar una serie de acciones que demuestren su compromiso con la mejora continua del rendimiento energ&eacute;tico y el EnMS. Estas acciones se detallan a continuaci&oacute;n y en la Tarea 3 [task](Scope and Boundaries), Tarea 5 [task](Energy Policy), Tarea 6 [task](Energy Team and Resources) y Tarea 15 [task](Awareness and Communication)</p>
 
 <p>[Accordion End]</p>
 
@@ -247,7 +247,7 @@ Tarea 4: Nuestra alta dirección demuestra liderazgo y compromiso con la mejora 
 
 <p>Un resultado de la sesi&oacute;n informativa para la alta direcci&oacute;n deber&iacute;a ser un plan sobre c&oacute;mo la alta direcci&oacute;n cumplir&aacute; con sus responsabilidades durante la implementaci&oacute;n inicial de EnMS. Por ejemplo, en la mayor&iacute;a de las implementaciones iniciales de EnMS, el equipo de energ&iacute;a desarrolla los EnPI propuestos y los objetivos y objetivos energ&eacute;ticos propuestos. Posteriormente, estos son revisados ​​y aprobados por la alta gerencia antes de convertirse en una parte formal de EnMS. Una mejor pr&aacute;ctica de gesti&oacute;n de proyectos para la implementaci&oacute;n inicial es que los logros del proyecto incluyan la presentaci&oacute;n de productos de trabajo finales (productos) a la alta direcci&oacute;n para elementos espec&iacute;ficos del EnMS.</p>
 
-<p>Despu&eacute;s de la implementaci&oacute;n inicial, se pueden demostrar una serie de responsabilidades delegadas de la alta gerencia a trav&eacute;s del proceso de revisi&oacute;n de la administraci&oacute;n. (ver Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n)).</p>
+<p>Despu&eacute;s de la implementaci&oacute;n inicial, se pueden demostrar una serie de responsabilidades delegadas de la alta gerencia a trav&eacute;s del proceso de revisi&oacute;n de la administraci&oacute;n. (ver Tarea 23 [task](Management Review)).</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------

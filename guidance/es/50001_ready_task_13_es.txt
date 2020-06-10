@@ -7,13 +7,13 @@ Planes de Acción para la Mejora Continua
 Tarea 13: Desarrollamos planes de acción e implementamos proyectos de mejora para lograr nuestros objetivos y metas energéticas.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Utilice sus oportunidades priorizadas de la Tarea 10 [tarea] (Oportunidades de Mejora) para seleccionar proyectos a implementar.</li>
+	<li>Utilice sus oportunidades priorizadas de la Tarea 10 [task](Improvement Opportunities) para seleccionar proyectos a implementar.</li>
 	<li>Aplique los criterios aplicables establecidos por su organizaci&oacute;n para justificar y obtener la aprobaci&oacute;n del proyecto.</li>
-	<li>Desarrolle planes de acci&oacute;n para cumplir con los objetivos y metas energ&eacute;ticas de su organizaci&oacute;n identificados en la Tarea 12 [tarea] (Objetivos y Metas).</li>
+	<li>Desarrolle planes de acci&oacute;n para cumplir con los objetivos y metas energ&eacute;ticas de su organizaci&oacute;n identificados en la Tarea 12 [task](Objectives and Targets).</li>
 	<li>Comunique las expectativas a las personas que ocupan puestos relevantes y revise el avance del plan de acci&oacute;n.</li>
 </ol>
 ----------TASK OVERVIEW----------
-<p>Despu&eacute;s de establecer objetivos y metas de energ&iacute;a, debe determinar c&oacute;mo su organizaci&oacute;n los alcanzar&aacute;. Esto implica revisar la lista de oportunidades priorizadas (ver Tarea 10 [tarea] (Oportunidades de Mejora)) y seleccionar proyectos para su implementaci&oacute;n. Este proceso ayuda a garantizar que los proyectos m&aacute;s adecuados para cumplir con los objetivos y las metas energ&eacute;ticas se planifiquen e implementen.</p>
+<p>Despu&eacute;s de establecer objetivos y metas de energ&iacute;a, debe determinar c&oacute;mo su organizaci&oacute;n los alcanzar&aacute;. Esto implica revisar la lista de oportunidades priorizadas (ver Tarea 10 [task](Improvement Opportunities)) y seleccionar proyectos para su implementaci&oacute;n. Este proceso ayuda a garantizar que los proyectos m&aacute;s adecuados para cumplir con los objetivos y las metas energ&eacute;ticas se planifiquen e implementen.</p>
 
 <p>Una vez que haya seleccionado los proyectos que permitir&aacute;n a su organizaci&oacute;n alcanzar sus objetivos y metas de energ&iacute;a, designe un l&iacute;der para cada proyecto. Si el alcance y la complejidad del proyecto requieren recursos adicionales, forme un equipo para el proyecto con el apoyo del equipo de energ&iacute;a y la alta direcci&oacute;n. Luego desarrolle un plan de acci&oacute;n para cada proyecto.</p>
 
@@ -34,7 +34,7 @@ Tarea 13: Desarrollamos planes de acción e implementamos proyectos de mejora pa
 ----------FULL DESCRIPTION----------
 <p>[Accordion](Seleccione oportunidades de mejora (proyectos) para implementaci&oacute;n)</p>
 
-<p>Utilizando la compilaci&oacute;n de oportunidades energ&eacute;ticas priorizadas que desarroll&oacute; como parte de la revisi&oacute;n energ&eacute;tica (Tarea 10 [tarea] (Oportunidades de Mejora)), su organizaci&oacute;n necesitar&aacute; seleccionar proyectos para lograr los objetivos y metas espec&iacute;ficos establecidos en la Tarea 12 [tarea] (Objetivos y Metas). Sin embargo, es poco probable que la administraci&oacute;n pueda proporcionar recursos para todos los proyectos potenciales en su lista de oportunidades de energ&iacute;a.</p>
+<p>Utilizando la compilaci&oacute;n de oportunidades energ&eacute;ticas priorizadas que desarroll&oacute; como parte de la revisi&oacute;n energ&eacute;tica (Tarea 10 [task](Improvement Opportunities)), su organizaci&oacute;n necesitar&aacute; seleccionar proyectos para lograr los objetivos y metas espec&iacute;ficos establecidos en la Tarea 12 [task](Objectives and Targets). Sin embargo, es poco probable que la administraci&oacute;n pueda proporcionar recursos para todos los proyectos potenciales en su lista de oportunidades de energ&iacute;a.</p>
 
 <p>Revise la lista de oportunidades energ&eacute;ticas priorizadas. Al seleccionar un proyecto para implementaci&oacute;n, tenga en cuenta los objetivos espec&iacute;ficos y las metas de energ&iacute;a que ha establecido. Determine qu&eacute; proyectos son factibles y le permitir&aacute;n lograr las mejoras en los objetivos y metas energ&eacute;ticas establecidos. Las siguientes consideraciones pueden ser &uacute;tiles en este proceso:</p>
 
@@ -54,7 +54,7 @@ Tarea 13: Desarrollamos planes de acción e implementamos proyectos de mejora pa
 
 <p>[Accordion](Planes de acci&oacute;n: determinar acciones, plazos y cargos de las personas responsables)</p>
 
-<p>Los planes de acci&oacute;n deben establecerse y mantenerse al planificar c&oacute;mo lograr sus objetivos y metas energ&eacute;ticas. Comience por designar un l&iacute;der para cada proyecto energ&eacute;tico. El l&iacute;der del proyecto debe ser miembro del equipo de energ&iacute;a. Recuerde que el equipo de energ&iacute;a es responsable de implementar los planes de acci&oacute;n y que esta responsabilidad no se puede delegar fuera del equipo (consulte la Tarea 6 [tarea] (Equipo y Recursos de Energ&iacute;a)).</p>
+<p>Los planes de acci&oacute;n deben establecerse y mantenerse al planificar c&oacute;mo lograr sus objetivos y metas energ&eacute;ticas. Comience por designar un l&iacute;der para cada proyecto energ&eacute;tico. El l&iacute;der del proyecto debe ser miembro del equipo de energ&iacute;a. Recuerde que el equipo de energ&iacute;a es responsable de implementar los planes de acci&oacute;n y que esta responsabilidad no se puede delegar fuera del equipo (consulte la Tarea 6 [task](Energy Team and Resources)).</p>
 
 <p>El l&iacute;der del proyecto forma un equipo del proyecto con representantes de las funciones o &aacute;reas apropiadas. No todos los representantes en el equipo del proyecto tienen que ser miembros del equipo de energ&iacute;a. Posteriormente, el equipo del proyecto desarrolla un plan de acci&oacute;n que define las acciones espec&iacute;ficas necesarias para implementar el proyecto (es decir, lo que se har&aacute;), los recursos que se necesitar&aacute;n y qui&eacute;n ser&aacute; responsable.</p>
 
@@ -104,7 +104,7 @@ Tarea 13: Desarrollamos planes de acción e implementamos proyectos de mejora pa
 
 <p>El primer paso para comunicar las expectativas para los proyectos energ&eacute;ticos es tenerlos completamente definidos y documentados. La hoja de trabajo opcional de Playbook puede ser &uacute;til.</p>
 
-<p>Todos los involucrados en proyectos de energ&iacute;a necesitan conocer su rol y responsabilidades. Como se indic&oacute; anteriormente, los planes de acci&oacute;n pueden involucrar personal que no est&aacute; en el equipo de energ&iacute;a; comunicarles las responsabilidades y expectativas para su participaci&oacute;n es fundamental. Esto debe hacerse utilizando los procesos de comunicaci&oacute;n interna del EnMS (ver Tarea 15 [tarea] (Sensibilizaci&oacute;n y Comunicaci&oacute;n)). Una reuni&oacute;n de &ldquo;inicio del proyecto&rdquo; que re&uacute;ne a todo el personal involucrado puede ser un enfoque efectivo para comunicar las expectativas del proyecto. Esta actividad puede ayudar al personal a entender c&oacute;mo sus tareas o acciones asignadas se ajustan al esfuerzo general.</p>
+<p>Todos los involucrados en proyectos de energ&iacute;a necesitan conocer su rol y responsabilidades. Como se indic&oacute; anteriormente, los planes de acci&oacute;n pueden involucrar personal que no est&aacute; en el equipo de energ&iacute;a; comunicarles las responsabilidades y expectativas para su participaci&oacute;n es fundamental. Esto debe hacerse utilizando los procesos de comunicaci&oacute;n interna del EnMS (ver Tarea 15 [task](Awareness and Communication)). Una reuni&oacute;n de &ldquo;inicio del proyecto&rdquo; que re&uacute;ne a todo el personal involucrado puede ser un enfoque efectivo para comunicar las expectativas del proyecto. Esta actividad puede ayudar al personal a entender c&oacute;mo sus tareas o acciones asignadas se ajustan al esfuerzo general.</p>
 
 <p>El equipo del proyecto, con la participaci&oacute;n de los miembros del equipo de energ&iacute;a, debe celebrar reuniones peri&oacute;dicas para revisar los planes de acci&oacute;n y determinar los alcances de acuerdo al cronograma. Durante estas reuniones, use el plan de acci&oacute;n para determinar si la implementaci&oacute;n est&aacute; progresando como se esperaba. Adem&aacute;s, use las reuniones del equipo para determinar si se requieren recursos adicionales o si es necesario incluir actividades adicionales en el plan de acci&oacute;n. Revise y actualice el plan de acci&oacute;n de acuerdo con el cronograma y &uacute;selo para comunicarse regularmente con la gerencia.</p>
 

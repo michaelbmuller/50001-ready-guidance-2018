@@ -9,7 +9,7 @@ Tarea 5: Tenemos una declaración de política energética, que ha sido aprobada
 <ol>
 	<li>Redacte su declaraci&oacute;n de pol&iacute;tica energ&eacute;tica.</li>
 	<li>Obtenga la aprobaci&oacute;n de la pol&iacute;tica energ&eacute;tica por parte de la alta gerencia.</li>
-	<li>Incorpore la pol&iacute;tica energ&eacute;tica en su programa de concientizaci&oacute;n del sistema de gesti&oacute;n de energ&iacute;a (EnMS) (consulte la Tarea 15 [tarea] (Sensibilizaci&oacute;n y Comunicaci&oacute;n)).</li>
+	<li>Incorpore la pol&iacute;tica energ&eacute;tica en su programa de concientizaci&oacute;n del sistema de gesti&oacute;n de energ&iacute;a (EnMS) (consulte la Tarea 15 [task](Awareness and Communication)).</li>
 </ol>
 ----------TASK OVERVIEW----------
 <p>La pol&iacute;tica energ&eacute;tica es la declaraci&oacute;n de la alta direcci&oacute;n de sus intenciones con respecto al rendimiento energ&eacute;tico de su organizaci&oacute;n. Los compromisos establecidos en la pol&iacute;tica establecen la direcci&oacute;n de las actividades de gesti&oacute;n de la energ&iacute;a y proporcionan el marco para utilizar objetivos y metas energ&eacute;ticas para lograr mejoras en el rendimiento energ&eacute;tico. La pol&iacute;tica energ&eacute;tica debe documentarse y comunicarse al personal de todos los niveles de la organizaci&oacute;n y encontrarse disponible para las partes interesadas.</p>
@@ -50,7 +50,7 @@ Tarea 5: Tenemos una declaración de política energética, que ha sido aprobada
 
 <p>T&iacute;picamente, la pol&iacute;tica energ&eacute;tica se incorpora a las comunicaciones internas relacionadas con EnMS y a las actividades de capacitaci&oacute;n de concientizaci&oacute;n sobre el EnMS. Adem&aacute;s, puede publicarse en &aacute;reas generales de comunicaci&oacute;n o mostrarse donde sea f&aacute;cilmente visible. La pol&iacute;tica energ&eacute;tica tambi&eacute;n debe estar disponible para las partes interesadas, seg&uacute;n corresponda.</p>
 
-<p>La pol&iacute;tica energ&eacute;tica debe revisarse peri&oacute;dicamente y actualizarse seg&uacute;n sea necesario. Esto se logra a trav&eacute;s del proceso de revisi&oacute;n de la administraci&oacute;n (ver Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n)).</p>
+<p>La pol&iacute;tica energ&eacute;tica debe revisarse peri&oacute;dicamente y actualizarse seg&uacute;n sea necesario. Esto se logra a trav&eacute;s del proceso de revisi&oacute;n de la administraci&oacute;n (ver Tarea 23 [task](Management Review)).</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------

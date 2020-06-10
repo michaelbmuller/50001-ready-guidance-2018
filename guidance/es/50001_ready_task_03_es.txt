@@ -7,7 +7,7 @@ Alcance y Límites
 Tarea 3: Hemos documentado y aprobado el alcance y los límites de nuestro sistema de gestión de energía 50001 Ready.
 ----------GETTING IT DONE----------
 <ol>
-	<li>Considere los problemas y requerimientos estrat&eacute;gicos identificados como parte de la Tarea 1 [tarea] (Un EnMS y su Organizaci&oacute;n) para determinar el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (EnMS).</li>
+	<li>Considere los problemas y requerimientos estrat&eacute;gicos identificados como parte de la Tarea 1 [task](An EnMS and Your Organization) para determinar el alcance y los l&iacute;mites del sistema de gesti&oacute;n de energ&iacute;a (EnMS).</li>
 	<li>Desarrolle y documente una Declaraci&oacute;n de Alcance y L&iacute;mites del EnMS.</li>
 </ol>
 ----------TASK OVERVIEW----------
@@ -15,7 +15,7 @@ Tarea 3: Hemos documentado y aprobado el alcance y los límites de nuestro siste
 
 <p>En el 50001 Ready Navigator, el t&eacute;rmino &ldquo;sitio&rdquo; se usa y tiene el mismo significado que otros t&eacute;rminos que describen las definiciones f&iacute;sicas de un espacio, como instalaciones, complejos, ubicaci&oacute;n y campus, siempre que haya una proximidad f&iacute;sica relativa a los activos que ser&aacute;n incluidos dentro del EnMS.</p>
 
-<p>Al determinar el alcance y los l&iacute;mites, se deben considerar los problemas y requisitos estrat&eacute;gicos determinados como parte de la Tarea 1 [tarea] (Un ENMS y su Organizaci&oacute;n). Adem&aacute;s, debe asegurarse de que su organizaci&oacute;n tenga la autoridad para controlar todos los usos de energ&iacute;a dentro del alcance y los l&iacute;mites, y que no se excluyan los equipos o sistemas que usan energ&iacute;a a menos que se midan por separado o se pueda hacer un c&aacute;lculo confiable. Una vez que se definen el alcance y los l&iacute;mites, una organizaci&oacute;n no puede excluir ninguna fuente de energ&iacute;a que cruce o est&eacute; dentro de los l&iacute;mites definidos del EnMS.</p>
+<p>Al determinar el alcance y los l&iacute;mites, se deben considerar los problemas y requisitos estrat&eacute;gicos determinados como parte de la Tarea 1 [task](An EnMS and Your Organization). Adem&aacute;s, debe asegurarse de que su organizaci&oacute;n tenga la autoridad para controlar todos los usos de energ&iacute;a dentro del alcance y los l&iacute;mites, y que no se excluyan los equipos o sistemas que usan energ&iacute;a a menos que se midan por separado o se pueda hacer un c&aacute;lculo confiable. Una vez que se definen el alcance y los l&iacute;mites, una organizaci&oacute;n no puede excluir ninguna fuente de energ&iacute;a que cruce o est&eacute; dentro de los l&iacute;mites definidos del EnMS.</p>
 
 <p>El alcance y los l&iacute;mites de EnMS podr&iacute;an incluir cualquier combinaci&oacute;n de estructuras f&iacute;sicas: las operaciones de gesti&oacute;n de edificios de uno o m&aacute;s edificios comerciales en una o m&aacute;s ubicaciones espec&iacute;ficas; las actividades de fabricaci&oacute;n, almacenamiento y distribuci&oacute;n en una planta en particular; o m&uacute;ltiples sitios de una corporaci&oacute;n en m&uacute;ltiples sitios, por nombrar solo algunos. En muchos casos, el alcance y los l&iacute;mites solo pueden incluir un edificio o sitio. La alta direcci&oacute;n debe garantizar que se establezcan el alcance y los l&iacute;mites de la organizaci&oacute;n.</p>
 
@@ -58,7 +58,7 @@ Tarea 3: Hemos documentado y aprobado el alcance y los límites de nuestro siste
 	<li>&iquest;Tiene la autoridad para controlar la eficiencia energ&eacute;tica, el uso y el consumo de energ&iacute;a de su organizaci&oacute;n?</li>
 </ul>
 
-<p>Adem&aacute;s, el alcance del EnMS debe reflejar los problemas y requerimientos estrat&eacute;gicos internos y externos que se identificaron como parte de la Tarea 1 [tarea] (Un EnMS y su Organizaci&oacute;n).</p>
+<p>Adem&aacute;s, el alcance del EnMS debe reflejar los problemas y requerimientos estrat&eacute;gicos internos y externos que se identificaron como parte de la Tarea 1 [task](An EnMS and Your Organization).</p>
 
 <ul>
 	<li>&iquest;Alguno de los problemas internos o externos identificados tiene implicaciones o consecuencias que deben considerarse como relacionadas con el alcance del EnMS?</li>

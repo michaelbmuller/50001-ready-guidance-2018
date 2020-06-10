@@ -150,7 +150,7 @@ Tarea 15: Nuestro personal y los contratistas en el sitio conocen nuestra polít
 
 <p>La hoja opcional de trabajo de Playbook se puede utilizar para ayudar a desarrollar un sistema de comentarios y sugerencias, que puede ser manual o electr&oacute;nico. Alternativamente, algunas organizaciones aprovechan las actividades en curso de sus equipos de mejora continua como mecanismos para generar sugerencias y comentarios para el EnMS o para mejoras relacionadas con el uso de energ&iacute;a. Ejemplos de enfoques comunes de los sistemas de sugerencias para contratistas <em>in situ</em> incluyen buzones de sugerencias y reuniones regulares de proveedores / contratistas.</p>
 
-<p>El equipo de gesti&oacute;n de energ&iacute;a debe decidir si las mejoras sugeridas se conservar&aacute;n como informaci&oacute;n documentada. Considere incluir sugerencias potencialmente factibles como parte del desarrollo de oportunidades para mejorar el rendimiento energ&eacute;tico (consulte la Tarea 10 [tarea] (Oportunidades de Mejora)).</p>
+<p>El equipo de gesti&oacute;n de energ&iacute;a debe decidir si las mejoras sugeridas se conservar&aacute;n como informaci&oacute;n documentada. Considere incluir sugerencias potencialmente factibles como parte del desarrollo de oportunidades para mejorar el rendimiento energ&eacute;tico (consulte la Tarea 10 [task](Improvement Opportunities)).</p>
 
 <p>[Learn More End]</p>
 

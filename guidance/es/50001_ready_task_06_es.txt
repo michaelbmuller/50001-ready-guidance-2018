@@ -2,9 +2,10 @@ USDOE 50001 READY NAVIGATOR TASK 6
 ----------TASK VERSION----------
 v18.06.01.02
 ----------MENU NAME----------
-Política Energética
+Equipo de Energía y Recursos
 ----------TITLE----------
 Tarea 6: Tenemos un equipo de energía autorizado por la alta gerencia para supervisar el sistema de gestión de energía. Se asignan y comunican responsabilidades y atribuciones, y existen procesos para identificar y proporcionar recursos.
+----------GETTING IT DONE----------
 <ol>
 	<li>Forme un equipo de energ&iacute;a y obtenga la autorizaci&oacute;n de la alta direcci&oacute;n para supervisar el sistema de gesti&oacute;n de energ&iacute;a (EnMS) y llevar a cabo las responsabilidades asignadas.</li>
 	<li>Documente qui&eacute;n es el l&iacute;der del equipo de energ&iacute;a.</li>
@@ -87,7 +88,7 @@ Tarea 6: Tenemos un equipo de energía autorizado por la alta gerencia para supe
 
 <p>[Learn More End]</p>
 
-<p>[Mas Informaci&oacute;n] (Asigne responsabilidades y atribuciones al equipo de energ&iacute;a)</p>
+<p>[Learn More] (Asigne responsabilidades y atribuciones al equipo de energ&iacute;a)</p>
 
 <p>La alta direcci&oacute;n asigna responsabilidad y autoridad al equipo de energ&iacute;a para lo siguiente:</p>
 
@@ -102,16 +103,16 @@ Tarea 6: Tenemos un equipo de energía autorizado por la alta gerencia para supe
 
 <ul>
 	<li>Elaborar la pol&iacute;tica energ&eacute;tica para la revisi&oacute;n y aprobaci&oacute;n de la gerencia.</li>
-	<li>Determinar el contexto de la organizaci&oacute;n, con aportes de la gerencia (Tarea 1 [tarea] (Un EnMS y su Organizaci&oacute;n)).</li>
-	<li>Identificar los riesgos y oportunidades asociados con los problemas relacionados con las metas y objetivos estrat&eacute;gicos de la organizaci&oacute;n (Tarea 2 [tarea] (Personas y Requerimientos Legales que Afectan el EnMS).</li>
-	<li>Llevar a cabo la revisi&oacute;n del consumo energ&eacute;tico (incluida la recopilaci&oacute;n y el an&aacute;lisis de datos), la determinaci&oacute;n de los usos significativos de energ&iacute;a (SEU) y la identificaci&oacute;n de oportunidades de energ&iacute;a (Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a) y Tarea 10 [tarea] (Oportunidades de Mejora)).</li>
-	<li>Proponer objetivos espec&iacute;ficos, metas energ&eacute;ticas y planes de acci&oacute;n para su aprobaci&oacute;n (Tarea 12 [tarea] (Objetivos y Metas).</li>
-	<li>Desarrollar documentaci&oacute;n del EnMS (Tarea 16 [tarea] (Documentar el EnMS)).</li>
-	<li>Dise&ntilde;ar comunicaciones internas relacionadas con la energ&iacute;a (Tarea 15 [tarea] (Sensibilizaci&oacute;n y Comunicaci&oacute;n)).</li>
+	<li>Determinar el contexto de la organizaci&oacute;n, con aportes de la gerencia (Tarea 1 [task](An EnMS and Your Organization)).</li>
+	<li>Identificar los riesgos y oportunidades asociados con los problemas relacionados con las metas y objetivos estrat&eacute;gicos de la organizaci&oacute;n (Tarea 2 [task](People and Legal Requirements Affecting the EnMS).</li>
+	<li>Llevar a cabo la revisi&oacute;n del consumo energ&eacute;tico (incluida la recopilaci&oacute;n y el an&aacute;lisis de datos), la determinaci&oacute;n de los usos significativos de energ&iacute;a (SEU) y la identificaci&oacute;n de oportunidades de energ&iacute;a (Tarea 9 [task](Significant Energy Uses) y Tarea 10 [task](Improvement Opportunities)).</li>
+	<li>Proponer objetivos espec&iacute;ficos, metas energ&eacute;ticas y planes de acci&oacute;n para su aprobaci&oacute;n (Tarea 12 [task](Objectives and Targets).</li>
+	<li>Desarrollar documentaci&oacute;n del EnMS (Tarea 16 [task](Documenting the EnMS)).</li>
+	<li>Dise&ntilde;ar comunicaciones internas relacionadas con la energ&iacute;a (Tarea 15 [task](Awareness and Communication)).</li>
 	<li>Servir como &quot;campeones de la energ&iacute;a&quot; para sus &aacute;reas de trabajo.</li>
-	<li>Llevar a cabo capacitaci&oacute;n en competencias y conocimiento de los temas energ&eacute;ticos relacionados con el EnMS (Tarea 14 [tarea] (Competencia y Capacitaci&oacute;n)).</li>
-	<li>Gestionar auditor&iacute;as internas y sistemas de acciones correctivas (Tarea 22 [tarea] (Auditor&iacute;a Interna) y Tarea 24 [tarea] (Acciones Correctivas)).</li>
-	<li>Monitorear el rendimiento energ&eacute;tico (Tarea 21 [tarea] (Monitoreo y Medici&oacute;n de la Mejora del Rendimiento Energ&eacute;tico)).</li>
+	<li>Llevar a cabo capacitaci&oacute;n en competencias y conocimiento de los temas energ&eacute;ticos relacionados con el EnMS (Tarea 14 [task](Competence and Training)).</li>
+	<li>Gestionar auditor&iacute;as internas y sistemas de acciones correctivas (Tarea 22 [task](Internal Audit) y Tarea 24 [task](Corrective Actions)).</li>
+	<li>Monitorear el rendimiento energ&eacute;tico (Tarea 21 [task](Monitoring and Measurement of Energy Performance Improvement)).</li>
 </ul>
 
 <p>Los miembros del equipo de energ&iacute;a deben tener asignadas tareas espec&iacute;ficas de implementaci&oacute;n del EnMS y deben rendir cuentas por su finalizaci&oacute;n oportuna. La solidez de los procesos de comunicaci&oacute;n del equipo es cr&iacute;tica para comunicar las tareas, desarrollar o adaptar los procesos necesarios para el EnMS y obtener comentarios de otros miembros del equipo.</p>
@@ -136,7 +137,7 @@ Tarea 6: Tenemos un equipo de energía autorizado por la alta gerencia para supe
 
 <p>[Accordion](Atender y comunicar responsabilidades para otros roles relevantes)</p>
 
-<p>Los roles y responsabilidades en el EnMS no se limitan a la alta gerencia y al equipo de energ&iacute;a. Aunque los empleados no necesariamente afectan la gesti&oacute;n y el rendimiento energ&eacute;tico en la misma medida, todos los miembros de la organizaci&oacute;n son responsables de cumplir con los requisitos del EnMS relevantes para sus &aacute;reas de trabajo. Como m&iacute;nimo, esto se aborda mediante la gu&iacute;a de concientizaci&oacute;n de la Tarea 15 [tarea] (Sensibilizaci&oacute;n y Comunicaci&oacute;n).</p>
+<p>Los roles y responsabilidades en el EnMS no se limitan a la alta gerencia y al equipo de energ&iacute;a. Aunque los empleados no necesariamente afectan la gesti&oacute;n y el rendimiento energ&eacute;tico en la misma medida, todos los miembros de la organizaci&oacute;n son responsables de cumplir con los requisitos del EnMS relevantes para sus &aacute;reas de trabajo. Como m&iacute;nimo, esto se aborda mediante la gu&iacute;a de concientizaci&oacute;n de la Tarea 15 [task](Awareness and Communication).</p>
 
 <p>Sin embargo, a medida que desarrolle e implemente (o adapte) procesos para cumplir con la gu&iacute;a del 50001 Ready Navigator, ser&aacute; claro que hay otros roles relevantes que deben abordarse. Es probable que estos incluyan, por ejemplo, las responsabilidades del EnMS espec&iacute;ficas para el personal de mantenimiento, operaciones, adquisiciones, administraci&oacute;n del sitio / edificio, ingenier&iacute;a de fabricaci&oacute;n, administraci&oacute;n de documentaci&oacute;n y finanzas / contabilidad, entre otros.</p>
 
@@ -175,7 +176,7 @@ Tarea 6: Tenemos un equipo de energía autorizado por la alta gerencia para supe
 
 <p>[Accordion](Identifique y asigne los recursos necesarios para el EnMS)</p>
 
-<p>Adem&aacute;s de los recursos que necesita el equipo de energ&iacute;a para la implementaci&oacute;n inicial, es importante que existan procesos para determinar y proporcionar los recursos necesarios para la eficacia del EnMS a lo largo del tiempo. La mayor&iacute;a de las organizaciones incorporan la revisi&oacute;n y determinaci&oacute;n de los recursos del EnMS en el proceso presupuestario anual, as&iacute; como el proceso de planificaci&oacute;n de capital existente, especialmente en relaci&oacute;n con los recursos necesarios para ejecutar planes de acci&oacute;n para lograr objetivos y metas (ver Tarea 13 [tarea] (Acci&oacute;n Planes para la Mejora Continua)) y posiblemente acciones emprendidas para abordar riesgos y oportunidades (ver Tarea 7 [tarea] (Riesgos para el &Eacute;xito de EnMS)) Otros recursos que pueden ser necesarios podr&iacute;an incluir, por ejemplo, capacitaci&oacute;n de proveedores externos (por ejemplo, capacitaci&oacute;n de auditores internos del EnMS), software para controlar y administrar informaci&oacute;n documentada y medici&oacute;n nueva o adicional. Las necesidades de recursos tambi&eacute;n se consideran como parte del proceso de revisi&oacute;n de la administraci&oacute;n (ver Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n)). El equipo de energ&iacute;a tiene un papel clave a desempe&ntilde;ar en la identificaci&oacute;n y comunicaci&oacute;n de las necesidades de recursos del EnMS a la alta direcci&oacute;n.</p>
+<p>Adem&aacute;s de los recursos que necesita el equipo de energ&iacute;a para la implementaci&oacute;n inicial, es importante que existan procesos para determinar y proporcionar los recursos necesarios para la eficacia del EnMS a lo largo del tiempo. La mayor&iacute;a de las organizaciones incorporan la revisi&oacute;n y determinaci&oacute;n de los recursos del EnMS en el proceso presupuestario anual, as&iacute; como el proceso de planificaci&oacute;n de capital existente, especialmente en relaci&oacute;n con los recursos necesarios para ejecutar planes de acci&oacute;n para lograr objetivos y metas (ver Tarea 13 [task](Action Plans for Continual Improvement)) y posiblemente acciones emprendidas para abordar riesgos y oportunidades (ver Tarea 7 [task](Risks to EnMS Success)) Otros recursos que pueden ser necesarios podr&iacute;an incluir, por ejemplo, capacitaci&oacute;n de proveedores externos (por ejemplo, capacitaci&oacute;n de auditores internos del EnMS), software para controlar y administrar informaci&oacute;n documentada y medici&oacute;n nueva o adicional. Las necesidades de recursos tambi&eacute;n se consideran como parte del proceso de revisi&oacute;n de la administraci&oacute;n (ver Tarea 23 [task](Management Review)). El equipo de energ&iacute;a tiene un papel clave a desempe&ntilde;ar en la identificaci&oacute;n y comunicaci&oacute;n de las necesidades de recursos del EnMS a la alta direcci&oacute;n.</p>
 
 <p>[Accordion End]</p>
 ----------OTHER ISO EXPERIENCE TIPS----------

@@ -18,7 +18,7 @@ Tarea 10: Identificamos y priorizamos las oportunidades de mejora del rendimient
 
 <p><em>Esta gu&iacute;a es relevante para la Secci&oacute;n 6.3 d) de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
-<p>[Accordion](Identifique oportunidades de mejora del rendimiento energ&eacute;tico).</p>
+<p>[Accordion](Identifique oportunidades de mejora del rendimiento energ&eacute;tico)</p>
 
 <p>La identificaci&oacute;n de las oportunidades de mejora del rendimiento energ&eacute;tico es responsabilidad del equipo de energ&iacute;a. Los aportes de todos los empleados, as&iacute; como de los recursos e instancias externas, deben solicitarse y considerarse en la medida que se considere apropiado.</p>
 
@@ -33,7 +33,7 @@ Tarea 10: Identificamos y priorizamos las oportunidades de mejora del rendimient
 
 <p>[Learn More End]</p>
 
-<p>Un m&eacute;todo com&uacute;n para identificar oportunidades de mejora de rendimiento energ&eacute;tico es una evaluaci&oacute;n energ&eacute;tica. Las evaluaciones de energ&iacute;a son un m&eacute;todo excelente para recopilar datos para la revisi&oacute;n energ&eacute;tica (consulte la Tarea 8 [tarea] (Recolecci&oacute;n y An&aacute;lisis de Datos de Energ&iacute;a)) y proporcionan una fuente vital de informaci&oacute;n para la planificaci&oacute;n de la gesti&oacute;n energ&eacute;tica, incluida la identificaci&oacute;n de oportunidades de mejora energ&eacute;tica. Las evaluaciones producen una &quot;instant&aacute;nea&quot; del rendimiento energ&eacute;tico actual de su organizaci&oacute;n y ofrecen una lista de medidas de mejora cuantificadas. Las evaluaciones pueden ser realizadas por el administrador de energ&iacute;a, miembros del equipo de energ&iacute;a o equipos de mejora continua (por ejemplo, equipos Kaizen), especialistas en energ&iacute;a corporativos, consultores externos, personal de servicios p&uacute;blicos o expertos universitarios.</p>
+<p>Un m&eacute;todo com&uacute;n para identificar oportunidades de mejora de rendimiento energ&eacute;tico es una evaluaci&oacute;n energ&eacute;tica. Las evaluaciones de energ&iacute;a son un m&eacute;todo excelente para recopilar datos para la revisi&oacute;n energ&eacute;tica (consulte la Tarea 8 [task](Energy Data Collection and Analysis)) y proporcionan una fuente vital de informaci&oacute;n para la planificaci&oacute;n de la gesti&oacute;n energ&eacute;tica, incluida la identificaci&oacute;n de oportunidades de mejora energ&eacute;tica. Las evaluaciones producen una &quot;instant&aacute;nea&quot; del rendimiento energ&eacute;tico actual de su organizaci&oacute;n y ofrecen una lista de medidas de mejora cuantificadas. Las evaluaciones pueden ser realizadas por el administrador de energ&iacute;a, miembros del equipo de energ&iacute;a o equipos de mejora continua (por ejemplo, equipos Kaizen), especialistas en energ&iacute;a corporativos, consultores externos, personal de servicios p&uacute;blicos o expertos universitarios.</p>
 
 <p>[Learn More](Evaluaciones de energ&iacute;a)</p>
 

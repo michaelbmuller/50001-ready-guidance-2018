@@ -290,11 +290,11 @@ Tarea 16: Documentamos la información que determinamos es necesaria para garant
 
 <ul>
 	<li>Cambios en las circunstancias de negocios, sitios, equipos, sistemas o procesos.</li>
-	<li>Resultados de auditor&iacute;a interna o externa (Tarea 22 [tarea] (Auditor&iacute;a Interna))</li>
-	<li>Acciones correctivas (Tarea 24 [tarea] (Acciones Correctivas))</li>
-	<li>Revisi&oacute;n de gesti&oacute;n (Tarea 23 [tarea] (Revisi&oacute;n de la Administraci&oacute;n))</li>
+	<li>Resultados de auditor&iacute;a interna o externa (Tarea 22 [task](Internal Audit))</li>
+	<li>Acciones correctivas (Tarea 24 [task](Corrective Actions))</li>
+	<li>Revisi&oacute;n de gesti&oacute;n (Tarea 23 [task](Management Review))</li>
 	<li>Se realizan revisiones peri&oacute;dicas para garantizar que la informaci&oacute;n sigue siendo relevante, precisa y adecuada.</li>
-	<li>Revisi&oacute;n de un documento externo, incluidos los requerimientos legales y otros requerimientos (Tarea 2 [tarea] (Personas y Requerimientos Legales que Afectan el EnMS))</li>
+	<li>Revisi&oacute;n de un documento externo, incluidos los requerimientos legales y otros requerimientos (Tarea 2 [task](People and Legal Requirements Affecting the EnMS))</li>
 </ul>
 
 <p>Como evidencia de las actividades realizadas y los resultados alcanzados, la informaci&oacute;n documentada que se retiene (es decir, los registros) no se actualiza, pero se puede corregir, si es necesario.</p>

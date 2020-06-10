@@ -27,7 +27,7 @@ Tarea 19: Establecemos criterios de rendimiento energético que cubren la vida o
 ----------FULL DESCRIPTION----------
 <p>[Accordion](Informe a los proveedores que el rendimiento energ&eacute;tico es un factor de evaluaci&oacute;n para compras relacionadas con SEUs)</p>
 
-<p>Usted identific&oacute; usos de energ&iacute;a significativos (SEUs) (Tarea 9 [tarea] (Usos Significativos de Energ&iacute;a)) para concentrar sus recursos en las &aacute;reas donde puede obtener el mayor beneficio. Cuando un uso de energ&iacute;a se identifica como significativo, debe atender una serie de requerimientos de ISO 50001 que se aplican espec&iacute;ficamente a los SEUs, incluidos los relacionados con las adquisiciones de su organizaci&oacute;n.</p>
+<p>Usted identific&oacute; usos de energ&iacute;a significativos (SEUs) (Tarea 9 [task](Significant Energy Uses)) para concentrar sus recursos en las &aacute;reas donde puede obtener el mayor beneficio. Cuando un uso de energ&iacute;a se identifica como significativo, debe atender una serie de requerimientos de ISO 50001 que se aplican espec&iacute;ficamente a los SEUs, incluidos los relacionados con las adquisiciones de su organizaci&oacute;n.</p>
 
 <p>[Learn More](Compras relacionadas con SEUs)</p>
 
