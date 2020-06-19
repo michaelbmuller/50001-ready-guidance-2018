@@ -19,7 +19,7 @@ Tarea 6: Tenemos un equipo de energía autorizado por la alta gerencia para supe
 
 <p>Un EnMS se basa en gran medida en un trabajo en equipo para aprovechar la diversidad de las habilidades y conocimientos de cada individuo para el beneficio de su organizaci&oacute;n. El equipo proporciona diferentes perspectivas sobre los problemas, distribuye la carga de trabajo, comunica la importancia de la energ&iacute;a en toda la organizaci&oacute;n, facilita la implementaci&oacute;n, promueve una mayor aceptaci&oacute;n entre la fuerza laboral y mejora las perspectivas para mantener el sistema. El equipo de energ&iacute;a est&aacute; autorizado por la alta direcci&oacute;n para llevar a cabo sus responsabilidades asignadas. Por lo general, el equipo est&aacute; dirigido por el administrador de energ&iacute;a, los administradores del sitio u otro miembro designado del equipo de energ&iacute;a que tiene conocimiento del uso de energ&iacute;a o de los sistemas de gesti&oacute;n de la organizaci&oacute;n.</p>
 
-<p>Una vez que se establece el equipo de energ&iacute;a, el equipo debe decidir c&oacute;mo se identificar&aacute;n los recursos necesarios para el EnMS y la mejora del rendimiento energ&eacute;tico, como se informara a la alta direcci&oacute;n, y c&oacute;mo se utilizar&aacute;n esos recursos.</p>
+<p>Una vez que se establece el equipo de energ&iacute;a, el equipo debe decidir c&oacute;mo se identificar&aacute;n los recursos necesarios para el EnMS y la mejora del rendimiento energ&eacute;tico, como se informará a la alta direcci&oacute;n, y c&oacute;mo se utilizar&aacute;n esos recursos.</p>
 
 <p><em>Esta gu&iacute;a es relevante para las secciones 5.1 g), 5.1 i) y 5.3 de la norma ISO 50001: 2018.</em></p>
 ----------FULL DESCRIPTION----------
