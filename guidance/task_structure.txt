@@ -28,13 +28,13 @@ Related ISO Sections:5.1
 
 Task:5
 ID Name:Energy Policy
-Prerequisite Tasks:
+Prerequisite Tasks:1,2,3,4
 Level of Effort:Shared
 Related ISO Sections:5.2
 
 Task:6
 ID Name:Energy Team and Resources
-Prerequisite Tasks:
+Prerequisite Tasks:4
 Level of Effort:Shared
 Related ISO Sections:5.3,7.1
 
@@ -42,43 +42,43 @@ Section:Planning
 
 Task:7
 ID Name:Risks to EnMS Success
-Prerequisite Tasks:
+Prerequisite Tasks:1,2,3,4,5,6
 Level of Effort:Shared
 Related ISO Sections:6.1
 
 Task:8
 ID Name:Energy Data Collection and Analysis
-Prerequisite Tasks:3
+Prerequisite Tasks:3,6
 Level of Effort:Shared
 Related ISO Sections:6.6,6.3a,6.3e
 
 Task:9
 ID Name:Significant Energy Uses
-Prerequisite Tasks:
+Prerequisite Tasks:6,8
 Level of Effort:Shared
 Related ISO Sections:6.3b,6.3c
 
 Task:10
 ID Name:Improvement Opportunities
-Prerequisite Tasks:
+Prerequisite Tasks:9
 Level of Effort:Shared
 Related ISO Sections:6.3d
 
 Task:11
 ID Name:Energy Performance Indicators and Baselines
-Prerequisite Tasks:
+Prerequisite Tasks:10
 Level of Effort:Shared
 Related ISO Sections:6.4,6.5
 
 Task:12
 ID Name:Objectives and Targets
-Prerequisite Tasks:
+Prerequisite Tasks:11
 Level of Effort:Shared
 Related ISO Sections:6.2.1,6.2.2
 
 Task:13
 ID Name:Action Plans for Continual Improvement
-Prerequisite Tasks:
+Prerequisite Tasks:12
 Level of Effort:Shared
 Related ISO Sections:6.2.3
 
@@ -86,19 +86,19 @@ Section:Support
 
 Task:14
 ID Name:Competence and Training
-Prerequisite Tasks:
+Prerequisite Tasks:6
 Level of Effort:Shared
 Related ISO Sections:7.2
 
 Task:15
 ID Name:Awareness and Communication
-Prerequisite Tasks:
+Prerequisite Tasks:6
 Level of Effort:Shared
 Related ISO Sections:7.3
 
 Task:16
 ID Name:Documenting the EnMS
-Prerequisite Tasks:
+Prerequisite Tasks:13
 Level of Effort:Shared
 Related ISO Sections:7.4
 
@@ -106,19 +106,19 @@ Section:Operation
 
 Task:17
 ID Name:Operational Controls
-Prerequisite Tasks:
+Prerequisite Tasks:16
 Level of Effort:Shared
 Related ISO Sections:8.1
 
 Task:18
 ID Name:Energy Considerations in Design
-Prerequisite Tasks:
+Prerequisite Tasks:16
 Level of Effort:Organization Wide
 Related ISO Sections:8.2
 
 Task:19
 ID Name:Energy Considerations in Procurement
-Prerequisite Tasks:
+Prerequisite Tasks:16
 Level of Effort:Shared
 Related ISO Sections:8.3
 
@@ -126,25 +126,25 @@ Section:Performance Evaluation
 
 Task:20
 ID Name:Monitoring and Measurement of the EnMS
-Prerequisite Tasks:
+Prerequisite Tasks:11,16
 Level of Effort:Shared
 Related ISO Sections:9.1.1,9.1.2
 
 Task:21
 ID Name:Monitoring and Measurement of Energy Performance Improvement
-Prerequisite Tasks:
+Prerequisite Tasks:11,16
 Level of Effort:Shared
 Related ISO Sections:9.1.1
 
 Task:22
 ID Name:Internal Audit
-Prerequisite Tasks:
+Prerequisite Tasks:17,18,19,20,21
 Level of Effort:Shared
 Related ISO Sections:9.2
 
 Task:23
 ID Name:Management Review
-Prerequisite Tasks:
+Prerequisite Tasks:17,18,19,22
 Level of Effort:Shared
 Related ISO Sections:9.3
 
@@ -152,12 +152,12 @@ Section:Improvement
 
 Task:24
 ID Name:Corrective Actions
-Prerequisite Tasks:
+Prerequisite Tasks:23
 Level of Effort:Shared
 Related ISO Sections:4.4
 
 Task:25
 ID Name:Continual Improvement
-Prerequisite Tasks:
+Prerequisite Tasks:24
 Level of Effort:Shared
 Related ISO Sections:10.2
