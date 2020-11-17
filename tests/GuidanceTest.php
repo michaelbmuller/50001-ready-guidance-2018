@@ -98,7 +98,7 @@ class GuidanceTest extends TestCase
 
     public function test_task_leads_to()
     {
-        $this->assertEquals([8 => 8], $this->guidance->getTask(3)->leadsTo);
+        $this->assertEquals([8 => 8, 5 => 5, 7 => 7], $this->guidance->getTask(3)->leadsTo);
     }
 
     public function test_set_custom_tips()

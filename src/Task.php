@@ -11,19 +11,87 @@
 namespace DOE_50001_2018_Ready;
 
 /**
- * Class Task
- * @package Guidance
+ * Class Task.
  */
 class Task
 {
     /**
-     * Class name of set task markup processor
+     * Language Code Requested.
+     *
+     * @var string
+     */
+    public $language_requested;
+    /**
+     * Language displayed
+     *  - may not be selected language if not available.
+     *
+     * @var string
+     */
+    public $language_displayed;
+    /**
+     * Task file name.
+     *
+     * @var string
+     */
+    public $task_file_name;
+    /**
+     * Task file contents.
+     *
+     * @var string
+     */
+    public $task_file_contents;
+    /**
+     * Section code.
+     *
+     * @var string
+     */
+    public $sectionCode;
+    /**
+     * Task section name
+     * - translated if selected and available.
+     *
+     * @var string
+     */
+    public $section;
+    /**
+     * Optional custom tips
+     * - default null.
+     *
+     * @var string
+     */
+    public $custom_tips;
+    /**
+     * Array of associated resources.
+     *
+     * @var
+     */
+    public $resources = [];
+    /**
+     * Array of prerequisite task ids.
+     *
+     * @var array
+     */
+    public $prerequisites = [];
+    /**
+     * Array of Tasks this Task leads to.
+     *
+     * @var array
+     */
+    public $leadsTo = [];
+    /**
+     * Array of related ISO sections.
+     *
+     * @var array
+     */
+    public $relatedIsoSections = [];
+    /**
+     * Class name of set task markup processor.
      *
      * @var string
      */
     protected $markupProcessor;
     /**
-     * @var integer
+     * @var int
      */
     protected $id;
     /**
@@ -35,165 +103,82 @@ class Task
      */
     protected $guidance;
     /**
-     * Language Code Requested
-     *
-     * @var string
-     */
-    var $language_requested;
-    /**
-     * Language displayed
-     *  - may not be selected language if not available
-     *
-     * @var string
-     */
-    var $language_displayed;
-    /**
-     * Task file name
-     *
-     * @var string
-     */
-    var $task_file_name;
-    /**
-     * Task file contents
-     *
-     * @var string
-     */
-    var $task_file_contents;
-    /**
-     * Section code
-     *
-     * @var string
-     */
-    var $sectionCode;
-    /**
-     * Task section name
-     * - translated if selected and available
-     *
-     * @var string
-     */
-    var $section;
-    /**
      * Title
-     * - translated if selected and available
+     * - translated if selected and available.
      *
      * @var string
      */
     protected $title;
     /**
      * Menu Name
-     * - translated if selected and available
+     * - translated if selected and available.
      *
      * @var string
      */
     protected $menuName;
     /**
      * Getting It Done
-     * - translated if selected and available
+     * - translated if selected and available.
      *
      * @var string
      */
     protected $getting_it_done;
     /**
-     * Task Overview
+     * Task Overview.
      *
      * @var string
      */
     protected $task_overview;
     /**
-     * Full Description
+     * Full Description.
      *
      * @var
      */
     protected $full_description;
     /**
-     * Tips related to other implemented ISO management systems
+     * Tips related to other implemented ISO management systems.
      *
      * @var string
      */
     protected $other_iso_tips;
     /**
-     * Tips related to previous ENERGY STAR experience
+     * Tips related to previous ENERGY STAR experience.
      *
      * @var string
      */
     protected $energyStar_tips;
-    /**
-     * Optional custom tips
-     * - default null
-     *
-     * @var string
-     */
-    var $custom_tips;
-    /**
-     * Array of associated resources
-     *
-     * @var
-     */
-    public $resources = [];
-    /**
-     * Array of prerequisite task ids
-     *
-     * @var array
-     */
-    var $prerequisites = [];
-    /**
-     * Array of Tasks this Task leads to
-     *
-     * @var array
-     */
-    var $leadsTo = [];
-    /**
-     * Array of related ISO sections
-     *
-     * @var array
-     */
-    var $relatedIsoSections = [];
 
     /**
-     * Load task
+     * Load task.
      *
      * @param $task_id
-     * @param boolean|Guidance|string $guidance
-     * @param string $markupProcessor
-     * @return Task
+     * @param bool|Guidance|string $guidance
+     * @param string               $markupProcessor
+     *
      * @throws \Exception
+     *
+     * @return Task
      */
-    static function load($task_id, $guidance = false, $markupProcessor = DefaultMarkupProcessor::class)
+    public static function load($task_id, $guidance = false, $markupProcessor = DefaultMarkupProcessor::class)
     {
-        if ($task_id < 1 or $task_id > 25) throw new \Exception('Task ID not valid', 404);
+        if ($task_id < 1 || $task_id > 25) {
+            throw new \Exception('Task ID not valid', 404);
+        }
         $task = new self();
         $task->id = $task_id;
-        $task->guidance = ($guidance instanceof Guidance)?$guidance:false;
-        $task->language_requested = $task->guidance?$task->guidance->language:($guidance?:'en');
+        $task->guidance = ($guidance instanceof Guidance) ? $guidance : false;
+        $task->language_requested = $task->guidance ? $task->guidance->language : ($guidance ?: 'en');
         $task->markupProcessor = $markupProcessor;
 
         $task->loadFile();
+
         return $task;
     }
 
     /**
-     * Process and load task file data
-     * @throws \Exception
-     */
-    protected function loadFile()
-    {
-        $full_id = $this->id < 10 ? '0' . $this->id : $this->id;
-        list($this->task_file_contents, $this->language_displayed) = Support::getFile('50001_ready_task_' . $full_id, $this->language_requested);
-        $taskPieces = explode('----------', $this->task_file_contents);
-        $this->version = trim(explode(" ", $taskPieces[2])[0]);
-        $this->menuName = trim($taskPieces[4]);
-        $this->title = trim($taskPieces[6]);
-        $this->getting_it_done = trim($taskPieces[8]);
-        $this->task_overview = trim($taskPieces[10]);
-        $this->full_description = trim($taskPieces[12]);
-        $this->other_iso_tips = trim($taskPieces[14]);
-        $this->energyStar_tips = trim($taskPieces[16]);
-    }
-
-    /**
-     * Return ID
+     * Return ID.
      *
-     * @return integer
+     * @return int
      */
     public function id()
     {
@@ -201,7 +186,7 @@ class Task
     }
 
     /**
-     * Return Menu Name
+     * Return Menu Name.
      *
      * @return mixed|string
      */
@@ -211,7 +196,7 @@ class Task
     }
 
     /**
-     * Return Title
+     * Return Title.
      *
      * @return mixed|string
      */
@@ -221,7 +206,7 @@ class Task
     }
 
     /**
-     * Returned marked up version of Getting It Done
+     * Returned marked up version of Getting It Done.
      *
      * @return mixed|string
      */
@@ -231,7 +216,7 @@ class Task
     }
 
     /**
-     * Returned marked up version of Task Overview
+     * Returned marked up version of Task Overview.
      *
      * @return mixed|string
      */
@@ -241,9 +226,9 @@ class Task
     }
 
     /**
-     * Returned marked up version of Full Description
+     * Returned marked up version of Full Description.
      *
-
+     *
      * @return mixed|string
      */
     public function getFullDescription()
@@ -252,7 +237,7 @@ class Task
     }
 
     /**
-     * Returned marked up version of Other ISO tips
+     * Returned marked up version of Other ISO tips.
      *
      * @return mixed|string
      */
@@ -262,7 +247,7 @@ class Task
     }
 
     /**
-     * Returned marked up version of ENERGY STAR tips
+     * Returned marked up version of ENERGY STAR tips.
      *
      * @return mixed|string
      */
@@ -272,7 +257,7 @@ class Task
     }
 
     /**
-     * Returned marked up version of custom tips
+     * Returned marked up version of custom tips.
      *
      * @return mixed|string
      */
@@ -289,5 +274,23 @@ class Task
         return $this->version;
     }
 
-
+    /**
+     * Process and load task file data.
+     *
+     * @throws \Exception
+     */
+    protected function loadFile()
+    {
+        $full_id = $this->id < 10 ? '0' . $this->id : $this->id;
+        list($this->task_file_contents, $this->language_displayed) = Support::getFile('50001_ready_task_' . $full_id, $this->language_requested);
+        $taskPieces = explode('----------', $this->task_file_contents);
+        $this->version = trim(explode(' ', $taskPieces[2])[0]);
+        $this->menuName = trim($taskPieces[4]);
+        $this->title = trim($taskPieces[6]);
+        $this->getting_it_done = trim($taskPieces[8]);
+        $this->task_overview = trim($taskPieces[10]);
+        $this->full_description = trim($taskPieces[12]);
+        $this->other_iso_tips = trim($taskPieces[14]);
+        $this->energyStar_tips = trim($taskPieces[16]);
+    }
 }

@@ -11,29 +11,30 @@
 namespace DOE_50001_2018_Ready;
 
 /**
- * Class Support
- * @package Guidance
+ * Class Support.
  */
 class Support
 {
     /**
      * Retrieve the selected file
      * - Initially tries selected language code
-     * - Default to 'en' language code if matching selected language file not found
+     * - Default to 'en' language code if matching selected language file not found.
      *
      * @param $file_name
      * @param string $language
-     * @return array
+     *
      * @throws \Exception
+     *
+     * @return array
      */
-    static function getFile($file_name, $language = 'en')
+    public static function getFile($file_name, $language = 'en')
     {
-        if ($language != 'en') {
+        if ('en' !== $language) {
             $full_file_name = self::setFileName($file_name, $language);
             if (file_exists($full_file_name)) {
                 return [
                     file_get_contents($full_file_name),
-                    $language
+                    $language,
                 ];
             }
         }
@@ -43,7 +44,7 @@ class Support
         if (file_exists($full_file_name)) {
             return [
                 file_get_contents($full_file_name),
-                'en'
+                'en',
             ];
         }
 
@@ -51,24 +52,26 @@ class Support
     }
 
     /**
-     * Return full file path based on file name and selected language code
+     * Return full file path based on file name and selected language code.
      *
      * @param $file_name
      * @param $language
+     *
      * @return string
      */
-    static function setFileName($file_name, $language)
+    public static function setFileName($file_name, $language)
     {
-        return dirname(__FILE__) . "/../guidance/" . $language . '/' . $file_name . "_" . $language . ".txt";
+        return __DIR__ . '/../guidance/' . $language . '/' . $file_name . '_' . $language . '.txt';
     }
 
     /**
-     * Converts name to camelcase code
+     * Converts name to camelcase code.
      *
      * @param $name
+     *
      * @return string
      */
-    static function ConvertSectionName($name)
+    public static function convertSectionName($name)
     {
         return lcfirst(str_replace(' ', '', ucwords(trim($name))));
     }

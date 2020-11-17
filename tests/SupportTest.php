@@ -5,17 +5,22 @@ namespace Tests;
 use DOE_50001_2018_Ready\Support;
 use PHPUnit\Framework\TestCase;
 
-class SupportTest extends TestCase
+/**
+ * @internal
+ * @coversNothing
+ */
+final class SupportTest extends TestCase
 {
-    public function test_covert_section_name()
+    public function testCovertSectionName()
     {
-        $this->assertEquals('testTest', Support::ConvertSectionName('test test'));
+        static::assertSame('testTest', Support::ConvertSectionName('test test'));
     }
 
     /**
      * @throws \Exception
      */
-    public function test_missing_file(){
+    public function testMissingFile()
+    {
         $this->expectExceptionMessage('Requested File Not Found');
         Support::getFile('asdf');
     }

@@ -16,39 +16,43 @@ namespace DOE_50001_2018_Ready;
 interface MarkupProcessorInterface
 {
     /**
-     * Return resource id as string only
+     * Return resource id as string only.
      *
      * @param $resource_id
+     *
      * @return mixed
      */
-    static function ResourceLink($resource_id);
+    public static function resourceLink($resource_id);
 
     /**
-     * Return Task Menu Name only
+     * Return Task Menu Name only.
      *
      * @param $task_id_name
-     * @param Guidance|bool $guidance
+     * @param bool|Guidance $guidance
+     *
      * @return string
      */
-    static function TaskLink($task_id_name, $guidance = false);
+    public static function taskLink($task_id_name, $guidance = false);
 
     /**
-     * Format Accordion tags
+     * Format Accordion tags.
      *
      * @param $code
      * @param $title
      * @param $content
+     *
      * @return string
      */
-    static function Accordion($code, $title, $content);
+    public static function accordion($code, $title, $content);
 
     /**
-     * Format Learn More tags
+     * Format Learn More tags.
      *
      * @param $code
      * @param $title
      * @param $content
+     *
      * @return string
      */
-    static function LearnMore($code, $title, $content);
+    public static function learnMore($code, $title, $content);
 }

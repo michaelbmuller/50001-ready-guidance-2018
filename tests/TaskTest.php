@@ -5,39 +5,43 @@ namespace Tests;
 use DOE_50001_2018_Ready\Task;
 use PHPUnit\Framework\TestCase;
 
-class TaskTest extends TestCase
+/**
+ * @internal
+ * @coversNothing
+ */
+final class TaskTest extends TestCase
 {
     /**
      * @throws \Exception
      */
-    public function test_task()
+    public function testTask()
     {
         $task = Task::load(1);
-        $this->assertEquals(1, $task->id());
-        $this->assertEquals('en', $task->language_requested);
-        $this->assertEquals('en', $task->language_displayed);
-        $this->assertEquals("An EnMS and Your Organization", $task->getMenuName());
+        static::assertSame(1, $task->id());
+        static::assertSame('en', $task->language_requested);
+        static::assertSame('en', $task->language_displayed);
+        static::assertSame('An EnMS and Your Organization', $task->getMenuName());
     }
 
     /**
      * @throws \Exception
      */
-    public function test_load_all_tasks()
+    public function testLoadAllTasks()
     {
-        for ($task_id = 1; $task_id <= 25; $task_id++) {
+        for ($task_id = 1; $task_id <= 25; ++$task_id) {
             $task = Task::load($task_id);
-            $this->assertEquals($task_id, $task->id());
+            static::assertSame($task_id, $task->id());
         }
     }
 
     /**
      * @throws \Exception
      */
-    public function test_default_to_english()
+    public function testDefaultToEnglish()
     {
         $task = Task::load(1, 'XX');
-        $this->assertEquals('XX', $task->language_requested);
-        $this->assertEquals('en', $task->language_displayed);
+        static::assertSame('XX', $task->language_requested);
+        static::assertSame('en', $task->language_displayed);
     }
 
 //    public function test_spanish()
@@ -50,7 +54,7 @@ class TaskTest extends TestCase
     /**
      * @throws \Exception
      */
-    public function test_missing_task()
+    public function testMissingTask()
     {
         $this->expectExceptionMessage('Task ID not valid');
         Task::load(0);
@@ -59,7 +63,7 @@ class TaskTest extends TestCase
     /**
      * @throws \Exception
      */
-    public function test_missing_task2()
+    public function testMissingTask2()
     {
         $this->expectExceptionMessage('Task ID not valid');
         Task::load(26);

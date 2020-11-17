@@ -6,7 +6,11 @@ use DOE_50001_2018_Ready\Guidance;
 use DOE_50001_2018_Ready\Resource;
 use PHPUnit\Framework\TestCase;
 
-class ResourceTest extends TestCase
+/**
+ * @internal
+ * @coversNothing
+ */
+final class ResourceTest extends TestCase
 {
     /**
      * @var Guidance
@@ -18,7 +22,7 @@ class ResourceTest extends TestCase
      *
      * @throws \Exception
      */
-    public function setUp(): void
+    protected function setUp(): void
     {
         $this->guidance = new Guidance();
     }
@@ -26,26 +30,30 @@ class ResourceTest extends TestCase
     /**
      * @throws \Exception
      */
-    public function test_load_resources()
+    public function testLoadResources()
     {
-        $this->assertGreaterThan(0, count($this->guidance->resources));
-        $this->assertTrue(isset($this->guidance->resources['Task1_Playbook']));
-        $this->assertTrue(isset($this->guidance->resources['Task10_Excel']));
+        static::assertGreaterThan(0, \count($this->guidance->resources));
+        static::assertTrue(isset($this->guidance->resources['Task1_Playbook']));
+        static::assertTrue(isset($this->guidance->resources['Task10_Excel']));
         foreach ($this->guidance->resources as $resource) {
-            /** @var $resource Resource */
-            if ($resource->file_name) $this->assertFileExists("resourceFiles/" . $resource->file_name);
+            /** @var Resource $resource */
+            if ($resource->file_name) {
+                static::assertFileExists('resourceFiles/' . $resource->file_name);
+            }
         }
     }
 
-    public function test_task_resources()
+    public function testTaskResources()
     {
-        $this->assertGreaterThan(0, count($this->guidance->getTask(8)->resources));
+        static::assertGreaterThan(0, \count($this->guidance->getTask(8)->resources));
     }
 
-    public function test_get_link()
+    public function testGetLink()
     {
-        $this->assertEquals('/Energy Consumption Tracker (Task 8) [ET.08.01.00].xlsx',
-            $this->guidance->resources['Task8_Excel']->getLink());
+        static::assertSame(
+            '/Energy Consumption Tracker (Task 8) [ET.08.01.00].xlsx',
+            $this->guidance->resources['Task8_Excel']->getLink()
+        );
     }
 
 //    /**
@@ -80,6 +88,4 @@ class ResourceTest extends TestCase
 //            if ($resource->file_name) $this->assertFileExists("resourceFiles/" . $resource->file_name);
 //        }
 //    }
-
-
 }
